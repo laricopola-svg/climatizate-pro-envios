@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /enviar/
+Sitemap: https://climatizatepro.cl/sitemap.xml
