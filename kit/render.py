@@ -23,6 +23,7 @@ MARCA = {
     "eslogan": "Calcula. Visualiza. Cotiza. Climatiza.",
 }
 ESCUDO = "data:image/png;base64," + base64.b64encode((ROOT / "assets/escudo.png").read_bytes()).decode()
+BASE = ROOT
 FONTS = (ROOT / "assets/fonts").resolve().as_uri()
 
 CSS = """
@@ -94,6 +95,23 @@ td:last-child{border-right:1px solid var(--borde);border-radius:0 24px 24px 0;te
 .precio b{font-size:46px;font-weight:800;letter-spacing:-.5px}
 .precio span{font-size:24px;line-height:1.3;opacity:.92}
 h2.sm{font-size:58px;margin-bottom:24px}
+.s.ph{padding:0;background:#0B1F33}
+.s.ph>.bg{position:absolute!important;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
+.s.ph>.shade{position:absolute!important;inset:0;z-index:0!important;background:linear-gradient(180deg,rgba(11,31,51,.40) 0%,rgba(11,31,51,0) 22%,rgba(11,31,51,0) 48%,rgba(11,31,51,.86) 100%)}
+.s.ph>.inner{position:relative;z-index:1;height:100%;width:100%;display:flex;flex-direction:column;padding:var(--pt) 72px var(--pb)}
+.ph .badge{display:inline-flex;align-items:center;gap:12px;align-self:flex-start;background:rgba(255,255,255,.92);border-radius:99px;padding:10px 24px 10px 12px;
+ font-weight:800;font-size:25px;color:#0B1F33;box-shadow:0 10px 30px rgba(0,0,0,.18)}
+.ph .badge img{width:46px;height:auto}
+.ph .badge b{background:linear-gradient(135deg,#1E6FD0,#0D4B85);color:#fff;border-radius:7px;padding:0 9px;font-size:20px}
+.ph .real{margin-left:auto;align-self:flex-start;background:rgba(11,31,51,.62);color:#fff;font-weight:600;font-size:22px;border-radius:99px;padding:10px 20px;border:1px solid rgba(255,255,255,.35)}
+.ph .tophd{display:flex;align-items:flex-start}
+.ph .txt{margin-top:auto;color:#fff}
+.ph .txt .k{font-weight:700;font-size:24px;letter-spacing:2.5px;text-transform:uppercase;color:#9ED4FF;margin-bottom:12px}
+.ph .txt h2{color:#fff;font-size:62px;margin-bottom:14px;text-shadow:0 4px 24px rgba(0,0,0,.35)}
+.ph .txt p{font-size:30px;line-height:1.4;color:#E6EEF6;max-width:880px}
+.ph .bar{margin-top:26px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.ph .wa{display:inline-flex;align-items:center;gap:12px;background:#1FA855;color:#fff;font-weight:800;font-size:30px;border-radius:99px;padding:14px 28px;margin:0;box-shadow:0 12px 30px rgba(31,168,85,.4)}
+.ph .web{font-weight:700;font-size:27px;color:#fff;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.4);border-radius:99px;padding:12px 24px}
 .foot{display:flex;justify-content:space-between;align-items:center;font-size:25px;color:var(--mut);font-weight:500}
 .foot b{color:var(--navy);font-weight:700}
 .swipe{font-weight:700;color:var(--navy);background:var(--card);border:1px solid var(--borde);border-radius:99px;padding:8px 22px}
@@ -130,6 +148,19 @@ def slide(s, i, n):
         pr = f"<div class=precio><b>{s['precio']}</b><span>{s.get('precio_det','')}</span></div>" if s.get("precio") else ""
         body = f"""<div class=kicker>{s.get('kicker','')}</div><h2 class=sm>{s['titulo']}</h2><div class=ilus>{svg}</div>
         <div class=pts>{pts}</div>{pr}"""
+    elif t == "foto":
+        fp = (BASE / s["foto"]) if not pathlib.Path(s["foto"]).is_absolute() else pathlib.Path(s["foto"])
+        bg = "data:image/jpeg;base64," + base64.b64encode(fp.read_bytes()).decode()
+        pos = s.get("pos", "center")
+        txt = ""
+        if s.get("titulo") or s.get("texto"):
+            txt = (f"<div class=k>{s.get('kicker','')}</div>" if s.get("kicker") else "") + \
+                  (f"<h2>{s['titulo']}</h2>" if s.get("titulo") else "") + (f"<p>{s['texto']}</p>" if s.get("texto") else "")
+        wa = '<svg width="30" height="30" viewBox="0 0 24 24" fill="#fff"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.3-.7-2.8-1.1-4.6-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.9s.7-2.1 1-2.4c.3-.3.6-.3.8-.3h.6c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.4.6-.4.4c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1c.2-.3.4-.2.7-.1l1.9.9c.3.1.5.2.5.3.1.2.1.6-.1 1.1z"/></svg>'
+        return f"""<div class="s ph"><img class=bg src="{bg}" style="object-position:{pos}"><div class=shade></div>
+        <div class=inner><div class=tophd><div class=badge><img src="{ESCUDO}">CLIMATÍZATE <b>PRO</b></div>
+        {f'<div class=real>{s.get("etiqueta","Instalación real · Santiago")}</div>' if s.get("etiqueta", True) else ''}</div>
+        <div class=txt>{txt}<div class=bar><span class=wa>{wa}{MARCA['whatsapp']}</span><span class=web>{MARCA['web']}</span></div></div></div></div>"""
     elif t == "cta":
         body = f"""<div class=hero><img class=big src="{ESCUDO}"><div class=kicker>{s.get('kicker','')}</div>
         <h1 style="font-size:78px">{s['titulo']}</h1><p class=lead>{s.get('texto','')}</p>
@@ -172,6 +203,8 @@ def textos(data):
 
 
 def main(src, out):
+    global BASE
+    BASE = pathlib.Path(src).resolve().parent
     data = json.loads(pathlib.Path(src).read_text())
     out = pathlib.Path(out); out.mkdir(parents=True, exist_ok=True)
     n = len(data["slides"])
@@ -183,7 +216,7 @@ def main(src, out):
                 doc = (f"<html><head><meta charset=utf-8><style>{CSS.replace('FONTS', FONTS)}"
                        f":root{{--h:{h}px;--pt:{pt}px;--pb:{pb}px}}</style></head><body>{slide(s, i, n)}</body></html>")
                 f = out / "tmp.html"; f.write_text(doc)
-                pg.goto(f.resolve().as_uri()); pg.wait_for_timeout(200)
+                pg.goto(f.resolve().as_uri()); pg.wait_for_load_state("load"); pg.wait_for_timeout(300)
                 pg.screenshot(path=str(out / f"{fmt}_{i:02d}.png"))
             pg.close()
         b.close()
