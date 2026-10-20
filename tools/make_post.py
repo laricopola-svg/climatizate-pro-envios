@@ -75,12 +75,14 @@ def s_point(s,n,tot):
 def s_cta(s,n,tot):
     im=base(s,.25,.96);d=ImageDraw.Draw(im);header(d,n,tot)
     fh=f(P,56);fb=f(IR,34);bl=s.get("bullets",[])
-    need=hgt(d,s["headline"],fh,68)+8+hgt(d,s.get("highlight",""),fh,68)+36+58*len(bl)+24+50
+    need=hgt(d,s["headline"],fh,68)+8+hgt(d,s.get("highlight",""),fh,68)+36+58*len(bl)+24+50+60
     y=H-80-need
     y=block(d,60,y,s["headline"],fh,WHITE,68)+8
     y=block(d,60,y,s.get("highlight",""),fh,GOLD,68)+36
     for t in bl: d.ellipse((60,y+12,76,y+28),fill=RED);d.text((96,y),t,font=fb,fill=WHITE);y+=58
     d.text((60,y+24),s.get("handle","@teamfsbull_kennelclub"),font=f(IB,38),fill=WHITE)
+    y2=y+84;wa=s.get("whatsapp","WhatsApp +56 9 6190 7601");fo=f(IB,32);tw=d.textlength(wa,font=fo)
+    d.rounded_rectangle((60,y2,60+tw+48,y2+56),radius=28,fill=(37,211,102));d.text((84,y2+11),wa,font=fo,fill=WHITE)
     return im
 if __name__=="__main__":
     spec=json.load(open(sys.argv[1]));out=sys.argv[2];os.makedirs(out,exist_ok=True)

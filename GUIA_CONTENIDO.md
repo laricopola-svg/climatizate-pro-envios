@@ -18,7 +18,7 @@
 | 20:30 | Recomendativo/autoridad: mitos, qué exigir a un criadero, estándar de raza, ejemplares TeamFS con registro | Carrusel o imagen única |
 - Alternar razas: días pares Cane Corso a las 11:00 y 20:30, Bully a las 15:00; días impares al revés.
 - No repetir tema en 14 días (revisar `state/`). Estacionalidad Chile: oct–mar calor, garrapatas, deshidratación; abr–sep frío, articulaciones, piel.
-- Cierre de cada publicación: invitación a Guardar · Compartir · DM. 5–8 hashtags (#CaneCorso #CaneCorsoChile #MastinItaliano / #AmericanBully #BullyChile #ABKC / #TeamFSKennelClub).
+- Cierre de cada publicación: invitación a Guardar · Compartir · DM **y SIEMPRE el link de WhatsApp: 📲 Consultas por WhatsApp: https://wa.me/56961907601** (en el texto, antes de los hashtags). La lámina final (cta) muestra el botón verde "WhatsApp +56 9 6190 7601". En TikTok el link no es clicable: escribir también el número. 5–8 hashtags (#CaneCorso #CaneCorsoChile #MastinItaliano / #AmericanBully #BullyChile #ABKC / #TeamFSKennelClub).
 
 ## Diseño
 - Generador: `python3 tools/make_post.py spec.json OUTDIR` (tipos de lámina: cover, point, cta). 1080×1350, azul marino + rojo + dorado, Poppins/Inter.
