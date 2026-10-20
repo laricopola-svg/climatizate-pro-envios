@@ -1,0 +1,41 @@
+{
+ "tema": "Antes del verano: 6 señales de una instalación mal hecha",
+ "slides": [
+  {"tipo": "portada", "kicker": "Antes del verano",
+   "titulo": "6 señales de una <span class=c>instalación mal hecha</span>",
+   "texto": "Revísalas antes de contratar o si tu equipo ya está instalado."},
+  {"tipo": "ilustracion", "kicker": "Señal 1", "dibujo": "canaleta",
+   "titulo": "Tuberías y cables a la vista",
+   "puntos": ["Se ven desordenados, acumulan polvo y quedan expuestos a golpes.", "La solución es una canaleta blanca que los cubre por completo."],
+   "precio": "$35.000", "precio_det": "canaleta 100×50 de 2 m"},
+  {"tipo": "lista", "kicker": "Señales 2, 3 y 4", "titulo": "Lo que notas en el día a día",
+   "items": [
+     {"icono": "💧", "t": "Gotea dentro de la casa", "d": "El agua del equipo debe salir hacia afuera, no por tu muro ni tu piso."},
+     {"icono": "↘", "t": "Equipo torcido o en mal lugar", "d": "Desnivelado, o tirando aire directo sobre la cama o el sofá.", "calor": true},
+     {"icono": "〰", "t": "Ruidos y vibraciones fuertes", "d": "Fijaciones débiles o equipos mal apoyados."}]},
+  {"tipo": "ilustracion", "kicker": "Señal 5", "dibujo": "soporte",
+   "titulo": "Unidad exterior mal apoyada",
+   "puntos": ["Directo en el suelo, sobre cajas o sin fijar.", "Un soporte firme en muro o piso la protege y ordena el espacio."],
+   "precio": "$35.000", "precio_det": "soporte muro o piso"},
+  {"tipo": "lista", "kicker": "Señal 6", "titulo": "Sin precio claro ni respaldo",
+   "items": [
+     {"icono": "$", "t": "Cobros sorpresa el día de la instalación", "d": "Adicionales que nadie te explicó antes.", "calor": true},
+     {"icono": "?", "t": "Sin garantía de instalación", "d": "Si algo falla, no hay a quién llamar."}]},
+  {"tipo": "lista", "kicker": "Cómo lo hacemos", "titulo": "Instalación de calidad en Climatízate Pro",
+   "items": [
+     {"icono": "📷", "t": "Visualizas antes de instalar", "d": "Simulador con foto de tu muro en climatizatepro.cl."},
+     {"icono": "$", "t": "Precio claro desde el inicio", "d": "Instalación básica incluida y adicionales informados antes.", "calor": true},
+     {"icono": "✦", "t": "Terminación limpia y estética", "d": "Recorrido ordenado, equipo nivelado y espacio limpio al terminar."},
+     {"icono": "✓", "t": "Garantía de instalación", "d": "6 meses de respaldo en tu instalación.", "calor": true}]},
+  {"tipo": "cta", "kicker": "Climatízate Pro",
+   "titulo": "Este verano, instala bien <span class=f>desde el primer día</span>",
+   "texto": "Equipos Inverter frío/calor con instalación profesional y estética en Santiago.",
+   "boton": "Cotiza en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "6 señales de una instalación mal hecha 👀❄️\n\nAntes del verano, revisa esto antes de contratar (o si tu equipo ya está instalado):\n1️⃣ Tuberías y cables a la vista\n2️⃣ Gotea dentro de la casa\n3️⃣ Equipo torcido o en mal lugar\n4️⃣ Ruidos y vibraciones fuertes\n5️⃣ Unidad exterior mal apoyada\n6️⃣ Sin precio claro ni garantía\n\n¿Cuántas viste alguna vez? Cuéntanos en los comentarios 👇\n\nEn Climatízate Pro trabajamos solo con equipos Inverter frío/calor, con precio claro desde el inicio, terminación estética y garantía de instalación ✨\n\nCotiza en climatizatepro.cl (link en la bio) o al WhatsApp +56 9 6190 7601.\n\n#AireAcondicionado #InstalaciónAireAcondicionado #SplitInverter #Santiago #VeranoSantiago #HogarChile #DecoraciónHogar #ClimatízatePro",
+  "facebook": "¿Tu aire acondicionado quedó bien instalado? 👀 Estas son 6 señales de una instalación mal hecha:\n\n1️⃣ Tuberías y cables a la vista\n2️⃣ Gotea dentro de la casa\n3️⃣ Equipo torcido o en mal lugar\n4️⃣ Ruidos y vibraciones fuertes\n5️⃣ Unidad exterior mal apoyada\n6️⃣ Cobros sorpresa y sin garantía\n\nAntes del verano, elige una instalación que se vea bien y funcione bien. En Climatízate Pro: equipos Inverter frío/calor, precio claro con instalación básica incluida, adicionales informados antes (canaleta $35.000 · soporte $35.000) y garantía de instalación.\n\n👉 https://www.climatizatepro.cl\n📲 WhatsApp: +56 9 6190 7601\n\n#AireAcondicionado #Santiago #InstalaciónProfesional #ClimatízatePro",
+  "tiktok": "6 señales de una instalación MAL hecha 😬❄️ ¿Cuántas tiene la tuya? Guarda esto antes del verano 📌 climatizatepro.cl\n\n#aireacondicionado #instalacion #santiago #chile #verano #hogar #inverter #climatizatepro",
+  "linkedin": "Antes del verano, la demanda por climatización aumenta y con ella las instalaciones hechas a la rápida.\n\nCompartimos 6 señales de una instalación mal hecha: tuberías a la vista, goteos dentro del recinto, equipos desnivelados o mal ubicados, ruidos y vibraciones, unidades exteriores mal apoyadas y cobros sin aviso ni garantía.\n\nEn Climatízate Pro trabajamos solo con equipos Inverter frío/calor, con precio claro, terminación estética y garantía de instalación, en hogares y empresas de Santiago.\n\n🔗 https://www.climatizatepro.cl\n\n#Climatización #AireAcondicionado #InstalaciónProfesional #Santiago #Pymes"
+ }
+}
