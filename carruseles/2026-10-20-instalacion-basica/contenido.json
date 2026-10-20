@@ -1,0 +1,46 @@
+{
+ "tema": "Qué incluye la instalación básica y cuándo hay adicionales",
+ "slides": [
+  {"tipo": "portada", "kicker": "Precios claros, sin sorpresas",
+   "titulo": "¿Qué incluye la <span class=f>instalación básica</span>?",
+   "texto": "Te explicamos qué viene incluido en el precio y cuándo se suman adicionales, con sus valores."},
+  {"tipo": "ilustracion", "kicker": "Incluido en el precio", "dibujo": "basica",
+   "titulo": "Instalación básica",
+   "puntos": ["Se instala todo lo que trae el equipo en su caja.",
+              "≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos que unen la unidad interior con la exterior."]},
+  {"tipo": "ilustracion", "kicker": "La distancia importa", "dibujo": "distancia",
+   "titulo": "Esos 2 m definen hasta dónde llega",
+   "puntos": ["La instalación básica sirve cuando ambas unidades quedan cerca, normalmente una a cada lado del mismo muro.",
+              "Si deben quedar más lejos, se necesita extensión de tuberías: un adicional que se evalúa y se cotiza."]},
+  {"tipo": "ilustracion", "kicker": "Adicional estético", "dibujo": "canaleta",
+   "titulo": "Canaleta blanca 100×50",
+   "puntos": ["Cubre las tuberías y cordones que unen ambos equipos.", "Terminación limpia y ordenada en tu muro."],
+   "precio": "$35.000", "precio_det": "canaleta de 2 m"},
+  {"tipo": "ilustracion", "kicker": "Adicional técnico", "dibujo": "soporte",
+   "titulo": "Soporte para la unidad exterior",
+   "puntos": ["Deja la unidad exterior firme: en altura sobre un muro o sobre el piso.", "Ordena el espacio exterior y protege el equipo."],
+   "precio": "$35.000", "precio_det": "soporte muro o piso"},
+  {"tipo": "ilustracion", "kicker": "Adicional técnico", "dibujo": "electrico",
+   "titulo": "Punto eléctrico lejos del equipo",
+   "puntos": ["Si el enchufe está a más de 1,5 m del equipo, se agrega cordón y canaleta 10×20 por cada metro adicional."],
+   "precio": "$12.000", "precio_det": "por metro adicional"},
+  {"tipo": "tabla", "kicker": "Resumen de valores", "titulo": "Adicionales más comunes",
+   "filas": [["Canaleta blanca 100×50 (2 m)", "$35.000"], ["Soporte muro o piso", "$35.000"], ["Punto eléctrico (por metro)", "$12.000"]],
+   "nota": "Ejemplo: canaleta + soporte + 2 m de punto eléctrico = $35.000 + $35.000 + $24.000 = $94.000 en adicionales. Valores a octubre de 2026."},
+  {"tipo": "lista", "kicker": "Casos especiales", "titulo": "Adicionales que se evalúan",
+   "items": [
+     {"icono": "💧", "t": "Bomba de condensado", "d": "Cuando el agua del equipo no puede salir por caída natural."},
+     {"icono": "↔", "t": "Extensión de tuberías", "d": "Cuando las unidades quedan a más de ≈ 2 m.", "calor": true},
+     {"icono": "+", "t": "Otros trabajos", "d": "Según el espacio. Los revisamos con tus fotos o en una evaluación técnica."}]},
+  {"tipo": "cta", "kicker": "Climatízate Pro",
+   "titulo": "Cotiza con todo <span class=f>claro desde el inicio</span>",
+   "texto": "Envíanos fotos del muro y de dónde iría la unidad exterior, y te indicamos qué adicionales necesitas antes de instalar.",
+   "boton": "Cotiza en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "¿Qué incluye la instalación básica? 🤔🔧\n\nIncluye todo lo que trae el equipo en su caja: ≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos para unir la unidad interior con la exterior.\n\nCuando el espacio lo requiere, se suman adicionales:\n▫️ Canaleta blanca 100×50 (2 m): $35.000\n▫️ Soporte muro o piso para la unidad exterior: $35.000\n▫️ Punto eléctrico a más de 1,5 m: $12.000 por metro adicional\n\nPrecios claros, sin sorpresas el día de la instalación ✨ Todos nuestros equipos son Inverter frío/calor.\n\nGuarda este post ⭐ y cotiza en climatizatepro.cl (link en la bio) o al WhatsApp +56 9 6190 7601.\n\n#AireAcondicionado #InstalaciónAireAcondicionado #SplitInverter #Santiago #HogarChile #PreciosClaros #ClimatízatePro",
+  "facebook": "¿Qué incluye la instalación básica de un aire acondicionado? 👇\n\n✅ Incluida en el precio: todo lo que trae el equipo en su caja, ≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos entre la unidad interior y la exterior.\n\n➕ Adicionales más comunes:\n• Canaleta blanca 100×50 (2 m): $35.000\n• Soporte muro o piso para la unidad exterior: $35.000\n• Punto eléctrico a más de 1,5 m: $12.000 por metro adicional\n\n🔎 Casos especiales que se evalúan: bomba de condensado, extensión de tuberías y otros trabajos según tu espacio.\n\nEn Climatízate Pro te mostramos todo antes de instalar. Envíanos fotos y te decimos qué necesitas.\n👉 https://www.climatizatepro.cl\n📲 WhatsApp: +56 9 6190 7601\n\n#AireAcondicionado #Santiago #InstalaciónProfesional #ClimatízatePro",
+  "tiktok": "¿Qué incluye la instalación básica? 🔧 Esto es lo que viene en el precio y lo que puede sumarse 👀 Canaleta $35.000 · Soporte $35.000 · Punto eléctrico $12.000/m. Sin sorpresas ✨ climatizatepro.cl\n\n#aireacondicionado #santiago #chile #instalacion #inverter #hogar #climatizatepro",
+  "linkedin": "Una de las principales fuentes de desconfianza al contratar una instalación de aire acondicionado son los costos que aparecen el día de la instalación.\n\nPor eso explicamos con claridad qué incluye nuestra instalación básica: todo lo que trae el equipo de fábrica, aproximadamente 2 m de tubería de cobre y 2 m de cordones eléctricos entre la unidad interior y la exterior.\n\nY cuáles son los adicionales más frecuentes, con sus valores:\n• Canaleta blanca 100×50 (2 m): $35.000\n• Soporte muro o piso para la unidad exterior: $35.000\n• Punto eléctrico a más de 1,5 m: $12.000 por metro adicional\n\nLos casos más complejos (bomba de condensado, extensión de tuberías) se evalúan con fotos o con una evaluación técnica, antes de instalar.\n\nTransparencia en precios y cuidado en la terminación: así trabajamos en Climatízate Pro, en hogares y empresas de Santiago.\n\n🔗 https://www.climatizatepro.cl\n\n#Climatización #AireAcondicionado #Transparencia #InstalaciónProfesional #Santiago #Pymes"
+ }
+}
