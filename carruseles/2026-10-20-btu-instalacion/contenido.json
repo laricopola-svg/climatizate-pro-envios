@@ -1,0 +1,172 @@
+{
+ "tema": "Cuántos BTU necesitas y cómo reconocer una instalación de calidad",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Guía rápida para tu hogar",
+   "titulo": "¿<span class=f>9.000</span> o <span class=c>12.000</span> BTU?",
+   "texto": "El error que más se repite al comprar aire acondicionado, y cómo evitarlo."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Por qué importa",
+   "titulo": "Si eliges mal la capacidad…",
+   "items": [
+    {
+     "icono": "↓",
+     "t": "Equipo muy chico",
+     "d": "Trabaja al máximo todo el día y no logra la temperatura que buscas."
+    },
+    {
+     "icono": "↑",
+     "t": "Equipo muy grande",
+     "d": "Pagas más por el equipo y puede funcionar a ciclos cortos, sin mejor confort.",
+     "calor": true
+    },
+    {
+     "icono": "✓",
+     "t": "Equipo a la medida",
+     "d": "Confort estable y un consumo acorde a tu espacio."
+    }
+   ]
+  },
+  {
+   "tipo": "tabla",
+   "kicker": "Referencia general",
+   "titulo": "Superficie y capacidad",
+   "filas": [
+    [
+     "Hasta 15 m²",
+     "9.000 BTU"
+    ],
+    [
+     "15 a 25 m²",
+     "12.000 BTU"
+    ],
+    [
+     "25 a 35 m²",
+     "18.000 BTU"
+    ],
+    [
+     "35 a 45 m²",
+     "24.000 BTU"
+    ]
+   ],
+   "nota": "Valores referenciales para espacios estándar. La capacidad correcta se confirma con una evaluación del lugar."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Ojo con esto",
+   "titulo": "Lo que cambia el cálculo",
+   "items": [
+    {
+     "icono": "☀",
+     "t": "Sol de tarde",
+     "d": "Las piezas con orientación poniente acumulan más calor.",
+     "calor": true
+    },
+    {
+     "icono": "▢",
+     "t": "Ventanales grandes",
+     "d": "Más vidrio significa más ganancia de calor en verano."
+    },
+    {
+     "icono": "⌂",
+     "t": "Último piso o techo directo",
+     "d": "El calor del techo exige más capacidad.",
+     "calor": true
+    },
+    {
+     "icono": "☺",
+     "t": "Personas y equipos",
+     "d": "Un living con varias personas o una cocina integrada suman carga."
+    }
+   ]
+  },
+  {
+   "tipo": "versus",
+   "kicker": "La instalación hace la diferencia",
+   "titulo": "Cómo se ve una instalación de calidad",
+   "a": {
+    "t": "Instalación cuidada",
+    "xs": [
+     "Recorrido ordenado, con canaleta estética",
+     "Equipo nivelado y bien ubicado en el muro",
+     "Unidad exterior firme y accesible",
+     "Espacio limpio al terminar",
+     "Garantía de instalación"
+    ]
+   },
+   "b": {
+    "t": "Instalación al apuro",
+    "xs": [
+     "Cañerías y cables a la vista",
+     "Ubicación por comodidad, no por confort",
+     "Riesgo de goteos y ruidos",
+     "Sin respaldo posterior"
+    ]
+   },
+   "nota": "Un buen equipo rinde lo que promete solo si está bien instalado."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Antes de cotizar",
+   "titulo": "Ten esto a mano",
+   "items": [
+    {
+     "icono": "1",
+     "t": "Metros cuadrados del espacio"
+    },
+    {
+     "icono": "2",
+     "t": "Comuna y tipo de vivienda"
+    },
+    {
+     "icono": "3",
+     "t": "Dónde te gustaría el equipo interior y exterior"
+    },
+    {
+     "icono": "4",
+     "t": "Fotos del muro y del recorrido",
+     "d": "Así planificamos una instalación limpia y estética."
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Visualiza antes de instalar",
+   "titulo": "Mira cómo quedará en tu muro",
+   "items": [
+    {
+     "icono": "📷",
+     "t": "Sube una foto de tu espacio",
+     "d": "Usa el simulador de instalación en climatizatepro.cl."
+    },
+    {
+     "icono": "✦",
+     "t": "Prueba la ubicación del equipo",
+     "d": "Decide con calma dónde se ve mejor.",
+     "calor": true
+    },
+    {
+     "icono": "🔒",
+     "t": "Tu foto no se envía a ningún servidor",
+     "d": "Se procesa solo en tu navegador."
+    }
+   ]
+  },
+  {
+   "tipo": "cta",
+   "kicker": "Climatízate Pro",
+   "titulo": "Calcula y cotiza tu equipo <span class=f>en línea</span>",
+   "texto": "Equipos Inverter frío/calor con instalación profesional y estética. Instalación básica incluida en Santiago.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "¿9.000 o 12.000 BTU? 🤔 Elegir la capacidad correcta es el primer paso. El segundo es igual de importante: una instalación de calidad, ordenada y que se vea bien en tu casa ✨\n\nEn esta guía te mostramos cuántos BTU necesitas, qué factores cambian el cálculo y cómo reconocer una instalación bien hecha.\n\nTodos nuestros equipos son Inverter frío/calor ❄️🔥\nMira cómo quedará en tu muro con el simulador y cotiza en climatizatepro.cl (link en la bio) o al WhatsApp +56 9 6190 7601.\n\nGuarda esta guía ⭐ antes de cotizar.\n\n#AireAcondicionado #SplitInverter #FríoCalor #InstalaciónProfesional #Santiago #DecoraciónHogar #HogarChile #ClimatízatePro",
+  "facebook": "¿9.000 o 12.000 BTU? Antes de climatizar tu casa, revisa esta guía rápida 👇\n\n✅ Qué capacidad conviene según los m² de tu espacio\n✅ Qué factores cambian el cálculo (sol de tarde, ventanales, último piso)\n✅ Cómo se ve una instalación de calidad: recorrido ordenado, canaleta estética y espacio limpio\n✅ Simula cómo quedará el equipo en tu muro antes de instalarlo\n\nEn Climatízate Pro trabajamos solo con equipos Inverter frío/calor y publicamos nuestros precios con instalación básica incluida.\n👉 https://www.climatizatepro.cl\n📲 WhatsApp: +56 9 6190 7601\n\n#AireAcondicionado #Santiago #SplitInverter #InstalaciónProfesional #ClimatízatePro",
+  "tiktok": "¿9.000 o 12.000 BTU? 🥵❄️ Y lo que nadie te dice: la instalación también se ve ✨ Guarda esto antes de cotizar 📌 climatizatepro.cl\n\n#aireacondicionado #santiago #chile #inverter #instalacion #hogar #decoracion #climatizatepro",
+  "linkedin": "Climatizar bien un espacio depende de dos decisiones: elegir la capacidad correcta y hacer una instalación de calidad.\n\nUn equipo subdimensionado trabaja al máximo sin lograr el confort buscado; uno sobredimensionado encarece la inversión. Y aun con el equipo correcto, una instalación descuidada (cañerías a la vista, mala ubicación, terminaciones pobres) afecta el resultado y la imagen del espacio.\n\nEn este carrusel resumimos una referencia general de BTU por m², los factores que modifican el cálculo y cómo reconocer una instalación bien hecha.\n\nEn Climatízate Pro trabajamos solo con equipos Inverter frío/calor, publicamos nuestros precios y cuidamos la estética de cada instalación, en hogares y empresas de Santiago.\n\n🔗 https://www.climatizatepro.cl\n\n#Climatización #AireAcondicionado #Inverter #InstalaciónProfesional #Santiago #Pymes"
+ }
+}
