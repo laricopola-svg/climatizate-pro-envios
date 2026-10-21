@@ -4,7 +4,7 @@ spec: {"clips":[{"photo":"banco/...jpg","text":"Texto grande","sub":"texto chico
        "end":{"title":"TeamFS Kennel Club","sub":"Cane Corso KCC · American Bully ABKC"}}
 First clip = hook (1.5–2.5 s). Keep total 8–25 s. Text is baked into frames (Reels/TikTok are watched muted).
 Voz en off (opcional): agrega "vo":"texto hablado" a cada clip. La duración del clip se alarga para que calce la voz.
-  Motor (vo_engine "auto"): 1) Edge TTS varón chileno es-CL-LorenzoNeural si hay acceso a speech.platform.bing.com;
+  Motor por defecto "kokoro" = voz oficial em_alex (aprobada por el dueño). Opciones manuales: "edge" ( es-CL-LorenzoNeural si hay acceso a speech.platform.bing.com;
   2) Kokoro offline varón em_alex (español latino es-419, natural; "kokoro_voice":"em_santa" alternativa, "kokoro_speed":1.08);
   3) Piper es_MX-claude-high como último recurso. Siglas de marca se pronuncian con la tabla PRON.
   Opcional en spec: "edge_voice":"es-CL-LorenzoNeural", "edge_rate":"+8%", "piper_voice":"es_MX-ald-medium", "vo_speed":0.92, "vo_file":"audio.mp3" (voz grabada por el dueño, reemplaza la TTS)."""
@@ -98,7 +98,7 @@ def kokoro(text,s,out):
     return dur_of(out)
 ENGINE={"edge":None}
 def tts(text,s,out):
-    text=pron(text);eng=s.get("vo_engine","auto")
+    text=pron(text);eng=s.get("vo_engine","kokoro")
     if eng in ("auto","edge") and ENGINE["edge"] is not False:
         ok=edge_tts(text,out,s.get("edge_voice",EDGE_VOICE),s.get("edge_rate","+8%"))
         ENGINE["edge"]=ok
