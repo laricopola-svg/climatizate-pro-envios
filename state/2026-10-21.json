@@ -1,19 +1,98 @@
 {
   "fecha": "2026-10-21",
   "dia": "miércoles (impar: 11:00 Bully, 15:00 Cane Corso, 20:30 Bully; Reel)",
-  "gmail": {"messageId": "1a15dd8f9e28ce56", "threadId": "1a15dd8f9e28ce56", "para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-10-21 – responde OK para publicar"},
+  "gmail": {
+    "messageId": "1a15dd8f9e28ce56",
+    "threadId": "1a15dd8f9e28ce56",
+    "para": "fcosotog7@gmail.com",
+    "asunto": "[TeamFS] Propuesta 2026-10-21 – responde OK para publicar"
+  },
   "publicaciones": [
-    {"n": 1, "hora": "11:00", "tema": "Alergias de primavera: 3 señales + prevención", "slug": "alergias-primavera", "raza": "American Bully", "pilar": "educativo", "formato": "carrusel 6 láminas",
-     "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
-     "metricool": [{"id": 401947659, "uuid": "-185488475023258365", "redes": ["facebook","instagram","tiktok"]}], "estado": "borrador"},
-    {"n": 2, "hora": "15:00", "tema": "Revisión anti-garrapatas post-paseo en 4 pasos", "slug": "garrapatas-revision", "raza": "Cane Corso", "pilar": "instructivo", "formato": "carrusel 5 láminas",
-     "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
-     "metricool": [{"id": 401948009, "uuid": "2780705225450147148", "redes": ["facebook","instagram","tiktok"]}], "estado": "borrador"},
-    {"n": 3, "hora": "20:30", "tema": "POV: la manada se enteró de que llega el calor (Ragnar, Dakota, Bella, Kopito, Krypto) + dato calor", "slug": "manada-vs-calor", "raza": "American Bully", "pilar": "humor/manada", "formato": "Reel 21 s (IG+FB) + carrusel 7 fotogramas (TikTok)",
-     "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
-     "metricool": [{"id": 401948082, "uuid": "595478539400597225", "redes": ["instagram","facebook"], "tipo": "REEL"}, {"id": 401948249, "uuid": "-4312435025209702961", "redes": ["tiktok"], "tipo": "carrusel fotogramas"}],
-     "audio_recomendado": "My Own Universe – PattiJ North (alt: WINDOWS IN BRAZIL (Sped Up) – VHM4D)", "estado": "borrador"}
+    {
+      "n": 1,
+      "hora": "11:00",
+      "tema": "Alergias de primavera: 3 señales + prevención",
+      "slug": "alergias-primavera",
+      "raza": "American Bully",
+      "pilar": "educativo",
+      "formato": "carrusel 6 láminas",
+      "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+      "metricool": [
+        {
+          "id": 401947659,
+          "uuid": "-185488475023258365",
+          "redes": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        }
+      ],
+      "estado": "borrador"
+    },
+    {
+      "n": 2,
+      "hora": "15:00",
+      "tema": "Revisión anti-garrapatas post-paseo en 4 pasos",
+      "slug": "garrapatas-revision",
+      "raza": "Cane Corso",
+      "pilar": "instructivo",
+      "formato": "carrusel 5 láminas",
+      "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
+      "metricool": [
+        {
+          "id": 401948009,
+          "uuid": "2780705225450147148",
+          "redes": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        }
+      ],
+      "estado": "borrador"
+    },
+    {
+      "n": 3,
+      "hora": "20:30",
+      "tema": "POV: la manada se enteró de que llega el calor (Ragnar, Dakota, Bella, Kopito, Krypto) + dato calor",
+      "slug": "manada-vs-calor",
+      "raza": "American Bully",
+      "pilar": "humor/manada",
+      "formato": "Reel 21 s (IG+FB) + carrusel 7 fotogramas (TikTok)",
+      "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+      "metricool": [
+        {
+          "id": 401948082,
+          "uuid": "595478539400597225",
+          "redes": [
+            "instagram",
+            "facebook"
+          ],
+          "tipo": "REEL"
+        },
+        {
+          "id": 401948249,
+          "uuid": "-4312435025209702961",
+          "redes": [
+            "tiktok"
+          ],
+          "tipo": "carrusel fotogramas"
+        }
+      ],
+      "audio_recomendado": "My Own Universe – PattiJ North (alt: WINDOWS IN BRAZIL (Sped Up) – VHM4D)",
+      "estado": "borrador"
+    }
   ],
-  "temas_previos_sin_state": ["2026-10-20: 5 mitos Cane Corso (carpeta sin state)"],
-  "incidencias": []
+  "temas_previos_sin_state": [
+    "2026-10-20: 5 mitos Cane Corso (carpeta sin state)"
+  ],
+  "incidencias": [],
+  "revisiones": [
+    {
+      "hora": "2026-10-21T07:11-03:00",
+      "resultado": "sin respuesta de fcosotog7@gmail.com en el hilo; sin cambios"
+    }
+  ],
+  "ultima_revision": "2026-10-21T07:11-03:00"
 }
