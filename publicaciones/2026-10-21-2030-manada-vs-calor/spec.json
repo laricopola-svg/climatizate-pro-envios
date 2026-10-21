@@ -1,0 +1,64 @@
+{
+ "clips": [
+  {
+   "photo": "marca/fichas/ragnar_dakota.jpg",
+   "fit": "contain",
+   "text": "POV: la manada se enteró de que llega el calor",
+   "size": 86,
+   "dur": 2.5
+  },
+  {
+   "photo": "marca/fichas/ragnar_poster.jpg",
+   "fit": "contain",
+   "text": "Ragnar: 60 kilos de disciplina...",
+   "sub": "...hasta que encontró la sombra",
+   "size": 76,
+   "dur": 3
+  },
+  {
+   "photo": "marca/fichas/dakota_poster.jpg",
+   "fit": "contain",
+   "text": "Dakota no pasea antes de las 7 pm",
+   "sub": "Ni lo intentes.",
+   "size": 76,
+   "dur": 3
+  },
+  {
+   "photo": "marca/fichas/bella_poster.jpg",
+   "fit": "contain",
+   "text": "Bella, la modelo:",
+   "sub": "solo fotos a la sombra, gracias",
+   "size": 76,
+   "dur": 3
+  },
+  {
+   "photo": "marca/fichas/kopito_poster.jpg",
+   "fit": "contain",
+   "text": "Kopito (6 meses) descubrió la manguera",
+   "sub": "Nadie está a salvo.",
+   "size": 76,
+   "dur": 3
+  },
+  {
+   "photo": "marca/fichas/krypto_vs_bella.jpg",
+   "fit": "contain",
+   "text": "Krypto (a la izquierda): pose de campeón...",
+   "sub": "...al lado del bebedero",
+   "size": 72,
+   "dur": 3
+  },
+  {
+   "photo": "banco/american-bully/bully_057.jpg",
+   "fit": "contain",
+   "text": "Dato TeamFS",
+   "sub": "Paseos antes de las 11 y después de las 19. Agua fresca y sombra siempre.",
+   "size": 90,
+   "dur": 3.5
+  }
+ ],
+ "end": {
+  "title": "TeamFS Kennel Club",
+  "sub": "Cane Corso KCC · American Bully ABKC",
+  "dur": 2.5
+ }
+}
