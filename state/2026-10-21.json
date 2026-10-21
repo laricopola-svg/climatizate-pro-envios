@@ -27,6 +27,15 @@
             "tiktok"
           ],
           "id_anterior": 401947659
+        },
+        {
+          "id": 402624503,
+          "uuid": "-4679055884522666827",
+          "redes": [
+            "instagram"
+          ],
+          "hora": "19:45",
+          "nota": "republicación IG tras reconexión, autorizada por el usuario en chat sin OK por correo"
         }
       ],
       "estado": "programada",
@@ -56,6 +65,15 @@
             "tiktok"
           ],
           "id_anterior": 401948009
+        },
+        {
+          "id": 402624571,
+          "uuid": "3317590288503426276",
+          "redes": [
+            "instagram"
+          ],
+          "hora": "21:30",
+          "nota": "republicación IG tras reconexión, autorizada por el usuario en chat sin OK por correo"
         }
       ],
       "estado": "programada",
@@ -122,5 +140,5 @@
       "resultado": "respuesta 'Ok' de fcosotog7@gmail.com (msg 1a15e0d4c7061bbe, 07:41) → aprobadas 1, 2 y 3; 4 posts Metricool actualizados a draft:false manteniendo horas 11:00, 15:00 y 20:30 (IDs nuevos registrados)"
     }
   ],
-  "ultima_revision": "2026-10-21T19:34-03:00"
+  "ultima_revision": "2026-10-21T19:37-03:00"
 }
