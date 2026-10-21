@@ -4,7 +4,9 @@ spec: {"clips":[{"photo":"banco/...jpg","text":"Texto grande","sub":"texto chico
        "end":{"title":"TeamFS Kennel Club","sub":"Cane Corso KCC · American Bully ABKC"}}
 First clip = hook (1.5–2.5 s). Keep total 8–25 s. Text is baked into frames (Reels/TikTok are watched muted).
 Voz en off (opcional): agrega "vo":"texto hablado" a cada clip. La duración del clip se alarga para que calce la voz.
-  Motor (vo_engine "auto"): Edge TTS chilena es-CL-CatalinaNeural si hay acceso a speech.platform.bing.com; si no, Piper offline latino es_MX-claude-high.
+  Motor (vo_engine "auto"): 1) Edge TTS varón chileno es-CL-LorenzoNeural si hay acceso a speech.platform.bing.com;
+  2) Kokoro offline varón em_alex (español latino es-419, natural; "kokoro_voice":"em_santa" alternativa, "kokoro_speed":1.08);
+  3) Piper es_MX-claude-high como último recurso. Siglas de marca se pronuncian con la tabla PRON.
   Opcional en spec: "edge_voice":"es-CL-LorenzoNeural", "edge_rate":"+8%", "piper_voice":"es_MX-ald-medium", "vo_speed":0.92, "vo_file":"audio.mp3" (voz grabada por el dueño, reemplaza la TTS)."""
 import sys,json,os,subprocess,tempfile
 from PIL import Image,ImageDraw,ImageFont,ImageOps,ImageFilter,ImageEnhance
@@ -52,7 +54,7 @@ def endcard(e):
     return out
 # Voz: 1) Edge TTS es-CL (chilena, natural) si el dominio speech.platform.bing.com está permitido;
 #      2) si no, Piper offline latino (es_MX-claude-high, descargado de GitHub sherpa-onnx a tools/voices/).
-EDGE_VOICE="es-CL-CatalinaNeural"   # alternativa masculina: es-CL-LorenzoNeural
+EDGE_VOICE="es-CL-LorenzoNeural"   # varón chileno (pedido del dueño)
 PIPER_DEFAULT="es_MX-claude-high"
 PIPER_URL="https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-{n}.tar.bz2"
 def ensure_voice(s):
@@ -71,13 +73,39 @@ def edge_tts(text,out,voice,rate):
         async def go(): await edge_tts.Communicate(text,voice,rate=rate,proxy=px).save(out+".mp3")
         asyncio.run(go());subprocess.run(["ffmpeg","-v","error","-y","-i",out+".mp3",out],check=True);return True
     except Exception as e:
-        print("Edge TTS no disponible, uso Piper:",str(e)[:80]);return False
+        print("Edge TTS no disponible, uso voz offline:",str(e)[:80]);return False
+KOKORO_URL="https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-multi-lang-v1_0.tar.bz2"
+KOKORO_SPK={"em_alex":29,"em_santa":53}
+# Pronunciación de marca y siglas (la TTS las lee mal tal cual)
+PRON=[("TeamFS","Tim Efe Ese"),("TEAMFS","Tim Efe Ese"),("ABKC","A Be Ka Ce"),("KCC","Ka Ce Ce"),("Bully","Buli"),("XL","equis ele"),("DM","de eme"),("WhatsApp","guatsap"),("pm","pe eme"),("am","a eme")]
+def pron(t):
+    import re
+    for a,b in PRON: t=re.sub(r"\b"+re.escape(a)+r"\b",b,t)
+    return t
+_KOK={}
+def kokoro(text,s,out):
+    import sherpa_onnx as so,soundfile as sf
+    d=f"{R}/tools/voices/kokoro-multi-lang-v1_0"
+    if not os.path.exists(d+"/model.onnx"):
+        os.makedirs(f"{R}/tools/voices",exist_ok=True);tg=f"{R}/tools/voices/k.tar.bz2"
+        subprocess.run(["curl","-sSL","-o",tg,KOKORO_URL],check=True);subprocess.run(["tar","xjf",tg,"-C",f"{R}/tools/voices"],check=True);os.remove(tg)
+    if "t" not in _KOK:
+        cfg=so.OfflineTtsConfig(model=so.OfflineTtsModelConfig(kokoro=so.OfflineTtsKokoroModelConfig(model=f"{d}/model.onnx",voices=f"{d}/voices.bin",tokens=f"{d}/tokens.txt",data_dir=f"{d}/espeak-ng-data",lexicon=f"{d}/lexicon-us-en.txt,{d}/lexicon-zh.txt",lang="es-419"),num_threads=4),max_num_sentences=1)
+        _KOK["t"]=so.OfflineTts(cfg)
+    a=_KOK["t"].generate(text,sid=KOKORO_SPK.get(s.get("kokoro_voice","em_alex"),29),speed=s.get("kokoro_speed",1.08))
+    raw=out+".raw.wav";sf.write(raw,a.samples,a.sample_rate)
+    subprocess.run(["ffmpeg","-v","error","-y","-i",raw,"-af","highpass=f=70,acompressor=threshold=-18dB:ratio=2.5","-ar","44100",out],check=True)
+    return dur_of(out)
 ENGINE={"edge":None}
 def tts(text,s,out):
-    if s.get("vo_engine","auto") in ("auto","edge") and ENGINE["edge"] is not False:
+    text=pron(text);eng=s.get("vo_engine","auto")
+    if eng in ("auto","edge") and ENGINE["edge"] is not False:
         ok=edge_tts(text,out,s.get("edge_voice",EDGE_VOICE),s.get("edge_rate","+8%"))
         ENGINE["edge"]=ok
         if ok: return dur_of(out)
+    if eng in ("auto","edge","kokoro"):
+        try: return kokoro(text,s,out)
+        except Exception as e: print("Kokoro falló, uso Piper:",str(e)[:80])
     model=ensure_voice(s)
     raw=out+".raw.wav"
     subprocess.run([sys.executable,"-m","piper","-m",model,"-f",raw,"--length-scale",str(s.get("vo_speed",0.92)),"--noise-scale","0.75","--sentence-silence","0.15"],input=text.encode(),check=True,capture_output=True)
