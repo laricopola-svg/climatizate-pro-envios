@@ -19,16 +19,18 @@
       "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
       "metricool": [
         {
-          "id": 401947659,
+          "id": 402017539,
           "uuid": "-185488475023258365",
           "redes": [
             "facebook",
             "instagram",
             "tiktok"
-          ]
+          ],
+          "id_anterior": 401947659
         }
       ],
-      "estado": "borrador"
+      "estado": "programada",
+      "aprobada": "2026-10-21T07:41-03:00"
     },
     {
       "n": 2,
@@ -41,16 +43,18 @@
       "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
       "metricool": [
         {
-          "id": 401948009,
+          "id": 402017628,
           "uuid": "2780705225450147148",
           "redes": [
             "facebook",
             "instagram",
             "tiktok"
-          ]
+          ],
+          "id_anterior": 401948009
         }
       ],
-      "estado": "borrador"
+      "estado": "programada",
+      "aprobada": "2026-10-21T07:41-03:00"
     },
     {
       "n": 3,
@@ -63,25 +67,28 @@
       "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
       "metricool": [
         {
-          "id": 401948082,
+          "id": 402017736,
           "uuid": "595478539400597225",
           "redes": [
             "instagram",
             "facebook"
           ],
-          "tipo": "REEL"
+          "tipo": "REEL",
+          "id_anterior": 401948082
         },
         {
-          "id": 401948249,
+          "id": 402017828,
           "uuid": "-4312435025209702961",
           "redes": [
             "tiktok"
           ],
-          "tipo": "carrusel fotogramas"
+          "tipo": "carrusel fotogramas",
+          "id_anterior": 401948249
         }
       ],
       "audio_recomendado": "My Own Universe – PattiJ North (alt: WINDOWS IN BRAZIL (Sped Up) – VHM4D)",
-      "estado": "borrador"
+      "estado": "programada",
+      "aprobada": "2026-10-21T07:41-03:00"
     }
   ],
   "temas_previos_sin_state": [
@@ -92,7 +99,11 @@
     {
       "hora": "2026-10-21T07:11-03:00",
       "resultado": "sin respuesta de fcosotog7@gmail.com en el hilo; sin cambios"
+    },
+    {
+      "hora": "2026-10-21T08:10-03:00",
+      "resultado": "respuesta 'Ok' de fcosotog7@gmail.com (msg 1a15e0d4c7061bbe, 07:41) → aprobadas 1, 2 y 3; 4 posts Metricool actualizados a draft:false manteniendo horas 11:00, 15:00 y 20:30 (IDs nuevos registrados)"
     }
   ],
-  "ultima_revision": "2026-10-21T07:11-03:00"
+  "ultima_revision": "2026-10-21T08:10-03:00"
 }
