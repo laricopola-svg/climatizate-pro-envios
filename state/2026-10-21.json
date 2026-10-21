@@ -30,7 +30,12 @@
         }
       ],
       "estado": "programada",
-      "aprobada": "2026-10-21T07:41-03:00"
+      "aprobada": "2026-10-21T07:41-03:00",
+      "resultado": {
+        "facebook": "publicado",
+        "tiktok": "publicado",
+        "instagram": "error: Instagram was disconnected"
+      }
     },
     {
       "n": 2,
@@ -54,7 +59,12 @@
         }
       ],
       "estado": "programada",
-      "aprobada": "2026-10-21T07:41-03:00"
+      "aprobada": "2026-10-21T07:41-03:00",
+      "resultado": {
+        "facebook": "publicado",
+        "tiktok": "publicado",
+        "instagram": "error: Instagram was disconnected"
+      }
     },
     {
       "n": 3,
@@ -94,7 +104,13 @@
   "temas_previos_sin_state": [
     "2026-10-20: 5 mitos Cane Corso (carpeta sin state)"
   ],
-  "incidencias": [],
+  "incidencias": [
+    {
+      "hora": "2026-10-21T19:32-03:00",
+      "detalle": "Instagram desconectado de la marca TeamFS en Metricool (getBrandSettings ya no lista instagramData). 11:00 y 15:00: Facebook y TikTok PUBLICADOS; Instagram ERROR 'Instagram was disconnected'. 20:30 Reel IG+FB y TikTok siguen PENDING; IG fallará si no se reconecta antes.",
+      "pendiente": "Reconectar Instagram @teamfsbull_kennelclub en Metricool y republicar en IG los carruseles 1 y 2."
+    }
+  ],
   "revisiones": [
     {
       "hora": "2026-10-21T07:11-03:00",
@@ -105,5 +121,5 @@
       "resultado": "respuesta 'Ok' de fcosotog7@gmail.com (msg 1a15e0d4c7061bbe, 07:41) → aprobadas 1, 2 y 3; 4 posts Metricool actualizados a draft:false manteniendo horas 11:00, 15:00 y 20:30 (IDs nuevos registrados)"
     }
   ],
-  "ultima_revision": "2026-10-21T08:10-03:00"
+  "ultima_revision": "2026-10-21T19:32-03:00"
 }
