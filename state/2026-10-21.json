@@ -108,7 +108,8 @@
     {
       "hora": "2026-10-21T19:32-03:00",
       "detalle": "Instagram desconectado de la marca TeamFS en Metricool (getBrandSettings ya no lista instagramData). 11:00 y 15:00: Facebook y TikTok PUBLICADOS; Instagram ERROR 'Instagram was disconnected'. 20:30 Reel IG+FB y TikTok siguen PENDING; IG fallará si no se reconecta antes.",
-      "pendiente": "Reconectar Instagram @teamfsbull_kennelclub en Metricool y republicar en IG los carruseles 1 y 2."
+      "pendiente": "Reconectar Instagram @teamfsbull_kennelclub en Metricool y republicar en IG los carruseles 1 y 2.",
+      "resuelto": "2026-10-21T19:34-03:00: dueño reconectó Instagram (@teamfsbull_kennelclub ya aparece en la marca). Reel 20:30 sigue programado (IG+FB pending, sin borrador)."
     }
   ],
   "revisiones": [
@@ -121,5 +122,5 @@
       "resultado": "respuesta 'Ok' de fcosotog7@gmail.com (msg 1a15e0d4c7061bbe, 07:41) → aprobadas 1, 2 y 3; 4 posts Metricool actualizados a draft:false manteniendo horas 11:00, 15:00 y 20:30 (IDs nuevos registrados)"
     }
   ],
-  "ultima_revision": "2026-10-21T19:32-03:00"
+  "ultima_revision": "2026-10-21T19:34-03:00"
 }
