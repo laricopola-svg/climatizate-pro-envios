@@ -19,7 +19,7 @@
 ## La manada (personajes recurrentes)
 | Nombre | Raza | Descripción | Fotos seguras |
 |---|---|---|---|
-| Queen | Cane Corso hembra | La reina de la casa | (por confirmar en banco/cane-corso) |
+| Queen | Cane Corso hembra | La reina de la casa | banco/cane-corso/cc_006.jpg (confirmado por el dueño, oct-2026) |
 | Skype | Cane Corso formentino | Color formentino (azul-cervato) | (por confirmar) |
 | Ragnar | American Bully XL merle | El grandote, "60 kilos de disciplina" | marca/fichas/ragnar_*.jpg |
 | Dakota | American Bully chocolate | Elegante, mirada seria | marca/fichas/dakota_poster.jpg, ragnar_dakota.jpg |
@@ -49,6 +49,19 @@
 - Alternar razas: días pares Cane Corso a las 11:00 y 20:30, Bully a las 15:00; días impares al revés.
 - No repetir tema en 14 días (revisar `state/`). Estacionalidad Chile: oct–mar calor, garrapatas, deshidratación; abr–sep frío, articulaciones, piel.
 - Cierre de cada publicación: invitación a Guardar · Compartir · DM **y SIEMPRE el link de WhatsApp: 📲 Consultas por WhatsApp: https://wa.me/56961907601** (en el texto, antes de los hashtags). La lámina final (cta) muestra el botón verde "WhatsApp +56 9 6190 7601". En TikTok el link no es clicable: escribir también el número. 5–8 hashtags (#CaneCorso #CaneCorsoChile #MastinItaliano / #AmericanBully #BullyChile #ABKC / #TeamFSKennelClub).
+
+## Fotos: diversidad obligatoria (pedido del dueño, 21-oct-2026)
+- Antes de generar, correr `python3 tools/fotos.py sugerir <cane-corso|american-bully> N` y elegir entre las menos usadas; después `python3 tools/fotos.py revisar spec.json AAAA-MM-DD` (debe dar OK) y al terminar `python3 tools/fotos.py registrar spec.json AAAA-MM-DD <carpeta>`. Log: `state/fotos_usadas.json`.
+- Reglas: ninguna foto se repite en 14 días; la portada no se repite en 30 días; nunca la misma foto en dos publicaciones del mismo día. Las fichas de la manada (marca/fichas) pueden repetirse solo en Reels de personajes.
+- El banco de Cane Corso es chico (11 fotos): cuando no alcancen fotos sin repetir, usar imágenes creadas (ver abajo) o láminas de diseño sin foto, y pedir al dueño fotos nuevas de Queen, Skype y los Cane Corso.
+- Fuentes de imagen, en orden: 1) fotos propias del criadero; 2) imágenes creadas con IA (Canva generate-image) de la raza, genéricas, marcadas en Metricool con isAiGenerated:true en Instagram, nunca presentadas como un perro real de TeamFS ni como cachorro en venta; 3) fotos de otras cuentas/redes SOLO con permiso escrito del autor y crédito visible (@autor) o como colaboración/repost. Nunca descargar ni usar fotos de otros criaderos o de redes sin permiso (derechos de autor y riesgo de denuncia/baja de la cuenta), ni hacerlas pasar por perros propios.
+
+## Videos con voz en off (pedido del dueño, 21-oct-2026)
+- Objetivo: alcance y seguidores nuevos. Mínimo 3 Reels/semana (lun/mié/vie 20:30) y preferir que al menos 2 lleven voz en off que explique o enseñe.
+- `tools/make_reel.py` acepta "vo":"texto" por clip (Piper TTS offline, voz es-carlfm; se descarga sola a tools/voices/). La duración del clip se ajusta a la voz. Guion: frases cortas, 1 idea por clip, 15–30 s en total, gancho hablado en los primeros 2 s ("Tu moloso NO está flojo…"), cierre "Dato TeamFS" + "Síguenos para más".
+- Calidad: la voz sintética disponible en el servidor es básica (acento español). Mejor alternativa: el dueño graba notas de voz (WhatsApp) con el guion que se envía en la propuesta → spec "vo_file":"audio.mp3". También se puede usar la voz de texto-a-voz de TikTok/CapCut en la app.
+- Formatos disruptivos con voz: "Te explico en 20 segundos", "Mito o realidad (responde en comentarios antes de que lo diga)", "Lo que nadie te dice de tener un Cane Corso", "Red flags al comprar un Bully", "Reacciona: el veterinario/criador responde", "POV con narrador" de la manada, "Ranking de la manada" (quién come más, quién duerme más), duetos/stitch con preguntas de seguidores.
+- Siempre: subtítulos grandes (se ve sin sonido), y en el correo indicar audio en tendencia recomendado para agregar bajo la voz en la app.
 
 ## Diseño
 - Generador: `python3 tools/make_post.py spec.json OUTDIR` (tipos de lámina: cover, point, cta). 1080×1350, azul marino + rojo + dorado, Poppins/Inter.

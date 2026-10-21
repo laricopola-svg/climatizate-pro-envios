@@ -1,0 +1,167 @@
+{
+ "banco/cane-corso/cc_006.jpg": [
+  {
+   "fecha": "2026-10-20",
+   "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": true
+  },
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
+   "portada": true
+  }
+ ],
+ "banco/cane-corso/cc_005.jpg": [
+  {
+   "fecha": "2026-10-20",
+   "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_011.jpg": [
+  {
+   "fecha": "2026-10-20",
+   "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_004.jpg": [
+  {
+   "fecha": "2026-10-20",
+   "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_008.jpg": [
+  {
+   "fecha": "2026-10-20",
+   "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_007.jpg": [
+  {
+   "fecha": "2026-10-20",
+   "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_009.jpg": [
+  {
+   "fecha": "2026-10-20",
+   "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_011.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_042.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_017.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_038.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_043.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_057.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_003.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
+   "portada": false
+  }
+ ],
+ "marca/fichas/ragnar_dakota.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": true
+  }
+ ],
+ "marca/fichas/ragnar_poster.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  }
+ ],
+ "marca/fichas/dakota_poster.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  }
+ ],
+ "marca/fichas/bella_poster.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  }
+ ],
+ "marca/fichas/kopito_poster.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  }
+ ],
+ "marca/fichas/krypto_vs_bella.jpg": [
+  {
+   "fecha": "2026-10-21",
+   "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  }
+ ]
+}

@@ -2,7 +2,10 @@
 Usage: python3 tools/make_reel.py spec.json out.mp4   (run from repo root)
 spec: {"clips":[{"photo":"banco/...jpg","text":"Texto grande","sub":"texto chico opcional","dur":2.5,"fy":0.5}],
        "end":{"title":"TeamFS Kennel Club","sub":"Cane Corso KCC · American Bully ABKC"}}
-First clip = hook (1.5–2.5 s). Keep total 8–25 s. Text is baked into frames (Reels/TikTok are watched muted)."""
+First clip = hook (1.5–2.5 s). Keep total 8–25 s. Text is baked into frames (Reels/TikTok are watched muted).
+Voz en off (opcional): agrega "vo":"texto hablado" a cada clip. La duración del clip se alarga para que calce la voz.
+  Motor: Piper TTS offline (pip install piper-tts). Voz por defecto es-carlfm-x-low (se descarga de GitHub a tools/voices/ si falta).
+  Opcional en spec: "voice":"ruta/modelo.onnx", "vo_speed":1.0 (más bajo = más rápido), "vo_file":"audio.mp3" (voz grabada por el dueño, reemplaza la TTS)."""
 import sys,json,os,subprocess,tempfile
 from PIL import Image,ImageDraw,ImageFont,ImageOps,ImageFilter,ImageEnhance
 R=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -47,9 +50,26 @@ def endcard(e):
     fo=ImageFont.truetype(IB,50);t=e.get("whatsapp","WhatsApp +56 9 6190 7601");tw=d.textlength(t,font=fo)
     d.rounded_rectangle(((W-tw)/2-40,y+50,(W+tw)/2+40,y+150),radius=50,fill=GREEN);d.text(((W-tw)/2,y+70),t,font=fo,fill=(255,255,255))
     return out
+VOICE_URL="https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-carlfm-x-low.tar.gz"
+def ensure_voice(s):
+    v=s.get("voice") or f"{R}/tools/voices/es-carlfm-x-low.onnx"
+    if not os.path.exists(v):
+        os.makedirs(f"{R}/tools/voices",exist_ok=True);tg=f"{R}/tools/voices/v.tar.gz"
+        subprocess.run(["curl","-sSL","-o",tg,VOICE_URL],check=True);subprocess.run(["tar","xzf",tg,"-C",f"{R}/tools/voices"],check=True);os.remove(tg)
+    return v
+def dur_of(f): return float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",f],capture_output=True,text=True).stdout.strip())
+def tts(text,model,out,speed=1.0):
+    subprocess.run([sys.executable,"-m","piper","-m",model,"-f",out,"--length-scale",str(speed),"--sentence-silence","0.15"],input=text.encode(),check=True,capture_output=True)
+    return dur_of(out)
 def main(spec,out):
     s=json.load(open(spec));tmp=tempfile.mkdtemp();parts=[]
-    clips=s["clips"]+[{"_end":True,"dur":s.get("end",{}).get("dur",2.5)}]
+    clips=s["clips"]+[{"_end":True,"dur":s.get("end",{}).get("dur",2.5),"vo":s.get("end",{}).get("vo")}]
+    vo_on=any(c.get("vo") for c in clips) and not s.get("vo_file");vos=[]
+    if vo_on:
+        model=ensure_voice(s)
+        for i,c in enumerate(clips):
+            if c.get("vo"):
+                w=f"{tmp}/vo{i}.wav";d=tts(c["vo"],model,w,s.get("vo_speed",1.0));c["dur"]=max(c.get("dur",2.5),d+0.6);vos.append((i,w))
     for i,c in enumerate(clips):
         img=endcard(s.get("end",{})) if c.get("_end") else frame(c)
         p=f"{tmp}/f{i}.png";img.save(p);n=int(c.get("dur",2.5)*FPS)
@@ -63,7 +83,19 @@ def main(spec,out):
     acc=parts[0][1]
     for i in range(1,len(parts)):
         off=acc-xf;lab=f"v{i}";fil.append(f"[{last}][{i}:v]xfade=transition=fade:duration={xf}:offset={off:.2f}[{lab}]");last=lab;acc+=parts[i][1]-xf
-    cmd=["ffmpeg","-v","error","-y"]+inputs+["-f","lavfi","-t",f"{acc:.2f}","-i","anullsrc=r=44100:cl=stereo"]
+    if vo_on or s.get("vo_file"):
+        # build voice track aligned to clip starts
+        starts=[];t=0.0
+        for i,(v,dur) in enumerate(parts): starts.append(t);t+=dur-xf
+        if s.get("vo_file"): af=[s["vo_file"]];dl=[0]
+        else: af=[w for i,w in vos];dl=[int((starts[i]+0.25)*1000) for i,w in vos]
+        ain=[];fl=[]
+        for k,(f_,d_) in enumerate(zip(af,dl)): ain+=["-i",f_];fl.append(f"[{k}:a]aresample=44100,adelay={d_}|{d_},apad[a{k}]")
+        fl.append("".join(f"[a{k}]" for k in range(len(af)))+f"amix=inputs={len(af)}:normalize=0,atrim=0:{acc:.2f},volume=0.85[out]")
+        voice=f"{tmp}/voice.wav";subprocess.run(["ffmpeg","-v","error","-y"]+ain+["-filter_complex",";".join(fl),"-map","[out]","-ac","2",voice],check=True)
+        audio_in=["-i",voice]
+    else: audio_in=["-f","lavfi","-t",f"{acc:.2f}","-i","anullsrc=r=44100:cl=stereo"]
+    cmd=["ffmpeg","-v","error","-y"]+inputs+audio_in
     cmd+=["-filter_complex",";".join(fil),"-map",f"[{last}]","-map",f"{len(parts)}:a","-c:v","libx264","-preset","medium","-crf","21","-pix_fmt","yuv420p","-c:a","aac","-shortest","-movflags","+faststart",out] if fil else ["-map","0:v","-map","1:a","-c:v","copy","-c:a","aac","-shortest",out]
     subprocess.run(cmd,check=True);print(out,f"{acc:.1f}s")
 if __name__=="__main__": main(sys.argv[1],sys.argv[2])
