@@ -4,8 +4,8 @@ spec: {"clips":[{"photo":"banco/...jpg","text":"Texto grande","sub":"texto chico
        "end":{"title":"TeamFS Kennel Club","sub":"Cane Corso KCC · American Bully ABKC"}}
 First clip = hook (1.5–2.5 s). Keep total 8–25 s. Text is baked into frames (Reels/TikTok are watched muted).
 Voz en off (opcional): agrega "vo":"texto hablado" a cada clip. La duración del clip se alarga para que calce la voz.
-  Motor: Piper TTS offline (pip install piper-tts). Voz por defecto es-carlfm-x-low (se descarga de GitHub a tools/voices/ si falta).
-  Opcional en spec: "voice":"ruta/modelo.onnx", "vo_speed":1.0 (más bajo = más rápido), "vo_file":"audio.mp3" (voz grabada por el dueño, reemplaza la TTS)."""
+  Motor (vo_engine "auto"): Edge TTS chilena es-CL-CatalinaNeural si hay acceso a speech.platform.bing.com; si no, Piper offline latino es_MX-claude-high.
+  Opcional en spec: "edge_voice":"es-CL-LorenzoNeural", "edge_rate":"+8%", "piper_voice":"es_MX-ald-medium", "vo_speed":0.92, "vo_file":"audio.mp3" (voz grabada por el dueño, reemplaza la TTS)."""
 import sys,json,os,subprocess,tempfile
 from PIL import Image,ImageDraw,ImageFont,ImageOps,ImageFilter,ImageEnhance
 R=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -50,26 +50,47 @@ def endcard(e):
     fo=ImageFont.truetype(IB,50);t=e.get("whatsapp","WhatsApp +56 9 6190 7601");tw=d.textlength(t,font=fo)
     d.rounded_rectangle(((W-tw)/2-40,y+50,(W+tw)/2+40,y+150),radius=50,fill=GREEN);d.text(((W-tw)/2,y+70),t,font=fo,fill=(255,255,255))
     return out
-VOICE_URL="https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-carlfm-x-low.tar.gz"
+# Voz: 1) Edge TTS es-CL (chilena, natural) si el dominio speech.platform.bing.com está permitido;
+#      2) si no, Piper offline latino (es_MX-claude-high, descargado de GitHub sherpa-onnx a tools/voices/).
+EDGE_VOICE="es-CL-CatalinaNeural"   # alternativa masculina: es-CL-LorenzoNeural
+PIPER_DEFAULT="es_MX-claude-high"
+PIPER_URL="https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-{n}.tar.bz2"
 def ensure_voice(s):
-    v=s.get("voice") or f"{R}/tools/voices/es-carlfm-x-low.onnx"
+    v=s.get("voice_model")
+    if v: return v
+    n=s.get("piper_voice",PIPER_DEFAULT);d=f"{R}/tools/voices";v=f"{d}/vits-piper-{n}/{n}.onnx"
     if not os.path.exists(v):
-        os.makedirs(f"{R}/tools/voices",exist_ok=True);tg=f"{R}/tools/voices/v.tar.gz"
-        subprocess.run(["curl","-sSL","-o",tg,VOICE_URL],check=True);subprocess.run(["tar","xzf",tg,"-C",f"{R}/tools/voices"],check=True);os.remove(tg)
+        os.makedirs(d,exist_ok=True);tg=f"{d}/v.tar.bz2"
+        subprocess.run(["curl","-sSL","-o",tg,PIPER_URL.format(n=n)],check=True);subprocess.run(["tar","xjf",tg,"-C",d],check=True);os.remove(tg)
     return v
 def dur_of(f): return float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",f],capture_output=True,text=True).stdout.strip())
-def tts(text,model,out,speed=1.0):
-    subprocess.run([sys.executable,"-m","piper","-m",model,"-f",out,"--length-scale",str(speed),"--sentence-silence","0.15"],input=text.encode(),check=True,capture_output=True)
+def edge_tts(text,out,voice,rate):
+    try:
+        import edge_tts,asyncio
+        px=os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+        async def go(): await edge_tts.Communicate(text,voice,rate=rate,proxy=px).save(out+".mp3")
+        asyncio.run(go());subprocess.run(["ffmpeg","-v","error","-y","-i",out+".mp3",out],check=True);return True
+    except Exception as e:
+        print("Edge TTS no disponible, uso Piper:",str(e)[:80]);return False
+ENGINE={"edge":None}
+def tts(text,s,out):
+    if s.get("vo_engine","auto") in ("auto","edge") and ENGINE["edge"] is not False:
+        ok=edge_tts(text,out,s.get("edge_voice",EDGE_VOICE),s.get("edge_rate","+8%"))
+        ENGINE["edge"]=ok
+        if ok: return dur_of(out)
+    model=ensure_voice(s)
+    raw=out+".raw.wav"
+    subprocess.run([sys.executable,"-m","piper","-m",model,"-f",raw,"--length-scale",str(s.get("vo_speed",0.92)),"--noise-scale","0.75","--sentence-silence","0.15"],input=text.encode(),check=True,capture_output=True)
+    subprocess.run(["ffmpeg","-v","error","-y","-i",raw,"-af","highpass=f=80,acompressor=threshold=-18dB:ratio=3","-ar","44100",out],check=True)
     return dur_of(out)
 def main(spec,out):
     s=json.load(open(spec));tmp=tempfile.mkdtemp();parts=[]
     clips=s["clips"]+[{"_end":True,"dur":s.get("end",{}).get("dur",2.5),"vo":s.get("end",{}).get("vo")}]
     vo_on=any(c.get("vo") for c in clips) and not s.get("vo_file");vos=[]
     if vo_on:
-        model=ensure_voice(s)
         for i,c in enumerate(clips):
             if c.get("vo"):
-                w=f"{tmp}/vo{i}.wav";d=tts(c["vo"],model,w,s.get("vo_speed",1.0));c["dur"]=max(c.get("dur",2.5),d+0.6);vos.append((i,w))
+                w=f"{tmp}/vo{i}.wav";d=tts(c["vo"],s,w);c["dur"]=max(c.get("dur",2.5),d+0.6);vos.append((i,w))
     for i,c in enumerate(clips):
         img=endcard(s.get("end",{})) if c.get("_end") else frame(c)
         p=f"{tmp}/f{i}.png";img.save(p);n=int(c.get("dur",2.5)*FPS)
