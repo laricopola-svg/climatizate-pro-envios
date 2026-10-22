@@ -1,0 +1,35 @@
+{
+ "tema": "Prepara tu aire acondicionado para el verano",
+ "slides": [
+  {"tipo":"portada","kicker":"Antes del primer calor","titulo":"Prepara tu aire <span class=f>para el verano</span> y <span class=c>cuida tu instalación</span>","texto":"Lo que puedes revisar tú, las señales de que necesita un técnico y cómo una buena instalación se cuida mejor."},
+  {"tipo":"lista","kicker":"Lo puedes hacer tú","titulo":"4 cuidados antes de diciembre","items":[
+    {"icono":"◻","t":"Limpia los filtros","d":"Con el equipo apagado, sácalos, lávalos con agua tibia y déjalos secar a la sombra."},
+    {"icono":"↔","t":"Despeja la unidad exterior","d":"Sin cajas, plantas ni objetos alrededor: necesita espacio para ventilar.","calor":true},
+    {"icono":"↓","t":"Mira el desagüe","d":"El agua debe salir hacia afuera, nunca gotear dentro de la casa."},
+    {"icono":"✓","t":"Pruébalo antes del calor","d":"Enciéndelo unos minutos ahora, no el primer día de 32 °C.","calor":true}
+  ]},
+  {"tipo":"lista","kicker":"Llama a un técnico si…","titulo":"5 señales de <span class=c>alerta</span>","items":[
+    {"icono":"❄","t":"Climatiza menos que antes","d":"Le cuesta llegar a la temperatura que eliges."},
+    {"icono":"≋","t":"Huele a humedad","d":"Puede haber suciedad acumulada en el interior del equipo.","calor":true},
+    {"icono":"💧","t":"Gotea hacia adentro","d":"El desagüe puede estar tapado o sin la caída correcta."},
+    {"icono":"♪","t":"Ruidos o vibraciones nuevas","d":"Algo puede estar suelto o mal apoyado.","calor":true},
+    {"icono":"$","t":"La cuenta de luz sube","d":"Un equipo que trabaja forzado consume más."}
+  ]},
+  {"tipo":"foto","foto":"/home/claude/envios/fotos/mejoradas/foto_00.jpg","pos":"88% 70%","kicker":"Unidad exterior","titulo":"Despejada y ventilada","texto":"En el balcón, con espacio libre alrededor para que ventile bien."},
+  {"tipo":"ilustracion","kicker":"Protege el recorrido","dibujo":"canaleta","titulo":"Canaleta: orden y protección","puntos":["Cubre la tubería de cobre y los cordones eléctricos entre ambas unidades.","Se ve ordenado y los protege del polvo y el sol."],"precio":"$35.000","precio_det":"canaleta blanca 100×50 de 2 m"},
+  {"tipo":"foto","foto":"/home/claude/envios/fotos/mejoradas/foto_08.jpg","pos":"60% 25%","kicker":"Living","titulo":"Bien instalado, fácil de cuidar","texto":"Equipo en altura y despejado: filtros accesibles y salida de aire libre."},
+  {"tipo":"lista","kicker":"Instalación de calidad","titulo":"Así lo dejamos en <span class=f>Climatízate Pro</span>","items":[
+    {"icono":"↓","t":"Desagüe con caída hacia afuera","d":"Para que el agua no vuelva al muro ni gotee adentro."},
+    {"icono":"▭","t":"Recorrido ordenado","d":"Unidades cerca y canaleta cuando se necesita.","calor":true},
+    {"icono":"✦","t":"Espacio limpio al terminar","d":"Te entregamos el equipo funcionando y tu casa ordenada."},
+    {"icono":"✓","t":"6 meses de garantía de instalación","d":"Y el equipo con la garantía de su marca.","calor":true}
+  ]},
+  {"tipo":"cta","kicker":"¿Aún no tienes aire?","titulo":"Instálalo <span class=f>antes del peak</span> de calor","texto":"Equipos Inverter frío/calor, con instalación básica incluida. Mira cómo quedará en tu muro con el simulador.","boton":"Cotiza en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "¿Tu aire está listo para el verano? ☀️❄️\n\nAntes del primer calor, revisa esto:\n\n✅ Limpia los filtros (con el equipo apagado)\n✅ Despeja la unidad exterior: necesita espacio para ventilar\n✅ Mira que el agua del desagüe salga hacia afuera\n✅ Pruébalo ahora, no el primer día de 32 °C\n\n⚠️ Si climatiza menos, huele a humedad, gotea hacia adentro, hace ruidos nuevos o sube la cuenta de luz, pide una revisión técnica.\n\nUna instalación bien hecha se cuida mejor: desagüe con caída hacia afuera, recorrido ordenado, canaleta cuando se necesita y 6 meses de garantía de instalación ✨\n\n¿Aún no tienes aire? Equipos Inverter frío/calor con instalación básica incluida. Cotiza en climatizatepro.cl (link en la bio) o al WhatsApp +56 9 6190 7601.\n\nGuarda este post ⭐ para tu checklist de verano.\n\n#AireAcondicionado #SplitInverter #VeranoChile #InstalaciónProfesional #Santiago #HogarChile #ClimatízatePro",
+  "facebook": "¿Tu aire acondicionado está listo para el verano? 👇\n\n🧰 Lo que puedes hacer tú:\n• Limpiar los filtros con el equipo apagado\n• Despejar la unidad exterior para que ventile bien\n• Revisar que el agua del desagüe salga hacia afuera\n• Probarlo antes de que llegue el calor fuerte\n\n⚠️ Pide una revisión técnica si climatiza menos que antes, huele a humedad, gotea dentro de la casa, hace ruidos nuevos o notas que la cuenta de luz sube.\n\nEn Climatízate Pro instalamos para que el equipo funcione bien por años: desagüe con caída hacia afuera, recorrido ordenado, canaleta cuando se necesita (canaleta blanca 100×50 de 2 m: $35.000), espacio limpio al terminar y 6 meses de garantía de instalación.\n\n¿Aún no tienes aire? Equipos Inverter frío/calor con instalación básica incluida.\n👉 https://www.climatizatepro.cl\n📲 WhatsApp: +56 9 6190 7601\n\n#AireAcondicionado #Santiago #Verano #InstalaciónProfesional #ClimatízatePro",
+  "tiktok": "Checklist antes del verano ☀️ Filtros limpios, unidad exterior despejada, desagüe hacia afuera y pruébalo antes del calor ✅ Y si gotea adentro o huele a humedad, llama a un técnico ⚠️ climatizatepro.cl\n\n#aireacondicionado #verano #santiago #chile #inverter #hogar #tips #climatizatepro",
+  "linkedin": "La temporada de calor es la de mayor demanda para la climatización en Santiago. Preparar los equipos antes evita fallas en el peor momento.\n\nUna revisión simple antes del verano:\n• Filtros limpios.\n• Unidad exterior despejada y con buena ventilación.\n• Desagüe que descarga hacia el exterior.\n• Prueba de funcionamiento antes del primer día de calor.\n\nSeñales para pedir una revisión técnica: menor rendimiento, olor a humedad, goteo hacia el interior, ruidos o vibraciones nuevas y aumento del consumo eléctrico.\n\nBuena parte del cuidado empieza en la instalación: desagüe con caída correcta, recorrido ordenado, canaleta cuando corresponde y garantía de instalación de 6 meses.\n\nClimatízate Pro: equipos Inverter frío/calor para hogares y empresas en Santiago.\n🔗 https://www.climatizatepro.cl\n\n#Climatización #AireAcondicionado #InstalaciónProfesional #Santiago #Pymes"
+ }
+}
