@@ -85,5 +85,11 @@
       "detalle": "add_repo no estaba disponible como herramienta en esta sesión; el repo ya estaba en el alcance y el clone/push funcionaron."
     }
   ],
-  "ultima_revision": "2026-10-22T06:45-03:00"
+  "ultima_revision": "2026-10-22T07:07-03:00",
+  "revisiones": [
+    {
+      "hora": "2026-10-22T07:07-03:00",
+      "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (solo el correo enviado 06:41). Sin cambios; las 3 siguen en borrador."
+    }
+  ]
 }
