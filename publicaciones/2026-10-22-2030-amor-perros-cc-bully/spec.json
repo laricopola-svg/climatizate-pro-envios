@@ -1,0 +1,63 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "photo": "banco/american-bully/bully_005.jpg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "kicker": "Cane Corso & American Bully",
+   "title": "¿“Solo un perro”?",
+   "title_size": 120,
+   "subtitle": "Nadie que tenga uno diría eso. Esto es lo que nos dan cada día.",
+   "cta": "Desliza →"
+  },
+  {
+   "type": "point",
+   "photo": "banco/american-bully/bully_020.jpg",
+   "fx": 0.5,
+   "fy": 0.5,
+   "label": "01 · La bienvenida",
+   "headline": "Te esperan como si fueras famoso",
+   "body": "Saliste 8 horas u 8 minutos: la fiesta en la puerta es la misma. Ese amor no se compra."
+  },
+  {
+   "type": "point",
+   "photo": "banco/american-bully/bully_018.jpg",
+   "fx": 0.5,
+   "fy": 0.35,
+   "label": "02 · El cuidado",
+   "headline": "Cuidan a los suyos sin que se lo pidas",
+   "body": "Grandes por fuera, nobles por dentro. Con los niños de la casa son pura paciencia."
+  },
+  {
+   "type": "point",
+   "photo": "banco/american-bully/bully_012.jpg",
+   "fx": 0.0,
+   "fy": 0.5,
+   "label": "03 · La compañía",
+   "headline": "Llegan de cachorros y se vuelven familia",
+   "body": "Te cambian la rutina, el sillón y el corazón. Y no los cambiarías por nada."
+  },
+  {
+   "type": "point",
+   "photo": "banco/american-bully/bully_021.jpg",
+   "fx": 0.5,
+   "fy": 0.3,
+   "label": "04 · Lo incondicional",
+   "headline": "Te quieren tal cual eres",
+   "body": "No les importa el lunes, el sueldo ni el pelo. Solo que estés. Devuélveles lo mismo: tiempo, cuidado y respeto."
+  },
+  {
+   "type": "cta",
+   "big": "AMOR",
+   "big_size": 230,
+   "headline": "Cane Corso o Bully:",
+   "highlight": "el amor es el mismo",
+   "bullets": [
+    "Etiqueta a quien ama a su perro",
+    "Cuéntanos cómo se llama el tuyo",
+    "Cachorros con registro KCC y ABKC"
+   ]
+  }
+ ]
+}

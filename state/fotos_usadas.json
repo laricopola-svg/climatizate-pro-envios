@@ -206,11 +206,39 @@
    "portada": false
   }
  ],
- "banco/cane-corso/cc_010.jpg": [
+ "banco/american-bully/bully_005.jpg": [
   {
    "fecha": "2026-10-22",
-   "carpeta": "publicaciones/2026-10-22-2030-red-flags-criadero-cane-corso",
+   "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
    "portada": true
+  }
+ ],
+ "banco/american-bully/bully_020.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_018.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_012.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_021.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
+   "portada": false
   }
  ]
 }
