@@ -70,7 +70,7 @@
       "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
       "metricool": [
         {
-          "id": 403041449,
+          "id": 403081234,
           "uuid": "-3575364287818218204",
           "redes": [
             "facebook",
@@ -79,7 +79,7 @@
           ]
         }
       ],
-      "estado": "borrador",
+      "estado": "programada",
       "voz_en_off": false,
       "reemplaza": {
         "tema": "Red flags al comprar un Cane Corso",
@@ -97,7 +97,7 @@
       "detalle": "add_repo no estaba disponible como herramienta en esta sesión; el repo ya estaba en el alcance y el clone/push funcionaron."
     }
   ],
-  "ultima_revision": "2026-10-22T08:17-03:00",
+  "ultima_revision": "2026-10-22T09:07-03:00",
   "revisiones": [
     {
       "hora": "2026-10-22T07:07-03:00",
@@ -107,6 +107,11 @@
       "hora": "2026-10-22T08:17-03:00",
       "mensaje_revisado": "1a16347803e81256 (fcosotog7, 08:02)",
       "resultado": "'Publicación 1 OK / 2 OK / 3 No, cambiar por amor por los perros (Bully y Cane Corso)'. 1 y 2: draft:false en Metricool (nuevos ids 403039888, 403039986), estado programada. 3: nuevo carrusel de 6 láminas generado y subido a la rama, borrador Metricool actualizado (id 403041449, draft:true), respuesta enviada en el hilo pidiendo OK 3. Fotos de la versión rechazada (cc_010) liberadas en fotos_usadas.json."
+    },
+    {
+      "hora": "2026-10-22T09:07-03:00",
+      "mensaje_revisado": "1a163574cf4fde29 (fcosotog7, 08:20)",
+      "resultado": "'Ok' sin números en respuesta a la versión nueva de la 3. 1 y 2 ya programadas (siguen draft:false en Metricool). 3: draft:false en Metricool, nuevo id 403081234, 20:30, estado programada. Las 3 del día quedan programadas."
     }
   ]
 }
