@@ -163,5 +163,54 @@
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
    "portada": false
   }
+ ],
+ "banco/cane-corso/cc_002.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-1100-halloween-cane-corso",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_002.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_008.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_035.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_019.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_034.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_010.jpg": [
+  {
+   "fecha": "2026-10-22",
+   "carpeta": "publicaciones/2026-10-22-2030-red-flags-criadero-cane-corso",
+   "portada": true
+  }
  ]
 }

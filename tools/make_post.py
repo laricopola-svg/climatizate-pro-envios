@@ -49,7 +49,20 @@ def header(d,n,tot):
 def pill(d,x,y,text,bg,fg=WHITE,size=28):
     fo=f(IB,size);tw=d.textlength(text,font=fo)
     d.rounded_rectangle((x,y,x+tw+44,y+size+26),radius=(size+26)//2,fill=bg);d.text((x+22,y+10),text,font=fo,fill=fg);return y+size+26
+def design_bg(s):
+    """Lámina de diseño sin foto (banco agotado): azul marino con viñeta, franja roja y número/emoji grande en dorado."""
+    ys,xs=np.mgrid[0:H,0:W];r=np.sqrt(((xs-W*.75)/W)**2+((ys-H*.25)/H)**2)
+    a=np.clip(1-r*1.1,0,1)[...,None]*np.array([22,40,84])+np.array(NAVY)
+    im=Image.fromarray(np.clip(a,0,255).astype(np.uint8));d=ImageDraw.Draw(im)
+    d.polygon([(W,140),(W,320),(W-520,H*0+700)],fill=(18,32,70))
+    big=s.get("big")
+    if big:
+        fo=f(P,s.get("big_size",360));tw=d.textlength(big,font=fo)
+        d.text((W-60-tw,130),big,font=fo,fill=GOLD)
+    d.rectangle((0,H-14,W,H),fill=RED)
+    return im
 def base(s,start,strength):
+    if not s.get("photo"): return design_bg(s)
     return gradient(cover(enhance(Image.open(os.path.join(R,s["photo"]))),s.get("fx",.5),s.get("fy",.5),s.get("zoom",1)),start,strength)
 def s_cover(s,n,tot):
     im=base(s,.36,.96);d=ImageDraw.Draw(im);header(d,n,tot)

@@ -1,0 +1,62 @@
+{
+"slides": [
+{
+"type": "cover",
+"photo": "banco/cane-corso/cc_002.jpg",
+"fy": 0.4,
+"kicker": "Halloween se acerca",
+"title": "Halloween sin sustos",
+"title_size": 120,
+"subtitle": "Tu Cane Corso no necesita disfraz: ya tiene cara de guardián. Lo que sí necesita es esto.",
+"cta": "5 peligros reales →",
+"fx": 0.75
+},
+{
+"type": "point",
+"big": "01",
+"label": "Peligro 1",
+"headline": "El chocolate no se comparte",
+"body": "Contiene teobromina, tóxica para los perros. Mientras más oscuro, peor. La bolsa de dulces va en altura, no en la mesa del living."
+},
+{
+"type": "point",
+"big": "02",
+"label": "Peligro 2",
+"headline": "Dulces y chicles “sin azúcar”",
+"body": "Muchos llevan xilitol, muy peligroso para los perros incluso en poca cantidad. Revisa etiquetas y no dejes chicles en carteras ni bolsillos."
+},
+{
+"type": "point",
+"big": "03",
+"label": "Peligro 3",
+"headline": "Envoltorios y palitos",
+"body": "Un moloso no desenvuelve: traga. Papel metálico, bolsas y palitos de chupete pueden quedar atascados en el intestino."
+},
+{
+"type": "point",
+"big": "04",
+"label": "Peligro 4",
+"headline": "El timbre infinito",
+"body": "Niños tocando el timbre toda la noche = estrés. Dale un espacio tranquilo lejos de la puerta, con agua y su juguete favorito."
+},
+{
+"type": "point",
+"big": "05",
+"label": "Peligro 5",
+"headline": "Disfraz solo si lo disfruta",
+"body": "Nada que apriete, tape ojos u orejas o lo acalore (octubre ya calienta). Si se queda inmóvil o intenta sacárselo: fuera disfraz."
+},
+{
+"type": "cta",
+"headline": "¿Se comió algo que no debía?",
+"highlight": "Consulta a tu veterinario al tiro",
+"bullets": [
+"No esperes a que aparezcan síntomas",
+"Anota qué comió y a qué hora",
+"Dato TeamFS: chocolate oscuro = el peor"
+],
+"big": "SOS",
+"big_size": 300
+}
+]
+}

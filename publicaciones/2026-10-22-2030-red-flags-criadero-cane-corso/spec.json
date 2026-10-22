@@ -1,0 +1,62 @@
+{
+"slides": [
+{
+"type": "cover",
+"photo": "banco/cane-corso/cc_010.jpg",
+"fx": 0.9,
+"fy": 0.1,
+"kicker": "Antes de comprar un Cane Corso",
+"title": "Red flags de criadero",
+"title_size": 110,
+"subtitle": "Chile es largo y angosto. La lista de excusas de algunos criaderos, más.",
+"cta": "Toma nota →"
+},
+{
+"type": "point",
+"big": "01",
+"label": "Red flag 1",
+"headline": "“El pedigrí llega después”",
+"body": "Es el “te llamo mañana” de la cinofilia. Pide el registro KCC de los padres y la inscripción de la camada ANTES de reservar."
+},
+{
+"type": "point",
+"big": "02",
+"label": "Red flag 2",
+"headline": "No puedes conocer a la madre",
+"body": "Un criador serio te muestra a la madre (y ojalá al padre) con nombre, registro y temperamento real. Sin fotos “de referencia”."
+},
+{
+"type": "point",
+"big": "03",
+"label": "Red flag 3",
+"headline": "Cero pruebas de salud",
+"body": "Pregunta por la evaluación de caderas y codos de los padres y el control veterinario de la camada. Si la respuesta es “son sanitos”, ojo."
+},
+{
+"type": "point",
+"big": "04",
+"label": "Red flag 4",
+"headline": "“Llévatelo ya, está listo”",
+"body": "El cachorro aprende a ser perro con su madre y hermanos. Lo recomendable: no separarlo antes de las 8 semanas."
+},
+{
+"type": "point",
+"big": "05",
+"label": "Red flag 5",
+"headline": "Sin contrato ni seguimiento",
+"body": "Contrato escrito, carnet de vacunas y desparasitación, y un criador que te conteste DESPUÉS de la venta. Ese es el estándar."
+},
+{
+"type": "cta",
+"big": "KCC",
+"big_size": 300,
+"headline": "En TeamFS te lo mostramos:",
+"highlight": "registro KCC, padres y crianza",
+"bullets": [
+"Pregunta todo, sin vergüenza",
+"Pide conocer a los padres",
+"Dato TeamFS: el papel no se promete"
+]
+}
+]
+}
