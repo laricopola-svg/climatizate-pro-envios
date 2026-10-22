@@ -1,0 +1,89 @@
+{
+  "fecha": "2026-10-22",
+  "dia": "jueves (par: 11:00 Cane Corso, 15:00 Bully, 20:30 Cane Corso; carrusel, no Reel)",
+  "gmail": {
+    "messageId": "1a162fd11e8269b3",
+    "threadId": "1a162fd11e8269b3",
+    "para": "fcosotog7@gmail.com",
+    "asunto": "[TeamFS] Propuesta 2026-10-22 – responde OK para publicar"
+  },
+  "publicaciones": [
+    {
+      "n": 1,
+      "hora": "11:00",
+      "tema": "Halloween sin sustos: 5 peligros (chocolate, xilitol, envoltorios, timbre, disfraz)",
+      "slug": "halloween-peligros",
+      "raza": "Cane Corso",
+      "pilar": "educativo",
+      "formato": "carrusel 7 láminas (2 fotos + 5 de diseño)",
+      "carpeta": "publicaciones/2026-10-22-1100-halloween-cane-corso",
+      "metricool": [
+        {
+          "id": 402964669,
+          "uuid": "-4160414079691436630",
+          "redes": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        }
+      ],
+      "estado": "borrador"
+    },
+    {
+      "n": 2,
+      "hora": "15:00",
+      "tema": "Cortar uñas sin drama en 3 pasos",
+      "slug": "unas-corte",
+      "raza": "American Bully",
+      "pilar": "instructivo",
+      "formato": "carrusel 5 láminas",
+      "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+      "metricool": [
+        {
+          "id": 402964929,
+          "uuid": "4066842621162835540",
+          "redes": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        }
+      ],
+      "estado": "borrador"
+    },
+    {
+      "n": 3,
+      "hora": "20:30",
+      "tema": "Red flags al comprar un Cane Corso (meme 'Chile largo y angosto')",
+      "slug": "red-flags-criadero",
+      "raza": "Cane Corso",
+      "pilar": "autoridad/humor",
+      "formato": "carrusel 7 láminas (1 foto + 6 de diseño)",
+      "carpeta": "publicaciones/2026-10-22-2030-red-flags-criadero-cane-corso",
+      "metricool": [
+        {
+          "id": 402965053,
+          "uuid": "-3575364287818218204",
+          "redes": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ]
+        }
+      ],
+      "estado": "borrador",
+      "voz_en_off": false
+    }
+  ],
+  "incidencias": [
+    {
+      "hora": "2026-10-22T06:38-03:00",
+      "detalle": "Banco Cane Corso agotado para regla de 14 días (solo cc_001, cc_002, cc_010 sin uso). Se agregó a tools/make_post.py lámina de diseño sin foto (clave 'big'). Canva generate-image solo devolvió miniatura 161x200, no usable. Se pidieron fotos nuevas al dueño en el correo."
+    },
+    {
+      "detalle": "add_repo no estaba disponible como herramienta en esta sesión; el repo ya estaba en el alcance y el clone/push funcionaron."
+    }
+  ],
+  "ultima_revision": "2026-10-22T06:45-03:00"
+}
