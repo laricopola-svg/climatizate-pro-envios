@@ -5,7 +5,14 @@
     "messageId": "1a162fd11e8269b3",
     "threadId": "1a162fd11e8269b3",
     "para": "fcosotog7@gmail.com",
-    "asunto": "[TeamFS] Propuesta 2026-10-22 – responde OK para publicar"
+    "asunto": "[TeamFS] Propuesta 2026-10-22 – responde OK para publicar",
+    "respuestas_enviadas": [
+      {
+        "messageId": "1a16353f7f16c640",
+        "hora": "2026-10-22T08:17-03:00",
+        "contenido": "Confirmación 1 y 2 programadas + nueva versión de la 3 con láminas"
+      }
+    ]
   },
   "publicaciones": [
     {
@@ -19,7 +26,7 @@
       "carpeta": "publicaciones/2026-10-22-1100-halloween-cane-corso",
       "metricool": [
         {
-          "id": 402964669,
+          "id": 403039888,
           "uuid": "-4160414079691436630",
           "redes": [
             "facebook",
@@ -28,7 +35,7 @@
           ]
         }
       ],
-      "estado": "borrador"
+      "estado": "programada"
     },
     {
       "n": 2,
@@ -41,7 +48,7 @@
       "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
       "metricool": [
         {
-          "id": 402964929,
+          "id": 403039986,
           "uuid": "4066842621162835540",
           "redes": [
             "facebook",
@@ -50,20 +57,20 @@
           ]
         }
       ],
-      "estado": "borrador"
+      "estado": "programada"
     },
     {
       "n": 3,
       "hora": "20:30",
-      "tema": "Red flags al comprar un Cane Corso (meme 'Chile largo y angosto')",
-      "slug": "red-flags-criadero",
-      "raza": "Cane Corso",
-      "pilar": "autoridad/humor",
-      "formato": "carrusel 7 láminas (1 foto + 6 de diseño)",
-      "carpeta": "publicaciones/2026-10-22-2030-red-flags-criadero-cane-corso",
+      "tema": "Amor por los perros: Cane Corso y American Bully ('¿Solo un perro?')",
+      "slug": "amor-perros",
+      "raza": "Cane Corso + American Bully",
+      "pilar": "emocional/comunidad",
+      "formato": "carrusel 6 láminas (5 fotos + 1 de diseño)",
+      "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
       "metricool": [
         {
-          "id": 402965053,
+          "id": 403041449,
           "uuid": "-3575364287818218204",
           "redes": [
             "facebook",
@@ -73,7 +80,12 @@
         }
       ],
       "estado": "borrador",
-      "voz_en_off": false
+      "voz_en_off": false,
+      "reemplaza": {
+        "tema": "Red flags al comprar un Cane Corso",
+        "carpeta": "publicaciones/2026-10-22-2030-red-flags-criadero-cane-corso",
+        "motivo": "Rechazada por el dueño (08:02): pidió cambiarla por una sobre el amor por los perros (ambas razas)."
+      }
     }
   ],
   "incidencias": [
@@ -85,11 +97,16 @@
       "detalle": "add_repo no estaba disponible como herramienta en esta sesión; el repo ya estaba en el alcance y el clone/push funcionaron."
     }
   ],
-  "ultima_revision": "2026-10-22T07:07-03:00",
+  "ultima_revision": "2026-10-22T08:17-03:00",
   "revisiones": [
     {
       "hora": "2026-10-22T07:07-03:00",
       "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (solo el correo enviado 06:41). Sin cambios; las 3 siguen en borrador."
+    },
+    {
+      "hora": "2026-10-22T08:17-03:00",
+      "mensaje_revisado": "1a16347803e81256 (fcosotog7, 08:02)",
+      "resultado": "'Publicación 1 OK / 2 OK / 3 No, cambiar por amor por los perros (Bully y Cane Corso)'. 1 y 2: draft:false en Metricool (nuevos ids 403039888, 403039986), estado programada. 3: nuevo carrusel de 6 láminas generado y subido a la rama, borrador Metricool actualizado (id 403041449, draft:true), respuesta enviada en el hilo pidiendo OK 3. Fotos de la versión rechazada (cc_010) liberadas en fotos_usadas.json."
     }
   ]
 }
