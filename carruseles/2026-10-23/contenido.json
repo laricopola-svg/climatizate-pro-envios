@@ -1,0 +1,157 @@
+{
+ "tema": "Así es el día de tu instalación: qué preparar y qué hacemos paso a paso",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Instalación paso a paso",
+   "titulo": "El día de tu instalación, <span class=f>paso a paso</span> y <span class=c>sin sorpresas</span>",
+   "texto": "Qué dejar listo antes de que lleguemos, qué hacemos en tu casa y cómo te lo entregamos."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Antes de que lleguemos",
+   "titulo": "4 cosas para <span class=f>dejar listas</span>",
+   "items": [
+    {
+     "icono": "▭",
+     "t": "Despeja el muro",
+     "d": "Mueve cuadros, repisas o muebles de donde irá el equipo."
+    },
+    {
+     "icono": "↗",
+     "t": "Libera el acceso al exterior",
+     "d": "Balcón, terraza o patio donde quedará la unidad exterior.",
+     "calor": true
+    },
+    {
+     "icono": "⌁",
+     "t": "Ubica el enchufe más cercano",
+     "d": "Si está a más de 1,5 m del equipo, se suma punto eléctrico: $12.000 por metro adicional."
+    },
+    {
+     "icono": "⌂",
+     "t": "Avisa en conserjería",
+     "d": "Si vives en edificio, coordina el ingreso y el estacionamiento.",
+     "calor": true
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "En tu casa · etapas 1 a 3",
+   "titulo": "Lo que hacemos, <span class=f>paso a paso</span>",
+   "items": [
+    {
+     "icono": "1",
+     "t": "Evaluamos el espacio",
+     "d": "Confirmamos contigo la ubicación de ambas unidades y el recorrido."
+    },
+    {
+     "icono": "2",
+     "t": "Marcamos y perforamos",
+     "d": "Con el equipo nivelado y la caída correcta para el desagüe.",
+     "calor": true
+    },
+    {
+     "icono": "3",
+     "t": "Montamos la unidad interior",
+     "d": "En altura, firme y con la salida de aire despejada."
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "En tu casa · etapas 4 a 6",
+   "titulo": "Y lo dejamos <span class=c>funcionando</span>",
+   "items": [
+    {
+     "icono": "4",
+     "t": "Instalamos la unidad exterior",
+     "d": "En piso, muro o terraza, firme y ventilada.",
+     "calor": true
+    },
+    {
+     "icono": "5",
+     "t": "Canaleta y cableado",
+     "d": "Recorrido ordenado, con tubería y cordones protegidos bajo canaleta cuando se necesita."
+    },
+    {
+     "icono": "6",
+     "t": "Vacío y pruebas de funcionamiento",
+     "d": "Revisamos que climatice bien antes de entregarlo.",
+     "calor": true
+    }
+   ]
+  },
+  {
+   "tipo": "ilustracion",
+   "kicker": "Precios claros",
+   "dibujo": "basica",
+   "titulo": "Qué incluye la instalación básica",
+   "puntos": [
+    "Todo lo que trae el equipo en su caja: ≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos.",
+    "Canaleta 100×50 (2 m) y soporte muro o piso: $35.000 c/u."
+   ],
+   "precio": "Incluida",
+   "precio_det": "en el precio de equipo + instalación"
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": "70% 20%",
+   "kicker": "Resultado",
+   "titulo": "Terminación que se ve bien",
+   "texto": "Equipo en altura, nivelado y con la salida de aire despejada."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Antes de irnos",
+   "titulo": "Te lo entregamos <span class=f>listo</span>",
+   "items": [
+    {
+     "icono": "❄",
+     "t": "Probado en frío y calor",
+     "d": "Climatiza todo el año con la misma instalación."
+    },
+    {
+     "icono": "↓",
+     "t": "Desagüe hacia afuera",
+     "d": "Para que el agua no gotee dentro de tu casa.",
+     "calor": true
+    },
+    {
+     "icono": "✦",
+     "t": "Espacio limpio y ordenado",
+     "d": "Retiramos los restos de la instalación."
+    },
+    {
+     "icono": "✓",
+     "t": "6 meses de garantía de instalación",
+     "d": "Fijaciones, conexiones, terminaciones y puesta en marcha.",
+     "calor": true
+    }
+   ]
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": "40% 20%",
+   "kicker": "Living",
+   "titulo": "Listo para disfrutar",
+   "texto": "Frío en verano y calor en invierno, con una instalación limpia y ordenada."
+  },
+  {
+   "tipo": "cta",
+   "kicker": "Antes del día de instalación",
+   "titulo": "Mira cómo <span class=f>quedará</span> en tu muro",
+   "texto": "Sube una foto al simulador y cotiza en 7 pasos. Equipos Inverter frío/calor con instalación básica incluida.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "¿Cómo es el día de la instalación de tu aire? 🔧✨\n\nAntes de que lleguemos:\n✅ Despeja el muro donde irá el equipo\n✅ Libera el acceso al balcón, terraza o patio\n✅ Ubica el enchufe más cercano (a más de 1,5 m se suma punto eléctrico: $12.000 por metro adicional)\n✅ Si vives en edificio, avisa en conserjería\n\nEn tu casa: evaluamos el espacio, marcamos y perforamos, montamos la unidad interior y la exterior, ordenamos el recorrido con canaleta, hacemos vacío y probamos que climatice bien.\n\nY antes de irnos: probado en frío y calor, desagüe hacia afuera, espacio limpio y 6 meses de garantía de instalación 🧹✅\n\nLa instalación básica incluye lo que trae el equipo: ≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos. Canaleta 100×50 (2 m) y soporte muro o piso: $35.000 c/u.\n\nMira cómo quedará en tu muro con el simulador y cotiza en climatizatepro.cl (link en la bio) o al WhatsApp +56 9 6190 7601.\n\nGuarda este post ⭐ para el día de tu instalación.\n\n#AireAcondicionado #SplitInverter #InstalaciónProfesional #Santiago #HogarChile #ClimatízatePro",
+  "facebook": "¿Te van a instalar aire acondicionado? Así es el día de la instalación con Climatízate Pro 👇\n\n🏠 Antes de que lleguemos:\n• Despeja el muro donde irá la unidad interior\n• Deja libre el acceso al balcón, terraza o patio\n• Identifica el enchufe más cercano: si está a más de 1,5 m, se suma punto eléctrico ($12.000 por metro adicional)\n• Si vives en edificio, coordina el ingreso en conserjería\n\n🔧 Lo que hacemos, en 6 etapas: evaluación del espacio, marcado y perforación, montaje de la unidad interior, unidad exterior en piso, muro o terraza, canaleta y cableado, y vacío con pruebas de funcionamiento.\n\n✅ Te lo entregamos probado en frío y calor, con el desagüe hacia afuera, el espacio limpio y 6 meses de garantía de instalación.\n\n💬 Precios claros: la instalación básica incluye lo que trae el equipo en su caja (≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos). Adicionales comunes: canaleta blanca 100×50 de 2 m $35.000 y soporte muro o piso $35.000.\n\n👉 https://www.climatizatepro.cl\n📲 WhatsApp: +56 9 6190 7601\n\n#AireAcondicionado #Santiago #InstalaciónProfesional #SplitInverter #ClimatízatePro",
+  "tiktok": "Así es el día de tu instalación 🔧 Despeja el muro, libera el balcón y nosotros hacemos el resto: equipo nivelado, recorrido ordenado, pruebas y espacio limpio ✨ climatizatepro.cl\n\n#aireacondicionado #instalacion #santiago #chile #inverter #hogar #climatizatepro",
+  "linkedin": "Una instalación de climatización bien coordinada empieza antes de que llegue el equipo técnico.\n\nPreparación del espacio:\n• Muro despejado en la ubicación de la unidad interior.\n• Acceso libre al lugar de la unidad exterior.\n• Punto de alimentación identificado (a más de 1,5 m se considera punto eléctrico adicional, $12.000 por metro).\n• Coordinación de ingreso con administración o conserjería.\n\nNuestro proceso en 6 etapas: evaluación del espacio, marcado y perforación, montaje de la unidad interior, instalación de la unidad exterior, canaleta y cableado, y vacío con pruebas de funcionamiento.\n\nEntregamos cada equipo probado, con el espacio limpio y 6 meses de garantía de instalación. Para empresas, coordinamos instalaciones fuera de horario.\n\nClimatízate Pro: equipos Inverter frío/calor para hogares y empresas en Santiago.\n🔗 https://www.climatizatepro.cl\n\n#Climatización #AireAcondicionado #InstalaciónProfesional #Santiago #Pymes"
+ }
+}
