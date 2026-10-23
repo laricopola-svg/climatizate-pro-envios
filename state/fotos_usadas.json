@@ -127,12 +127,22 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
    "portada": true
+  },
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
+   "portada": true
   }
  ],
  "marca/fichas/ragnar_poster.jpg": [
   {
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
   }
  ],
@@ -141,12 +151,22 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
    "portada": false
+  },
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
+   "portada": false
   }
  ],
  "marca/fichas/bella_poster.jpg": [
   {
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
   }
  ],
@@ -155,12 +175,22 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
    "portada": false
+  },
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
+   "portada": false
   }
  ],
  "marca/fichas/krypto_vs_bella.jpg": [
   {
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
   }
  ],
@@ -238,6 +268,48 @@
   {
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_041.jpg": [
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_048.jpg": [
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_028.jpg": [
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
+   "portada": false
+  }
+ ],
+ "banco/cane-corso/cc_010.jpg": [
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-1500-correa-cane-corso",
+   "portada": true
+  }
+ ],
+ "banco/cane-corso/cc_001.jpg": [
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-1500-correa-cane-corso",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_054.jpg": [
+  {
+   "fecha": "2026-10-23",
+   "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
   }
  ]
