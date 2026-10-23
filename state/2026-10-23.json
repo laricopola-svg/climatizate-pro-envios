@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-10-23",
+  "dia": "viernes (impar: 11:00 Bully, 15:00 Cane Corso, 20:30 Bully; Reel)",
+  "gmail": {
+    "messageId": "1a16823600cf22f9",
+    "threadId": "1a16823600cf22f9",
+    "para": "fcosotog7@gmail.com",
+    "asunto": "[TeamFS] Propuesta 2026-10-23 – responde OK para publicar"
+  },
+  "tendencias_usadas": [
+    "TikTok oct-2026 'Answer in One Word' (newengen.com) -> Reel manada",
+    "IG Reels audio semana 12-25 oct (socialpilot.co): Hello October – Sugar Lime Blue (alt. Autumn Journey – Andrea Vanzo)",
+    "Estacionalidad: primavera con UV muy alto/extremo en Chile central"
+  ],
+  "publicaciones": [
+    {
+      "n": 1, "hora": "11:00",
+      "tema": "¿Bloqueador para tu Bully? Quemaduras de sol en perros de pelo claro",
+      "slug": "sol-piel", "raza": "American Bully", "pilar": "educativo",
+      "formato": "carrusel 7 láminas (3 fotos + 4 de diseño)",
+      "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
+      "metricool": [
+        {"id": 403978868, "uuid": "4759450992113303874", "redes": ["facebook", "instagram", "tiktok"]}
+      ],
+      "estado": "borrador"
+    },
+    {
+      "n": 2, "hora": "15:00",
+      "tema": "¿Quién pasea a quién? Paseo sin tirones en 3 pasos",
+      "slug": "correa-paseo", "raza": "Cane Corso", "pilar": "instructivo",
+      "formato": "carrusel 5 láminas (2 fotos + 3 de diseño)",
+      "carpeta": "publicaciones/2026-10-23-1500-correa-cane-corso",
+      "metricool": [
+        {"id": 403979208, "uuid": "5541660462951188592", "redes": ["facebook", "instagram", "tiktok"]}
+      ],
+      "estado": "borrador"
+    },
+    {
+      "n": 3, "hora": "20:30",
+      "tema": "Entrevistamos a la manada: responder en UNA palabra (Ragnar, Dakota, Bella, Kopito, Krypto) + dato sueño",
+      "slug": "manada-una-palabra", "raza": "American Bully", "pilar": "humor/manada",
+      "formato": "Reel 20.9 s (IG+FB) + carrusel 8 fotogramas (TikTok)",
+      "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
+      "metricool": [
+        {"id": 403979232, "uuid": "-3451951604472197167", "redes": ["instagram", "facebook"], "tipo": "REEL"},
+        {"id": 403979262, "uuid": "3744261632219235771", "redes": ["tiktok"], "tipo": "carrusel fotogramas"}
+      ],
+      "voz_en_off": false,
+      "audio_recomendado": "Hello October – Sugar Lime Blue (alt: Autumn Journey – Andrea Vanzo)",
+      "estado": "borrador"
+    }
+  ],
+  "incidencias": [
+    {"detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
+    {"detalle": "Banco Cane Corso: se usaron cc_001 y cc_010 (las únicas sin uso en 14 días). Se pidió al dueño fotos nuevas en el correo."}
+  ],
+  "revisiones": []
+}
