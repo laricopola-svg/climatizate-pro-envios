@@ -14,45 +14,111 @@
   ],
   "publicaciones": [
     {
-      "n": 1, "hora": "11:00",
+      "n": 1,
+      "hora": "11:00",
       "tema": "¿Bloqueador para tu Bully? Quemaduras de sol en perros de pelo claro",
-      "slug": "sol-piel", "raza": "American Bully", "pilar": "educativo",
+      "slug": "sol-piel",
+      "raza": "American Bully",
+      "pilar": "educativo",
       "formato": "carrusel 7 láminas (3 fotos + 4 de diseño)",
       "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
       "metricool": [
-        {"id": 403978868, "uuid": "4759450992113303874", "redes": ["facebook", "instagram", "tiktok"]}
+        {
+          "id": 404002746,
+          "uuid": "4759450992113303874",
+          "redes": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ],
+          "id_anterior": 403978868
+        }
       ],
-      "estado": "borrador"
+      "estado": "programada",
+      "aprobada_en": "2026-10-23T07:08-03:00"
     },
     {
-      "n": 2, "hora": "15:00",
+      "n": 2,
+      "hora": "15:00",
       "tema": "¿Quién pasea a quién? Paseo sin tirones en 3 pasos",
-      "slug": "correa-paseo", "raza": "Cane Corso", "pilar": "instructivo",
+      "slug": "correa-paseo",
+      "raza": "Cane Corso",
+      "pilar": "instructivo",
       "formato": "carrusel 5 láminas (2 fotos + 3 de diseño)",
       "carpeta": "publicaciones/2026-10-23-1500-correa-cane-corso",
       "metricool": [
-        {"id": 403979208, "uuid": "5541660462951188592", "redes": ["facebook", "instagram", "tiktok"]}
+        {
+          "id": 404002826,
+          "uuid": "5541660462951188592",
+          "redes": [
+            "facebook",
+            "instagram",
+            "tiktok"
+          ],
+          "id_anterior": 403979208
+        }
       ],
-      "estado": "borrador"
+      "estado": "programada",
+      "aprobada_en": "2026-10-23T07:08-03:00"
     },
     {
-      "n": 3, "hora": "20:30",
+      "n": 3,
+      "hora": "20:30",
       "tema": "Entrevistamos a la manada: responder en UNA palabra (Ragnar, Dakota, Bella, Kopito, Krypto) + dato sueño",
-      "slug": "manada-una-palabra", "raza": "American Bully", "pilar": "humor/manada",
+      "slug": "manada-una-palabra",
+      "raza": "American Bully",
+      "pilar": "humor/manada",
       "formato": "Reel 20.9 s (IG+FB) + carrusel 8 fotogramas (TikTok)",
       "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
       "metricool": [
-        {"id": 403979232, "uuid": "-3451951604472197167", "redes": ["instagram", "facebook"], "tipo": "REEL"},
-        {"id": 403979262, "uuid": "3744261632219235771", "redes": ["tiktok"], "tipo": "carrusel fotogramas"}
+        {
+          "id": 404002871,
+          "uuid": "-3451951604472197167",
+          "redes": [
+            "instagram",
+            "facebook"
+          ],
+          "tipo": "REEL",
+          "id_anterior": 403979232
+        },
+        {
+          "id": 404002965,
+          "uuid": "3744261632219235771",
+          "redes": [
+            "tiktok"
+          ],
+          "tipo": "carrusel fotogramas",
+          "id_anterior": 403979262
+        }
       ],
       "voz_en_off": false,
       "audio_recomendado": "Hello October – Sugar Lime Blue (alt: Autumn Journey – Andrea Vanzo)",
-      "estado": "borrador"
+      "estado": "programada",
+      "aprobada_en": "2026-10-23T07:08-03:00"
     }
   ],
   "incidencias": [
-    {"detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
-    {"detalle": "Banco Cane Corso: se usaron cc_001 y cc_010 (las únicas sin uso en 14 días). Se pidió al dueño fotos nuevas en el correo."}
+    {
+      "detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+    },
+    {
+      "detalle": "Banco Cane Corso: se usaron cc_001 y cc_010 (las únicas sin uso en 14 días). Se pidió al dueño fotos nuevas en el correo."
+    }
   ],
-  "revisiones": []
+  "revisiones": [
+    {
+      "hora": "2026-10-23T07:08-03:00",
+      "respuesta": {
+        "messageId": "1a168307dc32fd35",
+        "de": "fcosotog7@gmail.com",
+        "enviado": "2026-10-23T06:55:57-03:00",
+        "texto": "Ok"
+      },
+      "interpretacion": "OK sin números -> aprobar 1, 2 y 3",
+      "acciones": [
+        "4 posts Metricool actualizados a draft:false, horas originales (11:00, 15:00, 20:30) conservadas; ids nuevos 404002746, 404002826, 404002871, 404002965 (uuid sin cambio)",
+        "publicaciones 1-3 -> programada"
+      ]
+    }
+  ]
 }
