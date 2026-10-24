@@ -312,5 +312,26 @@
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
   }
+ ],
+ "banco/american-bully/bully_029.jpg": [
+  {
+   "fecha": "2026-10-24",
+   "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_009.jpg": [
+  {
+   "fecha": "2026-10-24",
+   "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_027.jpg": [
+  {
+   "fecha": "2026-10-24",
+   "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
+   "portada": false
+  }
  ]
 }
