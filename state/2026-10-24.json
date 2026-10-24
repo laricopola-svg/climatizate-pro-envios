@@ -101,6 +101,10 @@
     {
       "hora": "2026-10-24T10:05-03:00",
       "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios."
+    },
+    {
+      "hora": "2026-10-24T11:05-03:00",
+      "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios. La publicación 1 (11:00) ya pasó su hora: si se aprueba más tarde se reprogramará a ahora+10 min."
     }
   ]
 }
