@@ -1,20 +1,94 @@
 {
   "fecha": "2026-10-24",
   "dia": "sábado (par: 11:00 Cane Corso, 15:00 Bully, 20:30 Cane Corso; carrusel, no Reel)",
-  "gmail": {"messageId": "1a16d467e0cd03a1", "threadId": "1a16d467e0cd03a1", "para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-10-24 – responde OK para publicar"},
+  "gmail": {
+    "messageId": "1a16d467e0cd03a1",
+    "threadId": "1a16d467e0cd03a1",
+    "para": "fcosotog7@gmail.com",
+    "asunto": "[TeamFS] Propuesta 2026-10-24 – responde OK para publicar"
+  },
   "tendencias_usadas": [
     "TikTok oct-2026 'Two Fishes' (defender con seguridad una opinión dudosa; newengen.com) -> carrusel 20:30 opiniones de un Cane Corso",
     "IG Reels audio semana 12-25 oct (socialpilot.co): Hello October – Sugar Lime Blue / Autumn Journey – Andrea Vanzo (sugeridos en correo)",
     "Estacionalidad primavera Chile: pasto seco/espigas, más baños con el calor"
   ],
   "publicaciones": [
-    {"n": 1, "hora": "11:00", "tema": "Espigas de primavera: qué son, dónde se esconden, señales, prevención", "raza": "Cane Corso", "formato": "carrusel 6 láminas (todas de diseño, sin foto)", "carpeta": "publicaciones/2026-10-24-1100-espigas-cane-corso", "redes": ["facebook","instagram","tiktok"], "metricool": [{"id": 404880438, "uuid": "3708478984889911821"}], "estado": "borrador", "voz": null},
-    {"n": 2, "hora": "15:00", "tema": "Bañar a tu Bully en 4 pasos (sin tragedia griega)", "raza": "American Bully", "formato": "carrusel 5 láminas (3 fotos + 2 de diseño)", "carpeta": "publicaciones/2026-10-24-1500-bano-bully", "redes": ["facebook","instagram","tiktok"], "metricool": [{"id": 404880448, "uuid": "-1423835144620455351"}], "estado": "borrador", "voz": null},
-    {"n": 3, "hora": "20:30", "tema": "Opiniones dudosas de un Cane Corso defendidas con total seguridad + realidad (sillón, peso, comida, pelota)", "raza": "Cane Corso", "formato": "carrusel 6 láminas (todas de diseño, sin foto)", "carpeta": "publicaciones/2026-10-24-2030-opiniones-cane-corso", "redes": ["facebook","instagram","tiktok"], "metricool": [{"id": 404880455, "uuid": "-2469519747178609266"}], "estado": "borrador", "voz": null}
+    {
+      "n": 1,
+      "hora": "11:00",
+      "tema": "Espigas de primavera: qué son, dónde se esconden, señales, prevención",
+      "raza": "Cane Corso",
+      "formato": "carrusel 6 láminas (todas de diseño, sin foto)",
+      "carpeta": "publicaciones/2026-10-24-1100-espigas-cane-corso",
+      "redes": [
+        "facebook",
+        "instagram",
+        "tiktok"
+      ],
+      "metricool": [
+        {
+          "id": 404880438,
+          "uuid": "3708478984889911821"
+        }
+      ],
+      "estado": "borrador",
+      "voz": null
+    },
+    {
+      "n": 2,
+      "hora": "15:00",
+      "tema": "Bañar a tu Bully en 4 pasos (sin tragedia griega)",
+      "raza": "American Bully",
+      "formato": "carrusel 5 láminas (3 fotos + 2 de diseño)",
+      "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
+      "redes": [
+        "facebook",
+        "instagram",
+        "tiktok"
+      ],
+      "metricool": [
+        {
+          "id": 404880448,
+          "uuid": "-1423835144620455351"
+        }
+      ],
+      "estado": "borrador",
+      "voz": null
+    },
+    {
+      "n": 3,
+      "hora": "20:30",
+      "tema": "Opiniones dudosas de un Cane Corso defendidas con total seguridad + realidad (sillón, peso, comida, pelota)",
+      "raza": "Cane Corso",
+      "formato": "carrusel 6 láminas (todas de diseño, sin foto)",
+      "carpeta": "publicaciones/2026-10-24-2030-opiniones-cane-corso",
+      "redes": [
+        "facebook",
+        "instagram",
+        "tiktok"
+      ],
+      "metricool": [
+        {
+          "id": 404880455,
+          "uuid": "-2469519747178609266"
+        }
+      ],
+      "estado": "borrador",
+      "voz": null
+    }
   ],
   "incidencias": [
-    {"detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
-    {"detalle": "Banco Cane Corso agotado para la regla de 14 días (las 11 fotos usadas entre 20 y 23-oct): publicaciones 1 y 3 solo con láminas de diseño. Se pidieron fotos nuevas al dueño en el correo."}
+    {
+      "detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+    },
+    {
+      "detalle": "Banco Cane Corso agotado para la regla de 14 días (las 11 fotos usadas entre 20 y 23-oct): publicaciones 1 y 3 solo con láminas de diseño. Se pidieron fotos nuevas al dueño en el correo."
+    }
   ],
-  "revisiones": []
+  "revisiones": [
+    {
+      "hora": "2026-10-24T07:05-03:00",
+      "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios."
+    }
+  ]
 }
