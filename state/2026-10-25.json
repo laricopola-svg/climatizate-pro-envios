@@ -1,0 +1,57 @@
+{
+  "fecha": "2026-10-25",
+  "dia": "domingo (impar: 11:00 Bully, 15:00 Cane Corso, 20:30 Bully; carrusel, no Reel)",
+  "gmail": {
+    "messageId": "1a1726d6fe62ad82",
+    "threadId": "1a1726d6fe62ad82",
+    "para": "fcosotog7@gmail.com",
+    "asunto": "[TeamFS] Propuesta 2026-10-25 – responde OK para publicar"
+  },
+  "tendencias_usadas": [
+    "TikTok oct-2026 'Be OK' – Ingrid Michaelson (tono alegre + momentos frustrantes; newengen.com) -> carrusel 20:30 'Todo bien, estoy bien'",
+    "Estacionalidad primavera Chile: muda de pelo, calor que se viene ('operación verano' / peso)"
+  ],
+  "publicaciones": [
+    {
+      "n": 1,
+      "hora": "11:00",
+      "tema": "Peso ideal del Bully: ¿músculo o modo sillón? 5 claves de condición corporal",
+      "raza": "American Bully",
+      "formato": "carrusel 7 láminas (4 fotos + 3 de diseño)",
+      "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
+      "redes": ["facebook", "instagram", "tiktok"],
+      "metricool": [{"id": 405549703, "uuid": "-1729049598510217061"}],
+      "estado": "borrador",
+      "voz": null
+    },
+    {
+      "n": 2,
+      "hora": "15:00",
+      "tema": "Muda de primavera: cepillado del Cane Corso en 4 pasos",
+      "raza": "Cane Corso",
+      "formato": "carrusel 5 láminas (todas de diseño, sin foto)",
+      "carpeta": "publicaciones/2026-10-25-1500-muda-cane-corso",
+      "redes": ["facebook", "instagram", "tiktok"],
+      "metricool": [{"id": 405549710, "uuid": "1594264404446956650"}],
+      "estado": "borrador",
+      "voz": null
+    },
+    {
+      "n": 3,
+      "hora": "20:30",
+      "tema": "Domingo con la manada: 'Todo bien, estoy bien' (Ragnar, Bella, Krypto) + dato apego",
+      "raza": "American Bully",
+      "formato": "carrusel 6 láminas (4 fotos + 2 de diseño)",
+      "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+      "redes": ["facebook", "instagram", "tiktok"],
+      "metricool": [{"id": 405549715, "uuid": "2020314496976047597"}],
+      "estado": "borrador",
+      "voz": null
+    }
+  ],
+  "incidencias": [
+    {"detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
+    {"detalle": "Banco Cane Corso agotado para la regla de 14 días: publicación 2 solo con láminas de diseño. Se pidieron fotos nuevas al dueño en el correo."}
+  ],
+  "revisiones": []
+}
