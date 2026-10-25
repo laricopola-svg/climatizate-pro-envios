@@ -26,12 +26,14 @@
       ],
       "metricool": [
         {
-          "id": 405549703,
+          "id": 405859206,
           "uuid": "-1729049598510217061"
         }
       ],
-      "estado": "borrador",
-      "voz": null
+      "estado": "programada",
+      "voz": null,
+      "publicacion_programada": "2026-10-25T15:16:00-03:00",
+      "aprobado_por": "fcosotog7@gmail.com (msg 1a1741aca076dacd, 2026-10-25T14:27-03:00: 'Ok')"
     },
     {
       "n": 2,
@@ -47,12 +49,14 @@
       ],
       "metricool": [
         {
-          "id": 405549710,
+          "id": 405859212,
           "uuid": "1594264404446956650"
         }
       ],
-      "estado": "borrador",
-      "voz": null
+      "estado": "programada",
+      "voz": null,
+      "publicacion_programada": "2026-10-25T15:26:00-03:00",
+      "aprobado_por": "fcosotog7@gmail.com (msg 1a1741aca076dacd, 2026-10-25T14:27-03:00: 'Ok')"
     },
     {
       "n": 3,
@@ -68,12 +72,14 @@
       ],
       "metricool": [
         {
-          "id": 405549715,
+          "id": 405859222,
           "uuid": "2020314496976047597"
         }
       ],
-      "estado": "borrador",
-      "voz": null
+      "estado": "programada",
+      "voz": null,
+      "publicacion_programada": "2026-10-25T20:30:00-03:00",
+      "aprobado_por": "fcosotog7@gmail.com (msg 1a1741aca076dacd, 2026-10-25T14:27-03:00: 'Ok')"
     }
   ],
   "incidencias": [
@@ -116,6 +122,10 @@
     {
       "hora": "2026-10-25T14:05-03:00",
       "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje). Sin cambios. La publicación 1 (11:00) sigue sin aprobar; si se aprueba se reprogramará a ahora+10 min."
+    },
+    {
+      "hora": "2026-10-25T15:06-03:00",
+      "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (14:27) -> aprobadas las 3. Metricool draft:false. Pub 1 (11:00 vencida) reprogramada a 15:16; pub 2 (15:00 vencida) a 15:26 (escalonada 10 min para no publicar dos carruseles a la vez); pub 3 se mantiene 20:30. Nuevos ids: 405859206, 405859212, 405859222."
     }
   ]
 }
