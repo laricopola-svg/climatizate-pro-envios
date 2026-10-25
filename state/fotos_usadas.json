@@ -333,5 +333,69 @@
    "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
    "portada": false
   }
+ ],
+ "banco/american-bully/bully_010.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_013.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_014.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_001.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-10-25-2030-estoy-bien-manada/src_ragnar.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+   "portada": true
+  }
+ ],
+ "marca/fichas/bella_krypto.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_015.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_016.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+   "portada": false
+  }
+ ],
+ "marca/fichas/ragnar_xl_ficha.jpg": [
+  {
+   "fecha": "2026-10-25",
+   "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+   "portada": true,
+   "nota": "recorte src_ragnar.jpg"
+  }
  ]
 }
