@@ -1,0 +1,159 @@
+{
+ "tema": "El recorrido de tu aire también se ve: canaleta, terminaciones y orden",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Terminaciones",
+   "titulo": "El recorrido de tu aire <span class=f>también se ve</span>",
+   "texto": "Lo que va entre la unidad interior y la exterior puede quedar ordenado o a la vista. Te mostramos cómo dejarlo bien terminado."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Primero lo básico",
+   "titulo": "¿Qué es <span class=f>el recorrido</span>?",
+   "items": [
+    {
+     "icono": "↔",
+     "t": "Lo que une ambas unidades",
+     "d": "Tubería de cobre, cordones eléctricos y la manguera de desagüe pasan del equipo interior al exterior."
+    },
+    {
+     "icono": "≈",
+     "t": "Instalación básica incluida",
+     "d": "Se instala todo lo que trae el equipo en su caja: ≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos.",
+     "calor": true
+    },
+    {
+     "icono": "⌂",
+     "t": "Por eso importa la ubicación",
+     "d": "Con la instalación básica, lo ideal es una unidad a cada lado del mismo muro: recorrido corto y menos a la vista."
+    }
+   ]
+  },
+  {
+   "tipo": "ilustracion",
+   "kicker": "Terminación estética",
+   "dibujo": "canaleta",
+   "titulo": "Canaleta blanca: el recorrido se ve ordenado",
+   "puntos": [
+    "Cubre tuberías y cordones entre ambos equipos, con líneas rectas y niveladas.",
+    "Se integra al muro y protege el recorrido del polvo y los golpes."
+   ],
+   "precio": "$35.000",
+   "precio_det": "Canaleta blanca 100×50 de 2 m"
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Checklist",
+   "titulo": "5 detalles de un recorrido <span class=c>bien terminado</span>",
+   "items": [
+    {
+     "icono": "1",
+     "t": "Canaleta recta y nivelada",
+     "d": "Sin tramos a medio cubrir."
+    },
+    {
+     "icono": "2",
+     "t": "Pasada de muro prolija",
+     "d": "Bien terminada por dentro y por fuera."
+    },
+    {
+     "icono": "3",
+     "t": "Desagüe con caída hacia afuera",
+     "d": "Sin gotear en el muro.",
+     "calor": true
+    },
+    {
+     "icono": "4",
+     "t": "Cordón eléctrico canalizado",
+     "d": "Dentro de canaleta, no colgando."
+    },
+    {
+     "icono": "5",
+     "t": "Espacio limpio al terminar",
+     "d": "Sin polvo ni restos de material."
+    }
+   ]
+  },
+  {
+   "tipo": "versus",
+   "kicker": "La diferencia se nota",
+   "titulo": "Recorrido <span class=c>a la vista</span> vs. <span class=f>bien terminado</span>",
+   "a": {
+    "t": "A la vista",
+    "xs": [
+     "Tuberías y cables sueltos por el muro",
+     "Cinta y tramos sin cubrir",
+     "Desagüe que gotea en la fachada",
+     "Restos de polvo al terminar"
+    ]
+   },
+   "b": {
+    "t": "Bien terminado",
+    "xs": [
+     "Canaleta blanca recta y nivelada",
+     "Pasada de muro prolija",
+     "Desagüe con caída hacia afuera",
+     "Espacio limpio y equipo probado"
+    ]
+   },
+   "nota": "El mismo equipo puede verse muy distinto según cómo se instala."
+  },
+  {
+   "tipo": "ilustracion",
+   "kicker": "¿Y el enchufe?",
+   "dibujo": "electrico",
+   "titulo": "Punto eléctrico canalizado",
+   "puntos": [
+    "Si el enchufe está a más de 1,5 m del equipo, se suma punto eléctrico: cordón + canaleta 10×20.",
+    "Así no quedan cables colgando por el muro."
+   ],
+   "precio": "$12.000",
+   "precio_det": "por metro adicional"
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": "40% 30%",
+   "kicker": "Buena ubicación",
+   "titulo": "Recorrido corto, menos a la vista",
+   "texto": "Unidad interior en altura y unidad exterior en la terraza, cerca una de la otra."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Antes de instalar",
+   "titulo": "Sin sorpresas <span class=f>en el muro</span> ni en el precio",
+   "items": [
+    {
+     "icono": "◎",
+     "t": "Míralo en el simulador",
+     "d": "Sube una foto de tu muro en climatizatepro.cl y mira cómo quedará. Tu foto no sale de tu navegador."
+    },
+    {
+     "icono": "$",
+     "t": "Adicionales claros",
+     "d": "Canaleta $35.000 · Soporte muro o piso $35.000 · Punto eléctrico $12.000/m adicional. Bomba de condensado y extensión de tuberías se evalúan.",
+     "calor": true
+    },
+    {
+     "icono": "✓",
+     "t": "6 meses de garantía de instalación",
+     "d": "Equipos Inverter frío/calor: climatizan todo el año."
+    }
+   ]
+  },
+  {
+   "tipo": "cta",
+   "kicker": "Instalación de calidad",
+   "titulo": "Que se vea tan bien <span class=f>como funciona</span>",
+   "texto": "Equipos Inverter frío/calor con instalación básica incluida y terminaciones ordenadas.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "El aire acondicionado no es solo el equipo: el recorrido entre la unidad interior y la exterior también se ve 👀\n\n✅ Canaleta recta y nivelada\n✅ Pasada de muro prolija\n✅ Desagüe con caída hacia afuera\n✅ Cordón eléctrico canalizado\n✅ Espacio limpio al terminar\n\n💲 Precios claros: el valor de equipo + instalación incluye la instalación básica (lo que trae el equipo en su caja: ≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos). Adicionales: canaleta blanca 100×50 de 2 m $35.000 · soporte muro o piso $35.000 · punto eléctrico a más de 1,5 m $12.000 por metro adicional. Bomba de condensado y extensión de tuberías se evalúan.\n\n📲 Antes de decidir, mira cómo quedará en tu muro con el simulador de climatizatepro.cl.\n\nEquipos Inverter frío/calor ❄️🔥 Cotiza en climatizatepro.cl (link en la bio) o al WhatsApp +56 9 6190 7601.\n\nGuarda este post ⭐ para revisar tu instalación.\n\n#AireAcondicionado #SplitInverter #InstalaciónProfesional #Terminaciones #Santiago #HogarChile #ClimatízatePro",
+  "facebook": "¿Te has fijado en el recorrido de un aire acondicionado? Es lo que va entre la unidad interior y la exterior: tubería de cobre, cordones eléctricos y desagüe. Bien terminado, casi no se nota; mal terminado, es lo primero que se ve.\n\nEn Climatízate Pro cuidamos 5 detalles:\n1️⃣ Canaleta recta y nivelada\n2️⃣ Pasada de muro prolija\n3️⃣ Desagüe con caída hacia afuera\n4️⃣ Cordón eléctrico canalizado si el enchufe está lejos\n5️⃣ Espacio limpio al terminar\n\nTransparencia: nuestros precios de equipo + instalación incluyen la instalación básica (lo que trae el equipo en su caja: ≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos, por eso lo ideal es una unidad a cada lado del mismo muro). Adicionales: canaleta blanca 100×50 de 2 m $35.000 · soporte muro o piso $35.000 · punto eléctrico a más de 1,5 m $12.000 por metro adicional. La bomba de condensado y la extensión de tuberías se evalúan y cotizan.\n\nCon el simulador de nuestra web ves cómo quedará en tu muro antes de instalar, y tienes 6 meses de garantía de instalación.\n\nTodos nuestros equipos son Inverter frío/calor.\n👉 https://www.climatizatepro.cl\n📲 WhatsApp +56 9 6190 7601",
+  "tiktok": "El recorrido de tu aire también se ve 👀 5 detalles de una instalación bien terminada: canaleta recta, pasada de muro prolija, desagüe hacia afuera, cordón canalizado y todo limpio ✨ Precio con instalación básica incluida; canaleta $35.000. Mira cómo quedará en tu muro en climatizatepro.cl 📲 +56 9 6190 7601 #aireacondicionado #splitinverter #instalacion #santiago #hogar #climatizatepro",
+  "linkedin": "En una instalación de aire acondicionado, la calidad también se ve en el recorrido: el trayecto de tuberías, cordones eléctricos y desagüe entre la unidad interior y la exterior.\n\nEn Climatízate Pro trabajamos con cinco criterios de terminación: canaleta recta y nivelada, pasada de muro prolija, desagüe con caída natural hacia el exterior, cordón eléctrico canalizado y espacio limpio al finalizar.\n\nComunicamos los precios con transparencia: el valor de equipo + instalación considera la instalación básica (≈ 2 m de tubería de cobre y ≈ 2 m de cordones eléctricos, lo que trae el equipo). Los adicionales tienen valor publicado: canaleta blanca 100×50 de 2 m $35.000, soporte muro o piso $35.000 y punto eléctrico a más de 1,5 m $12.000 por metro adicional. Bomba de condensado y extensión de tuberías se evalúan en terreno.\n\nEquipos split muro Inverter frío/calor para hogares y empresas en Santiago, con 6 meses de garantía de instalación.\nCotiza en https://www.climatizatepro.cl o al WhatsApp +56 9 6190 7601.\n\n#Climatización #AireAcondicionado #Instalación #Santiago"
+ }
+}
