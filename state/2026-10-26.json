@@ -31,16 +31,22 @@
    "voz": null,
    "metricool": [
     {
-     "id": 406405467,
+     "id": 406566878,
      "uuid": "-6902416497446269470",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 406405467
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": {
+    "hora": "2026-10-26T08:15:00-0300",
+    "mensaje": "1a177ebef393e978",
+    "texto": "Ok"
+   }
   },
   {
    "n": 2,
@@ -52,16 +58,22 @@
    "voz": null,
    "metricool": [
     {
-     "id": 406405474,
+     "id": 406566896,
      "uuid": "7967734206834101847",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 406405474
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": {
+    "hora": "2026-10-26T08:15:00-0300",
+    "mensaje": "1a177ebef393e978",
+    "texto": "Ok"
+   }
   },
   {
    "n": 3,
@@ -75,24 +87,31 @@
    "audio_recomendado": "The Winner Takes It All – ABBA (alt. Hello October – Sugar Lime Blue)",
    "metricool": [
     {
-     "id": 406405497,
+     "id": 406566910,
      "uuid": "-5168109528131811183",
      "redes": [
       "instagram",
       "facebook"
      ],
-     "tipo": "REEL"
+     "tipo": "REEL",
+     "id_anterior": 406405497
     },
     {
-     "id": 406405513,
+     "id": 406566926,
      "uuid": "3320317776141373221",
      "redes": [
       "tiktok"
      ],
-     "tipo": "carrusel fotogramas"
+     "tipo": "carrusel fotogramas",
+     "id_anterior": 406405513
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": {
+    "hora": "2026-10-26T08:15:00-0300",
+    "mensaje": "1a177ebef393e978",
+    "texto": "Ok"
+   }
   }
  ],
  "revisiones": [
@@ -105,6 +124,11 @@
    "hora": "2026-10-26T08:05:53-0300",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta enviada 06:44). Sin cambios; las 3 siguen en borrador.",
    "nota": "add_repo no disponible; repo ya en alcance."
+  },
+  {
+   "hora": "2026-10-26T09:24:54-0300",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (08:15, msg 1a177ebef393e978) sin números -> aprobadas las 3. updateScheduledPost draft:false en los 4 posts de Metricool, conservando horas originales (11:00, 15:00, 20:30 x2), todas futuras. Nuevos ids: 406566878, 406566896, 406566910, 406566926. Estado: programada.",
+   "nota": "add_repo no disponible; repo ya en alcance. Primer getScheduledPosts falló (I/O Request cancelled), reintento OK."
   }
  ]
 }
