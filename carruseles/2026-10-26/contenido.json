@@ -1,0 +1,156 @@
+{
+ "tema": "Aire acondicionado en el dormitorio: silencioso, bien ubicado y ordenado",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Tu dormitorio",
+   "titulo": "Duerme fresco en verano y <span class=c>abrigado en invierno</span>",
+   "texto": "Un Inverter bien ubicado y bien instalado se nota cada noche. Te contamos qué cuidar en el dormitorio."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Por qué Inverter",
+   "titulo": "Pensado para <span class=f>descansar</span>",
+   "items": [
+    {
+     "icono": "〰",
+     "t": "Funcionamiento suave",
+     "d": "Ajusta la velocidad del compresor en vez de prenderse y apagarse a cada rato: sin arranques bruscos."
+    },
+    {
+     "icono": "◉",
+     "t": "Temperatura pareja",
+     "d": "Mantiene la temperatura elegida sin altibajos durante la noche."
+    },
+    {
+     "icono": "⚡",
+     "t": "Potencia justa",
+     "d": "Una vez que alcanza la temperatura, trabaja solo con la potencia necesaria."
+    },
+    {
+     "icono": "❄",
+     "t": "Frío y calor",
+     "d": "Todos nuestros equipos climatizan todo el año: un solo equipo para verano e invierno.",
+     "calor": true
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Ubicación",
+   "titulo": "4 claves para ubicarlo <span class=f>en el dormitorio</span>",
+   "items": [
+    {
+     "icono": "1",
+     "t": "Sin apuntar directo a la cama",
+     "d": "El aire se reparte por la pieza, no cae sobre quien duerme."
+    },
+    {
+     "icono": "2",
+     "t": "En altura y despejado",
+     "d": "Sin cortinas, repisas ni muebles delante de la salida de aire."
+    },
+    {
+     "icono": "3",
+     "t": "Cerca del muro exterior",
+     "d": "La instalación básica trae ≈ 2 m de tubería de cobre y ≈ 2 m de cordones: recorrido corto y menos a la vista.",
+     "calor": true
+    },
+    {
+     "icono": "4",
+     "t": "Enchufe a mano",
+     "d": "Si está a más de 1,5 m, se suma punto eléctrico canalizado ($12.000 por metro adicional)."
+    }
+   ]
+  },
+  {
+   "tipo": "ilustracion",
+   "kicker": "Terminación estética",
+   "dibujo": "canaleta",
+   "titulo": "En tu pieza, el recorrido también se ve",
+   "puntos": [
+    "La canaleta blanca cubre tuberías y cordones con líneas rectas y niveladas.",
+    "Nada de cables ni cintas a la vista sobre tu cabecera."
+   ],
+   "precio": "$35.000",
+   "precio_det": "Canaleta blanca 100×50 de 2 m"
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": "88% 70%",
+   "kicker": "Instalación real",
+   "titulo": "Unidad exterior al otro lado del muro",
+   "texto": "En el balcón, cerca de la unidad interior: recorrido corto y ordenado."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "De noche",
+   "titulo": "Tips para usarlo <span class=f>mientras duermes</span>",
+   "items": [
+    {
+     "icono": "☾",
+     "t": "Usa el modo sueño",
+     "d": "Si tu equipo lo trae, revisa en su manual cómo activarlo."
+    },
+    {
+     "icono": "◎",
+     "t": "Elige una temperatura moderada",
+     "d": "No hace falta llevarlo al extremo: el Inverter la mantiene estable."
+    },
+    {
+     "icono": "⌂",
+     "t": "Puertas y ventanas cerradas",
+     "d": "La pieza se climatiza más rápido y se mantiene mejor."
+    },
+    {
+     "icono": "✓",
+     "t": "Filtros limpios",
+     "d": "Revísalos según el manual: el aire sale mejor y más limpio.",
+     "calor": true
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Así lo instalamos",
+   "titulo": "Tu dormitorio, <span class=c>limpio y sin sorpresas</span>",
+   "items": [
+    {
+     "icono": "◎",
+     "t": "Míralo antes en el simulador",
+     "d": "Sube una foto de tu muro en climatizatepro.cl. Tu foto no sale de tu navegador."
+    },
+    {
+     "icono": "✦",
+     "t": "Terminaciones limpias",
+     "d": "Equipo nivelado, recorrido ordenado y la pieza limpia al terminar."
+    },
+    {
+     "icono": "$",
+     "t": "Precio claro",
+     "d": "Incluye instalación básica (≈ 2 m de cobre y ≈ 2 m de cordones). Adicionales: canaleta $35.000 · soporte muro o piso $35.000 · punto eléctrico $12.000/m adicional. Bomba de condensado y extensión de tuberías se evalúan.",
+     "calor": true
+    },
+    {
+     "icono": "✓",
+     "t": "6 meses de garantía de instalación",
+     "d": "Y 1 año de garantía del equipo, según la marca."
+    }
+   ]
+  },
+  {
+   "tipo": "cta",
+   "kicker": "Descansa mejor",
+   "titulo": "Un dormitorio cómodo <span class=f>todo el año</span>",
+   "texto": "Equipos Inverter frío/calor con instalación básica incluida y terminaciones ordenadas.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "Tu dormitorio merece un aire que se sienta… y casi no se note 😴\n\n🌀 Inverter: funcionamiento suave, sin arranques bruscos y con temperatura pareja toda la noche.\n❄️🔥 Frío en verano y calor en invierno: un solo equipo para todo el año.\n\n📍 4 claves para ubicarlo:\n1️⃣ Sin apuntar directo a la cama\n2️⃣ En altura y despejado\n3️⃣ Cerca del muro exterior (recorrido corto)\n4️⃣ Enchufe a mano\n\n✨ Y que se vea bien: canaleta blanca, equipo nivelado y tu pieza limpia al terminar.\n\n💲 Precio claro: el valor de equipo + instalación incluye la instalación básica (lo que trae el equipo en su caja: ≈ 2 m de tubería de cobre y ≈ 2 m de cordones). Adicionales: canaleta blanca 100×50 de 2 m $35.000 · soporte muro o piso $35.000 · punto eléctrico a más de 1,5 m $12.000 por metro adicional. Bomba de condensado y extensión de tuberías se evalúan.\n\n📲 Mira cómo quedará en tu muro con el simulador y cotiza en climatizatepro.cl (link en la bio) o al WhatsApp +56 9 6190 7601.\n\nGuarda este post ⭐ para cuando elijas dónde instalarlo.\n\n#AireAcondicionado #SplitInverter #Dormitorio #DormirBien #InstalaciónProfesional #Santiago #HogarChile #ClimatízatePro",
+  "facebook": "¿Estás pensando en un aire acondicionado para el dormitorio? Ahí es donde más se nota cómo funciona y cómo quedó instalado.\n\nPor qué Inverter para descansar: ajusta la velocidad del compresor en vez de prenderse y apagarse a cada rato, así funciona suave, sin arranques bruscos, y mantiene la temperatura pareja durante la noche. Además, todos nuestros equipos son frío/calor: climatizan todo el año.\n\nCuatro claves para ubicarlo bien:\n1. Que no apunte directo a la cama.\n2. En altura y sin cortinas ni muebles delante.\n3. Cerca del muro exterior, para que el recorrido sea corto.\n4. Con el enchufe a mano (si está a más de 1,5 m, se suma punto eléctrico canalizado).\n\nEn Climatízate Pro cuidamos la estética: canaleta blanca recta, equipo nivelado y tu pieza limpia al terminar, con 6 meses de garantía de instalación.\n\nPrecios claros: el valor de equipo + instalación incluye la instalación básica (lo que trae el equipo en su caja: aprox. 2 m de tubería de cobre y 2 m de cordones eléctricos). Adicionales: canaleta blanca 100×50 de 2 m $35.000 · soporte muro o piso $35.000 · punto eléctrico $12.000 por metro adicional. La bomba de condensado y la extensión de tuberías se evalúan y cotizan.\n\nAntes de decidir, prueba el simulador y mira cómo quedará en tu muro.\n👉 https://www.climatizatepro.cl\n📲 WhatsApp +56 9 6190 7601",
+  "tiktok": "Aire en el dormitorio: ¿dónde va y cómo debe quedar? 😴❄️🔥 Inverter = funcionamiento suave y temperatura pareja toda la noche. Nunca apuntando directo a la cama, en altura y con el recorrido ordenado. Instalación básica incluida; adicionales con precio claro. Cotiza en climatizatepro.cl o al WhatsApp +56 9 6190 7601 #aireacondicionado #inverter #dormitorio #santiago #chile #hogar #instalacion",
+  "linkedin": "El dormitorio es el espacio donde más se percibe la calidad de una climatización: el funcionamiento, el ruido y la terminación de la instalación.\n\nEn Climatízate Pro trabajamos solo con equipos Inverter frío/calor, que ajustan la velocidad del compresor para mantener una temperatura estable sin arranques bruscos. Y ponemos el mismo cuidado en la instalación: ubicación que evita el flujo directo sobre las personas, recorrido corto y canalizado, equipo nivelado y espacio limpio al terminar, con 6 meses de garantía de instalación.\n\nNuestros precios incluyen la instalación básica (aprox. 2 m de tubería de cobre y 2 m de cordones eléctricos) y los adicionales tienen valor publicado: canaleta blanca 100×50 de 2 m $35.000, soporte muro o piso $35.000 y punto eléctrico $12.000 por metro adicional sobre 1,5 m. Los adicionales complejos se evalúan.\n\nEste mismo criterio lo aplicamos en oficinas, locales y espacios de trabajo donde el confort y la estética importan.\n\nCotiza en climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}
