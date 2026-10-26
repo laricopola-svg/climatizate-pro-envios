@@ -397,5 +397,26 @@
    "portada": true,
    "nota": "recorte src_ragnar.jpg"
   }
+ ],
+ "banco/american-bully/bully_032.jpg": [
+  {
+   "fecha": "2026-10-26",
+   "carpeta": "2026-10-26-1500-pavimento-patas-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_046.jpg": [
+  {
+   "fecha": "2026-10-26",
+   "carpeta": "2026-10-26-1500-pavimento-patas-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_006.jpg": [
+  {
+   "fecha": "2026-10-26",
+   "carpeta": "2026-10-26-1500-pavimento-patas-bully",
+   "portada": false
+  }
  ]
 }
