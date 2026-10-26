@@ -1,0 +1,99 @@
+{
+ "fecha": "2026-10-26",
+ "dia": "lunes (par: 11:00 Cane Corso, 15:00 Bully, 20:30 Cane Corso; Reel)",
+ "gmail": {
+  "messageId": "1a177986fb75eda5",
+  "threadId": "1a177986fb75eda5",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-10-26 – responde OK para publicar"
+ },
+ "tendencias_usadas": [
+  "IG 17–24 oct (lightreel.ai): 'VHS end-credit recaps' con audio 'The Winner Takes It All' -> Reel 20:30 créditos de un Cane Corso",
+  "IG Reels audio 12–25 oct (socialpilot.co): Hello October – Sugar Lime Blue (alternativa sugerida)",
+  "Estacionalidad primavera Chile: calor creciente (pavimento caliente, agua de golpe tras paseo)"
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+  },
+  {
+   "detalle": "Banco Cane Corso agotado para la regla de 14 días (cc_005/007/008 se liberan el 03-nov): publicación 1 y Reel solo con láminas/fondos de diseño (estilo VHS). Se pidieron fotos/videos nuevos de Queen, Skype y los Cane Corso en el correo."
+  }
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Torsión gástrica: qué es, señales, factores de riesgo, prevención, plan de urgencia",
+   "raza": "Cane Corso",
+   "formato": "carrusel 7 láminas (todas de diseño, sin foto)",
+   "carpeta": "publicaciones/2026-10-26-1100-torsion-gastrica-cane-corso",
+   "voz": null,
+   "metricool": [
+    {
+     "id": 406405467,
+     "uuid": "-6902416497446269470",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Test de los 7 segundos: pavimento caliente y patas del Bully en 3 pasos",
+   "raza": "American Bully",
+   "formato": "carrusel 5 láminas (3 fotos + 2 de diseño)",
+   "carpeta": "publicaciones/2026-10-26-1500-pavimento-patas-bully",
+   "voz": null,
+   "metricool": [
+    {
+     "id": 406405474,
+     "uuid": "7967734206834101847",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Créditos finales de mi día con un Cane Corso (humor, tendencia VHS) + Dato TeamFS apego/quedarse solo",
+   "raza": "Cane Corso",
+   "formato": "Reel 20.7 s (IG+FB) + carrusel 8 fotogramas (TikTok)",
+   "carpeta": "publicaciones/2026-10-26-2030-creditos-cane-corso",
+   "voz": false,
+   "voz_en_off": false,
+   "audio_recomendado": "The Winner Takes It All – ABBA (alt. Hello October – Sugar Lime Blue)",
+   "metricool": [
+    {
+     "id": 406405497,
+     "uuid": "-5168109528131811183",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "tipo": "REEL"
+    },
+    {
+     "id": 406405513,
+     "uuid": "3320317776141373221",
+     "redes": [
+      "tiktok"
+     ],
+     "tipo": "carrusel fotogramas"
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "revisiones": []
+}
