@@ -1,0 +1,89 @@
+{
+ "fecha": "2026-10-27",
+ "dia": "martes (impar: 11:00 Bully, 15:00 Cane Corso, 20:30 Bully; carrusel)",
+ "gmail": {
+  "messageId": "1a17cbb0669efe88",
+  "threadId": "1a17cbb0669efe88",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-10-27 – responde OK para publicar"
+ },
+ "tendencias_usadas": [
+  "TikTok oct-2026 (newengen.com): 'Runway Hip Pop' (JADE – Angel of My Dreams) y 'Ramalama Costume Walk' -> carrusel Pasarela Bully 20:30",
+  "IG Reels audio 12–25 oct (socialpilot.co): Hello October / October – Adrián Berenguer (referencia)",
+  "Estacionalidad primavera Chile: golpe de calor en mascotas (La Tercera, CNN Chile, 13.cl)"
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+  },
+  {
+   "detalle": "Banco Cane Corso aún bloqueado por regla de 14 días (cc_005/007/008 se liberan el 03-nov): publicación 2 solo con láminas de diseño. Se pidieron fotos nuevas en el correo."
+  }
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Golpe de calor en el Bully: qué es, por qué, señales, qué hacer, prevención",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño)",
+   "carpeta": "publicaciones/2026-10-27-1100-golpe-calor-bully",
+   "voz": null,
+   "metricool": [
+    {
+     "id": 407606211,
+     "uuid": "-832742496835845031",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Saludar sin saltar en 3 pasos",
+   "raza": "Cane Corso",
+   "formato": "carrusel 5 láminas (todas de diseño, sin foto)",
+   "carpeta": "publicaciones/2026-10-27-1500-saludar-sin-saltar-cane-corso",
+   "voz": null,
+   "metricool": [
+    {
+     "id": 407606239,
+     "uuid": "26229463977185002",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Pasarela Bully 2026: las 4 caminatas oficiales (humor) + Dato TeamFS movimiento en ABKC",
+   "raza": "American Bully",
+   "formato": "carrusel 6 láminas (5 fotos + 1 de diseño)",
+   "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "voz": null,
+   "metricool": [
+    {
+     "id": 407606266,
+     "uuid": "958285873371827073",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "revisiones": []
+}
