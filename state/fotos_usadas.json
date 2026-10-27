@@ -418,5 +418,68 @@
    "carpeta": "2026-10-26-1500-pavimento-patas-bully",
    "portada": false
   }
+ ],
+ "banco/american-bully/bully_052.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-1100-golpe-calor-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_007.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-1100-golpe-calor-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_061.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-1100-golpe-calor-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_047.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-1100-golpe-calor-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_023.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_037.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_045.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_004.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_051.jpg": [
+  {
+   "fecha": "2026-10-27",
+   "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": false
+  }
  ]
 }
