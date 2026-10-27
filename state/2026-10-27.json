@@ -31,16 +31,18 @@
    "voz": null,
    "metricool": [
     {
-     "id": 407606211,
+     "id": 407824994,
      "uuid": "-832742496835845031",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 407606211
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-27T09:54-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com, msg 1a17d6d61f456e08)"
   },
   {
    "n": 2,
@@ -52,16 +54,18 @@
    "voz": null,
    "metricool": [
     {
-     "id": 407606239,
+     "id": 407825010,
      "uuid": "26229463977185002",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 407606239
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-27T09:54-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com, msg 1a17d6d61f456e08)"
   },
   {
    "n": 3,
@@ -73,16 +77,18 @@
    "voz": null,
    "metricool": [
     {
-     "id": 407606266,
+     "id": 407825021,
      "uuid": "958285873371827073",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 407606266
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-27T09:54-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com, msg 1a17d6d61f456e08)"
   }
  ],
  "revisiones": [
@@ -97,6 +103,10 @@
   {
    "hora": "2026-10-27T09:17-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta enviada). Sin cambios; las 3 siguen en borrador."
+  },
+  {
+   "hora": "2026-10-27T10:27-03:00",
+   "resultado": "Respuesta 'Ok' (sin números) de fcosotog7@gmail.com a las 09:54. Aprobadas las 3: updateScheduledPost draft:false en Metricool, horas originales 11:00/15:00/20:30 (todas futuras). Nuevos ids 407824994/407825010/407825021; uuid sin cambios. Estado: programada."
   }
  ]
 }
