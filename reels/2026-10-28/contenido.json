@@ -11,8 +11,9 @@
    "chip": "Tips Midea Airvolution",
    "titulo": "4 funciones de tu aire que casi nadie usa",
    "sub": "La 3 te ahorra mantenciones",
-   "dur": 2.8,
-   "zoom": "in"
+   "dur": 2.2,
+   "zoom": "in",
+   "voz": "¿Tienes un Midea? Ojo… tiene cuatro funciones que casi nadie usa."
   },
   {
    "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
@@ -23,8 +24,9 @@
    "chip": "1 · ECO+",
    "titulo": "Ahorra sin pasar calor",
    "sub": "Ajusta solo su funcionamiento para gastar menos energía.",
-   "dur": 3.0,
-   "zoom": "out"
+   "dur": 2.2,
+   "zoom": "out",
+   "voz": "ECO+: gasta menos, sin pasar calor."
   },
   {
    "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
@@ -35,8 +37,9 @@
    "chip": "2 · SLEEP",
    "titulo": "Noche pareja, sin despertar helado",
    "sub": "Ajusta la temperatura de a poco mientras duermes.",
-   "dur": 3.0,
-   "zoom": "in"
+   "dur": 2.2,
+   "zoom": "in",
+   "voz": "Sleep: duermes fresco, sin despertar helado."
   },
   {
    "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
@@ -47,8 +50,9 @@
    "chip": "3 · I-CLEAN",
    "titulo": "Se limpia por dentro",
    "sub": "Ayuda a sacar polvo y humedad del intercambiador. Los filtros igual se lavan.",
-   "dur": 3.2,
-   "zoom": "out"
+   "dur": 2.2,
+   "zoom": "out",
+   "voz": "I-Clean: se limpia solito por dentro."
   },
   {
    "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
@@ -59,16 +63,18 @@
    "chip": "4 · App WiFi",
    "titulo": "Enciéndelo antes de llegar",
    "sub": "Contrólalo y mira el consumo desde el celular.",
-   "dur": 3.0,
-   "zoom": "in"
+   "dur": 2.2,
+   "zoom": "in",
+   "voz": "Y con la app, lo prendes antes de llegar."
   },
   {
    "foto": null,
    "chip": "Climatízate Pro",
    "titulo": "¿Cuál no conocías? Comenta 1, 2, 3 o 4",
    "sub": "Te lo instalamos ordenado, con canaleta y garantía. Míralo antes en tu muro con el simulador.",
-   "dur": 3.2,
-   "zoom": "in"
+   "dur": 2.2,
+   "zoom": "in",
+   "voz": "¿Cuál no conocías? Comenta el número."
   }
  ],
  "etiqueta": "Instalación real Climatízate Pro",
@@ -79,10 +85,12 @@
  "pilar": "Tips Midea",
  "audio_ig": "What You Waiting For? Gwen Stefani",
  "tiktok_title": "4 funciones de tu Midea Airvolution",
- "ia": false,
+ "ia": true,
  "captions": {
   "instagram": "Midea Airvolution: 4 funciones que casi nadie usa 👀\n\n1️⃣ ECO+ → ahorra sin pasar calor\n2️⃣ SLEEP → noche pareja, sin despertar helado\n3️⃣ I-CLEAN → se limpia por dentro\n4️⃣ App WiFi → lo enciendes antes de llegar\n\n¿Cuál no conocías? Comenta 1, 2, 3 o 4 👇\nMándaselo a quien tiene un Midea y no lo aprovecha 📲\n\n(Funciones según modelo y control.)\n\n#MideaAirvolution #AireAcondicionado #Santiago #TipsHogar #ClimatízatePro",
   "facebook": "¿Tienes un Midea Airvolution? Estas 4 funciones te cambian el verano (y la cuenta de luz):\n\n1. ECO+: ajusta solo su funcionamiento para gastar menos energía.\n2. SLEEP: baja o sube la temperatura de a poco mientras duermes, para que no despiertes helado.\n3. I-CLEAN: ayuda a sacar polvo y humedad del intercambiador (los filtros igual se lavan).\n4. App WiFi: lo prendes antes de llegar y ves el consumo desde el celular.\n\n¿Cuál usabas? ¿Y desde qué comuna nos escribes? 👇\n\nLas funciones dependen del modelo y del control. Si quieres uno instalado ordenado, con canaleta y garantía, cotiza en climatizatepro.cl o al WhatsApp +56 9 6190 7601.",
   "tiktok": "4 funciones del Midea Airvolution que casi nadie usa 👀 ECO+, Sleep, I-Clean y la app WiFi. ¿Cuál no conocías? Comenta 1, 2, 3 o 4 👇 Aire acondicionado Inverter frío/calor en Santiago: climatizatepro.cl #midea #aireacondicionado #santiago #tips #climatizatepro"
- }
+ },
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)"
 }

@@ -10,7 +10,8 @@ vocoder.onnx, tts.json, unicode_indexer.bin, voice.bin). Si falta, se arma desde
 
 Voces: M1–M5 (hombre) y F1–F5 (mujer). Para que suene natural:
 - se sintetiza cada escena con su propia frase y una semilla fija (misma voz y timbre en todo el Reel);
-- 10 pasos de difusión (más pasos = menos metálico); velocidad 1.05 (ritmo de conversación);
+- 16 pasos de difusión (más pasos = menos metálico); velocidad 1.08 (ritmo de conversación chilena);
+- voz oficial M2 (hombre, grave); pronunciación de términos en inglés corregida (I-Clean → "ai clin", Sleep → "slip").
 - texto normalizado: números ya escritos con palabras en el guion, "…" como pausa.
 """
 import argparse, json, pathlib, re, subprocess, sys, unicodedata, base64, tarfile, io, urllib.request
@@ -62,7 +63,14 @@ class Supertonic:
         off += n * a * c * 4
         self.dps = np.frombuffer(b, np.float32, n * d * e, off).reshape(n, d, e)
 
+    PRON = [(r"\bI-?CLEAN\b", "ai clin"), (r"\bECO\s?\+", "eco plus"), (r"\bSLEEP\b", "slip"),
+            (r"\bWI-?FI\b", "uai fai"), (r"\bBTU\b", "be te u"), (r"\bTURBO\b", "turbo"),
+            (r"\bFOLLOW ME\b", "fólou mi"), (r"\bGOLDEN FIN\b", "góulden fin"), (r"\bAPP\b", "app"),
+            (r"\+56 9 6190 7601", "más cincuenta y seis, nueve, sesenta y uno, noventa, setenta y seis, cero uno")]
+
     def texto(self, t, lang):
+        for pat, rep in self.PRON:  # cómo se dice en Chile, no cómo se escribe
+            t = re.sub(pat, rep, t, flags=re.I)
         t = t.replace("…", "...").replace("“", '"').replace("”", '"').replace("’", "'")
         t = re.sub(r"[\U0001F000-\U0001FAFF☀-➿]", "", t)
         t = re.sub(r"\s+", " ", t).strip()
@@ -73,7 +81,7 @@ class Supertonic:
         ids = ids[ids >= 0]
         return ids[None, :], np.ones((1, 1, ids.size), np.float32)
 
-    def decir(self, t, voz="M2", lang="es", velocidad=1.05, pasos=10, semilla=7):
+    def decir(self, t, voz="M2", lang="es", velocidad=1.08, pasos=16, semilla=7):
         k = VOCES.index(voz)
         ttl, dp = self.ttl[k:k + 1].copy(), self.dps[k:k + 1].copy()
         ids, m = self.texto(t, lang)
@@ -108,9 +116,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("spec", nargs="?")
     ap.add_argument("out", nargs="?")
-    ap.add_argument("--voz", default="M2", choices=VOCES)
-    ap.add_argument("--velocidad", type=float, default=1.05)
-    ap.add_argument("--pasos", type=int, default=10)
+    ap.add_argument("--voz", default="M2", choices=VOCES)  # voz oficial de Climatízate Pro: M2 (hombre, grave)
+    ap.add_argument("--velocidad", type=float, default=1.08)
+    ap.add_argument("--pasos", type=int, default=16)
     ap.add_argument("--instalar", action="store_true")
     a = ap.parse_args()
     if a.instalar or not (MOD / "vocoder.onnx").exists():

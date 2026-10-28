@@ -15,10 +15,11 @@ spec.json:
 Genera en salida/: reel.mp4 (H.264 + pista de audio silenciosa, 30 fps), portada.jpg,
 y 9x16_NN.jpg (un fotograma final por escena, para TikTok modo fotos).
 Zonas seguras: el texto queda entre y=300 y y=1450 (arriba y abajo quedan libres para la interfaz).
-Voz en off: si existe salida/voz/voz.json (lo genera kit/voz.py), cada escena dura lo que su locución
-(+0,45 s) y la voz se mezcla en el video, normalizada a -14 LUFS.
+Voz en off: si existe salida/voz/voz.json (kit/voz_local.py, voz fija M2), cada escena dura exactamente su
+locución (+0,15 s de entrada y 0,4 s de respiro), aparecen subtítulos palabra a palabra sincronizados con la voz
+(la palabra dicha en naranjo) y la voz se mezcla con EQ, compresión suave y un toque de sala, a -14 LUFS.
 """
-import json, sys, subprocess, pathlib, math
+import json, sys, subprocess, pathlib, math, re
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 ROOT = pathlib.Path(__file__).parent
@@ -36,6 +37,8 @@ FS = font("Poppins-Medium.ttf", 44)
 FC = font("Poppins-Bold.ttf", 40)
 FN = font("Poppins-Regular.ttf", 28)
 FB = font("Poppins-Bold.ttf", 34)
+FSUB = font("Poppins-Bold.ttf", 60)
+VOZ_INICIO, VOZ_COLA = 0.15, 0.40  # la voz entra 0,15 s después del corte y deja 0,4 s de respiro
 LOGO = Image.open(ROOT / "assets/escudo.png").convert("RGBA")
 LOGO = LOGO.resize((120, int(120 * LOGO.height / LOGO.width)), Image.LANCZOS)
 
@@ -125,7 +128,7 @@ def marca(fr, idx, total, nota, ultima, foto=True, etiqueta=None):
     d.rounded_rectangle([196, 176, 196 + d.textlength("Climatízate Pro", font=FB) + 40, 236], 30, fill=(255, 255, 255, 225))
     d.text((216, 182), "Climatízate Pro", font=FB, fill=NAVY)
     # barra de progreso (favorece ver hasta el final)
-    x0, x1, y = 60, W - 60, 1500
+    x0, x1, y = 60, W - 60, 296
     seg = (x1 - x0 - (total - 1) * 10) / total
     for i in range(total):
         a = x0 + i * (seg + 10)
@@ -140,6 +143,53 @@ def marca(fr, idx, total, nota, ultima, foto=True, etiqueta=None):
             d.text(((W - nw) / 2, 1620), nota, font=FN, fill=(255, 255, 255, 235) if foto else (55, 75, 95), stroke_width=2 if foto else 0, stroke_fill=(0, 0, 0, 160))
 
 
+def tiempos_palabras(texto, inicio, dur):
+    """Reparte la duración real de la locución entre las palabras (por largo + pausas de puntuación)."""
+    pals = texto.split()
+    pesos = [len(re.sub(r"\W", "", w)) + 2 + (4 if re.search(r"[.?!…:]$", w) else 2 if w.endswith(",") else 0) for w in pals]
+    tot, t, res = sum(pesos) or 1, inicio, []
+    for w, pz in zip(pals, pesos):
+        d = dur * pz / tot
+        res.append((w, t, t + d))
+        t += d
+    return res
+
+
+def trozos(pals, maxp=4):
+    """Agrupa en bloques de hasta 4 palabras, cortando en la puntuación (estilo subtítulo de TikTok)."""
+    g, cur = [], []
+    for i, p in enumerate(pals):
+        cur.append(i)
+        if len(cur) >= maxp or re.search(r"[.,?!…:]$", p[0]):
+            g.append(cur)
+            cur = []
+    if cur:
+        g.append(cur)
+    return g
+
+
+def subtitulo(fr, pals, grupos, t, y):
+    """Dibuja el bloque de palabras que se está diciendo; la palabra actual va en naranjo."""
+    act = next((i for i, (_, a, b) in enumerate(pals) if a <= t < b), None)
+    if act is None:
+        if not pals or t < pals[0][1]:
+            return
+        act = len(pals) - 1 if t >= pals[-1][2] - 0.01 else None
+        if act is None:
+            return
+    g = next(gr for gr in grupos if act in gr)
+    d = ImageDraw.Draw(fr)
+    ws = [pals[i][0] for i in g]
+    esp = d.textlength(" ", font=FSUB)
+    anchos = [d.textlength(w, font=FSUB) for w in ws]
+    total = sum(anchos) + esp * (len(ws) - 1)
+    x = (W - total) / 2
+    for i, w, a in zip(g, ws, anchos):
+        col = NAR if i == act else BLANCO
+        d.text((x, y), w, font=FSUB, fill=col, stroke_width=7, stroke_fill=(11, 31, 51))
+        x += a + esp
+
+
 def mezclar_voz(out, esc, voz):
     """Pista de voz: cada locución empieza 0,15 s después de su escena; resto en silencio."""
     partes, ins = [], []
@@ -148,11 +198,15 @@ def mezclar_voz(out, esc, voz):
         if v:
             ins += ["-i", str(out / "voz" / v["archivo"])]
             k = len(ins) // 2 - 1
-            partes.append(f"[{k}:a]aformat=sample_rates=44100:channel_layouts=stereo,adelay=150|150,apad,atrim=0:{d:.3f},asetpts=N/SR/TB[s{i}]")
+            partes.append(f"[{k}:a]aformat=sample_rates=44100:channel_layouts=stereo,adelay={int(VOZ_INICIO*1000)}|{int(VOZ_INICIO*1000)},apad,atrim=0:{d:.3f},asetpts=N/SR/TB[s{i}]")
         else:
             partes.append(f"anullsrc=channel_layout=stereo:sample_rate=44100,atrim=0:{d:.3f}[s{i}]")
     cadena = "".join(f"[s{i}]" for i in range(len(esc)))
-    filtro = ";".join(partes) + f";{cadena}concat=n={len(esc)}:v=0:a=1,highpass=f=70,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120,loudnorm=I=-14:TP=-1.5:LRA=9[voz]"
+    filtro = ";".join(partes) + f";{cadena}concat=n={len(esc)}:v=0:a=1,"
+    # cadena "de estudio": limpia graves, quita sibilancia, calidez + presencia, compresión suave y un toque de sala
+    filtro += ("highpass=f=80,deesser=i=0.35,equalizer=f=180:t=q:w=1:g=2,equalizer=f=3200:t=q:w=1.4:g=1.5,"
+               "acompressor=threshold=-21dB:ratio=2.2:attack=10:release=150:makeup=2,"
+               "aecho=0.85:0.5:18|32:0.08|0.05,loudnorm=I=-14:TP=-1.5:LRA=9[voz]")
     tmp = out / "reel_mudo.mp4"
     (out / "reel.mp4").rename(tmp)
     r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(tmp)] + ins + ["-filter_complex", filtro,
@@ -177,7 +231,8 @@ def main(spec_path, out):
     if voz:
         for sc, v in zip(esc, voz):
             if v:
-                sc["dur"] = max(sc.get("dur", 2.6), v["dur"] + 0.45)
+                sc["dur"] = round(VOZ_INICIO + v["dur"] + VOZ_COLA, 3)
+        esc[-1]["dur"] = max(esc[-1]["dur"], esc[-1]["dur"] + 0.6)  # cierre: un respiro antes del loop
     total_frames = sum(int(s.get("dur", 2.6) * FPS) for s in esc)
     dur = total_frames / FPS
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
@@ -187,11 +242,15 @@ def main(spec_path, out):
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     for i, sc in enumerate(esc):
         bg = fondo(sc)
-        card = capa_texto(sc, i, len(esc), nota)
+        con_voz = bool(voz and voz[i])
+        card = capa_texto(dict(sc, sub=None) if con_voz and i < len(esc) - 1 else sc, i, len(esc), nota)
         n = int(sc.get("dur", 2.6) * FPS)
         ultima = i == len(esc) - 1
         cy = sc.get("y", 1440 - card.height if sc.get("foto") else (H - card.height) // 2)
         cy = max(300, min(cy, 1450 - card.height))
+        pals = tiempos_palabras(sc.get("voz", ""), VOZ_INICIO, voz[i]["dur"]) if con_voz else []
+        grupos = trozos(pals)
+        ysub = (cy - 120) if ultima or not sc.get("foto") else 1462
         last = None
         for k in range(n):
             p = k / max(n - 1, 1)
@@ -205,6 +264,8 @@ def main(spec_path, out):
                 c.putalpha(c.getchannel("A").point(lambda v: int(v * ease)))
             fr.alpha_composite(c, (60, int(cy + 60 * (1 - ease))))
             marca(fr, i, len(esc), nota, ultima, bool(sc.get('foto')), sc.get('etiqueta', spec.get('etiqueta')))
+            if pals:
+                subtitulo(fr, pals, grupos, k / FPS, ysub)
             rgb = fr.convert("RGB")
             ff.stdin.write(rgb.tobytes())
             last = rgb
