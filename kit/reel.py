@@ -206,18 +206,30 @@ def mezclar_voz(out, esc, voz):
     # cadena "de estudio": limpia graves, quita sibilancia, calidez + presencia, compresión suave y un toque de sala
     filtro += ("highpass=f=80,deesser=i=0.35,equalizer=f=180:t=q:w=1:g=2,equalizer=f=3200:t=q:w=1.4:g=1.5,"
                "acompressor=threshold=-21dB:ratio=2.2:attack=10:release=150:makeup=2,"
-               "aecho=0.85:0.5:18|32:0.08|0.05,loudnorm=I=-14:TP=-1.5:LRA=9[voz]")
+               "aecho=0.85:0.5:18|32:0.08|0.05[voz]")
     tmp = out / "reel_mudo.mp4"
+    wav = out / "voz_mezcla.wav"
+    # 1) pista de voz procesada
+    r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error"] + ins + ["-filter_complex", filtro, "-map", "[voz]", "-ar", "44100", str(wav)])
+    if r.returncode:
+        print("AVISO: no se pudo procesar la voz; el Reel queda sin voz")
+        return
+    # 2) medir sonoridad real y llevarla a -14 LUFS (estándar de Reels/TikTok) con limitador
+    m = subprocess.run(["ffmpeg", "-i", str(wav), "-af", "ebur128", "-f", "null", "-"], capture_output=True, text=True).stderr
+    i_lufs = float(re.findall(r"I:\s+(-?[\d.]+) LUFS", m)[-1])
+    gan = max(-6.0, min(18.0, -14.0 - i_lufs))
     (out / "reel.mp4").rename(tmp)
-    r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(tmp)] + ins + ["-filter_complex", filtro,
-                        "-map", "0:v", "-map", "[voz]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-shortest",
+    r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(tmp), "-i", str(wav), "-filter_complex",
+                        f"[1:a]volume={gan:.2f}dB,alimiter=limit=0.79:attack=5:release=50:level=false[a]",
+                        "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-shortest",
                         "-movflags", "+faststart", str(out / "reel.mp4")])
+    wav.unlink(missing_ok=True)
     if r.returncode:
         tmp.rename(out / "reel.mp4")
         print("AVISO: no se pudo mezclar la voz; el Reel queda sin voz")
     else:
         tmp.unlink()
-        print("OK voz mezclada")
+        print(f"OK voz mezclada (ganancia {gan:+.1f} dB)")
 
 
 def main(spec_path, out):
