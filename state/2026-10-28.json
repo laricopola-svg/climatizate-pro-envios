@@ -39,16 +39,18 @@
    "canva": "https://canva.link/owcy1kmem4jnmpz (diseño DAHZSbQHHc8, pág. 4)",
    "metricool": [
     {
-     "id": 408733602,
+     "id": 408816227,
      "uuid": "5934701844290817601",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 408733602
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-10-28T07:12-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com)"
   },
   {
    "n": 2,
@@ -61,16 +63,18 @@
    "carpeta": "publicaciones/2026-10-28-1500-timbre-halloween-bully",
    "metricool": [
     {
-     "id": 408733625,
+     "id": 408816252,
      "uuid": "-5864119676794748485",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 408733625
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-10-28T07:12-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com)"
   },
   {
    "n": 3,
@@ -90,29 +94,36 @@
    },
    "metricool": [
     {
-     "id": 408733655,
+     "id": 408816300,
      "uuid": "4983429920615648093",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 408733655
     },
     {
-     "id": 408733672,
+     "id": 408816350,
      "uuid": "-7437288436379136963",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 408733672
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-10-28T07:12-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com)"
   }
  ],
  "revisiones": [
   {
    "hora": "2026-10-28T07:06-03:00",
    "resultado": "sin respuesta de fcosotog7@gmail.com en el hilo; sin cambios"
+  },
+  {
+   "hora": "2026-10-28T08:13-03:00",
+   "resultado": "respuesta 'Ok' de fcosotog7@gmail.com (msg 1a181ff390d1cd33, 07:12) -> aprobadas las 3. updateScheduledPost draft:false en los 4 posts de Metricool (horas 11:00, 15:00, 20:30 sin cambios, todas futuras). TikTok 20:30 sigue con autoPublish false (llega notificación a la app de Metricool)."
   }
  ]
 }
