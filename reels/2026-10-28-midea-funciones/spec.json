@@ -1,0 +1,75 @@
+{
+ "tema": "4 funciones de tu Midea Airvolution que casi nadie usa",
+ "nota": "Funciones según modelo y control. Revisa tu manual.",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.62,
+    0.2
+   ],
+   "chip": "Tips Midea Airvolution",
+   "titulo": "4 funciones de tu aire que casi nadie usa",
+   "sub": "La 3 te ahorra mantenciones",
+   "dur": 2.8,
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": [
+    0.5,
+    0.2
+   ],
+   "chip": "1 · ECO+",
+   "titulo": "Ahorra sin pasar calor",
+   "sub": "Ajusta solo su funcionamiento para gastar menos energía.",
+   "dur": 3.0,
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": [
+    0.55,
+    0.2
+   ],
+   "chip": "2 · SLEEP",
+   "titulo": "Noche pareja, sin despertar helado",
+   "sub": "Ajusta la temperatura de a poco mientras duermes.",
+   "dur": 3.0,
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.66,
+    0.52
+   ],
+   "chip": "3 · I-CLEAN",
+   "titulo": "Se limpia por dentro",
+   "sub": "Ayuda a sacar polvo y humedad del intercambiador. Los filtros igual se lavan.",
+   "dur": 3.2,
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.5,
+    0.3
+   ],
+   "chip": "4 · App WiFi",
+   "titulo": "Enciéndelo antes de llegar",
+   "sub": "Contrólalo y mira el consumo desde el celular.",
+   "dur": 3.0,
+   "zoom": "in"
+  },
+  {
+   "foto": null,
+   "chip": "Climatízate Pro",
+   "titulo": "¿Cuál no conocías? Comenta 1, 2, 3 o 4",
+   "sub": "Te lo instalamos ordenado, con canaleta y garantía. Míralo antes en tu muro con el simulador.",
+   "dur": 3.2,
+   "zoom": "in"
+  }
+ ],
+ "etiqueta": "Instalación real Climatízate Pro"
+}
