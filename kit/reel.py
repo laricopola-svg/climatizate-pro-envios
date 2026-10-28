@@ -15,6 +15,8 @@ spec.json:
 Genera en salida/: reel.mp4 (H.264 + pista de audio silenciosa, 30 fps), portada.jpg,
 y 9x16_NN.jpg (un fotograma final por escena, para TikTok modo fotos).
 Zonas seguras: el texto queda entre y=300 y y=1450 (arriba y abajo quedan libres para la interfaz).
+Voz en off: si existe salida/voz/voz.json (lo genera kit/voz.py), cada escena dura lo que su locución
+(+0,45 s) y la voz se mezcla en el video, normalizada a -14 LUFS.
 """
 import json, sys, subprocess, pathlib, math
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -138,12 +140,44 @@ def marca(fr, idx, total, nota, ultima, foto=True, etiqueta=None):
             d.text(((W - nw) / 2, 1620), nota, font=FN, fill=(255, 255, 255, 235) if foto else (55, 75, 95), stroke_width=2 if foto else 0, stroke_fill=(0, 0, 0, 160))
 
 
+def mezclar_voz(out, esc, voz):
+    """Pista de voz: cada locución empieza 0,15 s después de su escena; resto en silencio."""
+    partes, ins = [], []
+    for i, (sc, v) in enumerate(zip(esc, voz)):
+        d = int(sc.get("dur", 2.6) * FPS) / FPS
+        if v:
+            ins += ["-i", str(out / "voz" / v["archivo"])]
+            k = len(ins) // 2 - 1
+            partes.append(f"[{k}:a]aformat=sample_rates=44100:channel_layouts=stereo,adelay=150|150,apad,atrim=0:{d:.3f},asetpts=N/SR/TB[s{i}]")
+        else:
+            partes.append(f"anullsrc=channel_layout=stereo:sample_rate=44100,atrim=0:{d:.3f}[s{i}]")
+    cadena = "".join(f"[s{i}]" for i in range(len(esc)))
+    filtro = ";".join(partes) + f";{cadena}concat=n={len(esc)}:v=0:a=1,highpass=f=70,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120,loudnorm=I=-14:TP=-1.5:LRA=9[voz]"
+    tmp = out / "reel_mudo.mp4"
+    (out / "reel.mp4").rename(tmp)
+    r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(tmp)] + ins + ["-filter_complex", filtro,
+                        "-map", "0:v", "-map", "[voz]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-shortest",
+                        "-movflags", "+faststart", str(out / "reel.mp4")])
+    if r.returncode:
+        tmp.rename(out / "reel.mp4")
+        print("AVISO: no se pudo mezclar la voz; el Reel queda sin voz")
+    else:
+        tmp.unlink()
+        print("OK voz mezclada")
+
+
 def main(spec_path, out):
     spec = json.loads(pathlib.Path(spec_path).read_text())
     out = pathlib.Path(out)
     out.mkdir(parents=True, exist_ok=True)
     esc = spec["escenas"]
     nota = spec.get("nota", "")
+    vj = out / "voz" / "voz.json"
+    voz = json.loads(vj.read_text())["escenas"] if vj.exists() else None
+    if voz:
+        for sc, v in zip(esc, voz):
+            if v:
+                sc["dur"] = max(sc.get("dur", 2.6), v["dur"] + 0.45)
     total_frames = sum(int(s.get("dur", 2.6) * FPS) for s in esc)
     dur = total_frames / FPS
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
@@ -181,6 +215,8 @@ def main(spec_path, out):
     ff.wait()
     if ff.returncode:
         sys.exit("ffmpeg falló")
+    if voz:
+        mezclar_voz(out, esc, voz)
     print(f"OK {out/'reel.mp4'} {dur:.1f}s, {len(esc)} escenas")
 
 
