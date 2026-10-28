@@ -1,26 +1,118 @@
 {
  "fecha": "2026-10-28",
  "dia": "miércoles (par: 11:00 Cane Corso, 15:00 Bully, 20:30 Cane Corso; Reel)",
- "gmail": {"messageId": "1a181e5f8c9d14ca", "threadId": "1a181e5f8c9d14ca", "para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-10-28 – responde OK para publicar"},
+ "gmail": {
+  "messageId": "1a181e5f8c9d14ca",
+  "threadId": "1a181e5f8c9d14ca",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-10-28 – responde OK para publicar"
+ },
  "tendencias_usadas": [
   "TikTok oct-2026 (newengen.com): 'Ramalama Costume Walk' (Róisín Murphy – Ramalama (Bang Bang)): cámara baja en los pies + revelación del disfraz -> Reel 20:30",
   "Halloween sábado 31-oct en Chile (timbre/dulce o truco) -> 15:00",
   "IG Reels audio 12–25 oct (socialpilot.co): Goo Goo Muck – The Cramps (decoración que cobra vida), referencia para el capítulo 2"
  ],
  "incidencias": [
-  {"detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
-  {"detalle": "Canva generate-image: la cuota de créditos se agotó después de 3 imágenes (fallaron Skype fantasma y la escena de los dulces). El Reel quedó en 3 escenas, solo con Queen."},
-  {"detalle": "El proxy de la sesión bloquea export-download.canva.com y static.metricool.com: no hay copia local de las piezas Canva (11:00 y Reel). Se usaron las URL de export de Canva directo en Metricool. No se extrajeron fotogramas del Reel para el correo; se envió el link al mp4."},
-  {"detalle": "create-design de Canva generó una portada propia (página 1) con perros IA de orejas cortadas que no corresponden a Queen: no se usa."}
+  {
+   "detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+  },
+  {
+   "detalle": "Canva generate-image: la cuota de créditos se agotó después de 3 imágenes (fallaron Skype fantasma y la escena de los dulces). El Reel quedó en 3 escenas, solo con Queen."
+  },
+  {
+   "detalle": "El proxy de la sesión bloquea export-download.canva.com y static.metricool.com: no hay copia local de las piezas Canva (11:00 y Reel). Se usaron las URL de export de Canva directo en Metricool. No se extrajeron fotogramas del Reel para el correo; se envió el link al mp4."
+  },
+  {
+   "detalle": "create-design de Canva generó una portada propia (página 1) con perros IA de orejas cortadas que no corresponden a Queen: no se usa."
+  }
  ],
  "publicaciones": [
-  {"n": 1, "hora": "11:00", "tema": "Articulaciones del cachorro Cane Corso: 5 reglas hasta los 18 meses + dato evaluaciones cadera/codo de los padres", "raza": "Cane Corso", "formato": "imagen única", "estilo": "IA cartoon 3D", "audio": "TikTok autoAddMusic", "carpeta": "publicaciones/2026-10-28-1100-articulaciones-cachorro-cane-corso", "canva": "https://canva.link/owcy1kmem4jnmpz (diseño DAHZSbQHHc8, pág. 4)",
-   "metricool": [{"id": 408733602, "uuid": "5934701844290817601", "redes": ["facebook", "instagram", "tiktok"]}], "estado": "borrador"},
-  {"n": 2, "hora": "15:00", "tema": "Halloween = 40 timbrazos: 'a tu lugar' en 4 pasos (Bully)", "raza": "American Bully", "formato": "imagen única", "estilo": "foto real (bully_033)", "audio": "TikTok autoAddMusic", "carpeta": "publicaciones/2026-10-28-1500-timbre-halloween-bully",
-   "metricool": [{"id": 408733625, "uuid": "-5864119676794748485", "redes": ["facebook", "instagram", "tiktok"]}], "estado": "borrador"},
-  {"n": 3, "hora": "20:30", "tema": "Los Guardianes TeamFS Cap. 1: El desfile de Halloween (Queen Reina Vampira, Ramalama costume walk) + dato disfraz seguro", "raza": "Cane Corso", "formato": "Reel 3 escenas (Canva mp4)", "estilo": "IA cartoon 3D", "voz": null, "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0; FB sin música; TikTok aparte autoPublish false", "carpeta": "publicaciones/2026-10-28-2030-guardianes-cap1-halloween", "canva": "https://canva.link/owcy1kmem4jnmpz (diseño DAHZSbQHHc8, págs. 2, 3, 5)",
-   "serie": {"nombre": "Los Guardianes TeamFS", "capitulo": 1, "pendiente_cap2": "Skype (formentino) de fantasma + escena dulces fuera de alcance"},
-   "metricool": [{"id": 408733655, "uuid": "4983429920615648093", "redes": ["instagram", "facebook"]}, {"id": 408733672, "uuid": "-7437288436379136963", "redes": ["tiktok"], "autoPublish": false}], "estado": "borrador"}
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Articulaciones del cachorro Cane Corso: 5 reglas hasta los 18 meses + dato evaluaciones cadera/codo de los padres",
+   "raza": "Cane Corso",
+   "formato": "imagen única",
+   "estilo": "IA cartoon 3D",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-10-28-1100-articulaciones-cachorro-cane-corso",
+   "canva": "https://canva.link/owcy1kmem4jnmpz (diseño DAHZSbQHHc8, pág. 4)",
+   "metricool": [
+    {
+     "id": 408733602,
+     "uuid": "5934701844290817601",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Halloween = 40 timbrazos: 'a tu lugar' en 4 pasos (Bully)",
+   "raza": "American Bully",
+   "formato": "imagen única",
+   "estilo": "foto real (bully_033)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-10-28-1500-timbre-halloween-bully",
+   "metricool": [
+    {
+     "id": 408733625,
+     "uuid": "-5864119676794748485",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Los Guardianes TeamFS Cap. 1: El desfile de Halloween (Queen Reina Vampira, Ramalama costume walk) + dato disfraz seguro",
+   "raza": "Cane Corso",
+   "formato": "Reel 3 escenas (Canva mp4)",
+   "estilo": "IA cartoon 3D",
+   "voz": null,
+   "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0; FB sin música; TikTok aparte autoPublish false",
+   "carpeta": "publicaciones/2026-10-28-2030-guardianes-cap1-halloween",
+   "canva": "https://canva.link/owcy1kmem4jnmpz (diseño DAHZSbQHHc8, págs. 2, 3, 5)",
+   "serie": {
+    "nombre": "Los Guardianes TeamFS",
+    "capitulo": 1,
+    "pendiente_cap2": "Skype (formentino) de fantasma + escena dulces fuera de alcance"
+   },
+   "metricool": [
+    {
+     "id": 408733655,
+     "uuid": "4983429920615648093",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 408733672,
+     "uuid": "-7437288436379136963",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  }
  ],
- "revisiones": []
+ "revisiones": [
+  {
+   "hora": "2026-10-28T07:06-03:00",
+   "resultado": "sin respuesta de fcosotog7@gmail.com en el hilo; sin cambios"
+  }
+ ]
 }
