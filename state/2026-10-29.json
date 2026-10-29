@@ -1,7 +1,12 @@
 {
  "fecha": "2026-10-29",
  "dia": "jueves (impar: 11:00 Bully, 15:00 Cane Corso, 20:30 Bully)",
- "gmail": {"messageId": "1a1870e34b841e92", "threadId": "1a1870e34b841e92", "para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-10-29 – responde OK para publicar"},
+ "gmail": {
+  "messageId": "1a1870e34b841e92",
+  "threadId": "1a1870e34b841e92",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-10-29 – responde OK para publicar"
+ },
  "tendencias_usadas": [
   "TikTok oct-2026 (newengen.com): 'Be OK' (Ingrid Michaelson): escena alegre + texto con la realidad -> Reel 11:00 ojos Bully",
   "TikTok oct-2026: 'Ramalama Costume Walk' (Róisín Murphy) -> audio IG del Reel 11:00",
@@ -9,30 +14,114 @@
   "IG Reels audio 12–25 oct (socialpilot.co): Hello October, Goo Goo Muck, My Own Universe, WINDOWS IN BRAZIL (no están en el catálogo de audio de Metricool/IG business)"
  ],
  "incidencias": [
-  {"detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
-  {"detalle": "Canva generate-image: se agotó la cuota de créditos tras 2 imágenes (falló la escena 3: final feliz con galletas). El carrusel 20:30 quedó con 2 viñetas IA + lámina de dato + cierre."},
-  {"detalle": "Canva create-design generó perros genéricos (no de la manada) y escribió 'teams' en vez de TeamFS: se reemplazaron por las imágenes IA de la manada, se borraron los perros genéricos y se corrigió el texto."},
-  {"detalle": "El proxy bloquea export-download.canva.com: no hay copia local del carrusel 20:30; se usaron las URL de export de Canva directo en Metricool."},
-  {"detalle": "Audio IG: 'Be OK' (Ingrid Michaelson), 'Hello October', 'My Own Universe', 'Windows in Brazil' y 'Pray For Me' no se encontraron en el catálogo (solo original_sound o sin coincidencia); se usó Ramalama (Bang Bang) 736015230804186."}
+  {
+   "detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+  },
+  {
+   "detalle": "Canva generate-image: se agotó la cuota de créditos tras 2 imágenes (falló la escena 3: final feliz con galletas). El carrusel 20:30 quedó con 2 viñetas IA + lámina de dato + cierre."
+  },
+  {
+   "detalle": "Canva create-design generó perros genéricos (no de la manada) y escribió 'teams' en vez de TeamFS: se reemplazaron por las imágenes IA de la manada, se borraron los perros genéricos y se corrigió el texto."
+  },
+  {
+   "detalle": "El proxy bloquea export-download.canva.com: no hay copia local del carrusel 20:30; se usaron las URL de export de Canva directo en Metricool."
+  },
+  {
+   "detalle": "Audio IG: 'Be OK' (Ingrid Michaelson), 'Hello October', 'My Own Universe', 'Windows in Brazil' y 'Pray For Me' no se encontraron en el catálogo (solo original_sound o sin coincidencia); se usó Ramalama (Bang Bang) 736015230804186."
+  }
  ],
  "publicaciones": [
-  {"n": 1, "hora": "11:00", "tema": "Ojos del Bully: 4 señales (lagrimeo, ojo rojo, ojo de cereza, párpado hacia adentro) + Dato TeamFS limpieza/veterinario",
-   "raza": "American Bully", "formato": "Reel 18,8 s (IG+FB) + TikTok aparte (autoPublish false)", "estilo": "foto real (bully_003, 024, 039, 036, 026, 030)", "voz": null,
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Ojos del Bully: 4 señales (lagrimeo, ojo rojo, ojo de cereza, párpado hacia adentro) + Dato TeamFS limpieza/veterinario",
+   "raza": "American Bully",
+   "formato": "Reel 18,8 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real (bully_003, 024, 039, 036, 026, 030)",
+   "voz": null,
    "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
    "metricool": [
-    {"id": 409860037, "uuid": "-2307305120854489020", "redes": ["instagram", "facebook"]},
-    {"id": 409860056, "uuid": "-5422567992774081745", "redes": ["tiktok"], "autoPublish": false}
-   ], "estado": "borrador"},
-  {"n": 2, "hora": "15:00", "tema": "Enseñar 'suelta' en 4 pasos antes de Halloween (envoltorios)",
-   "raza": "Cane Corso", "formato": "carrusel 6 láminas (todas de diseño, sin foto)", "estilo": "diseño local (make_post)", "audio": "TikTok autoAddMusic",
+    {
+     "id": 409860037,
+     "uuid": "-2307305120854489020",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 409860056,
+     "uuid": "-5422567992774081745",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Enseñar 'suelta' en 4 pasos antes de Halloween (envoltorios)",
+   "raza": "Cane Corso",
+   "formato": "carrusel 6 láminas (todas de diseño, sin foto)",
+   "estilo": "diseño local (make_post)",
+   "audio": "TikTok autoAddMusic",
    "carpeta": "publicaciones/2026-10-29-1500-suelta-cane-corso",
-   "metricool": [{"id": 409860279, "uuid": "-3167732182460840083", "redes": ["facebook", "instagram", "tiktok"]}], "estado": "borrador"},
-  {"n": 3, "hora": "20:30", "tema": "Los Guardianes TeamFS Cap. 2: La noche de los dulces (Kopito vs Ragnar y Bella) + Dato chocolate/xilitol/envoltorios",
-   "raza": "American Bully", "formato": "carrusel 4 láminas (Canva)", "estilo": "IA cómic", "audio": "TikTok autoAddMusic",
-   "carpeta": "publicaciones/2026-10-29-2030-guardianes-cap2-dulces", "canva": "https://canva.link/xb0o5nm034856l8 (diseño DAHZYR5Ndoo)",
-   "serie": {"nombre": "Los Guardianes TeamFS", "capitulo": 2, "pendiente_cap3": "Skype (formentino) de fantasma / final feliz con galletas de perro y dulces en repisa alta (no se generó por cuota)"},
-   "metricool": [{"id": 409863175, "uuid": "-4358234841742360541", "redes": ["facebook", "instagram", "tiktok"]}], "estado": "borrador"}
+   "metricool": [
+    {
+     "id": 409860279,
+     "uuid": "-3167732182460840083",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Los Guardianes TeamFS Cap. 2: La noche de los dulces (Kopito vs Ragnar y Bella) + Dato chocolate/xilitol/envoltorios",
+   "raza": "American Bully",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-10-29-2030-guardianes-cap2-dulces",
+   "canva": "https://canva.link/xb0o5nm034856l8 (diseño DAHZYR5Ndoo)",
+   "serie": {
+    "nombre": "Los Guardianes TeamFS",
+    "capitulo": 2,
+    "pendiente_cap3": "Skype (formentino) de fantasma / final feliz con galletas de perro y dulces en repisa alta (no se generó por cuota)"
+   },
+   "metricool": [
+    {
+     "id": 409863175,
+     "uuid": "-4358234841742360541",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  }
  ],
- "rotacion_formatos": {"11:00": "Reel (ayer imagen única)", "15:00": "carrusel (ayer imagen única)", "20:30": "carrusel IA (ayer Reel)"}
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer imagen única)",
+  "15:00": "carrusel (ayer imagen única)",
+  "20:30": "carrusel IA (ayer Reel)"
+ },
+ "revisiones": [
+  {
+   "hora": "2026-10-29T07:06-03:00",
+   "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios."
+  }
+ ],
+ "ultima_revision": "2026-10-29T07:06-03:00"
 }
