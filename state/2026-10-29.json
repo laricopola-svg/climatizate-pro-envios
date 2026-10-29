@@ -43,23 +43,27 @@
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
    "metricool": [
     {
-     "id": 409860037,
+     "id": 410083549,
      "uuid": "-2307305120854489020",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 409860037
     },
     {
-     "id": 409860056,
+     "id": 410083565,
      "uuid": "-5422567992774081745",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 409860056
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-29T10:37-03:00",
+   "nota_programacion": "TikTok 11:00 con autoPublish false: llega notificación a la app de Metricool para publicar a mano."
   },
   {
    "n": 2,
@@ -72,16 +76,18 @@
    "carpeta": "publicaciones/2026-10-29-1500-suelta-cane-corso",
    "metricool": [
     {
-     "id": 409860279,
+     "id": 410083590,
      "uuid": "-3167732182460840083",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 409860279
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-29T10:37-03:00"
   },
   {
    "n": 3,
@@ -100,16 +106,18 @@
    },
    "metricool": [
     {
-     "id": 409863175,
+     "id": 410083602,
      "uuid": "-4358234841742360541",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 409863175
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-29T10:37-03:00"
   }
  ],
  "rotacion_formatos": {
@@ -129,7 +137,11 @@
   {
    "hora": "2026-10-29T09:14-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios."
+  },
+  {
+   "hora": "2026-10-29T10:37-03:00",
+   "resultado": "Respuesta de fcosotog7@gmail.com (msg 1a187b4291bfff01, 09:48 -03): 'Ok' sin números -> aprobadas las 3. updateScheduledPost draft:false en los 4 posts de Metricool (horas originales 11:00/15:00/20:30 conservadas, faltaban >5 min). Estado: programada."
   }
  ],
- "ultima_revision": "2026-10-29T09:14-03:00"
+ "ultima_revision": "2026-10-29T10:37-03:00"
 }
