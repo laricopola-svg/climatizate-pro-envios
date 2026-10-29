@@ -1,0 +1,174 @@
+{
+ "tema": "Guía rápida del control de tu Midea Airvolution: qué botón usar en cada momento",
+ "fecha": "2026-10-29",
+ "id": "2026-10-29",
+ "pilar": "Midea (guía del control)",
+ "primer_comentario": "📲 ¿Quieres tu Midea bien instalado? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Tu Midea puede más",
+   "titulo": "Guía rápida del control de tu <span class=f>Midea Airvolution</span>",
+   "texto": "Qué hace cada botón y cuál usar en cada momento, para estar cómodo y cuidar la cuenta de la luz."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Botón MODE",
+   "titulo": "Los modos, <span class=f>en simple</span>",
+   "items": [
+    {
+     "icono": "A",
+     "t": "Auto",
+     "d": "El equipo elige solo según la temperatura que le pides."
+    },
+    {
+     "icono": "❄",
+     "t": "Frío",
+     "d": "Para los días de calor. Partir en una temperatura moderada rinde más."
+    },
+    {
+     "icono": "🔥",
+     "t": "Calor",
+     "d": "Para el invierno: el mismo equipo climatiza todo el año.",
+     "calor": true
+    },
+    {
+     "icono": "💧",
+     "t": "Seco",
+     "d": "Ayuda a bajar la humedad del ambiente."
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Para ahorrar",
+   "titulo": "Los botones que <span class=c>cuidan tu cuenta</span>",
+   "items": [
+    {
+     "icono": "ECO",
+     "t": "ECO+",
+     "d": "Ajusta su funcionamiento para gastar menos energía."
+    },
+    {
+     "icono": "☾",
+     "t": "Sleep",
+     "d": "Cambia la temperatura de a poco mientras duermes."
+    },
+    {
+     "icono": "⏱",
+     "t": "Timer",
+     "d": "Programa cuándo se enciende o se apaga. Nada de dejarlo prendido toda la noche."
+    },
+    {
+     "icono": "◉",
+     "t": "Follow Me",
+     "d": "Mide la temperatura desde el control, donde estás tú (según modelo)."
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Para momentos puntuales",
+   "titulo": "Cuando lo <span class=f>necesitas</span>",
+   "items": [
+    {
+     "icono": "⚡",
+     "t": "Turbo",
+     "d": "Máxima potencia un rato, al llegar a una pieza muy calurosa o fría."
+    },
+    {
+     "icono": "✦",
+     "t": "I-CLEAN",
+     "d": "Ayuda a sacar polvo y humedad del intercambiador. Los filtros igual se lavan."
+    },
+    {
+     "icono": "🔇",
+     "t": "Silence",
+     "d": "Funcionamiento más silencioso (según modelo)."
+    },
+    {
+     "icono": "8°",
+     "t": "8 °C",
+     "d": "En calor, mantiene la casa templada mientras no estás (según modelo).",
+     "calor": true
+    }
+   ]
+  },
+  {
+   "tipo": "tabla",
+   "kicker": "Resumen para guardar",
+   "titulo": "¿Qué botón uso <span class=f>hoy</span>?",
+   "filas": [
+    [
+     "Llegas y la pieza está caliente",
+     "Turbo un rato, luego normal"
+    ],
+    [
+     "Te vas a dormir",
+     "Sleep"
+    ],
+    [
+     "Quieres gastar menos",
+     "ECO+"
+    ],
+    [
+     "Sales de la casa",
+     "Timer o la app WiFi"
+    ],
+    [
+     "Hay humedad",
+     "Modo Seco"
+    ]
+   ],
+   "nota": "Funciones según modelo y control. Revisa el manual de tu equipo."
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": "60% 30%",
+   "kicker": "Instalación real",
+   "titulo": "Bien ubicado, rinde más",
+   "texto": "El control ayuda, pero la ubicación y la instalación hacen la diferencia."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Así lo instalamos",
+   "titulo": "Para que tu Midea <span class=c>rinda y se vea bien</span>",
+   "items": [
+    {
+     "icono": "◎",
+     "t": "Míralo antes en el simulador",
+     "d": "Sube una foto de tu muro en climatizatepro.cl. Tu foto no sale de tu navegador."
+    },
+    {
+     "icono": "⌖",
+     "t": "Buena ubicación",
+     "d": "En altura, despejado y con recorrido corto a la unidad exterior."
+    },
+    {
+     "icono": "✓",
+     "t": "Terminaciones limpias",
+     "d": "Equipo nivelado, recorrido ordenado y tu espacio limpio al terminar."
+    },
+    {
+     "icono": "6m",
+     "t": "Garantía de instalación",
+     "d": "6 meses de garantía de instalación: sujeciones, empalmes, ductos y puesta en marcha."
+    }
+   ]
+  },
+  {
+   "tipo": "cta",
+   "kicker": "Tu Midea puede más",
+   "titulo": "Guárdalo y <span class=f>sácale el jugo</span>",
+   "texto": "Equipos Inverter frío/calor con instalación ordenada. Escríbenos AIRE al WhatsApp y te ayudamos.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "Control Midea Airvolution: qué botón usar en cada momento 📲\n\n⚡ Turbo → al llegar a una pieza muy calurosa\n☾ Sleep → para dormir\n🌿 ECO+ → para gastar menos\n⏱ Timer → para no dejarlo prendido toda la noche\n\n¿Cuál usas más? 👇 Guárdalo ⭐ y mándaselo a quien tiene un Midea en la casa.\n\nFunciones según modelo y control.\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#MideaAirvolution #AireAcondicionado #Santiago #TipsHogar #ClimatízatePro",
+  "facebook": "¿Tienes un Midea Airvolution y usas solo el botón de encender? 😅 Te dejamos la guía rápida del control:\n\n• MODE: Auto, Frío, Calor, Seco (ayuda a bajar la humedad) y Ventilador.\n• ECO+: ajusta su funcionamiento para gastar menos energía.\n• Sleep: cambia la temperatura de a poco mientras duermes.\n• Timer: programa cuándo se enciende o se apaga.\n• Turbo: máxima potencia un rato, cuando llegas y la pieza está muy calurosa.\n• I-CLEAN: ayuda a sacar polvo y humedad del intercambiador (los filtros igual se lavan).\n• Follow Me, Silence y 8 °C: según modelo.\n\nLas funciones dependen del modelo y del control. Y ojo: un equipo bien ubicado rinde más. Nosotros lo instalamos en altura, despejado, con recorrido ordenado, terminaciones limpias y 6 meses de garantía de instalación.\n\n¿Qué botón usas más? ¿Y desde qué comuna nos escribes? 👇\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Guía del control Midea Airvolution: qué botón usar en cada momento 📲 Turbo, Sleep, ECO+, Timer, I-Clean y modos. Aire acondicionado Santiago con instalación ordenada. Funciones según modelo y control. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #midea #aireacondicionado #santiago #tipshogar #climatizatepro",
+  "linkedin": "Un equipo bien elegido rinde más cuando el usuario sabe usarlo.\n\nEsta es la guía rápida de Climatízate Pro para el control de Midea Airvolution:\n\n• ECO+ para reducir consumo en jornadas largas.\n• Timer para programar encendido y apagado según el horario de uso.\n• Turbo solo en momentos puntuales; luego, operación normal.\n• Sleep, I-CLEAN y modo Seco según la necesidad del espacio.\n(Funciones según modelo y control.)\n\nA eso sumamos instalación de calidad: ubicación que favorece el rendimiento, recorrido ordenado, terminaciones limpias y 6 meses de garantía de instalación. Para oficinas y locales: evaluación técnica y coordinación de proyectos con varios equipos.\n\nCotiza en climatizatepro.cl o al WhatsApp +56 9 6190 7601."
+ }
+}
