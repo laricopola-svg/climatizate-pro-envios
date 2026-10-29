@@ -488,5 +488,47 @@
    "carpeta": "publicaciones/2026-10-28-1500-timbre-halloween-bully",
    "portada": true
   }
+ ],
+ "banco/american-bully/bully_003.jpg": [
+  {
+   "fecha": "2026-10-29",
+   "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_024.jpg": [
+  {
+   "fecha": "2026-10-29",
+   "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_039.jpg": [
+  {
+   "fecha": "2026-10-29",
+   "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_036.jpg": [
+  {
+   "fecha": "2026-10-29",
+   "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_026.jpg": [
+  {
+   "fecha": "2026-10-29",
+   "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_030.jpg": [
+  {
+   "fecha": "2026-10-29",
+   "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  }
  ]
 }
