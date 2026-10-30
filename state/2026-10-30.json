@@ -1,0 +1,112 @@
+{
+ "fecha": "2026-10-30",
+ "dia": "viernes (par: 11:00 Cane Corso, 15:00 Bully, 20:30 Cane Corso; Reel)",
+ "gmail": {
+  "messageId": "1a18c309c2991642",
+  "threadId": "1a18c309c2991642",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-10-30 – responde OK para publicar"
+ },
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Collar isabelino ('modo antena parabólica'): para qué sirve, cuánto tiempo, comer/beber, puertas/escaleras, cuándo consultar + Dato ajuste",
+   "raza": "Cane Corso",
+   "formato": "carrusel 7 láminas (2 fotos + 5 de diseño)",
+   "estilo": "foto real",
+   "fuente": "Drive 1V18XQTEHFkxDXcNjSSGZnb3Zv3bxxhtp (IMG_9711), 19_7GHpDR9F6-JaBHqEmqcKMrdZStCGrl (IMG_9734)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-10-30-1100-collar-isabelino-cane-corso",
+   "redes": [
+    "facebook",
+    "instagram",
+    "tiktok"
+   ],
+   "metricool": [
+    {
+     "id": 410991193,
+     "uuid": "2762544348400993455",
+     "redes": "facebook+instagram+tiktok"
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Presentar un cachorro nuevo al perro adulto en 4 pasos + Dato primeras 2 semanas",
+   "raza": "American Bully",
+   "formato": "imagen única",
+   "estilo": "foto real",
+   "fuente": "Drive 1a-XQ9hmLmdmYQkmXZ4vjbIFoOZLdr74G (Archivo_004.png)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-10-30-1500-presentar-cachorro-bully",
+   "redes": [
+    "facebook",
+    "instagram",
+    "tiktok"
+   ],
+   "metricool": [
+    {
+     "id": 410991206,
+     "uuid": "5507572979542605890",
+     "redes": "facebook+instagram+tiktok"
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "POV: disfraces de Halloween de la manada (presupuesto $0): fantasma, león, bombón, galleta, pantera negra (Cane Corso) + Dato placa/microchip Registro Nacional de Mascotas",
+   "raza": "Cane Corso + American Bully",
+   "formato": "Reel 20,6 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 12rx4xvQBoDwwcNlv4HsoK4okXxydhLwK, 1uWzsoWawGpY_6dCtqEIcRO_KWnyHHMWH, 17UH7MAI8zoEA515KC1ciP_n0uLqj-4my, 1Gv2vZwSKXsZrxXayjiJFRBWNSnNHy1T4, 1mJJGQzoi9abXlWgw2blzrNAGw6N2DrjZ",
+   "audio": "IG: Spooky Season (Reels Sound - Reveal) – Ethan Schreiber, audioId 795786439579832, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "metricool": [
+    {
+     "id": 410991409,
+     "uuid": "-7391544092933076234",
+     "redes": "instagram+facebook (REEL)"
+    },
+    {
+     "id": 410991425,
+     "uuid": "-5893020869227951272",
+     "redes": "tiktok (autoPublish false)"
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única (ayer carrusel)",
+  "20:30": "Reel (ayer carrusel IA)"
+ },
+ "tendencias_usadas": [
+  "Halloween sábado 31-oct: costume reveal / ghost photoshoot (newengen.com, Halloween TikTok & Reels trends) -> Reel 20:30",
+  "Spooky Scary Skeletons (costume showcase) -> no está en catálogo IG/Metricool; se usó 'Spooky Season (Reels Sound - Reveal)'",
+  "IG Reels audio 31-oct a 10-nov (socialpilot.co): mayoría sellos grandes, restringidos para cuentas business"
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+  },
+  {
+   "detalle": "Canva generate-image: 'You have exceeded your credit quota' en el primer intento. Hoy no hay pieza IA (incumple la regla de 1 pieza IA/día); no hay otros generadores IA disponibles en la sesión."
+  },
+  {
+   "detalle": "Drive: los 2 videos de la carpeta TeamFSKennel (IMG_9909.mov 36 MB, 705368413cc64249b5fee27991cf7604.MOV 55 MB) no se pueden descargar (límite 10 MB de download_file_content). Se pidió al dueño clips < 10 MB."
+  },
+  {
+   "detalle": "Drive: carpeta 'Climatizate' (fotos de otro negocio) ignorada; Archivo_025.png (Grafsy, marca de agua) e imágenes *_n.jpg posiblemente descargadas de redes no usadas salvo 855259723 (foto natural del Bully chocolate). Muchas fotos HEIC sin revisar aún."
+  },
+  {
+   "detalle": "Perros de fotos del Drive no nombrados (sin confirmación); se preguntó al dueño."
+  }
+ ]
+}
