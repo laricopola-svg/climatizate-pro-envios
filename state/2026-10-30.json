@@ -25,12 +25,14 @@
    ],
    "metricool": [
     {
-     "id": 410991193,
+     "id": 411234099,
      "uuid": "2762544348400993455",
-     "redes": "facebook+instagram+tiktok"
+     "redes": "facebook+instagram+tiktok",
+     "id_anterior": 410991193
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobacion": "OK de fcosotog7@gmail.com 2026-10-30T10:20-03:00 (msg 1a18cf830b6b8e56)"
   },
   {
    "n": 2,
@@ -49,12 +51,14 @@
    ],
    "metricool": [
     {
-     "id": 410991206,
+     "id": 411234116,
      "uuid": "5507572979542605890",
-     "redes": "facebook+instagram+tiktok"
+     "redes": "facebook+instagram+tiktok",
+     "id_anterior": 410991206
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobacion": "OK de fcosotog7@gmail.com 2026-10-30T10:20-03:00 (msg 1a18cf830b6b8e56)"
   },
   {
    "n": 3,
@@ -69,17 +73,21 @@
    "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
    "metricool": [
     {
-     "id": 410991409,
+     "id": 411234164,
      "uuid": "-7391544092933076234",
-     "redes": "instagram+facebook (REEL)"
+     "redes": "instagram+facebook (REEL)",
+     "id_anterior": 410991409
     },
     {
-     "id": 410991425,
+     "id": 411234185,
      "uuid": "-5893020869227951272",
-     "redes": "tiktok (autoPublish false)"
+     "redes": "tiktok (autoPublish false)",
+     "id_anterior": 410991425
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobacion": "OK de fcosotog7@gmail.com 2026-10-30T10:20-03:00 (msg 1a18cf830b6b8e56)",
+   "nota_programada": "TikTok (autoPublish false): llega notificación a la app de Metricool a las 20:30 para publicar a mano."
   }
  ],
  "rotacion_formatos": {
@@ -121,6 +129,10 @@
   {
    "hora": "2026-10-30T09:16-03:00",
    "resultado": "Sin respuestas de fcosotog7@gmail.com en el hilo; las 3 siguen en borrador."
+  },
+  {
+   "hora": "2026-10-30T10:38-03:00",
+   "resultado": "Respuesta 'Ok' (sin números) de fcosotog7@gmail.com a las 10:20 → aprobadas las 3. updateScheduledPost draft:false en los 4 posts de Metricool, horarios originales (11:00, 15:00, 20:30) sin cambios. Estado: programada."
   }
  ]
 }
