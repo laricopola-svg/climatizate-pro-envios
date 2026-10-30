@@ -1,0 +1,103 @@
+{
+ "tipo": "reel",
+ "id": "2026-10-30",
+ "fecha": "2026-10-30",
+ "hora": "19:00",
+ "pilar": "Venta suave (instalación real)",
+ "tema": "4 cosas que incluye tu instalación con Climatízate Pro",
+ "audio_ig": "Sunshine (Instrumental) Twista",
+ "tiktok_title": "4 cosas que incluye tu instalación de aire acondicionado en Santiago",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Adicionales como canaleta o soporte se cotizan aparte.",
+ "primer_comentario": "📲 ¿Quieres ver cómo queda en tu muro? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": [
+    0.45,
+    0.25
+   ],
+   "chip": "Instalación real",
+   "titulo": "4 cosas que vienen con tu instalación",
+   "sub": "La 4 te deja tranquilo",
+   "voz": "Cuatro cosas que vienen con tu instalación.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.66,
+    0.35
+   ],
+   "chip": "1",
+   "titulo": "Ubicación pensada",
+   "sub": "Donde rinde y se ve bien",
+   "voz": "Uno: lo dejamos donde rinde y se ve bien.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.45,
+    0.25
+   ],
+   "chip": "2",
+   "titulo": "Recorrido corto y ordenado",
+   "sub": "Sin cables colgando",
+   "voz": "Dos: recorrido ordenado, sin cables colgando.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.62,
+    0.2
+   ],
+   "chip": "3",
+   "titulo": "Probado y tu espacio limpio",
+   "sub": "Frío y calor, todo el año",
+   "voz": "Tres: probado en frío y calor, y todo limpio.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.6,
+    0.0
+   ],
+   "chip": "4",
+   "titulo": "6 meses de garantía de instalación",
+   "sub": "Sujeciones, empalmes, ductos y puesta en marcha",
+   "voz": "Y cuatro, ojo… seis meses de garantía.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_11.jpg",
+   "pos": [
+    0.5,
+    0.25
+   ],
+   "chip": "Simulador",
+   "titulo": "Míralo en tu muro antes de instalar",
+   "sub": "Casa, depa o local · climatizatepro.cl",
+   "voz": "¿Casa, depa o local? Míralo antes en el simulador.",
+   "zoom": "out"
+  },
+  {
+   "foto": null,
+   "chip": "Climatízate Pro",
+   "titulo": "¿Cuál te importa más? Comenta 1, 2, 3 o 4",
+   "sub": "O escríbenos AIRE al WhatsApp y cotiza en un minuto.",
+   "voz": "¿Cuál te importa más? Comenta el número… o escríbenos AIRE.",
+   "zoom": "in"
+  }
+ ],
+ "captions": {
+  "instagram": "Instalación de aire acondicionado: 4 cosas que vienen incluidas ✅\n\n1️⃣ Ubicación pensada: rinde y se ve bien\n2️⃣ Recorrido corto y ordenado\n3️⃣ Probado en frío y calor + espacio limpio\n4️⃣ 6 meses de garantía de instalación\n\n¿Cuál te importa más? Comenta 1, 2, 3 o 4 👇\nMándaselo a quien está por instalar su aire 📲\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #InstalaciónAireAcondicionado #Santiago #Inverter #ClimatízatePro",
+  "facebook": "Esta semana Santiago pasó de 26 grados a lluvia y frío en pocos días 🌦️ Por eso todos nuestros equipos son Inverter frío/calor: un solo equipo te climatiza todo el año.\n\nY esto es lo que viene con cada instalación:\n1. Ubicación pensada: lo dejamos donde rinde y se ve bien.\n2. Recorrido corto y ordenado, sin cables colgando.\n3. Lo probamos en frío y calor, y dejamos tu espacio limpio.\n4. 6 meses de garantía de instalación (sujeciones, empalmes, ductos y puesta en marcha).\n\nAntes de decidir, puedes ver cómo queda en tu muro con el simulador de climatizatepro.cl y cotizar en un minuto. Los adicionales, como canaleta o soporte, te los mostramos claros desde el inicio.\n\n¿Es para casa, depa o local? ¿Y en qué comuna estás? 👇\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "4 cosas que incluye tu instalación de aire acondicionado en Santiago ✅ Ubicación, recorrido ordenado, prueba en frío y calor, y 6 meses de garantía de instalación. Inverter frío/calor para casa, depa o local. ¿Cuál te importa más? Comenta 1, 2, 3 o 4 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #aireacondicionado #santiago #instalacion #inverter #climatizatepro"
+ }
+}
