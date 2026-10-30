@@ -530,5 +530,129 @@
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
    "portada": false
   }
- ]
+ ],
+ "publicaciones/2026-10-30-1100-collar-isabelino-cane-corso/drive_IMG_9711.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-1100-collar-isabelino-cane-corso",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-10-30-1100-collar-isabelino-cane-corso/drive_IMG_9734.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-1100-collar-isabelino-cane-corso",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-10-30-2030-disfraces-manada/drive_085bca80.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "portada": true
+  },
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-10-30-2030-disfraces-manada/drive_IMG_9691.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "portada": false
+  },
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-10-30-2030-disfraces-manada/drive_b2107706.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-10-30-2030-disfraces-manada/drive_855259723.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-10-30-2030-disfraces-manada/drive_IMG_7855.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-2030-disfraces-manada",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-10-30-1500-presentar-cachorro-bully/drive_Archivo_004.jpg": [
+  {
+   "fecha": "2026-10-30",
+   "carpeta": "publicaciones/2026-10-30-1500-presentar-cachorro-bully",
+   "portada": true
+  }
+ ],
+ "drive": {
+  "1V18XQTEHFkxDXcNjSSGZnb3Zv3bxxhtp": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "IMG_9711.jpg",
+    "hora": "1100"
+   }
+  ],
+  "19_7GHpDR9F6-JaBHqEmqcKMrdZStCGrl": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "IMG_9734.jpg",
+    "hora": "1100"
+   }
+  ],
+  "1a-XQ9hmLmdmYQkmXZ4vjbIFoOZLdr74G": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "Archivo_004.png",
+    "hora": "1500"
+   }
+  ],
+  "12rx4xvQBoDwwcNlv4HsoK4okXxydhLwK": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "085bca80-...jpg",
+    "hora": "2030"
+   }
+  ],
+  "1uWzsoWawGpY_6dCtqEIcRO_KWnyHHMWH": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "IMG_9691.jpg",
+    "hora": "2030"
+   }
+  ],
+  "17UH7MAI8zoEA515KC1ciP_n0uLqj-4my": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "b2107706-...JPG",
+    "hora": "2030"
+   }
+  ],
+  "1Gv2vZwSKXsZrxXayjiJFRBWNSnNHy1T4": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "855259723_...jpg",
+    "hora": "2030"
+   }
+  ],
+  "1mJJGQzoi9abXlWgw2blzrNAGw6N2DrjZ": [
+   {
+    "fecha": "2026-10-30",
+    "titulo": "IMG_7855.jpg",
+    "hora": "2030"
+   }
+  ]
+ }
 }
