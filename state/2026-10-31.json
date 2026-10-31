@@ -1,34 +1,105 @@
 {
  "fecha": "2026-10-31",
  "dia": "sábado (impar: 11:00 Bully, 15:00 Cane Corso, 20:30 Bully) – Halloween",
- "gmail": {"messageId": "1a19155a21663f63", "threadId": "1a19155a21663f63", "para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-10-31 – responde OK para publicar"},
+ "gmail": {
+  "messageId": "1a19155a21663f63",
+  "threadId": "1a19155a21663f63",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-10-31 – responde OK para publicar"
+ },
  "publicaciones": [
-  {"n": 1, "hora": "11:00", "tema": "Pliegues de la piel del Bully con calor/humedad: señales, limpiar y secar, pelo claro sensible + Dato veterinario", "raza": "American Bully",
-   "formato": "Reel 18,2 s (IG+FB) + TikTok aparte (autoPublish false)", "estilo": "foto real", "voz": false,
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Pliegues de la piel del Bully con calor/humedad: señales, limpiar y secar, pelo claro sensible + Dato veterinario",
+   "raza": "American Bully",
+   "formato": "Reel 18,2 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
    "fuente": "repo banco/american-bully bully_050, 059, 044, 067, 062, 055",
    "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
    "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
-   "metricool": [{"id": 412029094, "uuid": "-6501089492592539698", "redes": "instagram+facebook (REEL)"}, {"id": 412029101, "uuid": "2411491947976673695", "redes": "tiktok (autoPublish false)"}],
-   "estado": "borrador"},
-  {"n": 2, "hora": "15:00", "tema": "Cepillado de dientes del Cane Corso en 4 pasos (post-Halloween) + Dato mal aliento/encías/sarro", "raza": "Cane Corso",
-   "formato": "carrusel 6 láminas (todas de diseño, sin foto)", "estilo": "diseño local (make_post)", "fuente": "diseño local (banco CC agotado 14 días)",
-   "audio": "TikTok autoAddMusic", "carpeta": "publicaciones/2026-10-31-1500-dientes-cane-corso",
-   "metricool": [{"id": 412029106, "uuid": "3726258988651989251", "redes": "facebook+instagram+tiktok"}], "estado": "borrador"},
-  {"n": 3, "hora": "20:30", "tema": "Cosas que tu Bully ya ghosteó (dieta, baño, cama, espacio personal) + Dato lo que NO se ghostea", "raza": "American Bully",
-   "formato": "carrusel 6 láminas (5 fotos + 1 cta)", "estilo": "foto real", "fuente": "repo banco/american-bully bully_066, 063, 058, 060, 031",
-   "audio": "TikTok autoAddMusic", "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
-   "metricool": [{"id": 412029111, "uuid": "5964835897753685358", "redes": "facebook+instagram+tiktok"}], "estado": "borrador"}
+   "metricool": [
+    {
+     "id": 412029094,
+     "uuid": "-6501089492592539698",
+     "redes": "instagram+facebook (REEL)"
+    },
+    {
+     "id": 412029101,
+     "uuid": "2411491947976673695",
+     "redes": "tiktok (autoPublish false)"
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Cepillado de dientes del Cane Corso en 4 pasos (post-Halloween) + Dato mal aliento/encías/sarro",
+   "raza": "Cane Corso",
+   "formato": "carrusel 6 láminas (todas de diseño, sin foto)",
+   "estilo": "diseño local (make_post)",
+   "fuente": "diseño local (banco CC agotado 14 días)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-10-31-1500-dientes-cane-corso",
+   "metricool": [
+    {
+     "id": 412029106,
+     "uuid": "3726258988651989251",
+     "redes": "facebook+instagram+tiktok"
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Cosas que tu Bully ya ghosteó (dieta, baño, cama, espacio personal) + Dato lo que NO se ghostea",
+   "raza": "American Bully",
+   "formato": "carrusel 6 láminas (5 fotos + 1 cta)",
+   "estilo": "foto real",
+   "fuente": "repo banco/american-bully bully_066, 063, 058, 060, 031",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
+   "metricool": [
+    {
+     "id": 412029111,
+     "uuid": "5964835897753685358",
+     "redes": "facebook+instagram+tiktok"
+    }
+   ],
+   "estado": "borrador"
+  }
  ],
- "rotacion_formatos": {"11:00": "Reel (ayer carrusel)", "15:00": "carrusel (ayer imagen única)", "20:30": "carrusel (ayer Reel)"},
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única)",
+  "20:30": "carrusel (ayer Reel)"
+ },
  "tendencias_usadas": [
   "Halloween 31-oct (newengen.com Halloween TikTok & Reels trends): 'Things You Should Definitely Ghost' -> 20:30",
   "Audio Ramalama (Bang Bang) en tendencia Halloween -> Reel 11:00",
   "'Somebody's Watching Me' (Rockwell) solo como original_sound en catálogo IG/Metricool: no usado"
  ],
  "incidencias": [
-  {"detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
-  {"detalle": "Canva generate-image: 'You have exceeded your credit quota' (1er intento). Hoy no hay pieza IA (incumple la regla de 1 pieza IA/día); no hay otros generadores IA en la sesión. Guardianes cap. 3 pendiente."},
-  {"detalle": "Drive: ~40 fotos nuevas subidas el 30-oct (carpeta 1gjf3y3aOkHtbl4XO7cSGlqYIpfHK4dZb, JPG/PNG/HEIC) sin clasificar; no usadas hoy (perros sin identificar; descarga base64 pesada). Videos Muy Muy Lejano.MOV (55 MB) e IMG_9909.mov (36 MB) superan el límite de 10 MB. Se pidió al dueño identificar fotos de Cane Corso y clips < 10 MB."},
-  {"detalle": "Banco Cane Corso: las 11 fotos se usaron en los últimos 14 días -> 15:00 hecho solo con láminas de diseño."}
+  {
+   "detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."
+  },
+  {
+   "detalle": "Canva generate-image: 'You have exceeded your credit quota' (1er intento). Hoy no hay pieza IA (incumple la regla de 1 pieza IA/día); no hay otros generadores IA en la sesión. Guardianes cap. 3 pendiente."
+  },
+  {
+   "detalle": "Drive: ~40 fotos nuevas subidas el 30-oct (carpeta 1gjf3y3aOkHtbl4XO7cSGlqYIpfHK4dZb, JPG/PNG/HEIC) sin clasificar; no usadas hoy (perros sin identificar; descarga base64 pesada). Videos Muy Muy Lejano.MOV (55 MB) e IMG_9909.mov (36 MB) superan el límite de 10 MB. Se pidió al dueño identificar fotos de Cane Corso y clips < 10 MB."
+  },
+  {
+   "detalle": "Banco Cane Corso: las 11 fotos se usaron en los últimos 14 días -> 15:00 hecho solo con láminas de diseño."
+  }
+ ],
+ "revisiones": [
+  {
+   "hora": "2026-10-31T07:05-03:00",
+   "resultado": "sin respuesta de fcosotog7@gmail.com en el hilo; las 3 siguen en borrador"
+  }
  ]
 }
