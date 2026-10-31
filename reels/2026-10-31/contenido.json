@@ -1,0 +1,91 @@
+{
+ "tipo": "reel",
+ "id": "2026-10-31",
+ "fecha": "2026-10-31",
+ "hora": "19:00",
+ "pilar": "Instalación real",
+ "tema": "3 terrores de una instalación mal hecha (especial Halloween)",
+ "audio_ig": "Blue Moon Zara Larsson",
+ "tiktok_title": "3 terrores de una instalación de aire acondicionado mal hecha",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Garantía de instalación: 6 meses.",
+ "primer_comentario": "📲 ¿Quieres una instalación sin sustos? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": [
+    0.45,
+    0.25
+   ],
+   "chip": "Especial Halloween",
+   "titulo": "3 terrores de una instalación mal hecha",
+   "sub": "El 3 te persigue por días",
+   "voz": "Tres terrores de una instalación mal hecha.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.45,
+    0.25
+   ],
+   "chip": "Terror 1: cables colgando",
+   "titulo": "Acá, recorrido ordenado y sin cables a la vista",
+   "sub": "",
+   "voz": "Uno: cables colgando por todo el muro.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.66,
+    0.35
+   ],
+   "chip": "Terror 2: goteo",
+   "titulo": "Desagüe hacia afuera, pared seca",
+   "sub": "",
+   "voz": "Dos: agua chorreando por la pared, ¿cachai?",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_11.jpg",
+   "pos": [
+    0.6,
+    0.3
+   ],
+   "chip": "Terror 3: polvo",
+   "titulo": "Tu espacio se entrega limpio",
+   "sub": "",
+   "voz": "Y tres, ojo… polvo y escombros por toda la casa.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.6,
+    0.0
+   ],
+   "chip": "Así lo dejamos",
+   "titulo": "Ordenado, limpio y con garantía",
+   "sub": "6 meses de garantía de instalación",
+   "voz": "Nosotros lo dejamos ordenado, limpio y con garantía.",
+   "zoom": "out"
+  },
+  {
+   "foto": null,
+   "chip": "Climatízate Pro",
+   "titulo": "¿Cuál te da más miedo? Comenta 1, 2 o 3",
+   "sub": "O escríbenos AIRE al WhatsApp y cotiza sin sustos.",
+   "voz": "¿Cuál te da más miedo? Comenta el número… o escríbenos AIRE.",
+   "zoom": "in"
+  }
+ ],
+ "captions": {
+  "instagram": "Instalación de aire acondicionado: 3 terrores de una instalación mal hecha 🎃\n\n1️⃣ Cables y tubos colgando por el muro\n2️⃣ Agua chorreando por la pared\n3️⃣ Polvo y escombros por toda la casa\n\n¿Cuál te da más miedo? Comenta 1, 2 o 3 👇\nMándaselo a quien está por instalar su aire 📲\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #InstalaciónAireAcondicionado #Santiago #Halloween #ClimatízatePro",
+  "facebook": "Halloween pasado por agua en Santiago 🌧️🎃 y nosotros con nuestra propia lista de terror: lo que más miedo da de una instalación de aire mal hecha.\n\n1. Cables y tubos colgando por todo el muro.\n2. Agua chorreando por la pared porque el desagüe quedó mal.\n3. Polvo y escombros por toda la casa al terminar.\n\nAsí no trabajamos. Ubicamos el equipo donde rinde y se ve bien, dejamos el recorrido ordenado, el desagüe hacia afuera, tu espacio limpio y 6 meses de garantía de instalación. Y antes de decidir, puedes ver cómo queda en tu muro con el simulador de climatizatepro.cl.\n\nTodos nuestros equipos son Inverter frío/calor: te sirven ahora con la lluvia y en el verano que viene.\n\n¿Cuál te da más miedo? ¿Y desde qué comuna nos lees? 👇\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "3 terrores de una instalación de aire acondicionado mal hecha 🎃 Cables colgando, agua por la pared y polvo por toda la casa. Aire acondicionado Santiago: instalación Inverter frío/calor ordenada, limpia y con 6 meses de garantía. ¿Cuál te da más miedo? Comenta 1, 2 o 3 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #aireacondicionado #santiago #instalacion #halloween #climatizatepro"
+ }
+}
