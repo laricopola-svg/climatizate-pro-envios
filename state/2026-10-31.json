@@ -21,17 +21,20 @@
    "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
    "metricool": [
     {
-     "id": 412029094,
+     "id": 412141743,
      "uuid": "-6501089492592539698",
-     "redes": "instagram+facebook (REEL)"
+     "redes": "instagram+facebook (REEL)",
+     "id_anterior": 412029094
     },
     {
-     "id": 412029101,
+     "id": 412141751,
      "uuid": "2411491947976673695",
-     "redes": "tiktok (autoPublish false)"
+     "redes": "tiktok (autoPublish false)",
+     "id_anterior": 412029101
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-31T09:36:52-03:00"
   },
   {
    "n": 2,
@@ -45,12 +48,14 @@
    "carpeta": "publicaciones/2026-10-31-1500-dientes-cane-corso",
    "metricool": [
     {
-     "id": 412029106,
+     "id": 412141757,
      "uuid": "3726258988651989251",
-     "redes": "facebook+instagram+tiktok"
+     "redes": "facebook+instagram+tiktok",
+     "id_anterior": 412029106
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-31T09:36:52-03:00"
   },
   {
    "n": 3,
@@ -64,12 +69,14 @@
    "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
    "metricool": [
     {
-     "id": 412029111,
+     "id": 412141767,
      "uuid": "5964835897753685358",
-     "redes": "facebook+instagram+tiktok"
+     "redes": "facebook+instagram+tiktok",
+     "id_anterior": 412029111
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-10-31T09:36:52-03:00"
   }
  ],
  "rotacion_formatos": {
@@ -108,6 +115,10 @@
   {
    "hora": "2026-10-31T09:06-03:00",
    "resultado": "sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta enviada); las 3 siguen en borrador"
+  },
+  {
+   "hora": "2026-10-31T10:07-03:00",
+   "resultado": "respuesta de fcosotog7@gmail.com (msg 1a191f6ae75dc00d, 09:36): 'Ok' -> se aprueban las 3. updateScheduledPost draft:false en los 4 posts de Metricool (horas originales 11:00, 15:00, 20:30 sin cambios; TikTok 11:00 sigue autoPublish false). Ids nuevos: 412141743, 412141751, 412141757, 412141767. Estado: programada."
   }
  ]
 }
