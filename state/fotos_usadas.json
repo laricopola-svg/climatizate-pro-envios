@@ -654,5 +654,82 @@
     "hora": "2030"
    }
   ]
- }
+ },
+ "banco/american-bully/bully_050.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_059.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_044.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_067.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_062.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_055.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_066.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_063.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_058.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_060.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_031.jpg": [
+  {
+   "fecha": "2026-10-31",
+   "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
+   "portada": false
+  }
+ ]
 }
