@@ -41,7 +41,7 @@
     }
    ],
    "estado": "borrador",
-   "nota_aprobacion": "Aprobada ('Ok' 13:24) pero updateScheduledPost (draft:false + reprogramar a 14:20) fue bloqueado por el control de permisos de la sesión. Sigue en borrador en Metricool (id 412782195); requiere publicación manual o permiso."
+   "nota_aprobacion": "Aprobada ('Ok' 13:24) pero updateScheduledPost (draft:false + reprogramar a 14:20) fue bloqueado por el control de permisos de la sesión. Sigue en borrador en Metricool (id 412782195); requiere publicación manual o permiso. 15:05: reintento (draft:false, reprogramar a 15:20) denegado otra vez por el control de permisos ('Unrequested Commit in a Connected App'). No se forzó; requiere publicación manual en Metricool o autorización."
   },
   {
    "n": 2,
@@ -127,6 +127,9 @@
   },
   {
    "detalle": "14:06: updateScheduledPost para la publicación 1 (reprogramar 11:00->14:20 y draft:false) fue denegado por el clasificador de permisos automático. No se forzó. Publicaciones 2 y 3 sí se actualizaron."
+  },
+  {
+   "detalle": "15:05: updateScheduledPost para la publicación 1 denegado de nuevo por el clasificador de permisos automático. No se reintentará en revisiones siguientes salvo nueva respuesta."
   }
  ],
  "revisiones": [
@@ -161,6 +164,10 @@
   {
    "hora": "2026-11-01T14:08-03:00",
    "resultado": "Respuesta de fcosotog7@gmail.com a las 13:24 (msg 1a197edaa283ced2): 'Ok' sin números -> aprobar las 3. Pub 2 (15:00) programada, nuevo id 413086438. Pub 3 (20:30) programada: IG+FB id 413086478, TikTok id 413086496 (autoPublish false -> notificación en la app). Pub 1: actualización bloqueada por permisos, sigue en borrador."
+  },
+  {
+   "hora": "2026-11-01T15:05-03:00",
+   "resultado": "Sin respuestas nuevas de fcosotog7@gmail.com después de la de 13:24 (hilo con 2 mensajes). Pub 1 sigue en borrador (reintento bloqueado por permisos). Observado en Metricool: pub 2 (15:00) ya publicada en Facebook e Instagram (https://www.instagram.com/p/DfNVW2HFSKD/); TikTok en AWAITING_CONFIRMATION. Pub 3 (20:30) programada, pendiente."
   }
  ]
 }
