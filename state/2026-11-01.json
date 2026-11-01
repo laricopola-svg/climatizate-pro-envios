@@ -1,0 +1,29 @@
+{
+ "fecha": "2026-11-01",
+ "dia": "domingo (impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "gmail": {"messageId": "1a1967fa2a22b38d", "threadId": "1a1967fa2a22b38d", "para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-11-01 – responde OK para publicar"},
+ "rotacion_formatos": {"11:00": "carrusel (ayer Reel)", "15:00": "imagen única IA (ayer carrusel)", "20:30": "Reel IA (ayer carrusel)"},
+ "tendencias_usadas": [
+  "Meme anual 1-nov 'It's time' / Mariah Carey defrosting (Halloween -> Navidad) + formato reveal/transformación -> Reel 20:30 Guardianes cap. 3",
+  "Inicio temporada de calor/piscina en Chile: otitis -> 11:00",
+  "Formato POV + temporada de paseos/escapadas de verano -> 15:00"
+ ],
+ "publicaciones": [
+  {"n": 1, "hora": "11:00", "tema": "Oídos del Bully en verano: 5 señales (sacude la cabeza, se rasca, mal olor, cera oscura/oreja roja, cabeza ladeada) + prevención + veterinario", "raza": "American Bully", "formato": "carrusel 6 láminas (5 fotos + 1 cta)", "estilo": "foto real", "voz": false, "fuente": "repo banco/american-bully bully_064, 049, 025, 068, 022", "audio": "TikTok autoAddMusic", "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "metricool": [{"id": 412782195, "uuid": "6375348330075276206", "redes": ["facebook", "instagram", "tiktok"]}], "estado": "borrador"},
+  {"n": 2, "hora": "15:00", "tema": "Road trip con tu Cane Corso sin drama: 4 pasos (arnés/caja, viajes cortos, pausa cada 2 h, nunca solo en el auto) + Dato mareo/veterinario", "raza": "Cane Corso", "formato": "imagen única (Canva)", "estilo": "IA cartoon 3D", "voz": false, "fuente": "IA Canva generate-image MAHZqYnFSDQ calcando a Queen (cc_006)", "audio": "TikTok autoAddMusic", "carpeta": "publicaciones/2026-11-01-1500-road-trip-cane-corso", "canva": "https://canva.link/d0l80m2h05jwth8 (diseño DAHZqReI1uM)",
+   "metricool": [{"id": 412782208, "uuid": "-6142021166111110481", "redes": ["facebook", "instagram", "tiktok"]}], "estado": "borrador"},
+  {"n": 3, "hora": "20:30", "tema": "Los Guardianes TeamFS Cap. 3: It's time (Kopito fantasma -> Ragnar y Bella sacan calabazas -> Kopito modo Navidad) + Dato adornos navideños seguros", "raza": "American Bully", "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)", "estilo": "IA cartoon 3D", "voz": false, "fuente": "IA Canva MAHZqYqh-iY, MAHZqeEaBw0, MAHZqbGXSAY calcando fichas de Kopito, Ragnar y Bella", "audio": "IG: Santa Season Is Here (Instrumental) – Global Genius, audioId 4278070915748108, audio 100/video 0 (Mariah Carey original no está en catálogo, solo original_sound); FB sin música; TikTok elige sonido en la app", "carpeta": "publicaciones/2026-11-01-2030-guardianes-cap3-its-time", "canva": "https://canva.link/uo5ah9sd3wdpgz1 (diseño DAHZqcujocA)",
+   "serie": {"nombre": "Los Guardianes TeamFS", "capitulo": 3, "pendiente_cap4": "Skype (formentino) cuando haya foto confirmada / la manada arma el árbol el 8 de diciembre"},
+   "metricool": [{"id": 412782399, "uuid": "6162256317515777380", "redes": ["instagram", "facebook"]}, {"id": 412782437, "uuid": "-7210818995081231872", "redes": ["tiktok"], "autoPublish": false}], "estado": "borrador"}
+ ],
+ "incidencias": [
+  {"detalle": "add_repo no está disponible como herramienta en esta sesión; el repo ya estaba en el alcance y clone/push funcionaron."},
+  {"detalle": "Drive: sin archivos nuevos después del 30-oct (carpeta 1gjf3y3aOkHtbl4XO7cSGlqYIpfHK4dZb sin clasificar). No se usó material de Drive hoy."},
+  {"detalle": "Banco Cane Corso: 11 fotos usadas en los últimos 14 días (cc_005/007/008 se liberan el 03-nov) -> 15:00 con ilustración IA de Queen."},
+  {"detalle": "Canva generate-image funcionó (4 imágenes, cuota renovada). create-design generó perros genéricos y decoraciones: se reemplazó el fondo por las imágenes IA, se borraron los perros genéricos y se corrigió 'Iana' -> 'lana' en la lámina de cierre."},
+  {"detalle": "El proxy bloquea export-download.canva.com: sin copia local de las piezas Canva; se usaron las URL de export directo en Metricool. Las miniaturas del Reel en el correo son URL temporales de Canva (expiran ~10:45-11:30)."},
+  {"detalle": "Audio IG: 'All I Want for Christmas Is You' (Mariah Carey) solo aparece como original_sound en el catálogo; se usó 'Santa Season Is Here (Instrumental)' 4278070915748108."}
+ ],
+ "revisiones": []
+}

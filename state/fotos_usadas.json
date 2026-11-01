@@ -731,5 +731,40 @@
    "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
    "portada": false
   }
+ ],
+ "banco/american-bully/bully_064.jpg": [
+  {
+   "fecha": "2026-11-01",
+   "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "portada": true
+  }
+ ],
+ "banco/american-bully/bully_049.jpg": [
+  {
+   "fecha": "2026-11-01",
+   "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_025.jpg": [
+  {
+   "fecha": "2026-11-01",
+   "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_068.jpg": [
+  {
+   "fecha": "2026-11-01",
+   "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_022.jpg": [
+  {
+   "fecha": "2026-11-01",
+   "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "portada": false
+  }
  ]
 }
