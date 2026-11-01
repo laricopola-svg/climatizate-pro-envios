@@ -168,6 +168,10 @@
   {
    "hora": "2026-11-01T15:05-03:00",
    "resultado": "Sin respuestas nuevas de fcosotog7@gmail.com después de la de 13:24 (hilo con 2 mensajes). Pub 1 sigue en borrador (reintento bloqueado por permisos). Observado en Metricool: pub 2 (15:00) ya publicada en Facebook e Instagram (https://www.instagram.com/p/DfNVW2HFSKD/); TikTok en AWAITING_CONFIRMATION. Pub 3 (20:30) programada, pendiente."
+  },
+  {
+   "hora": "2026-11-01T16:06-03:00",
+   "resultado": "Sin respuestas nuevas de fcosotog7@gmail.com después de la de 13:24 (hilo con 2 mensajes). Sin cambios: pub 1 sigue en borrador (no se reintenta sin nueva respuesta, bloqueo de permisos previo); pubs 2 y 3 programadas."
   }
  ]
 }
