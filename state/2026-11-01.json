@@ -40,7 +40,8 @@
      ]
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "nota_aprobacion": "Aprobada ('Ok' 13:24) pero updateScheduledPost (draft:false + reprogramar a 14:20) fue bloqueado por el control de permisos de la sesión. Sigue en borrador en Metricool (id 412782195); requiere publicación manual o permiso."
   },
   {
    "n": 2,
@@ -56,7 +57,7 @@
    "canva": "https://canva.link/d0l80m2h05jwth8 (diseño DAHZqReI1uM)",
    "metricool": [
     {
-     "id": 412782208,
+     "id": 413086438,
      "uuid": "-6142021166111110481",
      "redes": [
       "facebook",
@@ -65,7 +66,7 @@
      ]
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -86,7 +87,7 @@
    },
    "metricool": [
     {
-     "id": 412782399,
+     "id": 413086478,
      "uuid": "6162256317515777380",
      "redes": [
       "instagram",
@@ -94,7 +95,7 @@
      ]
     },
     {
-     "id": 412782437,
+     "id": 413086496,
      "uuid": "-7210818995081231872",
      "redes": [
       "tiktok"
@@ -102,7 +103,7 @@
      "autoPublish": false
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "incidencias": [
@@ -123,6 +124,9 @@
   },
   {
    "detalle": "Audio IG: 'All I Want for Christmas Is You' (Mariah Carey) solo aparece como original_sound en el catálogo; se usó 'Santa Season Is Here (Instrumental)' 4278070915748108."
+  },
+  {
+   "detalle": "14:06: updateScheduledPost para la publicación 1 (reprogramar 11:00->14:20 y draft:false) fue denegado por el clasificador de permisos automático. No se forzó. Publicaciones 2 y 3 sí se actualizaron."
   }
  ],
  "revisiones": [
@@ -153,6 +157,10 @@
   {
    "hora": "2026-11-01T13:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios. Las publicaciones 1 (11:00) y 2 (15:00) siguen en borrador; si se aprueban se reprogramarán a ahora+10 min cuando su hora haya pasado."
+  },
+  {
+   "hora": "2026-11-01T14:08-03:00",
+   "resultado": "Respuesta de fcosotog7@gmail.com a las 13:24 (msg 1a197edaa283ced2): 'Ok' sin números -> aprobar las 3. Pub 2 (15:00) programada, nuevo id 413086438. Pub 3 (20:30) programada: IG+FB id 413086478, TikTok id 413086496 (autoPublish false -> notificación en la app). Pub 1: actualización bloqueada por permisos, sigue en borrador."
   }
  ]
 }
