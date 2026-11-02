@@ -1,0 +1,60 @@
+{
+"slides": [
+{
+"type": "cover",
+"photo": "publicaciones/2026-11-02-1500-olfato-bully/src_1hF3zmxQZDH_xs47jp2uSI61De37hq8v_.jpg",
+"fx": 0.5,
+"fy": 0.25,
+"kicker": "Paso a paso · Calor",
+"title": "Cansa a tu Bully sin salir al sol",
+"title_size": 96,
+"subtitle": "Juegos de olfato en 4 pasos (la nariz cansa más que el cuerpo)",
+"cta": "Desliza →"
+},
+{
+"type": "point",
+"photo": "publicaciones/2026-11-02-1500-olfato-bully/src_1VbcA12RzfPBExuSyvW4On2T-yAc8rqZ8.jpg",
+"fy": 0.4,
+"label": "Paso 1",
+"headline": "Elige el premio",
+"body": "Trocitos chicos de su comida o de su snack favorito. Muéstraselo y deja que lo huela."
+},
+{
+"type": "point",
+"photo": "publicaciones/2026-11-02-1500-olfato-bully/src_17I8w42jYMwf1YINysUy7YzJkJwEworLf_pad.jpg",
+"fy": 0.0,
+"label": "Paso 2",
+"headline": "Esconde fácil y di \"¡busca!\"",
+"body": "Bajo un vaso o dentro de una toalla enrollada, a la vista. Cuando lo encuentre: fiesta.",
+"fx": 0.5
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_056.jpg",
+"fy": 0.3,
+"label": "Paso 3",
+"headline": "Sube la dificultad",
+"body": "Otra pieza, detrás de cojines o en una caja de cartón con papel arrugado. Modo detective ON."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_065.jpg",
+"fx": 0.0,
+"fy": 0.5,
+"label": "Paso 4",
+"headline": "Termina ganando",
+"body": "5 a 10 minutos y corta antes de que se aburra. Siempre con agua fresca cerca."
+},
+{
+"type": "cta",
+"headline": "Por qué funciona:",
+"highlight": "Dato TeamFS",
+"bullets": [
+"Olfatear cansa la mente y baja la ansiedad",
+"Ideal de 12:00 a 17:00, cuando el piso quema",
+"Nada de chocolate, uvas ni xilitol como premio",
+"¿Posesivo con la comida? Pide ayuda a un adiestrador"
+]
+}
+]
+}
