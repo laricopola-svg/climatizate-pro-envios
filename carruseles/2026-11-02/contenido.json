@@ -1,0 +1,169 @@
+{
+ "tema": "Lluvia hoy, 30 °C el sábado: cómo usar tu Midea Airvolution esta semana sin que suba la cuenta",
+ "fecha": "2026-11-02",
+ "id": "2026-11-02",
+ "pilar": "Midea (ahorro)",
+ "primer_comentario": "📲 ¿Quieres tu Midea bien instalado antes del calor? Comenta COTIZAR o escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Tu Midea puede más",
+   "titulo": "Lluvia hoy, <span class=c>30 °C el sábado</span>: tu Midea esta semana",
+   "texto": "Un plan simple, día a día, para estar cómodo sin que se dispare la cuenta de la luz."
+  },
+  {
+   "tipo": "tabla",
+   "kicker": "Guárdalo para esta semana",
+   "titulo": "Tu semana con el <span class=f>Midea</span>",
+   "filas": [
+    [
+     "Lun y mar · chubascos",
+     "Calor + Timer en la mañana"
+    ],
+    [
+     "Mié · hasta 25&nbsp;°C",
+     "Ventila; ECO+ si lo necesitas"
+    ],
+    [
+     "Jue y vie · más calor",
+     "Frío moderado + ECO+"
+    ],
+    [
+     "Sáb · 28 a 31&nbsp;°C",
+     "Turbo un rato, después ECO+"
+    ],
+    [
+     "Todas las noches",
+     "Sleep"
+    ]
+   ],
+   "nota": "Pronóstico: Meteored (1-nov). Funciones según modelo y control."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Lo que hace tu Midea",
+   "titulo": "Los botones que <span class=c>cuidan tu cuenta</span>",
+   "items": [
+    {
+     "icono": "ECO",
+     "t": "ECO+",
+     "d": "Ajusta su funcionamiento para gastar menos energía."
+    },
+    {
+     "icono": "⏱",
+     "t": "Timer",
+     "d": "Que se encienda o se apague solo, sin dejarlo prendido de más."
+    },
+    {
+     "icono": "☾",
+     "t": "Sleep",
+     "d": "Cambia la temperatura de a poco mientras duermes."
+    },
+    {
+     "icono": "📲",
+     "t": "App WiFi",
+     "d": "Lo controlas desde el celular y ves su consumo (según modelo)."
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Lo que haces tú",
+   "titulo": "4 hábitos que <span class=f>suman harto</span>",
+   "items": [
+    {
+     "icono": "°C",
+     "t": "Temperatura moderada",
+     "d": "Bajarlo al mínimo no enfría más rápido: solo trabaja más."
+    },
+    {
+     "icono": "☀",
+     "t": "Cortinas en horas de sol",
+     "d": "Rollers o cortinas cerradas y el equipo descansa.",
+     "calor": true
+    },
+    {
+     "icono": "🚪",
+     "t": "Puertas y ventanas cerradas",
+     "d": "Climatiza solo el espacio que estás usando."
+    },
+    {
+     "icono": "✦",
+     "t": "Filtros limpios",
+     "d": "I-CLEAN ayuda por dentro, pero los filtros igual se lavan."
+    }
+   ]
+  },
+  {
+   "tipo": "versus",
+   "kicker": "Llegas y la casa está a 30 °C",
+   "titulo": "¿Qué haces <span class=c>primero</span>?",
+   "a": {
+    "t": "Al apuro",
+    "xs": [
+     "Lo bajas al mínimo y lo dejas así",
+     "Abres y cierras la puerta a cada rato",
+     "Lo apagas y prendes varias veces"
+    ]
+   },
+   "b": {
+    "t": "Como conviene",
+    "xs": [
+     "Turbo un rato y vuelves a lo normal",
+     "Temperatura moderada con ECO+",
+     "Lo dejas trabajar parejo: el Inverter regula"
+    ]
+   },
+   "nota": "Funciones según modelo y control."
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": "40% 20%",
+   "kicker": "Instalación real",
+   "titulo": "Bien ubicado, gasta menos",
+   "texto": "En altura y despejado, el aire llega a todo el espacio sin forzar el equipo.",
+   "etiqueta": "Instalación real · Santiago"
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Así lo instalamos",
+   "titulo": "Para que tu Midea <span class=c>rinda y se vea bien</span>",
+   "items": [
+    {
+     "icono": "◎",
+     "t": "Míralo antes en el simulador",
+     "d": "Sube una foto de tu muro en climatizatepro.cl. Tu foto no sale de tu navegador."
+    },
+    {
+     "icono": "⌖",
+     "t": "Buena ubicación",
+     "d": "En altura, despejado y con recorrido corto a la unidad exterior."
+    },
+    {
+     "icono": "✓",
+     "t": "Terminaciones limpias",
+     "d": "Recorrido ordenado, equipo nivelado y tu espacio limpio al terminar."
+    },
+    {
+     "icono": "6m",
+     "t": "Garantía de instalación",
+     "d": "6 meses: sujeciones, empalmes, ductos y puesta en marcha."
+    }
+   ]
+  },
+  {
+   "tipo": "cta",
+   "kicker": "Antes del primer calor",
+   "titulo": "Comenta <span class=f>COTIZAR</span> y te escribimos",
+   "texto": "Equipos Inverter frío/calor con instalación ordenada. O escríbenos AIRE al WhatsApp +56 9 6190 7601.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "Midea Airvolution: tu plan para esta semana de lluvia y calor 🌧️☀️\n\nLun–mar → Calor + Timer\nJue–vie → Frío moderado + ECO+\nSábado 30 °C → Turbo un rato, después ECO+\nNoches → Sleep\n\nGuárdalo ⭐ y mándaselo a quien tiene un Midea en la casa 📲\n¿Quieres el tuyo antes del calor? Comenta COTIZAR 👇\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n(Funciones según modelo y control.)\n\n#MideaAirvolution #AireAcondicionado #Santiago #CuentaDeLuz #ClimatízatePro",
+  "facebook": "Esta semana en Santiago tenemos de todo: chubascos lunes y martes 🌧️ y entre 28 y 31 grados para el sábado ☀️ (Meteored). Así puedes usar tu Midea Airvolution sin que se dispare la cuenta de la luz:\n\n• Lunes y martes: modo Calor con Timer, para que la pieza te espere tibia en la mañana.\n• Miércoles: ventila la casa y usa ECO+ si lo necesitas.\n• Jueves y viernes: Frío en una temperatura moderada + ECO+.\n• Sábado: Turbo un rato al llegar y después vuelve a ECO+.\n• Todas las noches: Sleep.\n\nY tus hábitos también suman: cortinas cerradas en las horas de sol, puertas cerradas y filtros limpios.\n\nUn equipo bien ubicado gasta menos. Por eso lo instalamos en altura, despejado, con recorrido corto y ordenado, terminaciones limpias y 6 meses de garantía de instalación. Todos nuestros equipos son Inverter frío/calor.\n\n¿Desde qué comuna nos lees? 👇\n\n(Funciones según modelo y control.)\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Cómo usar tu Midea Airvolution en una semana de lluvia y 30 °C sin que suba la cuenta de luz 🌧️☀️ Timer, ECO+, Turbo y Sleep. Aire acondicionado Santiago: Inverter frío/calor con instalación ordenada. Guárdalo ⭐ Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #midea #aireacondicionado #santiago #cuentadeluz #climatizatepro",
+  "linkedin": "Una semana con lluvia el lunes y hasta 31 °C el sábado en Santiago es una buena prueba para cualquier equipo de climatización. En hogares, oficinas pequeñas y locales, el consumo depende de tres cosas: las funciones del equipo (ECO+, Timer, Sleep y monitoreo por app en los Midea Airvolution, según modelo), los hábitos de uso (temperatura moderada, control del sol, espacios cerrados, filtros limpios) y la calidad de la instalación: ubicación, recorrido corto y terminaciones.\n\nEn Climatízate Pro instalamos equipos Inverter frío/calor con recorrido ordenado y 6 meses de garantía de instalación, y evaluamos proyectos con varios equipos para empresas.\n\nCotiza en climatizatepro.cl o al WhatsApp +56 9 6190 7601."
+ }
+}

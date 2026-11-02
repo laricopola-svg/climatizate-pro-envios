@@ -1,0 +1,90 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-02",
+ "fecha": "2026-11-02",
+ "hora": "19:00",
+ "pilar": "Errores y mitos",
+ "tema": "¿Mito o verdad? 3 mitos del aire antes del primer calor",
+ "audio_ig": "Sunshine (Instrumental) Twista",
+ "tiktok_title": "3 mitos del aire acondicionado antes del primer calor en Santiago",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "primer_comentario": "📲 ¿Listo para el calor del sábado? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.62,
+    0.2
+   ],
+   "chip": "¿Mito o verdad?",
+   "titulo": "3 mitos del aire antes del primer calor",
+   "sub": "El 3 te sale caro",
+   "zoom": "in",
+   "voz": "Tres mitos del aire antes del primer calor."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.45,
+    0.25
+   ],
+   "chip": "Mito 1: «te resfría»",
+   "titulo": "Que no te apunte directo y con filtros limpios",
+   "sub": "",
+   "zoom": "out",
+   "voz": "Uno: te resfría. Mito… molesta el chorro directo."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": [
+    0.45,
+    0.25
+   ],
+   "chip": "Mito 2: «prender y apagar ahorra»",
+   "titulo": "El Inverter ajusta su potencia solito",
+   "sub": "",
+   "zoom": "in",
+   "voz": "Dos: apagarlo y prenderlo ahorra. Falso con Inverter."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.66,
+    0.35
+   ],
+   "chip": "Mito 3: «da lo mismo dónde»",
+   "titulo": "En altura, despejado y con recorrido corto",
+   "sub": "",
+   "zoom": "out",
+   "voz": "Y tres, ojo… da lo mismo dónde lo instalen."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.6,
+    0.0
+   ],
+   "chip": "Así lo instalamos",
+   "titulo": "Bien ubicado, ordenado y con garantía",
+   "sub": "6 meses de garantía de instalación",
+   "zoom": "in",
+   "voz": "Mal ubicado gasta más. Nosotros lo dejamos donde rinde."
+  },
+  {
+   "foto": null,
+   "chip": "Climatízate Pro",
+   "titulo": "¿Cuál creías? Comenta 1, 2 o 3",
+   "sub": "O escríbenos AIRE al WhatsApp antes del calor del sábado.",
+   "zoom": "in",
+   "voz": "¿Cuál creías tú? Comenta el número… o escríbenos AIRE."
+  }
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado: ¿mito o verdad? 3 creencias antes del primer calor 🤔\n\n1️⃣ «Te resfría» → lo que molesta es el chorro directo\n2️⃣ «Prender y apagar ahorra» → el Inverter regula solito\n3️⃣ «Da lo mismo dónde lo instalen» → mal ubicado gasta más\n\n¿Cuál creías? Comenta 1, 2 o 3 👇\nMándaselo a quien prende y apaga el aire todo el día 📲\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #MitoOVerdad #Santiago #Inverter #ClimatízatePro",
+  "facebook": "Lunes y martes con chubascos en Santiago 🌧️ y para el sábado se anuncian entre 28 y 31 grados ☀️ (Meteored). Antes del primer calor fuerte, revisemos 3 mitos que escuchamos harto:\n\n1. «El aire te resfría»: mito. Lo que molesta es tener el chorro directo encima o filtros sucios. Bien ubicado y limpio, no tiene por qué.\n2. «Prenderlo y apagarlo ahorra»: falso con un Inverter. El equipo ajusta su potencia y mantiene la temperatura pareja; mejor una temperatura moderada y el Timer.\n3. «Da lo mismo dónde lo instalen»: mito. Tapado, al sol o lejos de la unidad exterior trabaja forzado y gasta más.\n\nEl tercero se resuelve el día de la instalación: lo dejamos en altura, despejado, con recorrido corto y ordenado, terminaciones limpias y 6 meses de garantía de instalación. Todos nuestros equipos son Inverter frío/calor.\n\n¿Cuál creías tú? ¿Y desde qué comuna nos lees? 👇\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "¿Mito o verdad? 3 mitos del aire acondicionado antes del primer calor 🤔 El 3 te sale caro. Aire acondicionado Santiago: instalación Inverter frío/calor bien ubicada y ordenada. ¿Cuál creías? Comenta 1, 2 o 3 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #aireacondicionado #santiago #mitoverdad #instalacion #climatizatepro"
+ }
+}
