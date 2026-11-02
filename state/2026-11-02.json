@@ -1,0 +1,135 @@
+{
+ "fecha": "2026-11-02",
+ "dia": "lunes (par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "gmail": {
+  "messageId": "1a19ba945fc34319",
+  "threadId": "1a19ba945fc34319",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-02 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única IA)",
+  "20:30": "carrusel IA cómic (ayer Reel IA; la guía pedía Reel los lunes, prevalece la regla de no repetir formato en el mismo horario)"
+ },
+ "tendencias_usadas": [
+  "Formato POV + inicio del calor en Chile -> 11:00 deshidratación",
+  "Audio viral 'Dame Hombro' (Bulin 47, Kevin Wai, Breyco) -> música IG del Reel",
+  "Movember (desde 1-nov) -> 20:30 Guardianes cap. 4",
+  "Calor de tarde/pavimento caliente -> 15:00 juegos de olfato indoor"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso negro es un panel solar – 3 señales de deshidratación (encías secas, pliegue de piel, decaído/jadeo/ojos hundidos) + Dato agua/sombra/horarios/veterinario",
+   "raza": "Cane Corso",
+   "formato": "Reel 18,2 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS: 1VxCDMOa6HZgNvG8r5NXKa3_RckI0nz0j, 1v1Mx25CnG9br7LVBEOrtYoQP4SFVNvWq, 1air127z2Y3OrlL5QXQKNEfi2EXqQIggi, 1Z6AwSfJzr8L5_4IodQKUhPPUNmzWei1i, 1xYZ7wqBPIF-AO3jIuazFJz6LxLQ0g39X, 1G0ZIUmY_lA0NO4iR6zTw3VeOEOvMV3np",
+   "audio": "IG: Dame Hombro – Bulin 47, Kevin Wai, Breyco En Producidera, audioId 878191945283147, audio 100/video 0 (Housewife de Tate McRae solo aparece como remix original_sound); FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-02-1100-deshidratacion-cane-corso",
+   "metricool": [
+    {
+     "id": 413742025,
+     "uuid": "9007969241824054368",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 413742039,
+     "uuid": "-6122539446804527898",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Cansa a tu Bully sin salir al sol: juegos de olfato en 4 pasos (premio, esconder fácil 'busca', subir dificultad, terminar ganando) + Dato mente/ansiedad, horario de calor, premios prohibidos",
+   "raza": "American Bully",
+   "formato": "carrusel 6 láminas (5 fotos + 1 cta)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS: 1hF3zmxQZDH_xs47jp2uSI61De37hq8v_ (portada), 1VbcA12RzfPBExuSyvW4On2T-yAc8rqZ8, 17I8w42jYMwf1YINysUy7YzJkJwEworLf + repo bully_056, bully_065",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-02-1500-olfato-bully",
+   "metricool": [
+    {
+     "id": 413742521,
+     "uuid": "-8810599298159000335",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Los Guardianes TeamFS Cap. 4: Movember (Queen se deja bigote / 'Ni lo sueñes, humano' en la barbería) + Dato vibrisas no se cortan + chequeo Movember humano",
+   "raza": "Cane Corso",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic",
+   "voz": false,
+   "fuente": "IA Canva generate-image MAHZwbedLFc y MAHZwRowPco con referencia de la foto real de Queen (cc_006 subida a Canva como MAHZwf7pmxo)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-02-2030-guardianes-cap4-movember (sin copia local: proxy bloquea Canva y static.metricool.com)",
+   "canva": "https://canva.link/pz2pdpfe8v6hzop (diseño DAHZwaV6iNM)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-3746429251497070294.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-17368754439608582440.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-15713579394804323455.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-1724409468614472195.jpeg"
+   ],
+   "serie": {
+    "nombre": "Los Guardianes TeamFS",
+    "capitulo": 4,
+    "pendiente_cap5": "Skype (formentino) cuando haya foto confirmada / la manada arma el árbol el 8 de diciembre"
+   },
+   "metricool": [
+    {
+     "id": 413742741,
+     "uuid": "8841895840412156985",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no está disponible como herramienta en esta sesión; clone/push funcionaron igual."
+  },
+  {
+   "detalle": "Drive: se descargaron 9 fotos JPG del 30-oct (carpeta 1gjf3y3aOkHtbl4XO7cSGlqYIpfHK4dZb) y se usaron 9 (6 Cane Corso en el Reel, 3 Bully en el carrusel). Perros sin identificar: no se nombraron. Videos .MOV (55 y 36 MB) siguen sin usarse por tamaño. Quedan HEIC/PNG sin revisar."
+  },
+  {
+   "detalle": "Canva generate-image: 2 imágenes OK, la 3.ª falló por cuota agotada (quota_exceeded)."
+  },
+  {
+   "detalle": "Canva create-design generó texto 'Dato Teams:' (corregido a 'Dato TeamFS:'), '@' duplicada en el cierre (corregida) y un globo que tapaba la cara de Queen (eliminado)."
+  },
+  {
+   "detalle": "Proxy bloquea export-download.canva.com y static.metricool.com: sin copia local de las láminas de Canva; Metricool copió las imágenes a static.metricool.com."
+  },
+  {
+   "detalle": "Audio IG: 'Housewife' (Tate McRae) no está en catálogo como música original (solo remix original_sound); se usó 'Dame Hombro' 878191945283147."
+  }
+ ],
+ "revisiones": []
+}
