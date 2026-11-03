@@ -132,6 +132,11 @@
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
+   "portada": true
   }
  ],
  "marca/fichas/ragnar_poster.jpg": [
@@ -143,6 +148,11 @@
   {
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
   }
  ],
@@ -156,6 +166,11 @@
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
+   "portada": false
   }
  ],
  "marca/fichas/bella_poster.jpg": [
@@ -167,6 +182,11 @@
   {
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
   }
  ],
@@ -180,6 +200,11 @@
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
+   "portada": false
   }
  ],
  "marca/fichas/krypto_vs_bella.jpg": [
@@ -191,6 +216,11 @@
   {
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
   }
  ],
@@ -862,6 +892,20 @@
   {
    "fecha": "2026-11-02",
    "carpeta": "publicaciones/2026-11-02-1500-olfato-bully",
+   "portada": false
+  }
+ ],
+ "banco/american-bully/bully_053.jpg": [
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-1100-errores-comida-bully",
+   "portada": true
+  }
+ ],
+ "marca/fichas/camada_abkc.jpg": [
+  {
+   "fecha": "2026-11-03",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
   }
  ]

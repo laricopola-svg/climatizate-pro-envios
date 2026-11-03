@@ -1,0 +1,16 @@
+{
+ "photo": "banco/cane-corso/cc_007.jpg",
+ "fx": 0.5,
+ "fy": 0.18,
+ "photo_h": 0.46,
+ "kicker": "Cane Corso · Paso a paso",
+ "title": "¿Abres la puerta y sale disparado? Enséñale a ESPERAR",
+ "title_size": 54,
+ "steps": [
+  "Sentado frente a la puerta cerrada: di \"espera\" y toma la manilla.",
+  "¿Se levanta? La puerta se cierra. ¿Sigue sentado? Premio. Sin gritos.",
+  "Abre de a poco: 5 cm, 20 cm, entera. Cada avance con calma, premio.",
+  "Lo liberas tú (\"vamos\") y sale con correa. Nunca solo a la calle."
+ ],
+ "dato": "con 50+ kg, esperar en la puerta es seguridad. Sesiones de 3 min, varias veces al día."
+}

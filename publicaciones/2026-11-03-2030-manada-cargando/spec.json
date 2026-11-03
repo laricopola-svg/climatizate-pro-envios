@@ -1,0 +1,10 @@
+{"clips":[
+{"photo":"marca/fichas/ragnar_dakota.jpg","fit":"contain","text":"Cargando personalidad de la manada...","sub":"Carga: 10%...","size":84,"dur":2.2},
+{"photo":"marca/fichas/ragnar_poster.jpg","fit":"contain","text":"Ragnar: cargando disciplina...","sub":"Carga: 100% · 60 kilos de pura calma","size":76,"dur":2.8},
+{"photo":"marca/fichas/dakota_poster.jpg","fit":"contain","text":"Dakota: cargando mirada seria...","sub":"Carga: 100% · te está juzgando","size":76,"dur":2.8},
+{"photo":"marca/fichas/bella_poster.jpg","fit":"contain","text":"Bella: cargando pose de modelo...","sub":"Carga: 100% · no le saques foto sin permiso","size":76,"dur":2.8},
+{"photo":"marca/fichas/krypto_vs_bella.jpg","fit":"contain","fx":0.0,"text":"Krypto (izquierda): cargando pose de campeón...","sub":"Carga: 100% · modo trofeo","size":72,"dur":2.8},
+{"photo":"marca/fichas/kopito_poster.jpg","fit":"contain","text":"Kopito (7 meses): cargando travesura...","sub":"⚠ ERROR: demasiada energía 999%","size":72,"dur":3.0},
+{"photo":"marca/fichas/camada_abkc.jpg","fit":"contain","text":"Dato TeamFS","sub":"El temperamento se hereda, el carácter se cría: socialización temprana + padres equilibrados con registro ABKC.","size":86,"dur":4.2}
+],
+"end":{"title":"Síguenos: mañana carga otro integrante","sub":"Cane Corso KCC · American Bully ABKC","dur":2.5}}

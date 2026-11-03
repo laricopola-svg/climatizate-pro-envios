@@ -1,0 +1,60 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "photo": "banco/american-bully/bully_053.jpg",
+   "fx": 0.5,
+   "fy": 0.3,
+   "kicker": "Alimentación · Bully",
+   "title": "5 errores al alimentar a tu Bully (que todos cometimos)",
+   "title_size": 72,
+   "subtitle": "El N°3 lo hace media casa. Sí, tú también.",
+   "cta": "Desliza →"
+  },
+  {
+   "type": "point",
+   "big": "01",
+   "label": "Error 1",
+   "headline": "\"Un poquito de mi plato\"",
+   "body": "Ese pedacito de asado con aliño, cebolla o ajo suma calorías y le puede caer pesado (la cebolla y el ajo son tóxicos para perros). Su comida, en su plato."
+  },
+  {
+   "type": "point",
+   "big": "02",
+   "label": "Error 2",
+   "headline": "Ración \"al ojo\"",
+   "body": "El tarro no es la medida. Pesa o mide la ración que te indicó tu veterinario según edad, peso y actividad. Un Bully se engorda rápido y se nota en sus articulaciones."
+  },
+  {
+   "type": "point",
+   "label": "Error 3",
+   "headline": "Premios sin contar",
+   "body": "Los snacks también son comida. Entre todos los de la casa le dan \"solo uno\"… cinco veces. Si entrena mucho, descuenta de la ración del día.",
+   "big": "03"
+  },
+  {
+   "type": "point",
+   "big": "04",
+   "label": "Error 4",
+   "headline": "Cambiar de alimento de golpe",
+   "body": "Haz la transición en 7 a 10 días, mezclando de a poco el nuevo con el anterior. Si no, el patio paga las consecuencias."
+  },
+  {
+   "type": "point",
+   "big": "05",
+   "label": "Error 5",
+   "headline": "Juego a fondo con la guata llena",
+   "body": "Deja reposo después de comer. Y con el calor de noviembre: agua fresca siempre y comidas fuera de las horas de más sol."
+  },
+  {
+   "type": "cta",
+   "headline": "¿Cuál de los 5 confiesas?",
+   "highlight": "Dato TeamFS",
+   "bullets": [
+    "Músculo no es sobrepeso: deberías palpar sus costillas",
+    "La ración la define tu veterinario, no el tarro",
+    "Vómitos, diarrea o decaimiento: consulta a tu veterinario"
+   ]
+  }
+ ]
+}
