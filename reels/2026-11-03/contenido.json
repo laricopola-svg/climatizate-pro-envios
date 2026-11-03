@@ -1,0 +1,40 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-03",
+ "fecha": "2026-11-03",
+ "hora": "19:00",
+ "pilar": "Instalación real",
+ "tema": "Así quedó en Santiago: 3 lugares reales para la unidad de afuera",
+ "audio_ig": "Sunshine (Instrumental) Twista",
+ "tiktok_title": "Dónde va la unidad exterior del aire: 3 instalaciones reales en Santiago",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "primer_comentario": "📲 ¿Balcón, terraza o fachada? Mándanos una foto: escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.62, 0.2], "chip": "Así quedó en Santiago",
+   "titulo": "¿Y la unidad de afuera? 3 casos reales", "sub": "El 3 se ve desde la calle", "zoom": "in",
+   "voz": "Tres lugares reales para la unidad de afuera."},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.9, 0.7], "chip": "Caso 1 · depa con balcón",
+   "titulo": "En el balcón, al otro lado del muro", "sub": "", "zoom": "out",
+   "voz": "Uno: en el balcón, justo al otro lado del muro."},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg", "pos": [0.6, 0.3], "chip": "Caso 2 · living con terraza",
+   "titulo": "En la terraza, despejada y cerca del equipo", "sub": "", "zoom": "in",
+   "voz": "Dos: en la terraza, despejada y cerquita del equipo."},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_13.jpg", "pos": [0.7, 0.12], "chip": "Caso 3 · local comercial",
+   "titulo": "En altura sobre la fachada, con soporte", "sub": "", "zoom": "out",
+   "voz": "Y tres, ojo… en altura, sobre la fachada del local."},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.66, 0.35], "chip": "Así lo instalamos",
+   "titulo": "Recorrido corto, ordenado y con garantía", "sub": "6 meses de garantía de instalación", "zoom": "in",
+   "voz": "Recorrido corto, ordenado, y seis meses de garantía."},
+  {"foto": null, "chip": "Climatízate Pro", "titulo": "¿Balcón, terraza o fachada? Comenta 1, 2 o 3",
+   "sub": "O mándanos una foto: escríbenos AIRE al WhatsApp.", "zoom": "in",
+   "voz": "¿Cuál es tu caso? Comenta el número… o escríbenos AIRE."}
+ ],
+ "captions": {
+  "instagram": "Instalación de aire acondicionado: ¿dónde va la unidad de afuera? 3 casos reales en Santiago 🏙️\n\n1️⃣ Depa → en el balcón, al otro lado del muro\n2️⃣ Living con terraza → despejada y cerca del equipo\n3️⃣ Local comercial → en altura sobre la fachada\n\n¿Cuál es tu caso? Comenta 1, 2 o 3 👇\nMándaselo a quien está viendo dónde poner su aire 📲\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #InstalaciónAireAcondicionado #Santiago #Inverter #ClimatízatePro",
+  "facebook": "Esta semana en Santiago: tormentas el martes y entre 28 y 30 grados para el fin de semana (Meteored) ☀️. Si estás pensando en instalar tu aire, una de las primeras dudas es: ¿dónde va la unidad de afuera?\n\nTres casos reales nuestros:\n1. Depa con balcón: la unidad exterior queda en el balcón, justo al otro lado del muro de la pieza.\n2. Living con terraza: en la terraza, despejada y cerca del equipo interior.\n3. Local comercial: en altura sobre la fachada, con soporte.\n\nMientras más cerca están las dos unidades, más corto y ordenado queda el recorrido. La instalación básica incluye lo que trae la caja (aprox. 2 m de tubería de cobre y 2 m de cordones). Si la unidad exterior va en un muro o sobre el piso, el soporte es un adicional de $35.000. Siempre te lo decimos antes, sin sorpresas, y tu instalación queda con 6 meses de garantía. Todos nuestros equipos son Inverter frío/calor.\n\n¿Cuál es tu caso? ¿Y en qué comuna estás? 👇 Mándanos una foto de tu muro y te orientamos.\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "¿Dónde va la unidad exterior del aire acondicionado? 3 instalaciones reales en Santiago: balcón, terraza y fachada 🏙️ El 3 se ve desde la calle. Instalación Inverter frío/calor ordenada y con garantía. ¿Cuál es tu caso? Comenta 1, 2 o 3 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #aireacondicionado #santiago #instalacion #inverter #climatizatepro"
+ }
+}

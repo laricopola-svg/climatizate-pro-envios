@@ -1,0 +1,53 @@
+{
+ "tema": "¿Cuántos BTU necesita tu pieza? La regla rápida antes del calor del fin de semana",
+ "fecha": "2026-11-03",
+ "id": "2026-11-03",
+ "pilar": "Educativo (capacidad BTU)",
+ "primer_comentario": "📲 Escríbenos AIRE con los m² de tu pieza al WhatsApp +56 9 6190 7601 (link en la bio) y te decimos qué capacidad te conviene.",
+ "slides": [
+  {"tipo": "portada", "kicker": "Antes del calor del fin de semana",
+   "titulo": "¿Cuántos <span class=c>BTU</span> necesita tu pieza?",
+   "texto": "La regla rápida que usa nuestro asesor en climatizatepro.cl, y lo que la cambia."},
+  {"tipo": "tabla", "kicker": "Referencia rápida", "titulo": "Metros cuadrados y <span class=f>capacidad</span>",
+   "filas": [["Hasta 16 m²", "9.000 BTU"], ["17 a 21 m²", "12.000 BTU"], ["22 a 32 m²", "18.000 BTU"], ["33 a 43 m²", "24.000 BTU"]],
+   "nota": "Pieza estándar: cielo de 2,4 m, sin sol directo y hasta 2 personas. Valores referenciales: la capacidad se confirma con una evaluación."},
+  {"tipo": "lista", "kicker": "Ojo con esto", "titulo": "Lo que <span class=c>sube</span> el cálculo",
+   "items": [
+    {"icono": "☀", "t": "Sol directo", "d": "Una pieza con sol de tarde necesita cerca de un 15 % más.", "calor": true},
+    {"icono": "▢", "t": "Ventanales grandes", "d": "Más vidrio, más calor: suma alrededor de un 10 %."},
+    {"icono": "☺", "t": "Más de 2 personas", "d": "Cada persona extra suma unos 500 BTU.", "calor": true},
+    {"icono": "↕", "t": "Cielo más alto", "d": "Sobre 2,4 m hay más aire que climatizar. En oficinas y locales también sube."}
+   ]},
+  {"tipo": "versus", "kicker": "Ejemplo: el mismo living de 20 m²", "titulo": "Mismos metros, <span class=c>otro equipo</span>",
+   "a": {"t": "Sin sol directo", "xs": ["Carga estimada: unos 11.000 BTU", "Equipo sugerido: 12.000 BTU"]},
+   "b": {"t": "Con sol de tarde y ventanal", "xs": ["Carga estimada: unos 13.900 BTU", "Equipo sugerido: 18.000 BTU"]},
+   "nota": "Cálculo referencial con el asesor de climatizatepro.cl. Un técnico lo confirma antes de instalar."},
+  {"tipo": "lista", "kicker": "Por qué importa", "titulo": "Si eliges mal la capacidad…",
+   "items": [
+    {"icono": "↓", "t": "Equipo muy chico", "d": "Trabaja al máximo y no llega a la temperatura que buscas, justo el día de 30 °C.", "calor": true},
+    {"icono": "↑", "t": "Equipo muy grande", "d": "Pagas más por el equipo sin ganar confort."},
+    {"icono": "✓", "t": "Equipo a la medida", "d": "El Inverter regula su potencia y mantiene la temperatura pareja."}
+   ]},
+  {"tipo": "foto", "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": "60% 30%",
+   "kicker": "Instalación real", "titulo": "Living-comedor: cuentan los dos ambientes",
+   "texto": "En espacios abiertos suma todos los metros. Bien ubicado, el aire llega a todo el espacio.",
+   "etiqueta": "Instalación real · Santiago"},
+  {"tipo": "lista", "kicker": "Así te ayudamos", "titulo": "De los m² a tu aire <span class=f>bien instalado</span>",
+   "items": [
+    {"icono": "1", "t": "Asesor BTU en la web", "d": "Ingresa m², sol, ventanales y personas: orientación al tiro."},
+    {"icono": "◎", "t": "Simulador con foto de tu muro", "d": "Mira cómo queda antes de decidir. Tu foto no sale de tu navegador."},
+    {"icono": "✓", "t": "Lo confirmamos contigo", "d": "Con tus fotos o en una evaluación técnica, antes de instalar."},
+    {"icono": "6m", "t": "Instalación ordenada y con garantía", "d": "Recorrido limpio, espacio limpio y 6 meses de garantía de instalación."}
+   ]},
+  {"tipo": "cta", "kicker": "Antes del primer fin de semana de calor",
+   "titulo": "Escríbenos <span class=f>AIRE</span> con tus m²",
+   "texto": "Te decimos qué capacidad te conviene. Equipos Inverter frío/calor con instalación ordenada. WhatsApp +56 9 6190 7601.",
+   "boton": "Calcula en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "BTU aire acondicionado: ¿cuántos necesita tu pieza? 🌡️\n\nHasta 16 m² → 9.000 BTU\n17 a 21 m² → 12.000 BTU\n22 a 32 m² → 18.000 BTU\n33 a 43 m² → 24.000 BTU\n\nOjo: el sol de tarde y los ventanales lo cambian todo (desliza al ejemplo 👉).\n\nGuárdalo ⭐ y mándaselo a quien está por comprar su aire 📲\n¿Cuántos m² tiene tu pieza? Escríbenos AIRE y te orientamos.\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #BTU #Santiago #Inverter #ClimatízatePro",
+  "facebook": "Este fin de semana se vienen entre 28 y 30 grados en Santiago (Meteored) ☀️ y la pregunta que más nos llega es: ¿de cuántos BTU lo necesito?\n\nLa regla rápida de nuestro asesor en climatizatepro.cl, para una pieza estándar (cielo de 2,4 m, sin sol directo, hasta 2 personas):\n• Hasta 16 m²: 9.000 BTU\n• 17 a 21 m²: 12.000 BTU\n• 22 a 32 m²: 18.000 BTU\n• 33 a 43 m²: 24.000 BTU\n\nLo que sube el cálculo: sol directo, ventanales grandes, más personas y cielos altos. Ejemplo: un living de 20 m² sin sol queda bien con 12.000 BTU, pero con sol de tarde y ventanal conviene uno de 18.000.\n\nSon valores referenciales: antes de instalar lo confirmamos con tus fotos o en una evaluación. Y después lo dejamos bien ubicado, con recorrido ordenado, espacio limpio y 6 meses de garantía de instalación. Todos nuestros equipos son Inverter frío/calor.\n\n¿Cuántos m² tiene tu pieza y en qué comuna estás? 👇\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "¿Cuántos BTU necesita tu pieza? Guía rápida de aire acondicionado en Santiago 🌡️ 9.000, 12.000, 18.000 o 24.000 BTU según los m², y por qué el sol de tarde lo cambia todo. Inverter frío/calor con instalación ordenada. ¿Cuántos m² tiene tu pieza? Comenta 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #aireacondicionado #btu #santiago #inverter #climatizatepro",
+  "linkedin": "¿Qué capacidad necesita un espacio de trabajo? La superficie es solo el punto de partida.\n\nComo referencia, para un espacio estándar (cielo de 2,4 m, sin sol directo, hasta 2 personas): hasta 16 m² → 9.000 BTU; 17–21 m² → 12.000 BTU; 22–32 m² → 18.000 BTU; 33–43 m² → 24.000 BTU. El sol directo, los ventanales, la cantidad de personas y la altura del cielo aumentan la carga; en oficinas y locales comerciales, también.\n\nEn Climatízate Pro orientamos con nuestro asesor en climatizatepro.cl, confirmamos la capacidad con una evaluación técnica e instalamos equipos Inverter frío/calor con terminaciones limpias y 6 meses de garantía de instalación. Para proyectos con varios equipos, hacemos evaluación técnica e instalación fuera de horario.\n\nCotiza: climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}
