@@ -31,16 +31,17 @@
    "carpeta": "publicaciones/2026-11-03-1100-errores-comida-bully",
    "metricool": [
     {
-     "id": 415026358,
+     "id": 415112754,
      "uuid": "-9082182452285193042",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 415026358
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 2,
@@ -55,16 +56,17 @@
    "carpeta": "publicaciones/2026-11-03-1500-espera-puerta-cane-corso",
    "metricool": [
     {
-     "id": 415026381,
+     "id": 415112801,
      "uuid": "5150352887162552685",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 415026381
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -79,23 +81,25 @@
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "metricool": [
     {
-     "id": 415027023,
+     "id": 415112839,
      "uuid": "-5581898454355522088",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 415027023
     },
     {
-     "id": 415026482,
+     "id": 415112871,
      "uuid": "-5993501222623820856",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 415026482
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "incidencias": [
@@ -116,6 +120,11 @@
   {
    "hora": "2026-11-03T07:05:49-0300",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios."
+  },
+  {
+   "hora": "2026-11-03T08:07:00-0300",
+   "resultado": "Respuesta de fcosotog7@gmail.com (msg 1a1a0fe01c8a1ad3, 07:39): 'Ok' sin números -> aprobadas las 3. updateScheduledPost draft:false en 4 posts (horas 11:00, 15:00, 20:30 IG+FB y 20:30 TikTok autoPublish false) sin cambiar contenido ni hora. Ids nuevos registrados; uuids sin cambio. Estado: programada.",
+   "nota": "En Metricool siguen 2 borradores del 2026-11-02 con fecha hoy (413869838 21:30 IG+FB, 413871399 18:00 TikTok, 'perro peligroso'); no pertenecen al state de hoy, no se tocaron."
   }
  ]
 }
