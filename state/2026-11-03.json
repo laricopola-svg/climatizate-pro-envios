@@ -1,0 +1,116 @@
+{
+ "fecha": "2026-11-03",
+ "dia": "martes (impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "gmail": {
+  "messageId": "1a1a0cb8d3d4160c",
+  "threadId": "1a1a0cb8d3d4160c",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-03 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única (ayer carrusel)",
+  "20:30": "Reel (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Trend 'costume loading' (noviembre 2026, que.es) -> 20:30 'Cargando personalidad de la manada'",
+  "Audio top Reels semana 31-oct/10-nov (SocialPilot): Dame Hombro -> música IG",
+  "Calor de noviembre -> 11:00 agua/comidas fuera del sol"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "5 errores al alimentar a tu Bully (plato humano/cebolla-ajo, ración al ojo, premios sin contar, cambio brusco de alimento, juego con la guata llena) + Dato costillas/veterinario",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (1 foto + 6 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo bully_053 (portada)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-03-1100-errores-comida-bully",
+   "metricool": [
+    {
+     "id": 415026358,
+     "uuid": "-9082182452285193042",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Enseñar a tu Cane Corso a ESPERAR en la puerta en 4 pasos + Dato seguridad 50+ kg, sesiones de 3 min",
+   "raza": "Cane Corso",
+   "formato": "imagen única",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo cc_007 (sin nombrar)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-03-1500-espera-puerta-cane-corso",
+   "metricool": [
+    {
+     "id": 415026381,
+     "uuid": "5150352887162552685",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Cargando personalidad de la manada (Ragnar, Dakota, Bella, Krypto, Kopito 7 meses ERROR energía) + Dato temperamento se hereda/carácter se cría (ABKC, socialización)",
+   "raza": "American Bully",
+   "formato": "Reel 20,6 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real (fichas)",
+   "voz": false,
+   "fuente": "repo marca/fichas (ragnar_dakota, ragnar_poster, dakota_poster, bella_poster, krypto_vs_bella, kopito_poster, camada_abkc)",
+   "audio": "IG: Dame Hombro – Bulin 47, Kevin Wai, Breyco, audioId 878191945283147, audio 100/video 0 (Angel of My Dreams/JADE y Blue Moon/Zara Larsson sin versión music en catálogo); FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
+   "metricool": [
+    {
+     "id": 415027023,
+     "uuid": "-5581898454355522088",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 415026482,
+     "uuid": "-5993501222623820856",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded -> hoy sin pieza IA (regla 'al menos 1 pieza IA' no cumplida). Se probó filtro cómic local sobre cc_007 pero se descartó por calidad."
+  },
+  {
+   "detalle": "Drive: material nuevo (carpetas Navidad, Día del padre, Día de la madre, Niños, Polerones cuarto medio, Mochila.png, Bolsa.png) son diseños de poleras/merch, no perros: no usados. Videos .MOV 1k9Rxx9uAG1D5qJMpvFa9rCwskgdKMzUY (55 MB) y 1E-sSkOCc8G_XFDsYusqhUdicYnoX3up9 (36 MB) exceden el límite de 10 MB de download_file_content."
+  },
+  {
+   "detalle": "Banco Bully casi agotado en ventana de 14 días: se usaron láminas de diseño y se pidió material nuevo al dueño. bully_040 descartada (parece Cane Corso en carpeta Bully: revisar)."
+  }
+ ],
+ "revisiones": []
+}
