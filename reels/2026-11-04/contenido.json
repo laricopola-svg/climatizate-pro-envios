@@ -1,0 +1,91 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-04",
+ "fecha": "2026-11-04",
+ "hora": "19:00",
+ "pilar": "Tips Midea",
+ "tema": "Tu Midea puede más #3: 3 funciones para el primer finde de 30 °C",
+ "audio_ig": "Ramalama Róisín Murphy",
+ "tiktok_title": "3 funciones del Midea Airvolution para el primer finde de 30 °C",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Funciones según modelo y control.",
+ "primer_comentario": "📲 ¿Quieres tu Midea listo antes del calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.62,
+    0.2
+   ],
+   "chip": "Tu Midea puede más #3",
+   "titulo": "Finde de 30 °C: 3 funciones de tu Midea",
+   "sub": "La 3 te salva la noche",
+   "zoom": "in",
+   "voz": "Sábado de treinta grados… tres funciones de tu Midea."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": [
+    0.55,
+    0.2
+   ],
+   "chip": "1 · APP WIFI",
+   "titulo": "Llegas y la casa ya está fresca",
+   "sub": "Lo enciendes desde el celular y ves cuánto consume.",
+   "zoom": "out",
+   "voz": "Uno: con la app WiFi, lo prendes antes de llegar."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.66,
+    0.52
+   ],
+   "chip": "2 · FOLLOW ME",
+   "titulo": "Mide la temperatura donde tú estás",
+   "sub": "El control toma la temperatura a tu lado.",
+   "zoom": "in",
+   "voz": "Dos: Follow Me mide el calor donde estás tú."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.6,
+    0.0
+   ],
+   "chip": "3 · SLEEP",
+   "titulo": "Noches de calor, sin despertar helado",
+   "sub": "Ajusta la temperatura de a poco mientras duermes.",
+   "zoom": "out",
+   "voz": "Y tres, ojo… Sleep, para dormir fresco sin despertar helado."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.5,
+    0.3
+   ],
+   "chip": "Instalación Climatízate Pro",
+   "titulo": "Bien ubicado, rinde más",
+   "sub": "Recorrido ordenado y 6 meses de garantía de instalación.",
+   "zoom": "in",
+   "voz": "Y todo rinde más si quedó bien instalado."
+  },
+  {
+   "foto": null,
+   "chip": "Climatízate Pro",
+   "titulo": "¿Cuál usas el sábado? Comenta 1, 2 o 3",
+   "sub": "Míralo antes en tu muro con el simulador de climatizatepro.cl",
+   "zoom": "in",
+   "voz": "¿Cuál usarás el sábado? Comenta el número… o escríbenos AIRE."
+  }
+ ],
+ "captions": {
+  "instagram": "Midea Airvolution: 3 funciones para el primer finde de 30 °C ☀️\n\n1️⃣ APP WIFI → lo prendes antes de llegar (y ves el consumo)\n2️⃣ FOLLOW ME → mide la temperatura donde estás tú\n3️⃣ SLEEP → noches de calor sin despertar helado\n\n¿Cuál vas a usar el sábado? Comenta 1, 2 o 3 👇\nMándaselo a quien tiene un Midea y no lo aprovecha 📲\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n(Funciones según modelo y control.)\n\n#MideaAirvolution #AireAcondicionado #Santiago #TipsHogar #ClimatízatePro",
+  "facebook": "Se viene el primer fin de semana caluroso en Santiago ☀️: Meteored anuncia hasta 31 grados el sábado en algunas comunas y cerca de 29 el domingo. Si tienes un Midea Airvolution, estas 3 funciones te van a servir harto:\n\n1. App WiFi: lo enciendes desde el celular antes de llegar y la casa te espera fresca. Además ves cuánto consume.\n2. Follow Me: el control mide la temperatura donde estás tú, no solo junto al equipo.\n3. Sleep: ajusta la temperatura de a poco mientras duermes, para que no despiertes helado.\n\nY todo rinde más si el equipo quedó bien instalado: en altura, despejado, con recorrido ordenado y 6 meses de garantía de instalación. Todos nuestros equipos son Inverter frío/calor.\n\n¿Cuál vas a usar el sábado? ¿Y en qué comuna estás? 👇\n\n(Funciones según modelo y control.)\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "3 funciones del Midea Airvolution para el primer finde de 30 °C ☀️ App WiFi, Follow Me y Sleep. Aire acondicionado Santiago: Inverter frío/calor con instalación ordenada y garantía. ¿Cuál usarás? Comenta 1, 2 o 3 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #midea #aireacondicionado #santiago #tips #climatizatepro"
+ }
+}
