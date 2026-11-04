@@ -1,0 +1,72 @@
+{
+"clips": [
+{
+"photo": "publicaciones/2026-11-04-1100-codos-cane-corso/hook_diseno.jpg",
+"text": "POV: tu Cane Corso eligió el piso más duro de la casa",
+"sub": "Y sus codos pagan la cuenta",
+"size": 88,
+"text_y": 1300,
+"dur": 2.6,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_004.jpg",
+"text": "50 kilos aterrizando en baldosa o cemento",
+"sub": "Todos los días. Varias veces al día.",
+"size": 88,
+"text_y": 1300,
+"dur": 2.8,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_008.jpg",
+"text": "Y si hay piso frío, ahí se tira",
+"sub": "El verano chileno no ayuda",
+"size": 88,
+"text_y": 1300,
+"dur": 2.8,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_007.jpg",
+"text": "Resultado: callo de codo",
+"sub": "Piel gruesa, gris y sin pelo. Común en molosos pesados.",
+"size": 88,
+"text_y": 1300,
+"dur": 3.0,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_005.jpg",
+"text": "La solución tiene forma de manta",
+"sub": "Cama firme, colchoneta o manta donde él se echa (en verano, una cama fresca)",
+"size": 86,
+"text_y": 1300,
+"dur": 3.2,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_011.jpg",
+"text": "Ojo si el codo se hincha como bolsa, tiene herida, calor o cojea",
+"sub": "No lo pinches ni lo revientes: consulta a tu veterinario",
+"size": 80,
+"text_y": 1300,
+"dur": 3.4,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_009.jpg",
+"text": "Dato TeamFS",
+"sub": "Peso ideal + cama blanda desde cachorro: el codo se cuida antes de que aparezca el callo.",
+"size": 96,
+"text_y": 1300,
+"dur": 3.6,
+"fit": "contain"
+}
+],
+"end": {
+"title": "Síguenos para más datos de molosos",
+"sub": "Cane Corso KCC · American Bully ABKC",
+"dur": 2.5
+}
+}

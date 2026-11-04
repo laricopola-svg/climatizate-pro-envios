@@ -9,12 +9,22 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-2030-guardianes-cap5-ia-vs-real",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_005.jpg": [
   {
    "fecha": "2026-10-20",
    "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
    "portada": false
   }
  ],
@@ -28,6 +38,11 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_004.jpg": [
@@ -40,6 +55,11 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_008.jpg": [
@@ -47,12 +67,22 @@
    "fecha": "2026-10-20",
    "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_007.jpg": [
   {
    "fecha": "2026-10-20",
    "carpeta": "publicaciones/2026-10-20-5-mitos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
    "portada": false
   }
  ],
@@ -65,6 +95,11 @@
   {
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
    "portada": false
   }
  ],
@@ -80,12 +115,22 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_017.jpg": [
   {
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
    "portada": false
   }
  ],
@@ -94,12 +139,22 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_043.jpg": [
   {
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
    "portada": false
   }
  ],
@@ -112,6 +167,11 @@
   {
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-2030-manada-vs-calor",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
    "portada": false
   }
  ],
@@ -907,6 +967,13 @@
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
+  }
+ ],
+ "publicaciones/2026-11-04-1100-codos-cane-corso/hook_diseno.jpg": [
+  {
+   "fecha": "2026-11-04",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "portada": true
   }
  ]
 }
