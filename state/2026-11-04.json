@@ -1,0 +1,146 @@
+{
+ "fecha": "2026-11-04",
+ "dia": "miércoles (día par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "gmail": {
+  "messageId": "1a1a5f4473fcc0e1",
+  "threadId": "1a1a5f4473fcc0e1",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-04 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única)",
+  "20:30": "carrusel IA cómic Canva (ayer Reel)"
+ },
+ "tendencias_usadas": [
+  "Trend TikTok noviembre 2026 'AI vs. handmade' (que.es) -> 20:30 IA vs REAL",
+  "Audio Reels 'Sunshine (Instrumental)' Twista, en tendencia 31-oct/10-nov para tips con texto (SocialPilot) -> 11:00",
+  "Formato POV + calor de noviembre/piscinas en Chile -> 11:00 y 15:00"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso eligió el piso más duro – callo de codo (qué es, cama/manta, señales de higroma -> veterinario) + Dato peso ideal/cama desde cachorro",
+   "raza": "Cane Corso",
+   "formato": "Reel 21,4 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco cc_004, cc_008, cc_007, cc_005, cc_011, cc_009 + lámina de diseño hook_diseno.jpg",
+   "audio": "IG: Sunshine Instrumental – Twista (original_sound, audioId 26617349347959610), audio 100/video 0 (Everlong y Hold On sin versión music); FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-14271323120744497547.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 416278349,
+     "uuid": "-4795563845220349777",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "id_anterior": 416278211,
+     "nota": "creado con texto provisional 'x' al probar el audio y actualizado de inmediato con el texto final"
+    },
+    {
+     "id": 416278636,
+     "uuid": "5239667691657119443",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Tu Bully NO nació nadador: primer chapuzón en 4 pasos (donde hace pie, chaleco, sesiones cortas, enjuague/secado) + Dato tos/vómito/decaído -> veterinario",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (5 fotos + portada y dato de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_043, bully_042, bully_038, bully_017, bully_057",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-1453938705965709785.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-13717728772118592336.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-8763071649369813521.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-14906610757899493492.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-5749158680787582173.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-6768248155478957093.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-13315748943342229552.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 416278654,
+     "uuid": "-8305034140442869351",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Los Guardianes TeamFS Cap. 5: IA vs REAL ('la IA me puso bigote' / Queen: '¿Filtro? Yo vengo así de fábrica') + Dato la IA no da pedigrí, Queen KCC, conoce a los padres; CTA comenta ANIME",
+   "raza": "Cane Corso",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic + foto real",
+   "voz": false,
+   "fuente": "IA Canva MAHZwbedLFc (generada 2-nov, reutilizada) + foto real cc_006 (Canva MAHZwf7pmxo)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-04-2030-guardianes-cap5-ia-vs-real (sin copia local: proxy bloquea Canva y static.metricool.com)",
+   "canva": "https://www.canva.com/d/N_UWXTpMUSTyMwi (diseño DAHZ8bXAQfM)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-15224173367190055253.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-13140355934620656874.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-11165508937796604120.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-13982592477388918647.jpeg"
+   ],
+   "serie": {
+    "nombre": "Los Guardianes TeamFS",
+    "capitulo": 5,
+    "pendiente_cap6": "convertir perros de seguidores que comenten ANIME / Skype cuando haya foto confirmada / la manada arma el árbol el 8-dic"
+   },
+   "metricool": [
+    {
+     "id": 416273433,
+     "uuid": "-7805610773948183937",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded otra vez. Sin otros generadores IA en la sesión (solo Canva create-video, que requiere aprobación explícita del dueño). Pieza IA del día armada reutilizando la ilustración IA de Queen del cap. 4."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 2-nov; las carpetas recientes (Día del amor, Día del padre, Polerones cuarto medio, Trabajos realizados) son merch, no perros. No se usaron archivos de Drive."
+  },
+  {
+   "detalle": "Banco de fotos: todas las fotos de Cane Corso y Bully se usaron como portada o en los últimos 30 días -> portadas en lámina de diseño. Se pidió material nuevo al dueño. bully_040 sigue en carpeta Bully pero son Cane Corso."
+  },
+  {
+   "detalle": "Audios IG: 'Everlong' (Foo Fighters) y 'Hold On, We're Going Home' (Drake) solo como original_sound/covers en el catálogo; se usó Sunshine Instrumental (Twista)."
+  }
+ ],
+ "revisiones": []
+}
