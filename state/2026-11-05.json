@@ -1,35 +1,129 @@
 {
  "fecha": "2026-11-05",
  "dia": "jueves (día impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
- "gmail": {"messageId": "1a1ab1730fec83c6", "threadId": "1a1ab1730fec83c6", "para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-11-05 – responde OK para publicar"},
- "rotacion_formatos": {"11:00": "carrusel (ayer Reel)", "15:00": "imagen única IA (ayer carrusel)", "20:30": "Reel (ayer carrusel IA)"},
+ "gmail": {
+  "messageId": "1a1ab1730fec83c6",
+  "threadId": "1a1ab1730fec83c6",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-05 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única IA (ayer carrusel)",
+  "20:30": "Reel (ayer carrusel IA)"
+ },
  "tendencias_usadas": [
   "Sketch/POV con texto en pantalla de humor cotidiano (SocialPilot 31-oct/10-nov: 'Hold On, We're Going Home' y 'Dame Hombro' para comedy skits) -> 20:30",
   "Interés por el color merle en Bully + autoridad genética -> 11:00",
   "Tips rápidos con texto en pantalla -> 15:00"
  ],
  "publicaciones": [
-  {"n": 1, "hora": "11:00", "tema": "Merle: el color más viral y la regla de oro (nunca merle x merle, doble merle, merle críptico, test locus M, 3 preguntas al criadero)", "raza": "American Bully", "formato": "carrusel 6 láminas (3 fotos + 3 de diseño)", "estilo": "foto real", "voz": false,
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Merle: el color más viral y la regla de oro (nunca merle x merle, doble merle, merle críptico, test locus M, 3 preguntas al criadero)",
+   "raza": "American Bully",
+   "formato": "carrusel 6 láminas (3 fotos + 3 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
    "fuente": "Drive 1UeRhYQkhyCZg687RoPGv8lVUhXGxckpO (portada), 1yESoak3tgZjBsjycG-ycTfoPCoP8rLm1, 1R_VbwAG6_od9cjxE3fA8QdWhq_itPA7K (perros sin identificar, no nombrados)",
-   "audio": "TikTok autoAddMusic", "carpeta": "publicaciones/2026-11-05-1100-merle-bully",
-   "metricool": [{"id": 417512556, "uuid": "6991064040908476412", "redes": ["facebook", "instagram", "tiktok"]}], "estado": "borrador"},
-  {"n": 2, "hora": "15:00", "tema": "¿Tu Cane Corso te ignora? El MÍRAME en 4 pasos + Dato 50 kg/atención vale más que fuerza", "raza": "Cane Corso", "formato": "imagen única (Canva)", "estilo": "IA cartoon 3D", "voz": false,
-   "fuente": "IA Canva MAHZSTprTIk (generada 28-oct, reutilizada por quota_exceeded)", "audio": "TikTok autoAddMusic",
-   "carpeta": "publicaciones/2026-11-05-1500-mirame-cane-corso (solo README)", "canva": "https://www.canva.com/d/8esl1A0uYnWrkqf (diseño DAHaCRm4wYU)",
-   "media_metricool": ["https://static.metricool.com/planner/202611/7540297-file-17406592962032705735.jpeg"],
-   "metricool": [{"id": 417512577, "uuid": "-775891947315772055", "redes": ["facebook", "instagram", "tiktok"], "isAiGenerated": true}], "estado": "borrador"},
-  {"n": 3, "hora": "20:30", "tema": "Oído selectivo nivel American Bully (ven/baño, barro con el hermano, queso en 0,3 s) + Dato el VEN se entrena con premio y nunca para algo desagradable", "raza": "American Bully", "formato": "Reel 14,2 s (IG+FB) + TikTok aparte (autoPublish false)", "estilo": "foto real", "voz": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-05-1100-merle-bully",
+   "metricool": [
+    {
+     "id": 417512556,
+     "uuid": "6991064040908476412",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¿Tu Cane Corso te ignora? El MÍRAME en 4 pasos + Dato 50 kg/atención vale más que fuerza",
+   "raza": "Cane Corso",
+   "formato": "imagen única (Canva)",
+   "estilo": "IA cartoon 3D",
+   "voz": false,
+   "fuente": "IA Canva MAHZSTprTIk (generada 28-oct, reutilizada por quota_exceeded)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-05-1500-mirame-cane-corso (solo README)",
+   "canva": "https://www.canva.com/d/8esl1A0uYnWrkqf (diseño DAHaCRm4wYU)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-17406592962032705735.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 417512577,
+     "uuid": "-775891947315772055",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Oído selectivo nivel American Bully (ven/baño, barro con el hermano, queso en 0,3 s) + Dato el VEN se entrena con premio y nunca para algo desagradable",
+   "raza": "American Bully",
+   "formato": "Reel 14,2 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
    "fuente": "Drive 1qzT5u9W8DVqa8gPFcc3MW0q3D37Sxoe3, 1w5umCusKf1iCCOhT7GiVAnYf8lqWaHrw, 1yWj0PmLpQEWCimICNEie15AvuCxzRoZd + ficha ragnar_poster",
    "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0 (Dame Hombro, Housewife y Angel of My Dreams sin versión disponible); FB sin música; TikTok elige sonido en la app",
    "carpeta": "publicaciones/2026-11-05-2030-oido-selectivo-bully",
-   "media_metricool": ["https://static.metricool.com/planner/202611/7540297-file-16513339501134776794.mp4"],
-   "metricool": [{"id": 417513077, "uuid": "165704369363961359", "redes": ["instagram", "facebook"]}, {"id": 417513092, "uuid": "3041355046837764569", "redes": ["tiktok"], "autoPublish": false}], "estado": "borrador"}
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-16513339501134776794.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 417513077,
+     "uuid": "165704369363961359",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 417513092,
+     "uuid": "3041355046837764569",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  }
  ],
  "incidencias": [
-  {"detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."},
-  {"detalle": "Canva generate-image y create-design: quota_exceeded. Sin otros generadores IA en la sesión (create-video requiere aprobación explícita del dueño). Pieza IA armada copiando el diseño DAHZqReI1uM y reutilizando la ilustración MAHZSTprTIk (28-oct)."},
-  {"detalle": "Drive: se usaron 6 JPG del 30-oct no usados antes (carpeta 1gjf3y3aOkHtbl4XO7cSGlqYIpfHK4dZb). Quedan sin usar 1IRVCQUhtU77sw9aOnWUt7FgBEx-0jgR4 y 1IiqqNLchaq5mHMncCPjaCE_MeF-46Wwm (*_n.jpg, posible origen redes) y HEIC/PNG. Videos .MOV > 10 MB."},
-  {"detalle": "Proxy bloquea static.metricool.com y export-download.canva.com: sin copia local de la pieza Canva."}
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image y create-design: quota_exceeded. Sin otros generadores IA en la sesión (create-video requiere aprobación explícita del dueño). Pieza IA armada copiando el diseño DAHZqReI1uM y reutilizando la ilustración MAHZSTprTIk (28-oct)."
+  },
+  {
+   "detalle": "Drive: se usaron 6 JPG del 30-oct no usados antes (carpeta 1gjf3y3aOkHtbl4XO7cSGlqYIpfHK4dZb). Quedan sin usar 1IRVCQUhtU77sw9aOnWUt7FgBEx-0jgR4 y 1IiqqNLchaq5mHMncCPjaCE_MeF-46Wwm (*_n.jpg, posible origen redes) y HEIC/PNG. Videos .MOV > 10 MB."
+  },
+  {
+   "detalle": "Proxy bloquea static.metricool.com y export-download.canva.com: sin copia local de la pieza Canva."
+  }
  ],
- "revisiones": []
+ "revisiones": [
+  {
+   "hora": "2026-11-05 07:05 America/Santiago",
+   "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje). Las 3 siguen en borrador."
+  }
+ ]
 }
