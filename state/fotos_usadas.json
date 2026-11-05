@@ -214,6 +214,11 @@
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-05",
+   "carpeta": "publicaciones/2026-11-05-2030-oido-selectivo-bully",
+   "portada": false
   }
  ],
  "marca/fichas/dakota_poster.jpg": [
@@ -974,6 +979,48 @@
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
    "portada": true
+  }
+ ],
+ "publicaciones/2026-11-05-1100-merle-bully/drive_1UeRhYQkhyCZg687RoPGv8lVUhXGxckpO.jpg": [
+  {
+   "fecha": "2026-11-05",
+   "carpeta": "publicaciones/2026-11-05-1100-merle-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-05-1100-merle-bully/drive_1yESoak3tgZjBsjycG-ycTfoPCoP8rLm1.jpg": [
+  {
+   "fecha": "2026-11-05",
+   "carpeta": "publicaciones/2026-11-05-1100-merle-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-05-1100-merle-bully/drive_1R_VbwAG6_od9cjxE3fA8QdWhq_itPA7K.jpg": [
+  {
+   "fecha": "2026-11-05",
+   "carpeta": "publicaciones/2026-11-05-1100-merle-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-05-2030-oido-selectivo-bully/drive_1qzT5u9W8DVqa8gPFcc3MW0q3D37Sxoe3.jpg": [
+  {
+   "fecha": "2026-11-05",
+   "carpeta": "publicaciones/2026-11-05-2030-oido-selectivo-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-05-2030-oido-selectivo-bully/drive_1w5umCusKf1iCCOhT7GiVAnYf8lqWaHrw.jpg": [
+  {
+   "fecha": "2026-11-05",
+   "carpeta": "publicaciones/2026-11-05-2030-oido-selectivo-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-05-2030-oido-selectivo-bully/drive_1yWj0PmLpQEWCimICNEie15AvuCxzRoZd.jpg": [
+  {
+   "fecha": "2026-11-05",
+   "carpeta": "publicaciones/2026-11-05-2030-oido-selectivo-bully",
+   "portada": false
   }
  ]
 }

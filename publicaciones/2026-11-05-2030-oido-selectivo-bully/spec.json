@@ -1,0 +1,41 @@
+{
+"clips": [
+{
+"photo": "publicaciones/2026-11-05-2030-oido-selectivo-bully/drive_1qzT5u9W8DVqa8gPFcc3MW0q3D37Sxoe3.jpg",
+"fx": 0.45,
+"text": "Le digo VEN a mi Bully…",
+"sub": "…y nunca me ha visto en su vida",
+"size": 88,
+"dur": 2.6
+},
+{
+"photo": "publicaciones/2026-11-05-2030-oido-selectivo-bully/drive_1w5umCusKf1iCCOhT7GiVAnYf8lqWaHrw.jpg",
+"text": "Le grito: ¡NO, AL BARRO NO!",
+"sub": "Ya era tarde. Y llevó a su hermano.",
+"size": 84,
+"dur": 2.9,
+"fit": "contain"
+},
+{
+"photo": "publicaciones/2026-11-05-2030-oido-selectivo-bully/drive_1yWj0PmLpQEWCimICNEie15AvuCxzRoZd.jpg",
+"fy": 0.5,
+"text": "Abro el queso en silencio absoluto…",
+"sub": "…llega en 0,3 segundos",
+"size": 84,
+"dur": 3.0
+},
+{
+"photo": "marca/fichas/ragnar_poster.jpg",
+"fit": "contain",
+"text": "Dato TeamFS",
+"sub": "El VEN se entrena con premio top y NUNCA para algo que no le gusta (baño, uñas): para eso, ve tú a buscarlo.",
+"size": 86,
+"dur": 4.6
+}
+],
+"end": {
+"title": "Síguenos: mañana más de la manada",
+"sub": "Cane Corso KCC · American Bully ABKC",
+"dur": 2.5
+}
+}
