@@ -31,16 +31,18 @@
    "carpeta": "publicaciones/2026-11-05-1100-merle-bully",
    "metricool": [
     {
-     "id": 417512556,
+     "id": 417993704,
      "uuid": "6991064040908476412",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 417512556
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "hora_reprogramada": "14:18"
   },
   {
    "n": 2,
@@ -59,17 +61,18 @@
    ],
    "metricool": [
     {
-     "id": 417512577,
+     "id": 417993725,
      "uuid": "-775891947315772055",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "isAiGenerated": true
+     "isAiGenerated": true,
+     "id_anterior": 417512577
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -87,23 +90,25 @@
    ],
    "metricool": [
     {
-     "id": 417513077,
+     "id": 417993771,
      "uuid": "165704369363961359",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 417513077
     },
     {
-     "id": 417513092,
+     "id": 417993807,
      "uuid": "3041355046837764569",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 417513092
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "incidencias": [
@@ -148,6 +153,10 @@
   {
    "hora": "2026-11-05 13:08 America/Santiago",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje). Las 3 siguen en borrador. La n.1 (11:00) ya pasó; si se aprueba se reprogramará a ahora+10 min."
+  },
+  {
+   "hora": "2026-11-05 14:06 America/Santiago",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (msg 1a1ac8c853f6f11c, 13:30) => aprobadas las 3. updateScheduledPost draft:false OK: n.1 reprogramada 11:00->14:18 (hora pasada, ahora+10 min); n.2 15:00; n.3 IG+FB 20:30 y TikTok 20:30 (autoPublish false, notificación a la app). Nuevos ids Metricool registrados (uuid sin cambio)."
   }
  ]
 }
