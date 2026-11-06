@@ -1,0 +1,129 @@
+{
+ "fecha": "2026-11-06",
+ "dia": "viernes (día par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "gmail": {
+  "messageId": "1a1b040a5d8d5379",
+  "threadId": "1a1b040a5d8d5379",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-06 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única IA)",
+  "20:30": "carrusel IA (ayer Reel)"
+ },
+ "tendencias_usadas": [
+  "POV con humor de texto en pantalla + audio Dame Hombro (que.es 30-oct: 184k videos, trends noviembre 2026) -> 11:00",
+  "Temporada: primavera en Chile (flores/abejas) -> 11:00",
+  "Recap/photo dump + votación en comentarios, continuidad del trend 'AI vs handmade' -> 20:30",
+  "Humor cotidiano 'detective de pastillas' + tip práctico guardable -> 15:00"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso intentó cazar una abeja – picaduras: señales (hocico/pata hinchada), qué hacer (alejar, aguijón raspando, frío), urgencia (cara/cuello, respiración, vómito, varias picadas -> veterinario) + Dato nunca antialérgicos humanos sin indicación",
+   "raza": "Cane Corso",
+   "formato": "Reel 18,4 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco/cane-corso cc_002 (portada), cc_003, cc_010, cc_001 (no nombrados)",
+   "audio": "IG: Dame Hombro – Bulin 47, Kevin Wai, Breyco En Producidera, audioId 878191945283147, audio 100/video 0 (Coming Up Roses y Purple Rain solo original_sound, múltiples coincidencias); FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-9032167069006464634.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 418715114,
+     "uuid": "7065276321923548095",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 418715611,
+     "uuid": "-1025227336957541215",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "El remedio sin drama: pastilla a tu Bully en 4 pasos (solo lo que indicó el veterinario, truco 3 premios, método directo con calma, agua/premio/revisar) + Dato paracetamol e ibuprofeno humanos pueden intoxicar",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (5 fotos + portada y dato de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco/american-bully bully_021, 008, 035, 019, 034 (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
+   "metricool": [
+    {
+     "id": 418715621,
+     "uuid": "-205806172207953008",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Los Guardianes TeamFS Cap. 6: Recap Temporada 1 (vota 1-5 tu capítulo favorito; Queen Reina Vampira, Ragnar/Bella/Kopito It's time) + Dato a cada raza su registro: Cane Corso KCC (FCI), American Bully ABKC (no FCI); CTA comenta ANIME / síguenos temporada 2",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic + IA cartoon 3D (reutilizadas)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada: MAHZSfTgfwk (Queen vampira, 28-oct), MAHZqeEaBw0 (Ragnar y Bella, 1-nov). Canva generate-image quota_exceeded hoy.",
+   "audio": "TikTok autoAddMusic",
+   "isAiGenerated": true,
+   "canva": "https://www.canva.com/d/62Ov2RnQbXXPcnU (diseño DAHaIf1_j3A, copia de DAHZ8bXAQfM cap. 5)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-11944127036624771895.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-13023860457944628615.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-6445190271426808892.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-17492772824291096904.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 418715642,
+     "uuid": "4547981537259177914",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded. Sin otros generadores IA en la sesión (create-video requiere aprobación explícita del dueño). Pieza IA armada copiando DAHZ8bXAQfM y reutilizando ilustraciones existentes (formato recap)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 30-oct. Sin usar quedan fotos con niños (Niños Cane Corso 1), PNG de diseño (Archivo_0xx), HEIC y *_n.jpg de posible origen redes. Se pidió al dueño material nuevo de Cane Corso."
+  },
+  {
+   "detalle": "Audios en tendencia Coming Up Roses / Purple Rain sin versión music en catálogo IG; se usó Dame Hombro."
+  }
+ ],
+ "revisiones": []
+}
