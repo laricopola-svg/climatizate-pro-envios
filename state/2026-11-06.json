@@ -35,23 +35,26 @@
    ],
    "metricool": [
     {
-     "id": 418715114,
+     "id": 418784252,
      "uuid": "7065276321923548095",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 418715114
     },
     {
-     "id": 418715611,
+     "id": 418784267,
      "uuid": "-1025227336957541215",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 418715611
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-06T07:20:27-0300 (OK de fcosotog7@gmail.com, msg 1a1b05ff3b8c3599)"
   },
   {
    "n": 2,
@@ -66,16 +69,18 @@
    "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
    "metricool": [
     {
-     "id": 418715621,
+     "id": 418784281,
      "uuid": "-205806172207953008",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 418715621
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-06T07:20:27-0300 (OK de fcosotog7@gmail.com, msg 1a1b05ff3b8c3599)"
   },
   {
    "n": 3,
@@ -97,7 +102,7 @@
    ],
    "metricool": [
     {
-     "id": 418715642,
+     "id": 418784298,
      "uuid": "4547981537259177914",
      "redes": [
       "facebook",
@@ -105,10 +110,12 @@
       "tiktok"
      ],
      "isAiGenerated": true,
-     "isAigc": true
+     "isAigc": true,
+     "id_anterior": 418715642
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-06T07:20:27-0300 (OK de fcosotog7@gmail.com, msg 1a1b05ff3b8c3599)"
   }
  ],
  "incidencias": [
@@ -129,6 +136,10 @@
   {
    "hora": "2026-11-06T07:06:18-0300",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje). Sin cambios; 3 en borrador."
+  },
+  {
+   "hora": "2026-11-06T08:06:43-0300",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (07:20). Aprobadas las 3: updateScheduledPost draft:false en 4 posts Metricool (IG/FB Reel 11:00, TikTok 11:00 autoPublish false, 15:00, 20:30), horas originales conservadas (todas futuras). Estado 'programada'. Nota: en Metricool siguen en borrador 2 posts del 2-nov fechados hoy (ids 413871478 21:30 IG/FB y 413871490 18:00 TikTok, 'Opinión impopular Bully'), fuera de este state; no se tocaron."
   }
  ]
 }
