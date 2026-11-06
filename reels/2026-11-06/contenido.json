@@ -1,0 +1,97 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-06",
+ "fecha": "2026-11-06",
+ "hora": "19:00",
+ "pilar": "Errores",
+ "tema": "Esto te sube la cuenta de luz: 3 errores en el primer finde de 30 °C",
+ "audio_ig": "Pump It Black Eyed Peas",
+ "tiktok_title": "3 errores con el aire acondicionado que te suben la cuenta de luz este finde de calor",
+ "ia": false,
+ "voz": false,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Consejos generales de uso. Ante dudas, consulta a un técnico.",
+ "primer_comentario": "📲 ¿Quieres tu aire bien instalado antes del calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.62,
+    0.2
+   ],
+   "chip": "Esto te sube la cuenta de luz",
+   "titulo": "Finde de calor: 3 errores caros",
+   "sub": "Con tu aire, este fin de semana. El 3 casi nadie lo revisa.",
+   "zoom": "in",
+   "dur": 2.8,
+   "voz": "Finde de calor… tres errores que te suben la cuenta."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.66,
+    0.45
+   ],
+   "chip": "1 · Ventana abierta",
+   "titulo": "Puertas y ventanas cerradas",
+   "sub": "Climatiza solo el espacio que estás usando.",
+   "zoom": "out",
+   "dur": 3.0,
+   "voz": "Uno: prenderlo con la ventana abierta… se escapa todo."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": [
+    0.5,
+    0.25
+   ],
+   "chip": "2 · Filtros del invierno",
+   "titulo": "Lávalos antes del primer calor",
+   "sub": "Con polvo, el equipo trabaja más para enfriar lo mismo.",
+   "zoom": "in",
+   "dur": 3.0,
+   "voz": "Dos: filtros sucios del invierno. Lávalos antes."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.9,
+    0.7
+   ],
+   "chip": "3 · La unidad de afuera",
+   "titulo": "Despejada y con aire alrededor",
+   "sub": "Tapada, encerrada o llena de cosas, trabaja forzada.",
+   "zoom": "out",
+   "dur": 3.2,
+   "voz": "Y tres, ojo… la unidad de afuera tapada o encerrada."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": [
+    0.72,
+    0.3
+   ],
+   "chip": "Así la dejamos",
+   "titulo": "Despejada, ordenada y con garantía",
+   "sub": "Recorrido corto, terminaciones limpias y 6 meses de garantía de instalación.",
+   "zoom": "in",
+   "dur": 3.2,
+   "voz": "Nosotros la dejamos despejada y con garantía."
+  },
+  {
+   "foto": null,
+   "chip": "Climatízate Pro",
+   "titulo": "¿Cuál te pasa a ti? Comenta 1, 2 o 3",
+   "sub": "O escríbenos AIRE al WhatsApp y te ayudamos antes del calor.",
+   "zoom": "in",
+   "dur": 3.6,
+   "voz": "¿Cuál te pasa a ti? Comenta el número… o escríbenos AIRE."
+  }
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado y cuenta de luz: 3 errores en el primer finde de calor ☀️\n\n1️⃣ Prenderlo con la ventana abierta\n2️⃣ Filtros sucios desde el invierno\n3️⃣ La unidad de afuera tapada o encerrada\n\n¿Cuál te pasa a ti? Comenta 1, 2 o 3 👇\nMándaselo a quien va a prender el aire este sábado 📲\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #CuentaDeLuz #Santiago #Inverter #ClimatízatePro",
+  "facebook": "Se viene el primer fin de semana de calor fuerte en Santiago ☀️ y muchos van a prender el aire por primera vez desde el invierno. Ojo con estos 3 errores que te suben la cuenta de la luz:\n\n1. Prenderlo con puertas o ventanas abiertas: el frío se escapa y el equipo no para.\n2. Filtros sucios desde el invierno: lávalos antes del sábado, con polvo el equipo trabaja más.\n3. La unidad de afuera tapada, encerrada o con cosas encima: necesita aire alrededor para trabajar bien.\n\nPor eso, cuando instalamos, dejamos la unidad exterior despejada, con recorrido corto y ordenado, terminaciones limpias y 6 meses de garantía de instalación. Todos nuestros equipos son Inverter frío/calor.\n\n¿En qué comuna estás y cuál de los tres te pasa? 👇\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Aire acondicionado Santiago: 3 errores que te suben la cuenta de luz en el primer finde de calor ☀️ Ventana abierta, filtros del invierno y la unidad de afuera tapada. Instalación ordenada de equipos Inverter frío/calor. ¿Cuál te pasa? Comenta 1, 2 o 3 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #aireacondicionado #santiago #cuentadeluz #instalacion #climatizatepro"
+ }
+}
