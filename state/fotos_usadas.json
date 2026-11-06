@@ -180,6 +180,11 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1500-garrapatas-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
+   "portada": false
   }
  ],
  "marca/fichas/ragnar_dakota.jpg": [
@@ -294,6 +299,11 @@
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-1100-halloween-cane-corso",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
+   "portada": true
   }
  ],
  "banco/american-bully/bully_002.jpg": [
@@ -308,12 +318,22 @@
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_035.jpg": [
   {
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
    "portada": false
   }
  ],
@@ -322,12 +342,22 @@
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_034.jpg": [
   {
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
    "portada": false
   }
  ],
@@ -364,6 +394,11 @@
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_041.jpg": [
@@ -392,12 +427,22 @@
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-1500-correa-cane-corso",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_001.jpg": [
   {
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-1500-correa-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
    "portada": false
   }
  ],
@@ -1020,6 +1065,20 @@
   {
    "fecha": "2026-11-05",
    "carpeta": "publicaciones/2026-11-05-2030-oido-selectivo-bully",
+   "portada": false
+  }
+ ],
+ "canva:MAHZSfTgfwk": [
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "canva DAHaIf1_j3A (Guardianes cap 6 recap)",
+   "portada": true
+  }
+ ],
+ "canva:MAHZqeEaBw0": [
+  {
+   "fecha": "2026-11-06",
+   "carpeta": "canva DAHaIf1_j3A (Guardianes cap 6 recap)",
    "portada": false
   }
  ]

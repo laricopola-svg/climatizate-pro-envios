@@ -1,0 +1,51 @@
+{
+ "clips": [
+  {
+   "photo": "banco/cane-corso/cc_002.jpg",
+   "fy": 0.5,
+   "text": "POV: tu Cane Corso intentó cazar una abeja",
+   "sub": "(spoiler: ganó la abeja)",
+   "size": 88,
+   "dur": 2.8,
+   "fx": 0.92
+  },
+  {
+   "photo": "banco/cane-corso/cc_003.jpg",
+   "fy": 0.4,
+   "text": "Señal: hocico o pata hinchada",
+   "sub": "se rasca la cara, cojea o se lame una pata",
+   "size": 80,
+   "dur": 3.0
+  },
+  {
+   "photo": "banco/cane-corso/cc_010.jpg",
+   "fy": 0.5,
+   "text": "Qué hacer: aléjalo y revisa",
+   "sub": "si ves el aguijón, sácalo raspando con una tarjeta (sin apretar) + frío envuelto en paño",
+   "size": 78,
+   "dur": 3.4
+  },
+  {
+   "photo": "banco/cane-corso/cc_001.jpg",
+   "fy": 0.5,
+   "text": "URGENCIA: cara o cuello muy hinchados",
+   "sub": "le cuesta respirar, vomita, se decae o fueron varias picadas → veterinario YA",
+   "size": 78,
+   "dur": 3.4
+  },
+  {
+   "photo": "banco/cane-corso/cc_003.jpg",
+   "fit": "contain",
+   "text": "Dato TeamFS",
+   "sub": "Primavera = flores = abejas. Ojo dónde olfatea y nunca le des antialérgicos humanos sin indicación del veterinario.",
+   "size": 86,
+   "dur": 5.0,
+   "text_y": 1260
+  }
+ ],
+ "end": {
+  "title": "Síguenos: datos reales de molosos",
+  "sub": "Cane Corso KCC · American Bully ABKC",
+  "dur": 2.5
+ }
+}
