@@ -1,0 +1,65 @@
+{
+"slides": [
+{
+"type": "cover",
+"photo": "publicaciones/2026-11-07-1100-garrapatas-bully/drive_1f9QJWZsgpaNuhV_ca54UGz_YbRuLaTFF.jpg",
+"fy": 0.3,
+"kicker": "Educativo · American Bully",
+"title": "Garrapatas: la visita que nadie invitó",
+"title_size": 92,
+"subtitle": "Primavera en Chile = temporada alta. Lo que todo dueño de Bully debe saber",
+"cta": "Desliza →"
+},
+{
+"type": "point",
+"fy": 0.35,
+"label": "1 · Por qué importan",
+"headline": "No son solo un bicho feo",
+"body": "Pueden transmitir enfermedades como la ehrlichiosis y la babesiosis (la famosa \"fiebre de garrapata\") y, si son muchas, causar anemia.",
+"big": "?"
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_027.jpg",
+"fy": 0.6,
+"label": "2 · Dónde se esconden",
+"headline": "Sus escondites favoritos",
+"body": "Entre los dedos, orejas (por dentro y detrás), axilas, ingle, cuello bajo el collar y base de la cola."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_020.jpg",
+"fy": 0.45,
+"label": "3 · Revisión de 2 minutos",
+"headline": "Después de cada paseo por pasto o tierra",
+"body": "Pasa los dedos contra el pelo buscando \"porotitos\". En pelo claro se ven al tiro; en pelo oscuro, manda el tacto."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_028.jpg",
+"fy": 0.4,
+"label": "4 · Si encuentras una",
+"headline": "Nada de aplastar, alcohol, aceite ni fuego",
+"body": "Con pinza fina o sacagarrapatas, tómala desde la base, pegada a la piel, y tira parejo. Si no te atreves o queda un pedazo, ve al veterinario."
+},
+{
+"type": "point",
+"label": "Dato TeamFS",
+"big": "!",
+"headline": "Decaído, sin hambre o con encías pálidas = veterinario",
+"body": "También fiebre, sangrado de nariz o moretones. ¿Antiparasitario? El que indique tu veterinario según peso y edad, todo el año."
+},
+{
+"type": "cta",
+"photo": "banco/american-bully/bully_054.jpg",
+"fy": 0.4,
+"headline": "¿Tu Bully ya trajo \"souvenirs\" del parque?",
+"highlight": "Cuéntanos en comentarios",
+"bullets": [
+"Guarda este post para la revisión post-paseo",
+"Compártelo con quien sale al cerro con su perro",
+"Síguenos para más datos de molosos"
+]
+}
+]
+}

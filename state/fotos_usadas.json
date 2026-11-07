@@ -373,6 +373,11 @@
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_018.jpg": [
@@ -386,6 +391,11 @@
   {
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
    "portada": false
   }
  ],
@@ -413,12 +423,22 @@
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_028.jpg": [
   {
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
    "portada": false
   }
  ],
@@ -451,6 +471,11 @@
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-2030-manada-una-palabra",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_029.jpg": [
@@ -465,12 +490,22 @@
    "fecha": "2026-10-24",
    "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_027.jpg": [
   {
    "fecha": "2026-10-24",
    "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
    "portada": false
   }
  ],
@@ -856,6 +891,34 @@
     "titulo": "IMG_5888.jpg",
     "hora": "1500"
    }
+  ],
+  "1f9QJWZsgpaNuhV_ca54UGz_YbRuLaTFF": [
+   {
+    "fecha": "2026-11-07",
+    "titulo": "42543067-c871-42ca-93ac-ce63d1b66fce.jpg",
+    "hora": "1100"
+   }
+  ],
+  "1zi2CrpUxgJjApotCtHVaaPglBycUDSr5": [
+   {
+    "fecha": "2026-11-07",
+    "titulo": "b0c3d3a3-49a0-4d01-93fb-6bf6bcda62b7.JPG",
+    "hora": "1500"
+   }
+  ],
+  "1bFfwHKdpLbX2VWXX_jhlPjahXJVBWX68": [
+   {
+    "fecha": "2026-11-07",
+    "titulo": "e444fe2a-db0d-41de-81b0-de9a9480425e.JPG",
+    "hora": "2030"
+   }
+  ],
+  "1gi5QZQrAqna0Qn3eFNMEx_3v1K92T22v": [
+   {
+    "fecha": "2026-11-07",
+    "titulo": "IMG_2130.jpg",
+    "hora": "2030"
+   }
   ]
  },
  "banco/american-bully/bully_050.jpg": [
@@ -1079,6 +1142,27 @@
   {
    "fecha": "2026-11-06",
    "carpeta": "canva DAHaIf1_j3A (Guardianes cap 6 recap)",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-07-1100-garrapatas-bully/drive_1f9QJWZsgpaNuhV_ca54UGz_YbRuLaTFF.jpg": [
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-07-2030-mariah-navidad-bully/drive_1bFfwHKdpLbX2VWXX_jhlPjahXJVBWX68.jpg": [
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-07-2030-mariah-navidad-bully/drive_1gi5QZQrAqna0Qn3eFNMEx_3v1K92T22v.jpg": [
+  {
+   "fecha": "2026-11-07",
+   "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
    "portada": false
   }
  ]
