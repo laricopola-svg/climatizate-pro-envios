@@ -1,0 +1,118 @@
+{
+ "fecha": "2026-11-07",
+ "dia": "sábado (día impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "gmail": {
+  "messageId": "1a1b563b04eaf9ea",
+  "threadId": "1a1b563b04eaf9ea",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-07 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única (ayer carrusel)",
+  "20:30": "Reel (ayer carrusel IA)"
+ },
+ "tendencias_usadas": [
+  "It's Time / 'Mariah has defrosted' (inicio de noviembre, cuenta regresiva a Navidad; anijam.ai TikTok trends nov-2026) -> 20:30",
+  "Temporada: primavera en Chile, garrapatas -> 11:00",
+  "Humor cotidiano '¿quién pasea a quién?' + guía guardable -> 15:00"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Garrapatas: la visita que nadie invitó (por qué importan: ehrlichiosis/babesiosis, escondites, revisión 2 min, cómo sacar y qué NO hacer, señales -> veterinario, antiparasitario el que indique el vet)",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (5 fotos + 2 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1f9QJWZsgpaNuhV_ca54UGz_YbRuLaTFF (portada) + repo banco bully_027, 020, 028, 054 (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
+   "metricool": [
+    {
+     "id": 419806575,
+     "uuid": "8655560613597693939",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¿Quién pasea a quién? Paseo sin tirones en 4 pasos + Dato entrenar desde cachorro, sin collares de castigo",
+   "raza": "Cane Corso",
+   "formato": "imagen única",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1zi2CrpUxgJjApotCtHVaaPglBycUDSr5 (2 Cane Corso negros, no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-07-1500-paseo-sin-tirones-cane-corso",
+   "metricool": [
+    {
+     "id": 419806582,
+     "uuid": "7055959501233210530",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Mariah ya se descongeló: el Bully elige su adorno favorito (todos) + Dato árbol a prueba de perros (anclado, frágiles arriba, cables ocultos, sin chocolate; si traga algo -> veterinario)",
+   "raza": "American Bully",
+   "formato": "Reel 17,4 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1bFfwHKdpLbX2VWXX_jhlPjahXJVBWX68, 1gi5QZQrAqna0Qn3eFNMEx_3v1K92T22v + repo bully_048, 009, 012 (no nombrados)",
+   "audio": "IG: All I Want For Christmas Is You – Mariah Carey, audioId 203193731254034, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-7035846133626636020.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 419806725,
+     "uuid": "7855755874685438606",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 419806739,
+     "uuid": "-7710875568499506616",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded otra vez. Sin otros generadores IA en la sesión. Hoy NO hay pieza IA de la manada (incumple regla 'al menos 1 pieza IA/día'). Filtro cómic local con OpenCV probado sobre Corso negro: descartado (se perdía la cara)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin fotos de perros nuevas desde el 30-oct (solo Bolsa.png/Mochila.png del 2-nov, no son de perros). Se usaron 4 fotos del 30-oct aún no usadas."
+  },
+  {
+   "detalle": "Banco Bully: con la regla 14/30 días solo quedan ~7 fotos disponibles sin niños (009, 012, 020, 027, 028, 048, 054 -> todas usadas hoy salvo ninguna). Urge material nuevo."
+  }
+ ]
+}
