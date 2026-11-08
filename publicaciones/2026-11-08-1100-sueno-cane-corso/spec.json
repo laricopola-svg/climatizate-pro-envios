@@ -1,0 +1,60 @@
+{
+ "clips": [
+  {
+   "photo": "publicaciones/2026-11-08-1100-sueno-cane-corso/src_1YvbamAzco.jpg",
+   "fx": 0.3,
+   "fy": 0.5,
+   "text": "POV: tu Cane Corso duerme 14 horas al día",
+   "sub": "(y tú, con suerte, 6)",
+   "size": 88,
+   "dur": 2.8,
+   "text_y": 1250
+  },
+  {
+   "photo": "publicaciones/2026-11-08-1100-sueno-cane-corso/src_1t4WTu54o-.jpg",
+   "fx": 0.95,
+   "fy": 0.5,
+   "text": "¿Flojo? No: es normal",
+   "sub": "Adulto: 12 a 14 h de sueño y descanso. Cachorro: hasta 18 a 20 h",
+   "size": 84,
+   "dur": 3.4,
+   "fit": "contain",
+   "text_y": 1330
+  },
+  {
+   "photo": "publicaciones/2026-11-08-1100-sueno-cane-corso/src_1YvbamAzco.jpg",
+   "fx": 0.6,
+   "fy": 0.9,
+   "text": "Molosos = siestas XL",
+   "sub": "Un cuerpo de 50+ kg recupera energía durmiendo. Las siestas también son entrenamiento",
+   "size": 84,
+   "dur": 3.2,
+   "text_y": 1350
+  },
+  {
+   "photo": "publicaciones/2026-11-08-1100-sueno-cane-corso/src_1t4WTu54o-.jpg",
+   "fx": 0.95,
+   "fy": 0.85,
+   "text": "Ojo si cambia de golpe",
+   "sub": "Duerme mucho más, le cuesta levantarse, ronca o respira raro, o no descansa de noche → consulta a tu veterinario",
+   "size": 78,
+   "dur": 3.8,
+   "fit": "contain",
+   "text_y": 1300
+  },
+  {
+   "photo": "publicaciones/2026-11-08-1100-sueno-cane-corso/src_1YvbamAzco.jpg",
+   "fit": "contain",
+   "text": "Dato TeamFS",
+   "sub": "Cachorro con sueño = cachorro mordedor. Respeta sus siestas (y que nadie lo despierte para jugar).",
+   "size": 86,
+   "dur": 4.6,
+   "text_y": 1300
+  }
+ ],
+ "end": {
+  "title": "Síguenos: datos reales de molosos",
+  "sub": "Cane Corso KCC · American Bully ABKC",
+  "dur": 2.5
+ }
+}
