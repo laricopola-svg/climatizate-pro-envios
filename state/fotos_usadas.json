@@ -1165,5 +1165,45 @@
    "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
    "portada": false
   }
+ ],
+ "publicaciones/2026-11-08-1100-sueno-cane-corso/src_1YvbamAzco.jpg": [
+  {
+   "fecha": "2026-11-08",
+   "carpeta": "publicaciones/2026-11-08-1100-sueno-cane-corso",
+   "portada": true,
+   "drive_id": "1YvbamAzcosvmVW6ETefdjVlJVN7wRuqm"
+  }
+ ],
+ "publicaciones/2026-11-08-1100-sueno-cane-corso/src_1t4WTu54o-.jpg": [
+  {
+   "fecha": "2026-11-08",
+   "carpeta": "publicaciones/2026-11-08-1100-sueno-cane-corso",
+   "portada": false,
+   "drive_id": "1t4WTu54o-V-iUZdNHjZnC9bwMnIFW3BM"
+  }
+ ],
+ "publicaciones/2026-11-08-1500-unas-sin-drama-bully/src_1gdIOqqM7c.jpg": [
+  {
+   "fecha": "2026-11-08",
+   "carpeta": "publicaciones/2026-11-08-1500-unas-sin-drama-bully",
+   "portada": true,
+   "drive_id": "1gdIOqqM7cmHXBJDXncW9Dj3bRLuG8R1O"
+  }
+ ],
+ "publicaciones/2026-11-08-1500-unas-sin-drama-bully/src_1NqgRaujLh.jpg": [
+  {
+   "fecha": "2026-11-08",
+   "carpeta": "publicaciones/2026-11-08-1500-unas-sin-drama-bully",
+   "portada": false,
+   "drive_id": "1NqgRaujLhVJJavx7N55quh3mDrKqy7TI"
+  }
+ ],
+ "publicaciones/2026-11-08-1500-unas-sin-drama-bully/src_1OgC2SuWMe.jpg": [
+  {
+   "fecha": "2026-11-08",
+   "carpeta": "publicaciones/2026-11-08-1500-unas-sin-drama-bully",
+   "portada": false,
+   "drive_id": "1OgC2SuWMeuyUKFJL-LoNh8NwluXAI13a"
+  }
  ]
 }

@@ -1,0 +1,128 @@
+{
+ "fecha": "2026-11-08",
+ "dia": "domingo (día par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "gmail": {
+  "messageId": "1a1ba8bab8097664",
+  "threadId": "1a1ba8bab8097664",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-08 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única)",
+  "20:30": "carrusel IA cómic (ayer Reel)"
+ },
+ "tendencias_usadas": [
+  "Perrinovelas con IA (perrita Kanini, cronica.com.mx 24-oct-2026) -> 20:30",
+  "Formato POV + audio Dame Hombro (que.es trends nov-2026) -> 11:00",
+  "Instructivo guardable con humor 'teleserie' -> 15:00"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso duerme 14 horas al día – sueño normal (adulto 12-14 h, cachorro 18-20 h), señales de cambio -> veterinario + Dato cachorro con sueño = mordedor",
+   "raza": "Cane Corso",
+   "formato": "Reel 18,5 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1YvbamAzcosvmVW6ETefdjVlJVN7wRuqm (IMG_5077) + 1t4WTu54o-V-iUZdNHjZnC9bwMnIFW3BM (IMG_7754), no nombrados",
+   "audio": "IG: Dame Hombro – Bulin 47, Kevin Wai, Breyco En Producidera, audioId 878191945283147, audio 100/video 0 (Housewife sin coincidencia exacta); FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-08-1100-sueno-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-11078184498043070618.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 420601838,
+     "uuid": "-558368272983898269",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 420601848,
+     "uuid": "8303183011794340383",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Uñas sin drama: cortar uñas al Bully en 4 pasos (patas, herramienta, corte de a milímetros, si sangra -> hemostático/vet) + Dato tac-tac en el piso",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (3 fotos + 4 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1gdIOqqM7cmHXBJDXncW9Dj3bRLuG8R1O (portada), 1NqgRaujLhVJJavx7N55quh3mDrKqy7TI, 1OgC2SuWMeuyUKFJL-LoNh8NwluXAI13a (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-08-1500-unas-sin-drama-bully",
+   "metricool": [
+    {
+     "id": 420601860,
+     "uuid": "-7814562668204177300",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Los Guardianes TeamFS T2 Cap. 1: Perrinovela 'Corazón de Sillón' (Queen villana con bigote vs Ragnar) + Dato sillón no es dominancia, reglas claras; CTA comenta PERRINOVELA",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva MAHZwbedLFc (Queen bigote) + MAHZqeEaBw0 (Ragnar/Kopito), reutilizadas",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-08-2030-guardianes-t2-perrinovela",
+   "canva": "https://www.canva.com/d/riAxHQvd8DwRqb7 (diseño DAHaUdAXWWk, copia de DAHaIf1_j3A cap. 6)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-15374832049152974932.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-7474688687836688634.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-8028585800541520775.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-2707721155721608329.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 420601874,
+     "uuid": "383058946497465100",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded otra vez. Sin otros generadores IA. Pieza IA del día hecha reutilizando arte IA existente en Canva."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 2-nov. Se revisaron por primera vez los HEIC del 30-oct (convertidos con pillow-heif): usados 5. Quedan IMG_4444 (cachorro merle con niño visible) e IMG_4461 (mismo cachorro, similar a IMG_4462), *_n.jpg y .MOV > 10 MB."
+  },
+  {
+   "detalle": "Banco Cane Corso: las 11 fotos usadas entre el 4 y 6-nov; hoy solo fotos de Drive. Urge material nuevo de Cane Corso."
+  },
+  {
+   "detalle": "static.metricool.com y export-download.canva.com bloqueados por el proxy de la sesión (no se pueden descargar localmente); Metricool sí copió las URLs."
+  }
+ ]
+}
