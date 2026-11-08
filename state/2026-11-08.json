@@ -34,7 +34,7 @@
    ],
    "metricool": [
     {
-     "id": 420601838,
+     "id": 420687517,
      "uuid": "-558368272983898269",
      "redes": [
       "instagram",
@@ -42,7 +42,7 @@
      ]
     },
     {
-     "id": 420601848,
+     "id": 420687527,
      "uuid": "8303183011794340383",
      "redes": [
       "tiktok"
@@ -50,7 +50,7 @@
      "autoPublish": false
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 2,
@@ -65,7 +65,7 @@
    "carpeta": "publicaciones/2026-11-08-1500-unas-sin-drama-bully",
    "metricool": [
     {
-     "id": 420601860,
+     "id": 420687539,
      "uuid": "-7814562668204177300",
      "redes": [
       "facebook",
@@ -74,7 +74,7 @@
      ]
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -96,7 +96,7 @@
    ],
    "metricool": [
     {
-     "id": 420601874,
+     "id": 420687554,
      "uuid": "383058946497465100",
      "redes": [
       "facebook",
@@ -105,7 +105,7 @@
      ]
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "incidencias": [
@@ -133,6 +133,10 @@
   {
    "hora": "2026-11-08T08:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje). Sin cambios."
+  },
+  {
+   "hora": "2026-11-08T09:06-03:00",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (msg 1a1bb0b052c6c3e5, 09:03 -03). Aprobadas las 3: draft:false en Metricool sin cambiar contenido ni horas (11:00, 15:00, 20:30). Nuevos ids: 420687517 (IG+FB), 420687527 (TikTok, autoPublish false = notificación a la app), 420687539, 420687554. Estado 'programada'."
   }
  ]
 }
