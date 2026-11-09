@@ -1,0 +1,128 @@
+{
+ "fecha": "2026-11-09",
+ "dia": "lunes (día impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "gmail": {
+  "messageId": "1a1bfb05abd6bb98",
+  "threadId": "1a1bfb05abd6bb98",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-09 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única (ayer carrusel)",
+  "20:30": "Reel (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Alerta veterinaria por aumento de distemper en Chile (g5noticias, sep-2026) -> 11:00",
+  "Humor cotidiano 'el baño como tragedia griega' + instructivo guardable -> 15:00",
+  "Perrinovelas/micronovelas de animales con IA + cuenta regresiva a Navidad -> 20:30"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Distemper (moquillo): qué es, señales, cachorros sin esquema completo, vacuna/refuerzos según veterinario + Dato exige carnet al comprar cachorro",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1LqDKrt3Vz1WIVGM_xQY_zxPyXHTzyIDp (portada), 1AqXwMSDg-tWDjgqnOD4w0XDU-q4gyo0l, 1CAmHnbrfDefpH2Cb8UfftaZ1lZWn1EOR, 1ZymQeLzyu8mybu-F4sDS7u-DpSHMKGNh (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-09-1100-distemper-vacunas-bully",
+   "metricool": [
+    {
+     "id": 421566679,
+     "uuid": "7761160195414445503",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Dijiste baño y empezó la tragedia griega: baño del Cane Corso en 4 actos + Dato frecuencia según piel / picazón -> veterinario",
+   "raza": "Cane Corso",
+   "formato": "imagen única",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1rawRHXbQ85UAvRgxXGv4u3IXKovDzDXA (IMG_2815, cachorro CC negro, no nombrado)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-09-1500-bano-tragedia-cane-corso",
+   "metricool": [
+    {
+     "id": 421566695,
+     "uuid": "-2999217857450653462",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS Cap. 2 'Corazón de Sillón': Queen villana / Ragnar y Bella Plan B Navidad / giro Kopito se adueña del árbol + Dato foto navideña sin estrés; CTA comenta PERRINOVELA, síguenos cap. 3",
+   "raza": "American Bully + Cane Corso (manada)",
+   "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva MAHZSfTgfwk, MAHZqeEaBw0, MAHZqbGXSAY (reutilizadas)",
+   "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0 (Sound of Silence CYRIL y Die With A Smile sin versión music); FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-09-2030-perrinovela-cap2-reel",
+   "canva": "https://www.canva.com/d/JHVfcEeBPdVGXOX (diseño DAHaaSVr_H8, copia de DAHZqcujocA)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-14405655171271247392.mp4"
+   ],
+   "portada_metricool": "https://static.metricool.com/planner/202611/7540297-file-5500286865866176032.jpeg",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 2
+   },
+   "metricool": [
+    {
+     "id": 421567980,
+     "uuid": "2373568928550766225",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 421567478,
+     "uuid": "-1640556819336049715",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded otra vez. Sin otros generadores IA (create-video requiere aprobación explícita del dueño). Pieza IA hecha con arte IA existente."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 2-nov. Usadas 5 fotos del 30-oct aún sin usar. Descartadas: IMG_4457 (cachorro merle con orejas teñidas/en curación), 92dae508 (2 CC jóvenes, disponible para próximos días). Videos .MOV (36 y 55 MB) siguen > límite de descarga 10 MB."
+  },
+  {
+   "detalle": "Audios top IG de la semana (Sound of Silence CYRIL Remix, Die With A Smile) solo como original_sound en catálogo API; se usó Ramalama."
+  },
+  {
+   "detalle": "export-download.canva.com bloqueado por el proxy; portada del Reel obtenida vía videoThumbnailUrl de Metricool."
+  }
+ ],
+ "revisiones": []
+}

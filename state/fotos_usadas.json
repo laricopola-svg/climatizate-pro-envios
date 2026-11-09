@@ -919,6 +919,41 @@
     "titulo": "IMG_2130.jpg",
     "hora": "2030"
    }
+  ],
+  "1LqDKrt3Vz1WIVGM_xQY_zxPyXHTzyIDp": [
+   {
+    "fecha": "2026-11-09",
+    "titulo": "IMG_5294.heic",
+    "hora": "1100"
+   }
+  ],
+  "1AqXwMSDg-tWDjgqnOD4w0XDU-q4gyo0l": [
+   {
+    "fecha": "2026-11-09",
+    "titulo": "24b4a395-77b9-4428-aa7d-f16cdf957992.JPG",
+    "hora": "1100"
+   }
+  ],
+  "1CAmHnbrfDefpH2Cb8UfftaZ1lZWn1EOR": [
+   {
+    "fecha": "2026-11-09",
+    "titulo": "65e1144f-9313-4051-9d88-d746727f3a2d.JPG",
+    "hora": "1100"
+   }
+  ],
+  "1ZymQeLzyu8mybu-F4sDS7u-DpSHMKGNh": [
+   {
+    "fecha": "2026-11-09",
+    "titulo": "IMG_5979.heic",
+    "hora": "1100"
+   }
+  ],
+  "1rawRHXbQ85UAvRgxXGv4u3IXKovDzDXA": [
+   {
+    "fecha": "2026-11-09",
+    "titulo": "IMG_2815.jpg",
+    "hora": "1500"
+   }
   ]
  },
  "banco/american-bully/bully_050.jpg": [
@@ -1136,12 +1171,22 @@
    "fecha": "2026-11-06",
    "carpeta": "canva DAHaIf1_j3A (Guardianes cap 6 recap)",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-09",
+   "carpeta": "canva DAHaaSVr_H8 (Perrinovela cap 2 Reel)",
+   "portada": true
   }
  ],
  "canva:MAHZqeEaBw0": [
   {
    "fecha": "2026-11-06",
    "carpeta": "canva DAHaIf1_j3A (Guardianes cap 6 recap)",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-09",
+   "carpeta": "canva DAHaaSVr_H8 (Perrinovela cap 2 Reel)",
    "portada": false
   }
  ],
@@ -1204,6 +1249,41 @@
    "carpeta": "publicaciones/2026-11-08-1500-unas-sin-drama-bully",
    "portada": false,
    "drive_id": "1OgC2SuWMeuyUKFJL-LoNh8NwluXAI13a"
+  }
+ ],
+ "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1LqDKrt3Vz1WIVGM_xQY_zxPyXHTzyIDp.jpg": [
+  {
+   "fecha": "2026-11-09",
+   "carpeta": "publicaciones/2026-11-09-1100-distemper-vacunas-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1AqXwMSDg-tWDjgqnOD4w0XDU-q4gyo0l.jpg": [
+  {
+   "fecha": "2026-11-09",
+   "carpeta": "publicaciones/2026-11-09-1100-distemper-vacunas-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1CAmHnbrfDefpH2Cb8UfftaZ1lZWn1EOR.jpg": [
+  {
+   "fecha": "2026-11-09",
+   "carpeta": "publicaciones/2026-11-09-1100-distemper-vacunas-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1ZymQeLzyu8mybu-F4sDS7u-DpSHMKGNh.jpg": [
+  {
+   "fecha": "2026-11-09",
+   "carpeta": "publicaciones/2026-11-09-1100-distemper-vacunas-bully",
+   "portada": false
+  }
+ ],
+ "canva:MAHZqbGXSAY": [
+  {
+   "fecha": "2026-11-09",
+   "carpeta": "canva DAHaaSVr_H8 (Perrinovela cap 2 Reel)",
+   "portada": false
   }
  ]
 }
