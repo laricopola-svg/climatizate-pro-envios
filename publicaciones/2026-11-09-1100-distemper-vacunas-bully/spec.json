@@ -1,0 +1,65 @@
+{
+ "slides": [
+  {
+   "type": "cover",
+   "photo": "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1LqDKrt3Vz1WIVGM_xQY_zxPyXHTzyIDp.jpg",
+   "fy": 0.3,
+   "kicker": "Educativo · American Bully",
+   "title": "Distemper: el enemigo que se previene",
+   "title_size": 78,
+   "subtitle": "Veterinarios en Chile alertan más casos. ¿Tu Bully está al día?",
+   "cta": "Desliza →"
+  },
+  {
+   "type": "point",
+   "fy": 0.35,
+   "label": "1 · Qué es",
+   "headline": "El famoso \"moquillo\"",
+   "body": "Una enfermedad viral muy contagiosa que puede afectar respiración, digestión y sistema nervioso. No es un resfrío cualquiera.",
+   "big": "?"
+  },
+  {
+   "type": "point",
+   "photo": "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1AqXwMSDg-tWDjgqnOD4w0XDU-q4gyo0l.jpg",
+   "fy": 0.45,
+   "label": "2 · Señales de alerta",
+   "headline": "Mocos, lagañas y cero ganas",
+   "body": "Secreción en nariz u ojos, tos, fiebre, decaimiento, vómitos o diarrea. Más adelante: temblores o tics. Ante cualquiera, veterinario al tiro."
+  },
+  {
+   "type": "point",
+   "fy": 0.35,
+   "label": "3 · Los más expuestos",
+   "headline": "Cachorros sin su esquema completo",
+   "body": "Hasta que el veterinario dé el OK, nada de plazas, pipicanes ni perros desconocidos. Que socialice, sí, pero en lugares controlados.",
+   "big": "3"
+  },
+  {
+   "type": "point",
+   "photo": "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1CAmHnbrfDefpH2Cb8UfftaZ1lZWn1EOR.jpg",
+   "fy": 0.4,
+   "label": "4 · La prevención",
+   "headline": "Vacuna y refuerzos al día",
+   "body": "El calendario lo define tu veterinario según edad e historial. Guarda el carnet y anota la fecha del próximo refuerzo."
+  },
+  {
+   "type": "point",
+   "label": "Dato TeamFS",
+   "big": "!",
+   "headline": "Al comprar un cachorro, exige el carnet",
+   "body": "Vacunas y desparasitaciones con fecha, timbre y firma del veterinario. Si el criadero no lo muestra, eso ya es una respuesta."
+  },
+  {
+   "type": "cta",
+   "photo": "publicaciones/2026-11-09-1100-distemper-vacunas-bully/drive_1ZymQeLzyu8mybu-F4sDS7u-DpSHMKGNh.jpg",
+   "fy": 0.4,
+   "headline": "¿Cuándo le toca el próximo refuerzo a tu Bully?",
+   "highlight": "Cuéntanos en comentarios",
+   "bullets": [
+    "Guarda este post para revisar el carnet",
+    "Compártelo con quien acaba de llegar con cachorro",
+    "Síguenos para más datos de molosos"
+   ]
+  }
+ ]
+}
