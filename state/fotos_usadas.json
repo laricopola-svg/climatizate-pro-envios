@@ -954,6 +954,42 @@
     "titulo": "IMG_2815.jpg",
     "hora": "1500"
    }
+  ],
+  "10pEBn_cYXii-9edCNPqY7-b9XTRGioLr": [
+   {
+    "fecha": "2026-11-10",
+    "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso"
+   }
+  ],
+  "1Tt9u-4u7kf-uyN0zQHuL1ZjIgVU6xAvR": [
+   {
+    "fecha": "2026-11-10",
+    "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso"
+   }
+  ],
+  "1f2npqWjXO3fugVUfNyszqjF2_7Aw8oEC": [
+   {
+    "fecha": "2026-11-10",
+    "carpeta": "publicaciones/2026-11-10-1500-arnes-bully"
+   }
+  ],
+  "1HkyiXMtQlL7mwotRV_zIW6AomF07bIsR": [
+   {
+    "fecha": "2026-11-10",
+    "carpeta": "publicaciones/2026-11-10-1500-arnes-bully"
+   }
+  ],
+  "1Blie_BRXW4H7vOCbjyRgjC5hqK7AvrDa": [
+   {
+    "fecha": "2026-11-10",
+    "carpeta": "publicaciones/2026-11-10-1500-arnes-bully"
+   }
+  ],
+  "1kHdRpYuA1w6F1ZOeGJ0tisR0TyKGHqat": [
+   {
+    "fecha": "2026-11-10",
+    "carpeta": "publicaciones/2026-11-10-1500-arnes-bully"
+   }
   ]
  },
  "banco/american-bully/bully_050.jpg": [
@@ -1283,6 +1319,63 @@
   {
    "fecha": "2026-11-09",
    "carpeta": "canva DAHaaSVr_H8 (Perrinovela cap 2 Reel)",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-10-1100-espigas-cane-corso/src_10pEBn_cYX.jpg": [
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso",
+   "portada": true
+  },
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-10-1100-espigas-cane-corso/src_1Tt9u-4u7k.jpg": [
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-10-1500-arnes-bully/src_1f2npqWjXO.jpg": [
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1500-arnes-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-10-1500-arnes-bully/src_1HkyiXMtQl.jpg": [
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1500-arnes-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-10-1500-arnes-bully/src_1Blie_BRXW.jpg": [
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1500-arnes-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-10-1500-arnes-bully/src_1kHdRpYuA1.jpg": [
+  {
+   "fecha": "2026-11-10",
+   "carpeta": "publicaciones/2026-11-10-1500-arnes-bully",
    "portada": false
   }
  ]
