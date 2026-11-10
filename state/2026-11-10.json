@@ -20,23 +20,25 @@
    ],
    "metricool": [
     {
-     "id": 422916950,
+     "id": 423000913,
      "uuid": "4140666858298625271",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 422916950
     },
     {
-     "id": 422916963,
+     "id": 423000925,
      "uuid": "-5278217629094428532",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 422916963
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 2,
@@ -51,16 +53,17 @@
    "carpeta": "publicaciones/2026-11-10-1500-arnes-bully",
    "metricool": [
     {
-     "id": 422917152,
+     "id": 423000938,
      "uuid": "-8879046699809879641",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 422917152
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -86,7 +89,7 @@
    ],
    "metricool": [
     {
-     "id": 422916526,
+     "id": 423000955,
      "uuid": "-4826527471382541084",
      "redes": [
       "facebook",
@@ -94,18 +97,23 @@
       "tiktok"
      ],
      "isAiGenerated": true,
-     "isAigc": true
+     "isAigc": true,
+     "id_anterior": 422916526
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "notas": "Drive: carpeta 1EGTcL1cwTIDYoQvz_ryFC1cRuXediasj (IMG_99xx/IMG_00xx) son instalaciones de aire acondicionado, no TeamFS: no usar. Video 1E-sSkOCc8G_XFDsYusqhUdicYnoX3up9 IMG_9909.mov (36 MB) no descargable con el conector (límite 10 MB). Fotos Drive nuevas aún libres: 1GlkonrrATF5usco-g8j6LIIZ0qm2pIM9, 1-0yPPJOmEYT0mQjdMMb_mvuFbl2ImCcs, 1OV5Rp1cuLM5Jm5rjpOKmgP3yagjTkZA7, 1kon6Apky_TrLMny2QcjLDe-mtuFoeKHg (mismo Bully merle), 1Xj0q9vSPRD6fsnYjkUvcC5vhuy5bQtA9 (2 perros durmiendo), 1PE5Z2BgnC0UQitOno8CMeD70uvMqXMyC (Bella 1). Canva generate-image quota_exceeded. Hoy también existen borradores del plan semanal (R1 golpe de calor IG/FB 21:15, TikTok 18:00): avisado en el correo.",
- "ultima_revision": "2026-11-10T07:05:27-0300",
+ "ultima_revision": "2026-11-10T08:06:00-0300",
  "revisiones": [
   {
    "hora": "2026-11-10T07:05:27-0300",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios."
+  },
+  {
+   "hora": "2026-11-10T08:06:00-0300",
+   "resultado": "Respuesta de fcosotog7@gmail.com 07:48 (msg 1a1c5131310fd73e): 'Ok' sin números -> aprobadas las 3. updateScheduledPost draft:false en Metricool, horas originales (11:00, 15:00, 20:30) sin cambio. Nuevos ids: 423000913 (IG/FB reel), 423000925 (TikTok reel, autoPublish false), 423000938 (carrusel arnés), 423000955 (perrinovela). Borradores del plan semanal R1 golpe de calor (421708967 IG/FB 21:15, 421710035 TikTok 18:00) se dejan como borrador: la respuesta no indicó qué hacer con ellos."
   }
  ]
 }
