@@ -1,0 +1,133 @@
+{
+ "fecha": "2026-11-11",
+ "dia": "miércoles (día impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a1c9fd53d7d42b4",
+ "messageId": "1a1c9fd53d7d42b4",
+ "correo": "fcosotog7@gmail.com",
+ "gmail": {
+  "messageId": "1a1c9fd53d7d42b4",
+  "threadId": "1a1c9fd53d7d42b4",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-11 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única (ayer carrusel)",
+  "20:30": "Reel (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "11.11 Día del Soltero / día de ofertas + campaña Colmevet contra compra/adopción impulsiva -> 20:30",
+  "Audio en tendencia 'Housewife' Tate McRae (POV con texto) -> 20:30",
+  "Formato test rápido guardable + humor 'modo empanada' -> 11:00",
+  "Humor cotidiano moloso (timbre/visitas) -> 15:00"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "¿Músculo o kilos de más? 3 pruebas de condición corporal del Bully (costillas, cintura, perfil/guata) + músculo≠grasa + Dato pesar 1 vez al mes / peso ideal según veterinario",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (5 fotos + 2 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive 1PE5Z2BgnC0UQitOno8CMeD70uvMqXMyC (Bella 1, portada); repo banco bully_013, bully_014, bully_001, bully_015 (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully",
+   "metricool": [
+    {
+     "id": 424195720,
+     "uuid": "-2039489698026536547",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Llegó visita: que tu Cane Corso no aterrice encima - saludo educado en 4 pasos + Dato 50 kg botan a un niño, se entrena desde cachorro",
+   "raza": "Cane Corso",
+   "formato": "imagen única (Canva)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZSTprTIk (generate-image quota_exceeded 11-nov)",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-11-1500-visitas-sin-saltar-cane-corso",
+   "canva": "https://www.canva.com/d/KLiRuan31uOgCch (diseño DAHamf_VPyI, copia de DAHZqReI1uM)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-6419661329374573329.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 424195732,
+     "uuid": "-7483425690904214389",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "11.11 Día del Soltero: estado sentimental de la manada (Ragnar plato, Bella cámara, Dakota es complicado, Krypto pelota, Kopito 7 meses zapatillas) + Dato no comprar cachorro por impulso/oferta (registro, padres, 10+ años)",
+   "raza": "American Bully (manada)",
+   "formato": "Reel 20,4 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real (fichas)",
+   "voz": false,
+   "fuente": "repo marca/fichas (ragnar_dakota, ragnar_poster, bella_poster, dakota_poster, krypto_vs_bella, kopito_poster, camada_abkc)",
+   "audio": "IG: Housewife – Tate McRae, audioId 1501269788724597, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-11056168033002742167.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 424195225,
+     "uuid": "-7995056350654739717",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 424195696,
+     "uuid": "9190953781236613483",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded. Sin otros generadores IA (create-video requiere aprobación explícita del dueño). Pieza IA hecha reutilizando arte IA existente."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 3-nov. Se usó Bella 1 (1PE5Z2BgnC0UQitOno8CMeD70uvMqXMyC). Libres aún: 1GlkonrrATF5usco-g8j6LIIZ0qm2pIM9, 1-0yPPJOmEYT0mQjdMMb_mvuFbl2ImCcs, 1OV5Rp1cuLM5Jm5rjpOKmgP3yagjTkZA7, 1kon6Apky_TrLMny2QcjLDe-mtuFoeKHg (Bully merle), 1Xj0q9vSPRD6fsnYjkUvcC5vhuy5bQtA9 (2 perros durmiendo), 92dae508 (2 CC jóvenes)."
+  },
+  {
+   "detalle": "Banco Bully: solo bully_040 libre como portada (30 días) y es en realidad un Cane Corso con niño; banco agotándose, pedido de fotos nuevas en el correo."
+  },
+  {
+   "detalle": "Borradores del plan semanal 'Vivir con un Bully' (421710072 IG/FB 21:15, 421710087 TikTok 18:00) siguen en borrador para hoy; consultado en el correo."
+  }
+ ],
+ "revisiones": []
+}
