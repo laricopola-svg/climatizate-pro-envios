@@ -202,6 +202,11 @@
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
+   "portada": true
   }
  ],
  "marca/fichas/ragnar_poster.jpg": [
@@ -224,6 +229,11 @@
    "fecha": "2026-11-05",
    "carpeta": "publicaciones/2026-11-05-2030-oido-selectivo-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
+   "portada": false
   }
  ],
  "marca/fichas/dakota_poster.jpg": [
@@ -240,6 +250,11 @@
   {
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
    "portada": false
   }
  ],
@@ -258,6 +273,11 @@
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
+   "portada": false
   }
  ],
  "marca/fichas/kopito_poster.jpg": [
@@ -275,6 +295,11 @@
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
+   "portada": false
   }
  ],
  "marca/fichas/krypto_vs_bella.jpg": [
@@ -291,6 +316,11 @@
   {
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
    "portada": false
   }
  ],
@@ -521,6 +551,11 @@
    "fecha": "2026-10-25",
    "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_014.jpg": [
@@ -528,12 +563,22 @@
    "fecha": "2026-10-25",
    "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_001.jpg": [
   {
    "fecha": "2026-10-25",
    "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully",
    "portada": false
   }
  ],
@@ -555,6 +600,11 @@
   {
    "fecha": "2026-10-25",
    "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully",
    "portada": false
   }
  ],
@@ -1151,6 +1201,11 @@
    "fecha": "2026-11-03",
    "carpeta": "publicaciones/2026-11-03-2030-manada-cargando",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-2030-dia-del-soltero-manada",
+   "portada": false
   }
  ],
  "publicaciones/2026-11-04-1100-codos-cane-corso/hook_diseno.jpg": [
@@ -1377,6 +1432,20 @@
    "fecha": "2026-11-10",
    "carpeta": "publicaciones/2026-11-10-1500-arnes-bully",
    "portada": false
+  }
+ ],
+ "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully/drive_1PE5Z2BgnC0UQitOno8CMeD70uvMqXMyC.jpg": [
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully",
+   "portada": true
+  }
+ ],
+ "canva:MAHZSTprTIk": [
+  {
+   "fecha": "2026-11-11",
+   "carpeta": "publicaciones/2026-11-11-1500-visitas-sin-saltar-cane-corso",
+   "portada": true
   }
  ]
 }

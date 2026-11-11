@@ -1,0 +1,68 @@
+{
+"slides": [
+{
+"type": "cover",
+"photo": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully/drive_1PE5Z2BgnC0UQitOno8CMeD70uvMqXMyC.jpg",
+"fy": 0.3,
+"kicker": "Educativo · American Bully",
+"title": "¿Músculo o kilos de más?",
+"title_size": 96,
+"subtitle": "3 pruebas de 1 minuto para saber si tu Bully está macizo… o está empanada",
+"cta": "Desliza →",
+"big": "3"
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_013.jpg",
+"fx": 0.5,
+"fy": 0.4,
+"label": "Prueba 1",
+"headline": "Costillas al tacto",
+"body": "Pasa las manos por el costado: debes sentir las costillas bajo una capa fina, como el dorso de tu mano. Si tienes que buscarlas como llaves en la cartera, hay kilos de más."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_014.jpg",
+"fx": 0.15,
+"fy": 0.4,
+"label": "Prueba 2",
+"headline": "Míralo desde arriba",
+"body": "Detrás de las costillas tiene que notarse una cintura. Si desde arriba se ve como tubo o barril, ojo."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_001.jpg",
+"fx": 0.5,
+"fy": 0.5,
+"label": "Prueba 3",
+"headline": "Perfil y guata",
+"body": "De lado, el abdomen sube hacia las patas traseras. Guata que cuelga o se balancea al caminar = alerta."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_015.jpg",
+"fx": 0.5,
+"fy": 0.3,
+"label": "Ojo",
+"headline": "Músculo ≠ grasa",
+"body": "El Bully es ancho por estructura: el músculo es firme y se marca al moverse. La grasa es blanda y se junta en cuello, base de la cola y guata."
+},
+{
+"type": "point",
+"label": "Dato TeamFS",
+"big": "!",
+"headline": "Los kilos extra se pagan",
+"body": "Cargan articulaciones, corazón y respiración (y con calor, peor). Pésalo una vez al mes, cuenta los premios dentro de la ración y pídele a tu veterinario su peso ideal antes de cambiar la dieta."
+},
+{
+"type": "cta",
+"headline": "¿Tu Bully es macizo o empanada?",
+"highlight": "Comenta MÚSCULO o EMPANADA",
+"bullets": [
+"Guarda este post para la próxima pesada",
+"Compártelo con el dueño del Bully más regalón",
+"Síguenos para más datos de molosos"
+]
+}
+]
+}
