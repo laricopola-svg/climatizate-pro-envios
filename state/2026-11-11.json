@@ -35,16 +35,18 @@
    "carpeta": "publicaciones/2026-11-11-1100-musculo-o-sobrepeso-bully",
    "metricool": [
     {
-     "id": 424195720,
+     "id": 424281392,
      "uuid": "-2039489698026536547",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 424195720
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-11T07:58:59-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com)"
   },
   {
    "n": 2,
@@ -64,7 +66,7 @@
    ],
    "metricool": [
     {
-     "id": 424195732,
+     "id": 424281414,
      "uuid": "-7483425690904214389",
      "redes": [
       "facebook",
@@ -72,10 +74,12 @@
       "tiktok"
      ],
      "isAiGenerated": true,
-     "isAigc": true
+     "isAigc": true,
+     "id_anterior": 424195732
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-11T07:58:59-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com)"
   },
   {
    "n": 3,
@@ -93,23 +97,26 @@
    ],
    "metricool": [
     {
-     "id": 424195225,
+     "id": 424281440,
      "uuid": "-7995056350654739717",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 424195225
     },
     {
-     "id": 424195696,
+     "id": 424281456,
      "uuid": "9190953781236613483",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 424195696
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-11T07:58:59-03:00 (respuesta \"Ok\" de fcosotog7@gmail.com)"
   }
  ],
  "incidencias": [
@@ -133,6 +140,10 @@
   {
    "hora": "2026-11-11T07:05-03:00",
    "resultado": "Sin respuestas de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta). Sin cambios."
+  },
+  {
+   "hora": "2026-11-11T08:06-03:00",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (msg 1a1ca4307fdc5828, 07:58). Aprobadas las 3: posts 424281392 (11:00), 424281414 (15:00), 424281440 IG/FB y 424281456 TikTok (20:30, autoPublish false) actualizados a draft:false manteniendo contenido y horarios. Borradores del plan semanal 421710072/421710087 NO se tocaron (el OK no los menciona; siguen en borrador)."
   }
  ]
 }
