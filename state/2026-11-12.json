@@ -38,23 +38,26 @@
    ],
    "metricool": [
     {
-     "id": 425453131,
+     "id": 425734067,
      "uuid": "-4977271354249625592",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 425453131
     },
     {
-     "id": 425453164,
+     "id": 425734103,
      "uuid": "7172019013994824645",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 425453164
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "hora_programada": "11:17"
   },
   {
    "n": 2,
@@ -69,16 +72,17 @@
    "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
    "metricool": [
     {
-     "id": 425452817,
+     "id": 425734134,
      "uuid": "-457690846792038883",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 425452817
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -104,7 +108,7 @@
    ],
    "metricool": [
     {
-     "id": 425452562,
+     "id": 425734169,
      "uuid": "-1076078040121258475",
      "redes": [
       "facebook",
@@ -112,10 +116,11 @@
       "tiktok"
      ],
      "isAiGenerated": true,
-     "isAigc": true
+     "isAigc": true,
+     "id_anterior": 425452562
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "incidencias": [
@@ -151,6 +156,17 @@
   {
    "hora": "2026-11-12T10:05:23-0300",
    "resultado": "Sin respuestas de fcosotog7@gmail.com en el hilo (1 mensaje, solo el enviado). Sin cambios."
+  },
+  {
+   "hora": "2026-11-12T11:06:00-0300",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (10:33). Aprobadas las 3: draft:false en Metricool (IDs nuevos 425734067, 425734103, 425734134, 425734169). Pub. 1 (11:00) ya pasada -> reprogramada a 11:17 (IG/FB y TikTok; TikTok autoPublish false = notificación a la app). Pub. 2 15:00 y Pub. 3 20:30 sin cambio de hora."
   }
- ]
+ ],
+ "aprobacion": {
+  "messageId": "1a1cff7083e9c61e",
+  "de": "fcosotog7@gmail.com",
+  "fecha": "2026-11-12T10:33:42-0300",
+  "texto": "Ok",
+  "interpretacion": "aprobar las 3"
+ }
 }
