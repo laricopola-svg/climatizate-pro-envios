@@ -1048,6 +1048,62 @@
     "titulo": "Bella 1.jpg",
     "portada": true
    }
+  ],
+  "1GlkonrrATF5usco-g8j6LIIZ0qm2pIM9": [
+   {
+    "fecha": "2026-11-12",
+    "titulo": "a5d0c2f2.JPG",
+    "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+    "portada": true
+   }
+  ],
+  "1jfoSafjcYDDKKVNitgf9ZABKRQC0A-Mp": [
+   {
+    "fecha": "2026-11-12",
+    "titulo": "IMG_4461.heic",
+    "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+    "portada": false
+   }
+  ],
+  "1IRVCQUhtU77sw9aOnWUt7FgBEx-0jgR4": [
+   {
+    "fecha": "2026-11-12",
+    "titulo": "835884285_n.jpg",
+    "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+    "portada": false
+   }
+  ],
+  "1IiqqNLchaq5mHMncCPjaCE_MeF-46Wwm": [
+   {
+    "fecha": "2026-11-12",
+    "titulo": "772713736_n.jpg",
+    "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+    "portada": false
+   }
+  ],
+  "1-0yPPJOmEYT0mQjdMMb_mvuFbl2ImCcs": [
+   {
+    "fecha": "2026-11-12",
+    "titulo": "1a0e8b37.JPG",
+    "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+    "portada": false
+   }
+  ],
+  "1j6d8HcrT4kT9r1snBqXslKfwjwVC9KtE": [
+   {
+    "fecha": "2026-11-12",
+    "titulo": "Camada Zeus y Queen.png (recortada sin rótulos)",
+    "carpeta": "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso",
+    "portada": true
+   }
+  ],
+  "1Xj0q9vSPRD6fsnYjkUvcC5vhuy5bQtA9": [
+   {
+    "fecha": "2026-11-12",
+    "titulo": "650c3c87.JPG (2 perros durmiendo)",
+    "carpeta": "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso",
+    "portada": false
+   }
   ]
  },
  "banco/american-bully/bully_050.jpg": [
@@ -1454,6 +1510,55 @@
    "fecha": "2026-11-11",
    "carpeta": "publicaciones/2026-11-11-1500-visitas-sin-saltar-cane-corso",
    "portada": true
+  }
+ ],
+ "publicaciones/2026-11-12-1500-pavimento-caliente-bully/drive_1GlkonrrATF5us.jpg": [
+  {
+   "fecha": "2026-11-12",
+   "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-12-1500-pavimento-caliente-bully/drive_1jfoSafjcYDDKK.jpg": [
+  {
+   "fecha": "2026-11-12",
+   "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-12-1500-pavimento-caliente-bully/drive_1IRVCQUhtU77sw.jpg": [
+  {
+   "fecha": "2026-11-12",
+   "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-12-1500-pavimento-caliente-bully/drive_1IiqqNLchaq5mH.jpg": [
+  {
+   "fecha": "2026-11-12",
+   "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-12-1500-pavimento-caliente-bully/drive_1-0yPPJOmEYT0m.jpg": [
+  {
+   "fecha": "2026-11-12",
+   "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso/drive_1j6d8HcrT4kT.jpg": [
+  {
+   "fecha": "2026-11-12",
+   "carpeta": "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso/drive_1Xj0q9vSPRD6.jpg": [
+  {
+   "fecha": "2026-11-12",
+   "carpeta": "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso",
+   "portada": false
   }
  ]
 }
