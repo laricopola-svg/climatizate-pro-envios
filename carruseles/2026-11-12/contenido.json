@@ -119,13 +119,12 @@
   },
   {
    "tipo": "foto",
-   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
-   "pos": "60% 0%",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": "60% 15%",
    "kicker": "Instalación real",
    "titulo": "Bien ubicado, 24 °C alcanzan",
    "texto": "En altura, nivelado y sin soplar directo a la cama: el aire llega a toda la pieza.",
-   "etiqueta": "Instalación real · Santiago",
-   "ajuste": "completa"
+   "etiqueta": "Instalación real · Santiago"
   },
   {
    "tipo": "lista",

@@ -1,0 +1,24 @@
+{
+ "tipo": "reel", "id": "2026-11-11", "fecha": "2026-11-11", "hora": "19:00",
+ "pilar": "Instalación real",
+ "tema": "Hoy 33 °C: 3 señales de que tu aire quedó bien instalado",
+ "audio_ig": "Sunshine (Instrumental) Twista",
+ "tiktok_title": "Hoy 33 °C en Santiago: 3 señales de que tu aire acondicionado quedó bien instalado",
+ "ia": true, "voz": true, "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Si gotea adentro o suena raro, pide una revisión técnica.",
+ "primer_comentario": "📲 ¿Tu aire no pasa las 3 señales o aún no tienes? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.62, 0.2], "chip": "Hoy 33 °C en Santiago", "titulo": "3 señales de una buena instalación", "sub": "La 3 casi nadie la mira.", "voz": "Treinta y tres grados hoy… mira tu aire, tres señales.", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg", "pos": [0.5, 0.25], "chip": "1 · Nivelado y en altura", "titulo": "Derecho y arriba", "sub": "Si queda chueco, el agua no escurre bien.", "voz": "Uno: ¿está derechito y arriba? Si no, gotea.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.66, 0.45], "chip": "2 · Recorrido ordenado", "titulo": "Nada colgando por el muro", "sub": "Canaleta y recorrido limpio.", "voz": "Dos: ¿se ven cables colgando por el muro?", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.9, 0.7], "chip": "3 · La unidad de afuera", "titulo": "Con aire alrededor", "sub": "Tapada o encerrada, trabaja forzada.", "voz": "Y tres, ojo… la unidad de afuera tiene que respirar.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg", "pos": [0.72, 0.3], "chip": "Así la dejamos", "titulo": "Ordenada y con garantía", "sub": "Terminaciones limpias y 6 meses de garantía de instalación.", "voz": "Así lo dejamos nosotros, con seis meses de garantía.", "zoom": "in"},
+  {"foto": null, "chip": "Climatízate Pro", "titulo": "¿Cuántas cumple el tuyo? Comenta 0, 1, 2 o 3", "sub": "O escríbenos AIRE al WhatsApp.", "voz": "¿Cuántas cumple el tuyo? Comenta el número… o escríbenos AIRE.", "zoom": "in"}
+ ],
+ "captions": {
+  "instagram": "Instalación de aire acondicionado: 3 señales de que el tuyo quedó bien 🔧\n\n1️⃣ Derechito y en altura\n2️⃣ Nada colgando por el muro\n3️⃣ La unidad de afuera con aire alrededor\n\n¿Cuántas cumple el tuyo? Comenta el número 👇\nMándaselo a quien está sufriendo los 33 °C de hoy 📲\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #Instalacion #Santiago #OlaDeCalor #ClimatízatePro",
+  "facebook": "Hoy Santiago llega a 33 °C ☀️ y es buen día para mirar tu aire. Tres señales de que quedó bien instalado:\n\n1. Está derechito y en altura: si queda chueco, el agua no escurre bien y puede gotear.\n2. No hay cables ni tubos colgando por el muro: recorrido ordenado, con canaleta.\n3. La unidad de afuera tiene aire alrededor: tapada o encerrada, trabaja forzada.\n\nAsí dejamos cada instalación: bien ubicada, recorrido ordenado, terminaciones limpias, tu espacio limpio y 6 meses de garantía de instalación. Todos nuestros equipos son Inverter frío/calor, y puedes ver cómo queda antes con el simulador de climatizatepro.cl.\n\n¿En qué comuna estás y cuántas cumple el tuyo? 👇\n\nSi gotea adentro o suena raro, pide una revisión técnica.\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Instalación de aire acondicionado en Santiago: 3 señales de que el tuyo quedó bien, hoy con 33 °C ☀️ Nivelado, recorrido ordenado y unidad de afuera con aire. Equipos Inverter frío/calor. ¿Cuántas cumple el tuyo? 👇 Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) #aireacondicionado #santiago #instalacion #oladecalor #climatizatepro"
+ }
+}

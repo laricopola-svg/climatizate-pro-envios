@@ -70,7 +70,7 @@ def fondo(sc):
     BW, BH = round(W * ZM), round(H * ZM)
     if sc.get("foto"):
         return encuadrar(sc["foto"], BW, BH, sc.get("pos"), sc.get("ajuste", "auto"), css=False,
-                         arriba=round(230 * ZM), alto_max=round(1150 * ZM))
+                         arriba=round(330 * ZM), alto_max=round(740 * ZM))
     # fondo de marca: degradado azul -> naranjo suave
     g = Image.new("RGB", (BW, BH))
     d = ImageDraw.Draw(g)
