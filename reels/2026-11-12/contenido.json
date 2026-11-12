@@ -1,0 +1,98 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-12",
+ "fecha": "2026-11-12",
+ "hora": "19:00",
+ "pilar": "Tips Midea",
+ "tema": "Tu Midea puede más #4: ¿cuánto gasta tu aire con 31 °C? 3 botones para saberlo y bajarlo",
+ "audio_ig": "Blue Moon Zara Larsson",
+ "tiktok_title": "¿Cuánto gasta tu aire acondicionado? 3 botones de tu Midea Airvolution para saberlo",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Funciones según modelo y control.",
+ "primer_comentario": "📲 ¿Quieres un Midea Airvolution bien instalado antes del verano? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.6,
+    0.0
+   ],
+   "chip": "Tu Midea puede más #4",
+   "titulo": "¿Cuánto gasta tu aire hoy?",
+   "sub": "3 botones para saberlo y bajarlo. El 3 casi nadie lo usa.",
+   "zoom": "in",
+   "dur": 3.0,
+   "voz": "¿Cuánto gasta tu aire hoy? Tu Midea te lo dice.",
+   "ajuste": "completa"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.66,
+    0.3
+   ],
+   "chip": "1 · App WiFi",
+   "titulo": "Mira el consumo en el celular",
+   "sub": "Con WiFi ves cuánta energía está usando.",
+   "zoom": "out",
+   "dur": 2.8,
+   "voz": "Uno: en la app WiFi ves cuánto consume, en el celu."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": [
+    0.6,
+    0.1
+   ],
+   "chip": "2 · ECO+",
+   "titulo": "Un botón para gastar menos",
+   "sub": "Ajusta su funcionamiento para ahorrar energía.",
+   "zoom": "in",
+   "dur": 2.8,
+   "voz": "Dos: ¿subió harto? Activa ECO+ y gasta menos."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.35,
+    0.3
+   ],
+   "chip": "3 · Timer",
+   "titulo": "Que se apague solo",
+   "sub": "Nada de dejarlo prendido toda la noche sin querer.",
+   "zoom": "out",
+   "dur": 2.8,
+   "voz": "Y tres, ojo… el Timer, que se apague solito."
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.55,
+    0.2
+   ],
+   "chip": "Así lo instalamos",
+   "titulo": "Bien ubicado, rinde más",
+   "sub": "Nivelado, en altura, recorrido ordenado y 6 meses de garantía de instalación.",
+   "zoom": "in",
+   "dur": 3.0,
+   "voz": "Y bien instalado, enfría más con menos."
+  },
+  {
+   "foto": null,
+   "chip": "Comenta el número",
+   "titulo": "¿Cuál pruebas hoy: 1, 2 o 3?",
+   "sub": "Escríbenos AIRE al WhatsApp y te ayudamos a cotizar tu Midea.",
+   "zoom": "out",
+   "dur": 3.2,
+   "voz": "¿Cuál pruebas hoy? Comenta el número… o escríbenos AIRE."
+  }
+ ],
+ "captions": {
+  "instagram": "Midea Airvolution: ¿cuánto gasta tu aire con 31 °C? 📲\n\n1️⃣ App WiFi: miras el consumo en el celular\n2️⃣ ECO+: gasta menos con un botón\n3️⃣ Timer: que se apague solo\n\n¿Cuál pruebas hoy? Comenta el número 👇\nMándaselo a quien tiene el aire prendido todo el día 😅\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n(Funciones según modelo y control.)\n\n#MideaAirvolution #AireAcondicionado #Santiago #CuentaDeLuz #ClimatízatePro",
+  "facebook": "Hoy Santiago anda por los 31 °C ☀️ y el aire no para. ¿Sabes cuánto está gastando el tuyo? Si tienes un Midea Airvolution, puedes saberlo y bajarlo con 3 botones:\n\n1. App WiFi: ves en el celular cuánta energía está usando.\n2. ECO+: ajusta su funcionamiento para gastar menos.\n3. Timer: se apaga solo, sin quedar prendido de más.\n\nY lo que más ayuda: que esté bien instalado. Lo dejamos nivelado, en altura, con recorrido ordenado, terminaciones limpias y 6 meses de garantía de instalación. Todos nuestros equipos son Inverter y climatizan todo el año.\n\n¿En qué comuna estás y cuál de los 3 vas a probar hoy? 👇\n\n(Funciones según modelo y control.)\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "¿Cuánto gasta tu aire acondicionado? 3 botones de tu Midea Airvolution para saberlo y bajarlo: app WiFi con consumo, ECO+ y Timer. Instalación de aire acondicionado en Santiago con Climatízate Pro. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). Funciones según modelo y control.\n\n#AireAcondicionado #MideaAirvolution #Santiago #CuentaDeLuz #Instalacion"
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "tema": "Hoy 31 °C: ¿a cuántos grados pongo el aire? La regla de los 24 °C y 5 claves para no disparar la cuenta",
+ "fecha": "2026-11-12",
+ "id": "2026-11-12",
+ "pilar": "Educativo (temperatura y ahorro)",
+ "primer_comentario": "📲 ¿Tu aire no enfría bien a 24 °C o aún no tienes? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Hoy 31 °C en Santiago",
+   "titulo": "¿A cuántos grados <span class=c>pongo el aire?</span>",
+   "texto": "La regla de los 24 °C y qué hacer si no alcanza. La 5 casi nadie la revisa. Guárdalo."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "La regla simple",
+   "titulo": "Por qué <span class=c>24 °C</span>",
+   "items": [
+    {
+     "icono": "24°",
+     "t": "Fresco sin congelarte",
+     "d": "Es la temperatura que recomiendan fabricantes y expertos en eficiencia para verano."
+    },
+    {
+     "icono": "↓",
+     "t": "Cada grado menos, más consumo",
+     "d": "Bajarlo de 24 °C hace que el equipo trabaje más rato para lograrlo.",
+     "calor": true
+    },
+    {
+     "icono": "16°",
+     "t": "Ponerlo a 16 °C no es un atajo",
+     "d": "Lo dejas trabajando al máximo más tiempo y la pieza queda helada."
+    },
+    {
+     "icono": "≈",
+     "t": "El Inverter mantiene parejo",
+     "d": "Una vez que llega a 24 °C, baja su ritmo y sostiene la temperatura."
+    }
+   ]
+  },
+  {
+   "tipo": "tabla",
+   "kicker": "Guárdalo para el verano",
+   "titulo": "¿Cuántos grados <span class=f>según el momento</span>?",
+   "filas": [
+    [
+     "Llegas y la casa está a 31&nbsp;°C",
+     "Turbo un rato y después 24&nbsp;°C"
+    ],
+    [
+     "Home office",
+     "24&nbsp;°C, sin chorro directo a ti"
+    ],
+    [
+     "De noche",
+     "24–25&nbsp;°C + Sleep + Timer"
+    ],
+    [
+     "Te vas todo el día",
+     "Apágalo o programa el Timer"
+    ]
+   ],
+   "nota": "Funciones según modelo y control."
+  },
+  {
+   "tipo": "versus",
+   "kicker": "El mismo día de calor",
+   "titulo": "¿Al mínimo o a <span class=c>24 °C</span>?",
+   "a": {
+    "t": "Al mínimo",
+    "xs": [
+     "Pieza helada y después a apagarlo",
+     "Trabaja más rato al máximo",
+     "Aire frío directo a la cara"
+    ]
+   },
+   "b": {
+    "t": "A 24 °C",
+    "xs": [
+     "Fresco parejo todo el día",
+     "Menos consumo que bajarlo más",
+     "El Inverter regula solito"
+    ]
+   }
+  },
+  {
+   "tipo": "lista",
+   "kicker": "¿A 24 °C no se siente fresco?",
+   "titulo": "Revisa estas <span class=f>5 cosas</span>",
+   "items": [
+    {
+     "icono": "1",
+     "t": "Puertas y ventanas",
+     "d": "Abiertas, el frío se escapa."
+    },
+    {
+     "icono": "2",
+     "t": "Filtros",
+     "d": "Con polvo, enfría con más esfuerzo. Lávalos."
+    },
+    {
+     "icono": "3",
+     "t": "Unidad de afuera",
+     "d": "Tapada, al sol directo o encerrada, trabaja forzada.",
+     "calor": true
+    },
+    {
+     "icono": "4",
+     "t": "Tamaño del equipo",
+     "d": "Pocos BTU para el espacio no alcanzan en días de calor."
+    },
+    {
+     "icono": "5",
+     "t": "Dónde quedó instalado",
+     "d": "Mal ubicado, el aire no llega a todo el espacio."
+    }
+   ]
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": "60% 0%",
+   "kicker": "Instalación real",
+   "titulo": "Bien ubicado, 24 °C alcanzan",
+   "texto": "En altura, nivelado y sin soplar directo a la cama: el aire llega a toda la pieza.",
+   "etiqueta": "Instalación real · Santiago",
+   "ajuste": "completa"
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Así lo instalamos",
+   "titulo": "Para que rinda <span class=c>y se vea bien</span>",
+   "items": [
+    {
+     "icono": "◎",
+     "t": "Míralo antes en el simulador",
+     "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."
+    },
+    {
+     "icono": "⌖",
+     "t": "Ubicado donde rinde",
+     "d": "El aire llega a todo el espacio y la unidad de afuera queda despejada."
+    },
+    {
+     "icono": "✓",
+     "t": "Terminaciones limpias",
+     "d": "Recorrido ordenado, con canaleta si hace falta, y tu espacio limpio al terminar."
+    },
+    {
+     "icono": "6m",
+     "t": "Garantía de instalación",
+     "d": "6 meses de garantía en la instalación."
+    }
+   ]
+  },
+  {
+   "tipo": "cta",
+   "kicker": "¿Tu aire no alcanza a 24 °C?",
+   "titulo": "Escríbenos <span class=f>AIRE</span> y lo vemos",
+   "texto": "Equipos Inverter que climatizan todo el año, Midea Airvolution entre otros, con instalación ordenada. WhatsApp +56 9 6190 7601.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "¿A cuántos grados pongo el aire acondicionado? La regla de los 24 °C 🌡️\n\nPor qué 24 °C, cuántos grados según el momento y 5 cosas que revisar si no alcanza. La 5 casi nadie la mira 👀\n\nGuárdalo ⭐ y mándaselo a quien lo pone a 16 °C 😅\n\nCotiza por WhatsApp: +56 9 6190 7601 (link en la bio)\n\n#AireAcondicionado #Santiago #CuentaDeLuz #OlaDeCalor #ClimatízatePro",
+  "facebook": "Hoy Santiago llega a 31 °C ☀️ y la pregunta de siempre: ¿a cuántos grados pongo el aire?\n\nLa regla simple es 24 °C. Es fresco sin congelarte, y cada grado que lo bajas lo hace trabajar más rato. Ponerlo a 16 °C no es un atajo: la pieza queda helada y gasta más. Un equipo Inverter, cuando llega a 24 °C, baja su ritmo y mantiene la temperatura pareja.\n\n¿Y si a 24 °C no se siente fresco? Revisa: puertas y ventanas, filtros, que la unidad de afuera no esté tapada, que el equipo tenga los BTU para el espacio y dónde quedó instalado.\n\nEso último lo cuidamos en cada instalación: ubicado donde rinde, recorrido ordenado, terminaciones limpias, tu espacio limpio y 6 meses de garantía de instalación. Y puedes ver cómo queda antes con el simulador de climatizatepro.cl.\n\n¿En qué comuna estás y a cuántos grados lo tienes hoy? 👇\n\nEscríbenos AIRE por WhatsApp: https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "¿A cuántos grados poner el aire acondicionado? La regla de los 24 °C para el calor en Santiago y 5 cosas que revisar si no enfría. Instalación de aire acondicionado Inverter en Santiago. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio).\n\n#AireAcondicionado #Santiago #CuentaDeLuz #Instalacion #TipsHogar",
+  "linkedin": "Con 31 °C en Santiago, la consulta más repetida en oficinas y hogares es a cuántos grados poner el aire acondicionado.\n\nLa regla práctica es 24 °C: es lo que recomiendan fabricantes y expertos en eficiencia, y cada grado por debajo hace que el equipo trabaje más rato. Si a esa temperatura el espacio no queda fresco, normalmente el problema no es el número, sino puertas abiertas, filtros sucios, una unidad exterior tapada, un equipo con pocos BTU o una mala ubicación.\n\nEn Climatízate Pro instalamos equipos Inverter cuidando justamente eso: ubicación, recorrido ordenado y terminaciones limpias, con 6 meses de garantía de instalación.\n\nCotiza: climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}
