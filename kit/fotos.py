@@ -1,6 +1,10 @@
 """Mejora fotos reales de instalaciones (luz, color, nitidez) sin alterar el contenido.
 
-Uso: python3 fotos.py entrada.jpg salida.jpg [foco_y 0-1] [foco_x 0-1]
+Uso recomendado (foto nueva del equipo):
+  python3 kit/fotos.py --hd fotos/originales/foto_XX.jpg fotos/hd/foto_XX.jpg
+  -> Real-ESRGAN x4 (kit/hd.py) + corrección de luz y color, sin recortar. Las láminas y los Reels
+     usan siempre fotos/hd/ y recortan cada formato sin deformar (kit/encuadre.py).
+Uso antiguo: python3 fotos.py entrada.jpg salida.jpg [foco_y 0-1] [foco_x 0-1]  (recorte 4:5 directo)
 - Balance de blancos suave (gray world parcial)
 - Exposición: niveles automáticos con recorte de 0,5% y gamma para levantar sombras
 - Color: saturación +8%, contraste local suave
@@ -12,7 +16,7 @@ import numpy as np
 from PIL import Image, ImageEnhance, ImageFilter, ImageOps
 
 
-def mejorar(im):
+def mejorar(im, hd=False):
     im = im.convert("RGB")
     a = np.asarray(im).astype(np.float32)
     # balance de blancos parcial (50%) hacia gris neutro
@@ -30,10 +34,11 @@ def mejorar(im):
     a = np.clip(a * np.array([1.02, 1.0, 0.98]), 0, 255)  # toque cálido y luminoso
     im = Image.fromarray(a.astype(np.uint8))
     im = im.filter(ImageFilter.MedianFilter(3)) if min(im.size) < 900 else im
-    im = im.filter(ImageFilter.UnsharpMask(radius=30, percent=22, threshold=0))  # claridad local
+    im = im.filter(ImageFilter.UnsharpMask(radius=60 if hd else 30, percent=18 if hd else 22, threshold=0))  # claridad local
     im = ImageEnhance.Color(im).enhance(1.14)
     im = ImageEnhance.Contrast(im).enhance(1.05)
-    im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=90, threshold=3))  # nitidez
+    # nitidez: la versión HD ya viene nítida de Real-ESRGAN; solo un toque fino para no crear halos
+    im = im.filter(ImageFilter.UnsharpMask(radius=1.2, percent=35, threshold=2) if hd else ImageFilter.UnsharpMask(radius=2, percent=90, threshold=3))
     return im
 
 
@@ -47,7 +52,28 @@ def recorte(im, W=1080, H=1350, fy=0.35, fx=0.5):
     return im.crop(box).resize((W, H), Image.LANCZOS)
 
 
+def version_hd(src, out, modelo="x4plus", lado=2600):
+    """Foto real -> versión HD profesional (misma escena, sin agregar ni borrar nada)."""
+    import os, tempfile
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from hd import hd
+    tmp = tempfile.mktemp(suffix=".jpg")
+    try:
+        hd(src, tmp, modelo, lado)
+        im = mejorar(Image.open(tmp), hd=True)
+    except Exception as e:  # sin PyTorch o sin red: al menos corrige luz/color a tamaño original
+        print(f"AVISO: sin mejora IA ({e}); se guarda solo con corrección de color", file=sys.stderr)
+        im = mejorar(ImageOps.exif_transpose(Image.open(src)))
+    finally:
+        if os.path.exists(tmp): os.remove(tmp)
+    im.save(out, quality=95, subsampling=0, optimize=True)
+    return im.size
+
+
 if __name__ == "__main__":
+    if sys.argv[1] == "--hd":
+        print(version_hd(sys.argv[2], sys.argv[3]))
+        sys.exit(0)
     src, out = sys.argv[1], sys.argv[2]
     fy = float(sys.argv[3]) if len(sys.argv) > 3 else 0.35
     fx = float(sys.argv[4]) if len(sys.argv) > 4 else 0.5

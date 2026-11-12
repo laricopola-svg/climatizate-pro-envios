@@ -17,3 +17,6 @@
 | foto_13 | Fachada de floristería con unidad exterior en altura |
 
 Uso en carruseles: lámina tipo `foto` en contenido.json, con "foto": ruta a la imagen y "pos": encuadre (CSS object-position).
+
+## Versión HD (desde 12-11-2026)
+`fotos/hd/foto_XX.jpg`: misma foto mejorada con Real-ESRGAN x4 (IA de super-resolución, sin agregar ni borrar objetos) + corrección de luz y color; lado menor ≥ 2600 px. El kit (`kit/encuadre.py`) la usa siempre en lugar de `mejoradas/` y recorta 4:5 y 9:16 con escala proporcional, sin estirar. Para una foto nueva: `python3 kit/fotos.py --hd fotos/originales/foto_XX.jpg fotos/hd/foto_XX.jpg`. Control final: `python3 kit/calidad.py <carpeta>`.

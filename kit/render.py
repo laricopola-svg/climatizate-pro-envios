@@ -7,9 +7,12 @@ Genera en salida/:
   linkedin.pdf            carrusel tipo documento para LinkedIn (láminas 4:5)
   textos.txt              texto de cada lámina + publicación por red, listo para copiar
 """
-import json, sys, base64, pathlib, re
+import json, sys, base64, pathlib, re, io
 from playwright.sync_api import sync_playwright
 from PIL import Image
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from encuadre import encuadrar
+FMT_H = 1350
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 try:
     from ilus import ILUS  # ilustraciones SVG (kit/ilus.py)
@@ -150,8 +153,12 @@ def slide(s, i, n):
         <div class=pts>{pts}</div>{pr}"""
     elif t == "foto":
         fp = (BASE / s["foto"]) if not pathlib.Path(s["foto"]).is_absolute() else pathlib.Path(s["foto"])
-        bg = "data:image/jpeg;base64," + base64.b64encode(fp.read_bytes()).decode()
-        pos = s.get("pos", "center")
+        # recorte exacto 1080 x alto del formato, sin deformar y desde la versión HD (kit/encuadre.py)
+        im = encuadrar(fp, 1080, FMT_H, s.get("pos", "center"), s.get("ajuste", "auto"), css=True,
+                       arriba=int(FMT_H * 0.11), alto_max=int(FMT_H * 0.52))
+        buf = io.BytesIO(); im.save(buf, "JPEG", quality=97, subsampling=0)
+        bg = "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
+        pos = "center"
         txt = ""
         if s.get("titulo") or s.get("texto"):
             txt = (f"<div class=k>{s.get('kicker','')}</div>" if s.get("kicker") else "") + \
@@ -212,6 +219,8 @@ def main(src, out):
         b = p.chromium.launch()
         for fmt, (h, pt, pb) in FORMATOS.items():
             pg = b.new_page(viewport={"width": 1080, "height": h})
+            global FMT_H
+            FMT_H = h
             for i, s in enumerate(data["slides"], 1):
                 doc = (f"<html><head><meta charset=utf-8><style>{CSS.replace('FONTS', FONTS)}"
                        f":root{{--h:{h}px;--pt:{pt}px;--pb:{pb}px}}</style></head><body>{slide(s, i, n)}</body></html>")

@@ -7,7 +7,8 @@ spec.json:
  "escenas": [
    {"foto": "/ruta/foto.jpg" | null, "pos": [0.5, 0.4],   # centro del encuadre (x,y 0-1)
     "titulo": "Texto grande (gancho o idea)", "sub": "texto secundario opcional",
-    "chip": "1 · ECO+" (opcional), "dur": 2.6, "zoom": "in" | "out"}
+    "chip": "1 · ECO+" (opcional), "dur": 2.6, "zoom": "in" | "out",
+    "ajuste": "auto" | "cubrir" | "completa"}   # completa = foto entera sobre fondo desenfocado
  ],
  "nota": "Funciones según modelo y control",   # letra chica opcional (última escena)
  "etiqueta": "Instalación real"   # etiqueta arriba a la derecha en escenas con foto (o "Imagen referencial" si es IA)
@@ -21,6 +22,8 @@ locución (+0,15 s de entrada y 0,4 s de respiro), aparecen subtítulos palabra 
 """
 import json, sys, subprocess, pathlib, math, re
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from encuadre import encuadrar
 
 ROOT = pathlib.Path(__file__).parent
 W, H, FPS = 1080, 1920, 30
@@ -59,14 +62,17 @@ def wrap(d, txt, f, maxw):
     return lines
 
 
+ZM = 1.12  # margen para el Ken Burns (zoom máx.)
+
+
 def fondo(sc):
+    """Base de la escena en proporción exacta 9:16 (W*ZM x H*ZM), sin deformar (ver kit/encuadre.py)."""
+    BW, BH = round(W * ZM), round(H * ZM)
     if sc.get("foto"):
-        im = Image.open(sc["foto"]).convert("RGB")
-        s = max(W / im.width, H / im.height) * 1.18  # margen para el zoom
-        im = im.resize((int(im.width * s), int(im.height * s)), Image.LANCZOS)
-        return im
+        return encuadrar(sc["foto"], BW, BH, sc.get("pos"), sc.get("ajuste", "auto"), css=False,
+                         arriba=round(230 * ZM), alto_max=round(1150 * ZM))
     # fondo de marca: degradado azul -> naranjo suave
-    g = Image.new("RGB", (int(W * 1.18), int(H * 1.18)))
+    g = Image.new("RGB", (BW, BH))
     d = ImageDraw.Draw(g)
     for y in range(g.height):
         t = y / g.height
@@ -77,14 +83,12 @@ def fondo(sc):
 
 
 def encuadre(bg, sc, p):
-    """Ken Burns: p de 0 a 1."""
-    z0, z1 = (1.0, 1.12) if sc.get("zoom", "in") == "in" else (1.12, 1.0)
+    """Ken Burns suave: recorte proporcional 9:16 desde la base (siempre reduce, nunca agranda ni deforma)."""
+    z0, z1 = (1.0, ZM) if sc.get("zoom", "in") == "in" else (ZM, 1.0)
     z = z0 + (z1 - z0) * (0.5 - 0.5 * math.cos(math.pi * p))
-    cw, ch = bg.width / 1.18 / z, bg.height / 1.18 / z
-    px, py = sc.get("pos", [0.5, 0.5])
-    x = min(max(px * bg.width - cw / 2, 0), bg.width - cw)
-    y = min(max(py * bg.height - ch / 2, 0), bg.height - ch)
-    return bg.crop((int(x), int(y), int(x + cw), int(y + ch))).resize((W, H), Image.BILINEAR)
+    cw, ch = bg.width / z, bg.height / z
+    x, y = (bg.width - cw) / 2, (bg.height - ch) / 2
+    return bg.resize((W, H), Image.LANCZOS, box=(x, y, x + cw, y + ch))
 
 
 def capa_texto(sc, idx, total, nota):
@@ -221,7 +225,7 @@ def mezclar_voz(out, esc, voz):
     (out / "reel.mp4").rename(tmp)
     r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(tmp), "-i", str(wav), "-filter_complex",
                         f"[1:a]volume={gan:.2f}dB,alimiter=limit=0.79:attack=5:release=50:level=false[a]",
-                        "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-shortest",
+                        "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest",
                         "-movflags", "+faststart", str(out / "reel.mp4")])
     wav.unlink(missing_ok=True)
     if r.returncode:
@@ -249,7 +253,8 @@ def main(spec_path, out):
     dur = total_frames / FPS
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
            "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=44100", "-t", f"{dur:.2f}",
-           "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p", "-profile:v", "high", "-movflags", "+faststart",
+           "-c:v", "libx264", "-preset", "slow", "-crf", "17", "-maxrate", "12M", "-bufsize", "24M", "-tune", "film", "-pix_fmt", "yuv420p",
+           "-profile:v", "high", "-level", "4.2", "-colorspace", "bt709", "-color_primaries", "bt709", "-color_trc", "bt709", "-movflags", "+faststart",
            "-c:a", "aac", "-b:a", "128k", "-shortest", str(out / "reel.mp4")]
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     for i, sc in enumerate(esc):
@@ -281,9 +286,9 @@ def main(spec_path, out):
             rgb = fr.convert("RGB")
             ff.stdin.write(rgb.tobytes())
             last = rgb
-        last.save(out / f"9x16_{i + 1:02d}.jpg", quality=92)
+        last.save(out / f"9x16_{i + 1:02d}.jpg", quality=95, subsampling=0)
         if i == 0:
-            last.save(out / "portada.jpg", quality=92)
+            last.save(out / "portada.jpg", quality=95, subsampling=0)
     ff.stdin.close()
     ff.wait()
     if ff.returncode:
