@@ -1,0 +1,139 @@
+{
+ "fecha": "2026-11-12",
+ "dia": "jueves",
+ "threadId": "1a1cf25c2871f463",
+ "messageId": "1a1cf25c2871f463",
+ "correo": "fcosotog7@gmail.com",
+ "gmail": {
+  "messageId": "1a1cf25c2871f463",
+  "threadId": "1a1cf25c2871f463",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-12 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única)",
+  "20:30": "carrusel IA cómic (ayer Reel)"
+ },
+ "tendencias_usadas": [
+  "Formato POV (Reels/TikTok) -> 11:00",
+  "Audio en tendencia Ramalama (Róisín Murphy, #2 Metricool Reels) -> 11:00; Coming Up Roses (Harry Styles) sin versión music en la API",
+  "Llegada del calor/verano en Chile + formato 'test rápido' guardable -> 15:00",
+  "Micronovelas de animales con IA (viral) + temporada de regalos navideños -> 20:30"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso se comió todo y salió a correr - torsión gástrica (qué es, señales de urgencia, cómo bajar el riesgo) + Dato emergencia -> veterinario de urgencia",
+   "raza": "Cane Corso",
+   "formato": "Reel 21,1 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS: 1j6d8HcrT4kT9r1snBqXslKfwjwVC9KtE (Camada Zeus y Queen, recortada sin rótulos), 1Xj0q9vSPRD6fsnYjkUvcC5vhuy5bQtA9 (2 perros durmiendo); no nombrados",
+   "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-7816700670416499470.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 425453131,
+     "uuid": "-4977271354249625592",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 425453164,
+     "uuid": "7172019013994824645",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "El test de los 5 segundos: proteger las patas del Bully del pavimento caliente en 4 pasos (test mano, horario, camino, almohadillas -> veterinario) + Dato 'ellos no reclaman'",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (5 fotos + 2 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS: 1GlkonrrATF5usco-g8j6LIIZ0qm2pIM9 (portada), 1jfoSafjcYDDKKVNitgf9ZABKRQC0A-Mp, 1IRVCQUhtU77sw9aOnWUt7FgBEx-0jgR4, 1IiqqNLchaq5mHMncCPjaCE_MeF-46Wwm, 1-0yPPJOmEYT0mQjdMMb_mvuFbl2ImCcs (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-12-1500-pavimento-caliente-bully",
+   "metricool": [
+    {
+     "id": 425452817,
+     "uuid": "-457690846792038883",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 4 'Corazón de Sillón': EL REGALO - Ragnar compra regalo a Queen, Kopito se lo come, ¿paz o guerra? + Dato juguetes seguros para molosos; CTA comenta PERRINOVELA, síguenos cap. 5",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada: MAHZwbedLFc (Queen bigote), MAHZqbGXSAY (Kopito navideña). generate-image quota_exceeded 12-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/m4-P8ysh0OLfFYw (diseño DAHasa3894A, copia de DAHagUJ0i7s)",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 4
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-7014219816332368366.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-14624039309592863739.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-911115965770973269.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-7949826614800207406.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 425452562,
+     "uuid": "-1076078040121258475",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded otra vez (12-nov). Pieza IA hecha reutilizando arte IA existente (copy-design + edit-design)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 3-nov. Videos .MOV 1k9Rxx9uAG1D5qJMpvFa9rCwskgdKMzUY (55 MB) e 1E-sSkOCc8G_XFDsYusqhUdicYnoX3up9 (36 MB) no descargables (límite 10 MB). Fotos Drive aún libres: 1OV5Rp1cuLM5Jm5rjpOKmgP3yagjTkZA7 y 1Tk60g5mdZUmIrL_2hibepCqXXlUUy1FA (mismo Bully que portada 15:00), 1i8LZVqWrMbmc9TeZGzSuwnPAozvyhJ_h y 1x76H1ms-BxmoEk6jKswrwb2HG5lkurXf (cachorro blanco merle, mismo de lámina 2)."
+  },
+  {
+   "detalle": "Audio 'Coming Up Roses' (Harry Styles) solo existe como original_sound en la API; se usó Ramalama."
+  },
+  {
+   "detalle": "Borradores del plan semanal hoy: 421710018 (IG/FB 21:15, Guardianes Ep.4 galletas) y 421710053 (TikTok 18:00) siguen en borrador; sugerido en el correo moverlos por choque con 20:30. No se tocaron."
+  }
+ ],
+ "revisiones": []
+}
