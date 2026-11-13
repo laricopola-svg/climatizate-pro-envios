@@ -55,16 +55,20 @@
    "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
    "metricool": [
     {
-     "id": 426728693,
+     "id": 427067562,
      "uuid": "3885653454355975757",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 426728693
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-13T10:20-03:00 (OK de fcosotog7@gmail.com)",
+   "hora_programada": "12:15",
+   "nota": "11:00 ya había pasado al aprobar; reprogramada a 12:15 (ahora+10 min)."
   },
   {
    "n": 2,
@@ -79,16 +83,18 @@
    "carpeta": "publicaciones/2026-11-13-1500-a-tu-lugar-cane-corso",
    "metricool": [
     {
-     "id": 426728703,
+     "id": 427067577,
      "uuid": "2406750473971385777",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 426728703
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-13T10:20-03:00 (OK de fcosotog7@gmail.com)"
   },
   {
    "n": 3,
@@ -112,25 +118,29 @@
    },
    "metricool": [
     {
-     "id": 426728741,
+     "id": 427067606,
      "uuid": "5627984362244948899",
      "redes": [
       "instagram",
       "facebook"
      ],
-     "isAiGenerated": true
+     "isAiGenerated": true,
+     "id_anterior": 426728741
     },
     {
-     "id": 426728908,
+     "id": 427067626,
      "uuid": "9024903680649021494",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
-     "isAigc": true
+     "isAigc": true,
+     "id_anterior": 426728908
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-13T10:20-03:00 (OK de fcosotog7@gmail.com)",
+   "nota": "TikTok (427067626) con autoPublish false: llega notificación push a la app de Metricool a las 20:30 para completar a mano."
   }
  ],
  "revisiones": [
@@ -153,6 +163,11 @@
   {
    "hora": "2026-11-13T11:20-03:00",
    "resultado": "No se pudo revisar: Gmail (503) y Metricool (timeout de conexión) no conectaron en esta ejecución (también Drive 503). No se leyó el hilo ni se tocaron borradores; las 3 siguen en borrador. OJO: la pieza 1 (11:00) ya pasó su hora; si llega aprobación se reprogramará a ahora+10 min."
+  },
+  {
+   "hora": "2026-11-13T12:05-03:00",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (13-nov 10:20, msg 1a1d5116127fc23f), sin números -> aprobadas las 3. Metricool draft:false en los 4 posts (nuevos ids 427067562, 427067577, 427067606, 427067626). Pieza 1 reprogramada 11:00 -> 12:15; pieza 2 15:00; pieza 3 20:30. Estado: programada."
   }
- ]
+ ],
+ "ultima_revision": "2026-11-13T12:05-03:00"
 }
