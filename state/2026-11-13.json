@@ -1,0 +1,131 @@
+{
+ "fecha": "2026-11-13",
+ "dia": "viernes 13 (día impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a1d448574aeb62a",
+ "messageId": "1a1d448574aeb62a",
+ "correo": "fcosotog7@gmail.com",
+ "gmail": {
+  "messageId": "1a1d448574aeb62a",
+  "threadId": "1a1d448574aeb62a",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-13 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única (ayer carrusel)",
+  "20:30": "Reel IA (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Primavera lluviosa en Chile y cuidado de mascotas (g5noticias 8-nov) -> 11:00 charcos/leptospirosis",
+  "Visitas y fiestas de fin de año + humor 50 kg en la puerta -> 15:00",
+  "Viernes 13 + micronovelas de animales con IA (Perrinovela) + mito del perro negro -> 20:30",
+  "Audio IG: Spooky Season (Reels Sound - Reveal), suspenso"
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (13-nov). Pieza IA hecha reutilizando arte IA existente (copy-design DAHaaSVr_H8 -> DAHayaABgG8 + edit-design + export mp4)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 3-nov. Usadas 1OV5Rp1cuLM5Jm5rjpOKmgP3yagjTkZA7 y 10pEBn_cYXii-9edCNPqY7-b9XTRGioLr. Descartada 1i8LZVqWrMbmc9TeZGzSuwnPAozvyhJ_h (IMG_4444.heic, cachorro con orejas en curación). Quedan libres: 1Tk60g5mdZUmIrL_2hibepCqXXlUUy1FA y 1x76H1ms-BxmoEk6jKswrwb2HG5lkurXf. Videos .MOV > 10 MB siguen sin poder descargarse."
+  },
+  {
+   "detalle": "static.metricool.com bloqueado por el proxy (no se pudo bajar el mp4); miniaturas del Reel = thumbnails de Canva subidas al repo."
+  }
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Después de la lluvia: ojo con los charcos - leptospirosis (qué es, contagio, señales -> veterinario, prevención) + Dato zoonosis; CTA comenta CHARCO",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (5 fotos + 2 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS 1OV5Rp1cuLM5Jm5rjpOKmgP3yagjTkZA7 (portada, recortada) + banco bully_006, bully_047, bully_045, bully_046 (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
+   "metricool": [
+    {
+     "id": 426728693,
+     "uuid": "3885653454355975757",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Llegó visita: ¡A TU LUGAR! en 4 pasos (lugar fijo, premio al apoyar 4 patas, sumar segundos/liberar con 'ya', distracciones, nunca castigo) + Dato calma",
+   "raza": "Cane Corso",
+   "formato": "imagen única",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS 10pEBn_cYXii-9edCNPqY7-b9XTRGioLr (92dae508.JPG, 2 Cane Corso jóvenes, no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-13-1500-a-tu-lugar-cane-corso",
+   "metricool": [
+    {
+     "id": 426728703,
+     "uuid": "2406750473971385777",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 5 'VIERNES 13': Queen sillón maldito / Ragnar y Bella Plan B amuletos / Kopito cree en las galletas + Dato mito perro negro = mala suerte (falso, la crianza define el carácter); CTA comenta PERRINOVELA, síguenos cap. 6",
+   "raza": "American Bully + Cane Corso (manada)",
+   "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZSfTgfwk, MAHZqeEaBw0, MAHZqbGXSAY",
+   "isAiGenerated": true,
+   "audio": "IG: Spooky Season (Reels Sound - Reveal) – Ethan Schreiber, audioId 795786439579832, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-13-2030-perrinovela-cap5-viernes13",
+   "canva": "https://www.canva.com/d/99OMrnynAVWltqZ (diseño DAHayaABgG8, copia de DAHaaSVr_H8)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-12831246448120671992.mp4"
+   ],
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 5
+   },
+   "metricool": [
+    {
+     "id": 426728741,
+     "uuid": "5627984362244948899",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "isAiGenerated": true
+    },
+    {
+     "id": 426728908,
+     "uuid": "9024903680649021494",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "isAigc": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "revisiones": []
+}
