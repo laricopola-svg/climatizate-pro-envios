@@ -33,6 +33,9 @@
   },
   {
    "detalle": "static.metricool.com bloqueado por el proxy (no se pudo bajar el mp4); miniaturas del Reel = thumbnails de Canva subidas al repo."
+  },
+  {
+   "detalle": "10:31 revisión horaria: Gmail CONNECT_TIMEOUT y Metricool 503 (también Canva/Drive caídos). Sin acceso a respuestas ni a Metricool."
   }
  ],
  "publicaciones": [
@@ -139,6 +142,10 @@
   {
    "hora": "2026-11-13T09:05-03:00",
    "resultado": "Sin respuestas de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta). Sin cambios; las 3 siguen en borrador."
+  },
+  {
+   "hora": "2026-11-13T10:31-03:00",
+   "resultado": "No se pudo revisar: los conectores Gmail (timeout de conexión) y Metricool (503) no conectaron en esta ejecución. No se leyó el hilo ni se tocaron borradores; las 3 siguen en borrador. Reintentar en la próxima revisión."
   }
  ]
 }
