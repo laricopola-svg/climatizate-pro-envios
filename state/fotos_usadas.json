@@ -635,12 +635,22 @@
    "fecha": "2026-10-26",
    "carpeta": "2026-10-26-1500-pavimento-patas-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_006.jpg": [
   {
    "fecha": "2026-10-26",
    "carpeta": "2026-10-26-1500-pavimento-patas-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
    "portada": false
   }
  ],
@@ -670,6 +680,11 @@
    "fecha": "2026-10-27",
    "carpeta": "publicaciones/2026-10-27-1100-golpe-calor-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_023.jpg": [
@@ -690,6 +705,11 @@
   {
    "fecha": "2026-10-27",
    "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
    "portada": false
   }
  ],
@@ -1009,6 +1029,12 @@
    {
     "fecha": "2026-11-10",
     "carpeta": "publicaciones/2026-11-10-1100-espigas-cane-corso"
+   },
+   {
+    "fecha": "2026-11-13",
+    "titulo": "92dae508.JPG",
+    "carpeta": "publicaciones/2026-11-13-1500-a-tu-lugar-cane-corso",
+    "portada": true
    }
   ],
   "1Tt9u-4u7kf-uyN0zQHuL1ZjIgVU6xAvR": [
@@ -1103,6 +1129,14 @@
     "titulo": "650c3c87.JPG (2 perros durmiendo)",
     "carpeta": "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso",
     "portada": false
+   }
+  ],
+  "1OV5Rp1cuLM5Jm5rjpOKmgP3yagjTkZA7": [
+   {
+    "fecha": "2026-11-13",
+    "titulo": "247f0956.JPG",
+    "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
+    "portada": true
    }
   ]
  },
@@ -1331,6 +1365,11 @@
    "fecha": "2026-11-09",
    "carpeta": "canva DAHaaSVr_H8 (Perrinovela cap 2 Reel)",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "canva DAHayaABgG8 (Perrinovela cap 5 Viernes 13 Reel)",
+   "portada": true
   }
  ],
  "canva:MAHZqeEaBw0": [
@@ -1342,6 +1381,11 @@
   {
    "fecha": "2026-11-09",
    "carpeta": "canva DAHaaSVr_H8 (Perrinovela cap 2 Reel)",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "canva DAHayaABgG8 (Perrinovela cap 5 Viernes 13 Reel)",
    "portada": false
   }
  ],
@@ -1438,6 +1482,11 @@
   {
    "fecha": "2026-11-09",
    "carpeta": "canva DAHaaSVr_H8 (Perrinovela cap 2 Reel)",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "canva DAHayaABgG8 (Perrinovela cap 5 Viernes 13 Reel)",
    "portada": false
   }
  ],
@@ -1559,6 +1608,20 @@
    "fecha": "2026-11-12",
    "carpeta": "publicaciones/2026-11-12-1100-torsion-gastrica-cane-corso",
    "portada": false
+  }
+ ],
+ "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully/drive_1OV5Rp1cuLM5.jpg": [
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-13-1500-a-tu-lugar-cane-corso/drive_10pEBn_cYXii-.jpg": [
+  {
+   "fecha": "2026-11-13",
+   "carpeta": "publicaciones/2026-11-13-1500-a-tu-lugar-cane-corso",
+   "portada": true
   }
  ]
 }

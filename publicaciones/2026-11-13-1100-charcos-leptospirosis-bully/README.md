@@ -1,0 +1,1 @@
+Carrusel 7 láminas – Después de la lluvia: charcos y leptospirosis (American Bully). Portada: foto Drive TeamFS 1OV5Rp1cuLM5Jm5rjpOKmgP3yagjTkZA7 (recortada); láminas 2-5 banco bully_006, 047, 045, 046. Descartada IMG_4444.heic (1i8LZVqWrMbmc9TeZGzSuwnPAozvyhJ_h): cachorro con orejas en curación.
