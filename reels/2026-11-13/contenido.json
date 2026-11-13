@@ -1,0 +1,83 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-13",
+  "fecha": "2026-11-13",
+  "hora": "19:00",
+  "pilar": "Venta suave (instalación real)",
+  "tema": "Este finde 31 °C: así se ve una instalación bien hecha (y qué incluye)",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "Este finde 31 °C en Santiago: así se ve una instalación de aire bien hecha y qué incluye el precio",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Instalación básica: lo que trae la caja. Adicionales se cotizan según tu muro.",
+  "primer_comentario": "📲 ¿Lo quieres listo antes del finde de calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio). Simula tu instalación en climatizatepro.cl.",
+  "escenas": [
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+      "pos": [0.6, 0.25],
+      "ajuste": "auto",
+      "chip": "Este finde: 31 °C",
+      "titulo": "Así se ve bien instalado",
+      "sub": "Lo último casi nadie lo revisa.",
+      "voz": "Este finde, treinta y un grados… ¿instalas o aguantas?",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+      "pos": [0.5, 0.2],
+      "ajuste": "auto",
+      "chip": "Recorrido limpio",
+      "titulo": "Ordenado y a la vista",
+      "sub": "Equipo derecho, nada colgando.",
+      "voz": "Mira… así dejamos una instalación nosotros.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+      "pos": [0.6, 0.35],
+      "ajuste": "auto",
+      "chip": "Qué incluye",
+      "titulo": "Instalación básica incluida",
+      "sub": "Lo que trae la caja: tubería y cordones.",
+      "voz": "Viene con dos metros de tubería y los cordones, listo.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+      "pos": [0.5, 0.0],
+      "ajuste": "completa",
+      "chip": "Adicionales",
+      "titulo": "Canaleta o más distancia",
+      "sub": "Se cotizan según tu muro, sin sorpresas.",
+      "voz": "¿Más distancia o canaleta? Se cotiza aparte, claro.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+      "pos": [0.4, 0.3],
+      "ajuste": "auto",
+      "chip": "Antes de decidir",
+      "titulo": "Míralo en tu muro",
+      "sub": "Con el simulador de climatizatepro.cl.",
+      "voz": "Y antes de decidir… míralo en tu muro con el simulador.",
+      "zoom": "in"
+    },
+    {
+      "foto": null,
+      "pos": [0.5, 0.5],
+      "ajuste": "auto",
+      "chip": "Cotiza en 1 minuto",
+      "titulo": "¿Lo dejamos listo este finde?",
+      "sub": "Escríbenos AIRE · +56 9 6190 7601",
+      "voz": "Cotiza en un minuto… o escríbenos AIRE.",
+      "zoom": "out"
+    }
+  ],
+  "captions": {
+    "instagram": "Instalación de aire que se ve bien y se siente mejor 👌 Este finde llega a 31 °C en Santiago, buen momento para dejarlo listo. El precio de equipo + instalación incluye la instalación básica (lo que trae la caja); canaleta, soporte o más distancia se cotizan según tu muro. Antes de decidir, míralo en tu muro con el simulador. ¿En qué comuna estás? Guarda esto y mándaselo a quien lo está pensando. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #inverter #climatización #instalación",
+    "facebook": "Este finde en Santiago llega a 31 °C, así que si estás pensando en instalar, es buen momento 🔥 Mira cómo se ve una instalación bien hecha: equipo derecho, recorrido ordenado y terminaciones limpias. El precio de equipo + instalación ya incluye la instalación básica (lo que trae la caja: ~2 m de tubería de cobre y cordones); canaleta, soporte o más distancia se cotizan según tu muro, sin sorpresas. Y antes de decidir puedes verlo en tu propio muro con el simulador de climatizatepro.cl. ¿En qué comuna estás? Te decimos cómo quedaría. Cotiza en 1 minuto por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Este finde 31 °C en Santiago: así se ve una instalación de aire bien hecha y qué incluye el precio. Instalación básica incluida; adicionales se cotizan según tu muro. Mira tu instalación con el simulador. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #MideaAirvolution #instalación #inverter"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "tema": "Tu control Midea Airvolution: qué botón usar este finde de 31 °C (sin disparar la cuenta)",
+  "fecha": "2026-11-13",
+  "id": "2026-11-13",
+  "pilar": "Midea (guía del control)",
+  "primer_comentario": "📲 ¿Tu control quedó con botones que nunca usas? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y te ayudamos. Funciones según modelo y control.",
+  "slides": [
+    {
+      "tipo": "portada",
+      "kicker": "Este finde: 31 °C en Santiago",
+      "titulo": "Tu control <span class=c>Midea Airvolution</span>: qué botón usar",
+      "texto": "Los botones que sí sirven para el calor del finde, sin disparar la cuenta. El 5 casi nadie lo usa. Guárdalo."
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Los que de verdad usas",
+      "titulo": "5 botones <span class=f>para el calor</span>",
+      "items": [
+        {"icono": "⚡", "t": "Turbo", "d": "Enfría rápido al llegar a una pieza caliente. Úsalo un rato, no todo el día.", "calor": true},
+        {"icono": "🌿", "t": "ECO+", "d": "Modo de ahorro: limita el consumo y mantiene fresco sin exagerar."},
+        {"icono": "🌙", "t": "Sleep", "d": "Para dormir: sube la temperatura de a poco y baja el ruido."},
+        {"icono": "⏱", "t": "Timer", "d": "Programa el apagado o el encendido. Que no quede prendido solo."},
+        {"icono": "📶", "t": "WiFi", "d": "Desde la app ves el consumo y lo controlas desde el celular."}
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "kicker": "Guárdalo para el verano",
+      "titulo": "¿Qué botón <span class=f>según el momento</span>?",
+      "filas": [
+        ["Llegas y la pieza está a 31&nbsp;°C", "Turbo un rato, después 24&nbsp;°C"],
+        ["Ya está fresco", "ECO+ para gastar menos"],
+        ["De noche", "Sleep + Timer"],
+        ["Te vas todo el día", "Timer o apágalo"],
+        ["¿Cuánto gastó?", "Míralo en la app WiFi"]
+      ],
+      "nota": "Funciones según modelo y control."
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Las que trabajan por ti",
+      "titulo": "Funciones que <span class=c>cuidan el equipo</span>",
+      "items": [
+        {"icono": "🧼", "t": "I-Clean", "d": "Autolimpieza del equipo para que no se junte humedad ni olores."},
+        {"icono": "🛡", "t": "Golden Fin", "d": "Protección contra corrosión en la unidad de afuera, que vive a la intemperie."},
+        {"icono": "🎯", "t": "Follow Me", "d": "Mide la temperatura donde está el control, no solo en el equipo.", "calor": true},
+        {"icono": "🔇", "t": "Silence / 8 °C", "d": "Modo silencioso y antihielo, según modelo y control."}
+      ]
+    },
+    {
+      "tipo": "versus",
+      "kicker": "El mismo día de 31 °C",
+      "titulo": "¿Al <span class=f>máximo fijo</span> o Turbo y luego ECO+?",
+      "a": {"t": "Al mínimo fijo", "xs": ["Trabaja forzado todo el día", "Pieza helada y después a apagarlo", "La cuenta se dispara"]},
+      "b": {"t": "Turbo y luego ECO+", "xs": ["Enfría rápido al llegar", "Después mantiene fresco parejo", "Gasta menos el resto del día"]}
+    },
+    {
+      "tipo": "foto",
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+      "pos": "60% 25%",
+      "kicker": "Instalación real",
+      "titulo": "Bien instalado, el control rinde",
+      "texto": "Equipo derecho, en altura y con recorrido ordenado: el aire llega a todo el espacio y cada función trabaja como debe.",
+      "etiqueta": "Instalación real · Santiago"
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Así lo instalamos",
+      "titulo": "Para que rinda <span class=c>y se vea bien</span>",
+      "items": [
+        {"icono": "◎", "t": "Míralo antes en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+        {"icono": "⌖", "t": "Ubicado donde rinde", "d": "El aire llega a todo el espacio y la unidad de afuera queda despejada."},
+        {"icono": "✓", "t": "Terminaciones limpias", "d": "Recorrido ordenado, canaleta a la vista si hace falta y garantía de instalación de 6 meses."}
+      ]
+    },
+    {
+      "tipo": "cta",
+      "kicker": "¿No sabes qué botón usar?",
+      "titulo": "Escríbenos <span class=f>AIRE</span> y te guiamos",
+      "texto": "Equipos Inverter frío/calor que climatizan todo el año, Midea Airvolution entre otros, con instalación ordenada. WhatsApp +56 9 6190 7601.",
+      "boton": "Cotiza en climatizatepro.cl"
+    }
+  ],
+  "captions": {
+    "instagram": "Guarda esto para el finde de 31 °C 🔥 Tu control Midea Airvolution tiene botones que de verdad sirven: Turbo para enfriar al llegar, ECO+ para gastar menos, Sleep para dormir, Timer para que no quede prendido solo y WiFi para ver el consumo desde el celular. ¿Cuál usas más? Mándaselo a quien deja el aire al mínimo todo el día. Funciones según modelo y control. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #MideaAirvolution #aireacondicionado #santiago #inverter #ahorro",
+    "facebook": "Este finde llega a 31 °C en Santiago, así que aquí va una guía rápida de tu control Midea Airvolution 👇 Turbo para enfriar rápido al llegar, ECO+ para gastar menos una vez que está fresco, Sleep para dormir, Timer para que no quede prendido todo el día y la app WiFi para ver cuánto consume. Lo mejor: dejarlo al mínimo fijo todo el día dispara la cuenta; Turbo un rato y luego ECO+ rinde mucho mejor. Funciones según modelo y control. ¿En qué comuna estás? Si tu control quedó con botones que nunca usas, te ayudamos. Cotiza en 1 minuto por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Guía del control Midea Airvolution para el finde de 31 °C en Santiago: Turbo, ECO+, Sleep, Timer y WiFi. Qué botón usar en cada momento sin disparar la cuenta. Funciones según modelo y control. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #MideaAirvolution #aireacondicionado #santiago #inverter #instalación",
+    "linkedin": "Guía práctica del control Midea Airvolution para días de calor en Santiago.\n\nUn buen equipo rinde según cómo se usa. Para esta semana (máximas cercanas a 31 °C en la Región Metropolitana) estas funciones hacen la diferencia:\n\n• Turbo: enfría rápido una sala caliente; conviene usarlo acotado y volver a una temperatura estable.\n• ECO+: modo de eficiencia que limita el consumo manteniendo confort.\n• Sleep: curva nocturna que modera temperatura y ruido.\n• Timer: programa encendido/apagado y evita el funcionamiento innecesario.\n• WiFi: monitoreo de consumo desde la app.\n\nComplementan I-Clean (autolimpieza), Golden Fin (protección anticorrosión de la unidad exterior) y Follow Me / Silence / modo 8 °C, según modelo y control.\n\nEn Climatízate Pro acompañamos la venta con instalación de calidad: ubicación que optimiza el rendimiento, recorrido ordenado, terminaciones limpias, simulador previo en climatizatepro.cl y garantía de instalación de 6 meses. Equipos Inverter frío/calor para hogares y empresas en Santiago.\n\nCotizaciones: WhatsApp +56 9 6190 7601 · climatizatepro.cl"
+  }
+}
