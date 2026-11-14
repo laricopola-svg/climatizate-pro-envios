@@ -1,0 +1,89 @@
+{
+  "tema": "Del calor a la lluvia: checklist de 7 cosas que revisar en tu aire (la 7 casi nadie la mira)",
+  "fecha": "2026-11-14",
+  "id": "2026-11-14",
+  "pilar": "Checklist (revisión después del calor)",
+  "primer_comentario": "📲 ¿Algo no cuadró en tu checklist? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y lo vemos.",
+  "slides": [
+    {
+      "tipo": "portada",
+      "kicker": "Sábado calor, domingo lluvia",
+      "titulo": "Checklist: <span class=c>7 cosas</span> que revisar en tu aire",
+      "texto": "Después de días sobre 30 °C y antes de que llegue diciembre. La 7 casi nadie la mira. Guárdalo."
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Adentro · lo revisas tú",
+      "titulo": "Del 1 al 4: <span class=c>la unidad de adentro</span>",
+      "items": [
+        {"icono": "🧼", "t": "1. Filtros limpios", "d": "Con el equipo apagado, sácalos, lávalos con agua y sécalos a la sombra."},
+        {"icono": "💧", "t": "2. Que no gotee", "d": "Si cae agua por dentro de la pieza, apágalo y pide una revisión técnica.", "calor": true},
+        {"icono": "👃", "t": "3. Sin olor a humedad", "d": "Filtros limpios y, si tu equipo lo tiene, la autolimpieza ayudan."},
+        {"icono": "🔈", "t": "4. Sin ruidos raros", "d": "Un golpeteo o zumbido nuevo no es normal: pide que lo revisen."}
+      ]
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Afuera · solo mirar",
+      "titulo": "Del 5 al 7: <span class=f>la unidad de afuera</span>",
+      "items": [
+        {"icono": "🍂", "t": "5. Despejada", "d": "Sin hojas, cajas, plantas ni ropa tendida encima o delante."},
+        {"icono": "🌧", "t": "6. El agua sale donde debe", "d": "El desagüe no debería mojar tu terraza ni la del vecino."},
+        {"icono": "🔩", "t": "7. Soporte y recorrido firmes", "d": "Equipo derecho, soporte firme y canaleta en su lugar. La que casi nadie mira.", "calor": true}
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "kicker": "Guárdalo para el verano",
+      "titulo": "¿Qué hago <span class=f>si…</span>?",
+      "filas": [
+        ["Gotea dentro de la pieza", "Apágalo y pide revisión técnica"],
+        ["Huele a humedad", "Filtros limpios + I-Clean (según modelo)"],
+        ["Suena raro", "Revisión técnica, no lo fuerces"],
+        ["Hojas en la unidad de afuera", "Despéjala con el equipo apagado"],
+        ["Llueve", "Nada: está hecha para la intemperie"]
+      ],
+      "nota": "Funciones según modelo y control."
+    },
+    {
+      "tipo": "versus",
+      "kicker": "Llega la lluvia del domingo",
+      "titulo": "¿<span class=f>Taparla</span> o dejarla respirar?",
+      "a": {"t": "Taparla con plástico", "xs": ["Encierra la humedad", "Si alguien lo prende, no ventila", "No hace falta"]},
+      "b": {"t": "Dejarla despejada", "xs": ["Ventila y se seca sola", "Rinde apenas la prendes", "Solo saca lo que tenga encima"]}
+    },
+    {
+      "tipo": "foto",
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+      "pos": "50% 0%",
+      "ajuste": "completa",
+      "kicker": "Instalación real",
+      "titulo": "Adentro y afuera, bien puestos",
+      "texto": "Unidad de afuera en el balcón, despejada y firme; la de adentro derecha y en altura, con recorrido ordenado.",
+      "etiqueta": "Instalación real · Santiago"
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Así lo instalamos",
+      "titulo": "Para que dure <span class=c>y se vea bien</span>",
+      "items": [
+        {"icono": "◎", "t": "Míralo antes en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+        {"icono": "⌖", "t": "Ubicado donde rinde", "d": "La unidad de afuera queda firme, despejada y con salida de agua resuelta."},
+        {"icono": "✓", "t": "Terminaciones limpias", "d": "Recorrido ordenado, espacio limpio y garantía de instalación de 6 meses."}
+      ]
+    },
+    {
+      "tipo": "cta",
+      "kicker": "¿Algo no cuadró en tu checklist?",
+      "titulo": "Escríbenos <span class=f>AIRE</span> y lo vemos",
+      "texto": "Equipos Inverter frío/calor que climatizan todo el año, Midea Airvolution entre otros, con instalación ordenada. WhatsApp +56 9 6190 7601.",
+      "boton": "Cotiza en climatizatepro.cl"
+    }
+  ],
+  "captions": {
+    "instagram": "Checklist de aire acondicionado después del calor ✅ Sábado caluroso y domingo con lluvia en Santiago: buen momento para revisar tu equipo. Filtros, goteo, olor, ruidos, unidad de afuera despejada, desagüe y soporte firme. ¿Cuántas cumple el tuyo? Guárdalo y mándaselo a quien tapa la unidad de afuera con plástico. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #inverter #mantención #hogar",
+    "facebook": "Del calor a la lluvia en un fin de semana 🌧️ Aprovecha el domingo para revisar tu aire con este checklist de 7 puntos: adentro, filtros limpios, que no gotee, sin olor a humedad y sin ruidos raros; afuera, la unidad despejada, el agua saliendo donde debe y el soporte firme (esa casi nadie la mira). Y no, no hace falta taparla con plástico cuando llueve: está hecha para la intemperie. Si algo no cuadra, te ayudamos. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Checklist de aire acondicionado en Santiago: 7 cosas que revisar después del calor y antes de la lluvia. Filtros, goteo, unidad exterior, desagüe y soporte. Instalación de aire con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #inverter #instalación #checklist",
+    "linkedin": "Checklist de revisión del aire acondicionado tras un período de alta exigencia.\n\nDespués de varios días sobre 30 °C en la Región Metropolitana y con lluvia pronosticada para el fin de semana, conviene una revisión simple, sin intervenir el equipo:\n\nUnidad interior\n• Filtros limpios.\n• Sin goteo hacia el recinto.\n• Sin olor a humedad.\n• Sin ruidos nuevos.\n\nUnidad exterior\n• Despejada de hojas y objetos.\n• Desagüe que no afecte terrazas ni vecinos.\n• Soporte firme, equipo nivelado y canalización en su lugar.\n\nAnte goteo o ruido anormal, lo indicado es una revisión técnica. No es necesario cubrir la unidad exterior ante la lluvia: está diseñada para la intemperie.\n\nEn Climatízate Pro instalamos equipos Inverter frío/calor para hogares y empresas en Santiago, con ubicación pensada para el rendimiento, recorrido ordenado, terminaciones limpias, simulador previo en climatizatepro.cl y garantía de instalación de 6 meses.\n\nCotizaciones: WhatsApp +56 9 6190 7601 · climatizatepro.cl"
+  }
+}

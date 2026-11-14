@@ -1,0 +1,101 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-14",
+  "fecha": "2026-11-14",
+  "hora": "19:00",
+  "pilar": "Errores y mitos",
+  "tema": "¿Mito o verdad? Hoy calor, mañana lluvia: 3 mitos de tu aire acondicionado",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "¿Mito o verdad? Calor hoy y lluvia mañana en Santiago: 3 mitos del aire acondicionado",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Si gotea adentro o suena raro, pide una revisión técnica.",
+  "primer_comentario": "📲 ¿Dudas con tu aire ahora que cambia el tiempo? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+  "escenas": [
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+      "pos": [
+        0.6,
+        0.25
+      ],
+      "ajuste": "auto",
+      "chip": "¿Mito o verdad?",
+      "titulo": "Hoy calor, mañana lluvia",
+      "sub": "El 3 te sirve todo el año.",
+      "voz": "Hoy calor, mañana lluvia… tres mitos de tu aire.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+      "pos": [
+        0.5,
+        0.0
+      ],
+      "ajuste": "completa",
+      "chip": "Mito 1",
+      "titulo": "«La lluvia lo echa a perder»",
+      "sub": "La unidad de afuera está hecha para la intemperie.",
+      "voz": "Uno: ¿la lluvia lo echa a perder? Mito.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+      "pos": [
+        0.5,
+        0.2
+      ],
+      "ajuste": "auto",
+      "chip": "Mito 2",
+      "titulo": "«Prender y apagar ahorra»",
+      "sub": "Un Inverter rinde mejor parejo, con Timer.",
+      "voz": "Dos: prender y apagar a cada rato… no ahorra.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+      "pos": [
+        0.6,
+        0.35
+      ],
+      "ajuste": "auto",
+      "chip": "Mito 3",
+      "titulo": "«Con frío no sirve»",
+      "sub": "Es frío/calor: climatiza todo el año.",
+      "voz": "Y tres, ojo… también calefacciona, sirve todo el año.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+      "pos": [
+        0.4,
+        0.3
+      ],
+      "ajuste": "auto",
+      "chip": "Instalación real",
+      "titulo": "Bien instalado, dura más",
+      "sub": "Soporte firme, recorrido ordenado y 6 meses de garantía.",
+      "voz": "Bien instalado y con garantía… dura más.",
+      "zoom": "in"
+    },
+    {
+      "foto": null,
+      "pos": [
+        0.5,
+        0.5
+      ],
+      "ajuste": "auto",
+      "chip": "Tu turno",
+      "titulo": "¿Cuál creías tú?",
+      "sub": "Comenta el número · Escríbenos AIRE",
+      "voz": "¿Cuál creías tú? Comenta el número… o escríbenos AIRE.",
+      "zoom": "out"
+    }
+  ],
+  "captions": {
+    "instagram": "Aire acondicionado: ¿mito o verdad? 🌧️☀️ Hoy calor y mañana lluvia en Santiago, y vuelven las dudas: ¿la lluvia lo echa a perder?, ¿prender y apagar ahorra?, ¿sirve cuando refresca? ¿Cuál creías tú? Comenta el número. Mándaselo a quien apaga el aire cada 10 minutos. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #inverter #mitoOverdad #climatización",
+    "facebook": "Hoy calor y mañana lluvia en Santiago 🌧️ ¿Mito o verdad? 1) La lluvia echa a perder el aire: mito, la unidad de afuera está hecha para la intemperie (y bien instalada, con soporte firme, dura más). 2) Prender y apagar a cada rato ahorra: mito, un Inverter rinde mejor trabajando parejo; usa el Timer. 3) Cuando refresca no sirve: mito, nuestros equipos son frío/calor y climatizan todo el año. ¿Cuál creías tú? Cuéntanos en qué comuna estás 👇 Instalación ordenada y con garantía de 6 meses. Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "¿Mito o verdad? 3 mitos del aire acondicionado cuando cambia el tiempo en Santiago: lluvia, prender y apagar, y si sirve cuando refresca. Inverter frío/calor, instalación con garantía. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #inverter #instalación #mitos"
+  }
+}
