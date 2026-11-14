@@ -673,6 +673,11 @@
    "fecha": "2026-10-27",
    "carpeta": "publicaciones/2026-10-27-1100-golpe-calor-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-14",
+   "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_047.jpg": [
@@ -718,12 +723,22 @@
    "fecha": "2026-10-27",
    "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-14",
+   "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_051.jpg": [
   {
    "fecha": "2026-10-27",
    "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-14",
+   "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
    "portada": false
   }
  ],
@@ -752,6 +767,11 @@
   {
    "fecha": "2026-10-29",
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-14",
+   "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
    "portada": false
   }
  ],
@@ -1621,6 +1641,13 @@
   {
    "fecha": "2026-11-13",
    "carpeta": "publicaciones/2026-11-13-1500-a-tu-lugar-cane-corso",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-14-1500-helado-casero-bully/drive_1Tk60g5mdZUm.jpg": [
+  {
+   "fecha": "2026-11-14",
+   "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
    "portada": true
   }
  ]
