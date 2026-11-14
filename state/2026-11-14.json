@@ -55,23 +55,29 @@
    ],
    "metricool": [
     {
-     "id": 427865362,
+     "id": 427911931,
      "uuid": "1439577889271791783",
      "redes": [
       "instagram",
       "facebook"
-     ]
+     ],
+     "id_anterior": 427865362,
+     "draft": false
     },
     {
-     "id": 427865368,
+     "id": 427911940,
      "uuid": "-2315112548356635907",
      "redes": [
       "tiktok"
      ],
-     "autoPublish": false
+     "autoPublish": false,
+     "id_anterior": 427865368,
+     "draft": false
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-14T07:52-03:00 (OK de fcosotog7@gmail.com, msg 1a1d9afbfb0ce0c7)",
+   "nota_tiktok": "TikTok autoPublish false: llega notificación a la app de Metricool a las 11:00 para publicar a mano."
   },
   {
    "n": 2,
@@ -86,16 +92,19 @@
    "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
    "metricool": [
     {
-     "id": 427865377,
+     "id": 427911942,
      "uuid": "-1285515904247117024",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
-     ]
+     ],
+     "id_anterior": 427865377,
+     "draft": false
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-14T07:52-03:00 (OK de fcosotog7@gmail.com, msg 1a1d9afbfb0ce0c7)"
   },
   {
    "n": 3,
@@ -122,7 +131,7 @@
    ],
    "metricool": [
     {
-     "id": 427865381,
+     "id": 427911952,
      "uuid": "-2006211580397663421",
      "redes": [
       "facebook",
@@ -130,16 +139,23 @@
       "tiktok"
      ],
      "isAiGenerated": true,
-     "isAigc": true
+     "isAigc": true,
+     "id_anterior": 427865381,
+     "draft": false
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-14T07:52-03:00 (OK de fcosotog7@gmail.com, msg 1a1d9afbfb0ce0c7)"
   }
  ],
  "revisiones": [
   {
    "hora": "2026-11-14T07:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (solo el correo de propuesta). Sin cambios."
+  },
+  {
+   "hora": "2026-11-14T08:06-03:00",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (07:52) -> aprobadas las 3. updateScheduledPost draft:false en 4 posts (horas 11:00, 11:00 TikTok, 15:00, 20:30 sin cambios; todas futuras). Estado 'programada'. No se tocaron los borradores antiguos 421711616/421711635 (creados 9-nov, ajenos al state de hoy)."
   }
  ]
 }
