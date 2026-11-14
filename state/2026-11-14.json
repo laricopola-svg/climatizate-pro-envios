@@ -1,0 +1,140 @@
+{
+ "fecha": "2026-11-14",
+ "dia": "sábado 14 (día par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "threadId": "1a1d97036dd558de",
+ "messageId": "1a1d97036dd558de",
+ "correo": "fcosotog7@gmail.com",
+ "gmail": {
+  "messageId": "1a1d97036dd558de",
+  "threadId": "1a1d97036dd558de",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-14 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única)",
+  "20:30": "carrusel IA cómic (ayer Reel IA)"
+ },
+ "tendencias_usadas": [
+  "Día Mundial de la Diabetes 14-nov -> 11:00",
+  "Primeros calores de noviembre en Chile + recetas DIY para mascotas -> 15:00",
+  "Black Friday 27-nov + micronovela IA por capítulos -> 20:30",
+  "Audio IG: Housewife – Tate McRae (#1 Reels, socialpilot 31-oct a 10-nov); Linger/Everlong sin versión music en catálogo"
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (14-nov). Pieza IA hecha reutilizando arte IA existente (copy-design DAHasa3894A -> DAHa4WwxcqE + edit-design + export jpg)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 3-nov (búsqueda modifiedTime > 5-nov vacía). Usadas 16LuRkADSx01 (Kopito y Cane de Zeus, nueva) y 1Tk60g5mdZUm (Bully merle, nueva); reutilizada 12rx4xvQBoDw (Zeus 1, 15 días). Descartada 1GmxnP3sCPJMtgchpbaMh7SzUAtK0mTxy (Zeus.jpeg: polerón con chihuahua impreso, no TeamFS)."
+  },
+  {
+   "detalle": "Banco Cane Corso: las 11 fotos usadas el 4-nov (libres desde 18-nov). Se pidió al dueño fotos nuevas de Cane Corso en el correo."
+  },
+  {
+   "detalle": "export-download.canva.com bloqueado por el proxy: miniaturas cap. 6 = thumbnails de Canva guardadas en el repo; el correo usa URLs static.metricool.com."
+  }
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso se tomó el bebedero entero - Día Mundial de la Diabetes: 4 señales (sed, orina, come más y baja de peso, cansancio) -> veterinario con exámenes + Dato peso ideal y ejercicio",
+   "raza": "Cane Corso",
+   "formato": "Reel 20,9 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS 16LuRkADSx01DWY6IpuO9_leQEFWjPVaS (Kopito y Cane de Zeus) + 12rx4xvQBoDwwcNlv4HsoK4okXxydhLwK (Zeus 1); CC no nombrado",
+   "audio": "IG: Housewife – Tate McRae, audioId 1501269788724597, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-14-1100-diabetes-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-5180913184098192048.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 427865362,
+     "uuid": "1439577889271791783",
+     "redes": [
+      "instagram",
+      "facebook"
+     ]
+    },
+    {
+     "id": 427865368,
+     "uuid": "-2315112548356635907",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Helado casero para tu Bully en 4 pasos (base sin azúcar/xilitol, fruta segura y prohibidos, molde grande, con medida) + Dato premios <=10% / sobrepeso-diabetes -> veterinario; CTA comenta HELADO",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (5 fotos + 2 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS 1Tk60g5mdZUmIrL_2hibepCqXXlUUy1FA (portada) + banco bully_061, bully_004, bully_051, bully_039 (no nombrados)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
+   "metricool": [
+    {
+     "id": 427865377,
+     "uuid": "-1285515904247117024",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ]
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 6 'EL CARRITO': Black Friday, Ragnar 47 pelotas, Kopito 'estaban en oferta', Queen vio la cuenta ¿devolución? + Dato placa + microchip Registro Nacional (Ley Cholito); CTA comenta PERRINOVELA, síguenos cap. 7",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada: MAHZwbedLFc (Queen bigote), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 14-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/fytYuHfxfFZPHpg (diseño DAHa4WwxcqE, copia de DAHasa3894A)",
+   "carpeta": "publicaciones/2026-11-14-2030-perrinovela-cap6-el-carrito",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 6
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-12113105386843194813.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-5982190606836095039.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-3259899524869338054.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-3449554042720990037.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 427865381,
+     "uuid": "-2006211580397663421",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "revisiones": []
+}

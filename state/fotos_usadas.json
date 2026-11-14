@@ -889,6 +889,12 @@
     "fecha": "2026-10-30",
     "titulo": "085bca80-...jpg",
     "hora": "2030"
+   },
+   {
+    "fecha": "2026-11-14",
+    "titulo": "Zeus 1.jpg (085bca80)",
+    "carpeta": "publicaciones/2026-11-14-1100-diabetes-cane-corso",
+    "portada": false
    }
   ],
   "1uWzsoWawGpY_6dCtqEIcRO_KWnyHHMWH": [
@@ -1156,6 +1162,22 @@
     "fecha": "2026-11-13",
     "titulo": "247f0956.JPG",
     "carpeta": "publicaciones/2026-11-13-1100-charcos-leptospirosis-bully",
+    "portada": true
+   }
+  ],
+  "16LuRkADSx01DWY6IpuO9_leQEFWjPVaS": [
+   {
+    "fecha": "2026-11-14",
+    "titulo": "Kopito y Cane de Zeus.png",
+    "carpeta": "publicaciones/2026-11-14-1100-diabetes-cane-corso",
+    "portada": true
+   }
+  ],
+  "1Tk60g5mdZUmIrL_2hibepCqXXlUUy1FA": [
+   {
+    "fecha": "2026-11-14",
+    "titulo": "c0180f41.JPG (Bully merle)",
+    "carpeta": "publicaciones/2026-11-14-1500-helado-casero-bully",
     "portada": true
    }
   ]
@@ -1508,7 +1530,8 @@
    "fecha": "2026-11-13",
    "carpeta": "canva DAHayaABgG8 (Perrinovela cap 5 Viernes 13 Reel)",
    "portada": false
-  }
+  },
+  "2026-11-14"
  ],
  "publicaciones/2026-11-10-1100-espigas-cane-corso/src_10pEBn_cYX.jpg": [
   {
