@@ -1,0 +1,151 @@
+{
+ "fecha": "2026-11-15",
+ "dia": "domingo (impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a1de9654bb0849f",
+ "messageId": "1a1de9654bb0849f",
+ "correo": "fcosotog7@gmail.com",
+ "gmail": {
+  "messageId": "1a1de9654bb0849f",
+  "threadId": "1a1de9654bb0849f",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-15 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única IA (ayer carrusel)",
+  "20:30": "Reel IA cartoon (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Primavera ventosa/polen en Chile + formato quick tips (socialpilot 31-oct a 10-nov) -> 11:00 ojos",
+  "Humor cotidiano 'se robó la zapatilla' -> 15:00 SUELTA",
+  "Black Friday 27-nov + micronovela IA por capítulos (Perrinovela cap. 7) -> 20:30",
+  "Audio IG: Housewife – Tate McRae (repetido; Dame Hombro y Angel Of My Dreams sin coincidencia exacta en catálogo API)"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Viento, polvo y polen: ojo con los ojos del Bully - 4 señales (normal, alerta -> veterinario, ojo de cereza, rutina 30 s) + Dato cero colirios de la casa; CTA comenta OJITOS",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco/american-bully 030, 055, 044, 026",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-15-1100-ojos-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-5753690345672791865.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 428728230,
+     "uuid": "955048183954753202",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¡SUELTA! sin persecución ni tira y afloja en 4 pasos (intercambio, devolver juguete, subir valor, no perseguir) + Dato 50 kg = seguridad / cuidar recursos -> profesional",
+   "raza": "Cane Corso",
+   "formato": "imagen única (Canva)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZSTprTIk (generate-image quota_exceeded 15-nov)",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/lToBDDYR-hvnK0E (diseño DAHa-dEZ-Yw, copia de DAHamf_VPyI)",
+   "carpeta": "publicaciones/2026-11-15-1500-suelta-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-3200451429610127781.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 428728242,
+     "uuid": "-553140689884396569",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 7 'LA DEVOLUCIÓN': Queen devuelve las 47 pelotas, Ragnar y Bella Operación Esconder, Kopito 'ya las mordí todas' + Dato rotar 3-4 juguetes por semana; CTA comenta PERRINOVELA, síguenos cap. 8",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZqYnFSDQ (Queen auto), MAHZqeEaBw0, MAHZqbGXSAY",
+   "isAiGenerated": true,
+   "audio": "IG: Housewife – Tate McRae, audioId 1501269788724597, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "canva": "https://www.canva.com/d/dtGc4SpB1Z4X9kg (diseño DAHa-Rfr_Pc, copia de DAHayaABgG8)",
+   "carpeta": "publicaciones/2026-11-15-2030-perrinovela-cap7-la-devolucion",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 7
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-17215966256456142261.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 428728443,
+     "uuid": "4373544148054722607",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    },
+    {
+     "id": 428728482,
+     "uuid": "-5360796940713374055",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (15-nov). Piezas IA hechas reutilizando arte IA existente (copy-design + edit-design + export)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin archivos nuevos desde el 5-nov (búsqueda modifiedTime > 5-nov vacía). Revisada 1x76H1ms-BxmoEk6jKswrwb2HG5lkurXf (IMG_4457.heic): cachorro con orejas en curación -> descartada. No quedan fotos Drive libres útiles."
+  },
+  {
+   "detalle": "Banco Bully: ninguna foto apta para portada (regla 30 días); portada 11:00 de diseño sin foto. Banco Cane Corso libre desde 18-nov."
+  },
+  {
+   "detalle": "export-download.canva.com bloqueado por el proxy: miniaturas = vistas previas de edición guardadas en el repo; correo usa static.metricool.com."
+  },
+  {
+   "detalle": "Audio IG: 'Dame Hombro' y 'Angel Of My Dreams JADE' con múltiples coincidencias sin el tema real; se usó Housewife (igual que 14-nov)."
+  }
+ ],
+ "revisiones": []
+}
