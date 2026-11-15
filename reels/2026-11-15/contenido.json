@@ -1,0 +1,101 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-15",
+  "fecha": "2026-11-15",
+  "hora": "19:00",
+  "pilar": "Tips Midea",
+  "tema": "Tu Midea puede más #5: del calor extremo a la lluvia, 3 trucos para esta semana",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "Tu Midea Airvolution puede más: 3 trucos para pasar del calor a la lluvia en Santiago",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Funciones según modelo y control.",
+  "primer_comentario": "📲 ¿Quieres un Midea Inverter bien instalado antes del verano? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+  "escenas": [
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+      "pos": [
+        0.6,
+        0.25
+      ],
+      "ajuste": "auto",
+      "chip": "Tu Midea puede más #5",
+      "titulo": "Del calor extremo a la lluvia",
+      "sub": "El 3 casi nadie lo usa.",
+      "voz": "Del calor a la lluvia… tu Midea tiene tres trucos.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+      "pos": [
+        0.5,
+        0.2
+      ],
+      "ajuste": "auto",
+      "chip": "1 · Modo calor",
+      "titulo": "¿Mañana fresca? Modo calor",
+      "sub": "Es frío/calor: climatiza todo el año.",
+      "voz": "Uno: ¿amaneció helado? Ponlo en calor, mismo equipo.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+      "pos": [
+        0.5,
+        0.2
+      ],
+      "ajuste": "auto",
+      "chip": "2 · I-Clean",
+      "titulo": "Chao olor a humedad",
+      "sub": "Se limpia y se seca por dentro.",
+      "voz": "Dos: después del calorón, I-Clean lo seca por dentro.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+      "pos": [
+        0.6,
+        0.35
+      ],
+      "ajuste": "auto",
+      "chip": "3 · Silence",
+      "titulo": "Duerme con la lluvia, no con el aire",
+      "sub": "Según modelo y control.",
+      "voz": "Y tres, ojo… Silence, para dormir con la pura lluvia.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+      "pos": [
+        0.5,
+        0.0
+      ],
+      "ajuste": "completa",
+      "chip": "Instalación real",
+      "titulo": "Bien instalado, rinde todo el año",
+      "sub": "Recorrido ordenado y 6 meses de garantía.",
+      "voz": "Y bien instalado… te acompaña todo el año.",
+      "zoom": "in"
+    },
+    {
+      "foto": null,
+      "pos": [
+        0.5,
+        0.5
+      ],
+      "ajuste": "auto",
+      "chip": "Tu turno",
+      "titulo": "¿Cuál no conocías?",
+      "sub": "Comenta el número · Escríbenos AIRE",
+      "voz": "¿Cuál no conocías? Comenta el número… o escríbenos AIRE.",
+      "zoom": "out"
+    }
+  ],
+  "captions": {
+    "instagram": "Midea Airvolution: 3 trucos para esta semana 🌧️ Del calor extremo del viernes a la lluvia del martes en Santiago: modo calor para las mañanas frescas, I-Clean contra el olor a humedad y Silence para dormir tranquilo. ¿Cuál no conocías? Comenta el número. Mándaselo a quien tiene un Midea y solo usa el botón de prender. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #midea #aireacondicionado #santiago #inverter #tips",
+    "facebook": "Pasamos de más de 30 °C a lluvia en un par de días 🌧️ Tu Midea Airvolution tiene 3 trucos para esta semana: 1) en las mañanas frescas, cámbialo a modo calor (nuestros equipos son Inverter frío/calor y climatizan todo el año); 2) después de tantos días de calor, I-Clean lo limpia y seca por dentro para evitar el olor a humedad; 3) Silence, para dormir escuchando solo la lluvia (según modelo y control). Y si quedó bien instalado, con recorrido ordenado y 6 meses de garantía, rinde todo el año. ¿En qué comuna estás? Cuéntanos 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Midea Airvolution: 3 trucos para pasar del calor a la lluvia en Santiago. Modo calor, I-Clean y Silence (según modelo y control). Aire acondicionado Inverter frío/calor con instalación ordenada y garantía. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #midea #instalación #tips"
+  }
+}
