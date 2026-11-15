@@ -1,0 +1,66 @@
+{
+"slides": [
+{
+"type": "cover",
+"kicker": "Educativo · American Bully",
+"title": "Viento, polvo y polen: ojo con los ojos",
+"title_size": 80,
+"subtitle": "4 señales de que los ojos de tu Bully piden veterinario",
+"cta": "Desliza →",
+"big": "!"
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_030.jpg",
+"fx": 0.5,
+"fy": 0.3,
+"label": "1 · Lo normal",
+"headline": "Ojos limpios y abiertos",
+"body": "Brillantes, sin enrojecer, abiertos igual los dos. Una lagañita clara en la mañana es normal; lo que cambia es la cantidad, el color y si molesta."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_055.jpg",
+"fx": 0.5,
+"fy": 0.25,
+"label": "2 · Señales de alerta",
+"headline": "Cuándo consultar al tiro",
+"body": "Lagaña amarilla o verde, ojo rojo, lagrimeo constante, ojo entrecerrado, se frota la cara contra el piso o el sillón, o una nube/mancha en el ojo. Ante cualquiera: consulta a tu veterinario."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_044.jpg",
+"fx": 0.5,
+"fy": 0.25,
+"label": "3 · Ojo de cereza",
+"headline": "Un 'porotito' rojo en el lagrimal",
+"body": "Es la glándula del tercer párpado que se sale de su lugar. Es más común en razas de cara ancha. No intentes acomodarla en casa: tu veterinario te dirá cómo tratarla."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_026.jpg",
+"fx": 0.5,
+"fy": 0.35,
+"label": "4 · Prevención",
+"headline": "Rutina de 30 segundos",
+"body": "Revisa sus ojos después del paseo, limpia la lagaña con una gasa limpia (una por ojo) y en el auto nada de cabeza afuera de la ventana: el viento trae tierra y espigas."
+},
+{
+"type": "point",
+"label": "Dato TeamFS",
+"big": "!",
+"headline": "Cero colirios de la casa",
+"body": "Las gotas para humanos (y las sobras de otro tratamiento) pueden empeorar una úlcera. En los ojos, solo lo que indique tu veterinario."
+},
+{
+"type": "cta",
+"headline": "¿Tu Bully también pone ojitos para conseguir queso?",
+"highlight": "Comenta OJITOS y muéstranos la mirada de tu perro",
+"bullets": [
+"Guarda este post para revisar sus ojos",
+"Compártelo con quien tenga un Bully",
+"Síguenos para más datos de molosos"
+]
+}
+]
+}

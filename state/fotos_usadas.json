@@ -787,12 +787,22 @@
    "fecha": "2026-10-29",
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-15",
+   "carpeta": "publicaciones/2026-11-15-1100-ojos-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_030.jpg": [
   {
    "fecha": "2026-10-29",
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-15",
+   "carpeta": "publicaciones/2026-11-15-1100-ojos-bully",
    "portada": false
   }
  ],
@@ -1201,6 +1211,11 @@
    "fecha": "2026-10-31",
    "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-15",
+   "carpeta": "publicaciones/2026-11-15-1100-ojos-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_067.jpg": [
@@ -1221,6 +1236,11 @@
   {
    "fecha": "2026-10-31",
    "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-15",
+   "carpeta": "publicaciones/2026-11-15-1100-ojos-bully",
    "portada": false
   }
  ],
