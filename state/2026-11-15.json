@@ -38,17 +38,19 @@
    ],
    "metricool": [
     {
-     "id": 428728230,
+     "id": 428828368,
      "uuid": "955048183954753202",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 428728230
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-15T08:54-03:00 (correo fcosotog7: \"Ok\")"
   },
   {
    "n": 2,
@@ -68,7 +70,7 @@
    ],
    "metricool": [
     {
-     "id": 428728242,
+     "id": 428828377,
      "uuid": "-553140689884396569",
      "redes": [
       "facebook",
@@ -77,10 +79,12 @@
      ],
      "isAiGenerated": true,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 428728242
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-15T08:54-03:00 (correo fcosotog7: \"Ok\")"
   },
   {
    "n": 3,
@@ -104,27 +108,30 @@
    ],
    "metricool": [
     {
-     "id": 428728443,
+     "id": 428828406,
      "uuid": "4373544148054722607",
      "redes": [
       "instagram",
       "facebook"
      ],
      "isAiGenerated": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 428728443
     },
     {
-     "id": 428728482,
+     "id": 428828415,
      "uuid": "-5360796940713374055",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 428728482
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-15T08:54-03:00 (correo fcosotog7: \"Ok\")"
   }
  ],
  "incidencias": [
@@ -155,6 +162,11 @@
   {
    "hora": "2026-11-15T08:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com (hilo con 1 mensaje). Sin cambios."
+  },
+  {
+   "hora": "2026-11-15T09:06-03:00",
+   "resultado": "Respuesta de fcosotog7@gmail.com 08:54 (msg 1a1df0f2a3a0cff1): \"Ok\" sin números -> aprobadas las 3. updateScheduledPost draft:false en 4 posts (11:00, 15:00, 20:30 IG+FB, 20:30 TikTok autoPublish false) con horarios originales (todos futuros). Estado: programada."
   }
- ]
+ ],
+ "ultima_revision": "2026-11-15T09:06-03:00"
 }
