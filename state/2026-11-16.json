@@ -1,0 +1,156 @@
+{
+ "fecha": "2026-11-16",
+ "dia": "lunes 16 (día par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "threadId": "1a1e3bd04872e19d",
+ "messageId": "1a1e3bd04872e19d",
+ "correo": "fcosotog7@gmail.com",
+ "gmail": {
+  "messageId": "1a1e3bd04872e19d",
+  "threadId": "1a1e3bd04872e19d",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-16 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única IA)",
+  "20:30": "carrusel IA cómic (ayer Reel IA cartoon)"
+ },
+ "tendencias_usadas": [
+  "Senapred alerta preventiva por calor en todo Chile hasta marzo 2027 + formato POV -> 11:00 auto-horno",
+  "Previa Black Friday 27-nov + humor sillón destruido -> 15:00",
+  "Trend 'Dear Santa' / carta navideña (Mariah Carey, socialbee 11-nov) + micronovela por capítulos -> 20:30",
+  "Audio IG: Good Girls Go Bad – Cobra Starship (socialbee 5-nov, antes/después); solo disponible como original_sound 624371256859201"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: 'son 5 minutitos' - el auto al sol es un horno: golpe de calor (señales, veterinario ya, primeros auxilios: sombra + agua fresca no helada) + Dato: con calor el Cane Corso se queda en casa",
+   "raza": "Cane Corso",
+   "formato": "Reel 18,8 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS (ya en repo, reutilizadas a 14 días): 1VxCDMOa6HZgNvG8r5NXKa3_RckI0nz0j, 1v1Mx25CnG9br7LVBEOrtYoQP4SFVNvWq, 1air127z2Y3OrlL5QXQKNEfi2EXqQIggi, 1Z6AwSfJzr8L5_4IodQKUhPPUNmzWei1i, 1xYZ7wqBPIF-AO3jIuazFJz6LxLQ0g39X, 1G0ZIUmY_lA0NO4iR6zTw3VeOEOvMV3np + portada de diseño",
+   "audio": "IG: Good Girls Go Bad – Cobra Starship, audioId 624371256859201 (original_sound @jellyjamdaily; sin versión music en catálogo), audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-16-1100-auto-horno-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-11942242368665933229.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 429800895,
+     "uuid": "3269050962362386840",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "draft": true
+    },
+    {
+     "id": 429801191,
+     "uuid": "1868515312676456530",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Saliste 1 hora y el sillón ya no existe: solo en casa sin drama en 4 pasos (cansar antes, salidas/llegadas aburridas, práctica gradual, mordedor legal) + Dato ansiedad por separación -> veterinario/educador",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco/american-bully 007, 060, 031, 067",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-16-1500-solo-en-casa-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-1062923407156185277.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-2881979486791013706.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-1800768312257226289.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-5248956181302270553.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-9036946776607764256.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-8186512712059415627.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-3975575529504149506.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 429802538,
+     "uuid": "-8316846013934844488",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 8 'LA CARTA': Ragnar 'Querido Viejito Pascuero', Kopito pide sillón nuevo, Queen '¿y mi carta? ¿CARBÓN?' + Dato un cachorro NO es sorpresa (familia, registro KCC/ABKC, padres a la vista); CTA comenta qué pide tu perro, síguenos cap. 9",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZwbedLFc (Queen), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 16-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/y6NCEf-IvABOwcd (diseño DAHbEbise00, copia de DAHa4WwxcqE)",
+   "carpeta": "publicaciones/2026-11-16-2030-perrinovela-cap8-la-carta",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 8
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-708263833957951896.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-7628331976980020010.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-7989897393159902360.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-16974777827973420713.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 429802562,
+     "uuid": "-4564268658258656494",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (16-nov). Pieza IA hecha reutilizando arte IA existente (copy-design + edit-design + export jpg)."
+  },
+  {
+   "detalle": "Drive TeamFS: búsqueda imágenes/videos modifiedTime > 4-nov vacía; sin material nuevo. Se pidió al dueño subir fotos/videos nuevos."
+  },
+  {
+   "detalle": "Banco Cane Corso libre recién desde 18-nov; Reel 11:00 usa fotos Drive del 2-nov (14 días, OK fotos.py) con portada de diseño."
+  },
+  {
+   "detalle": "Audio IG 'Good Girls Go Bad' sin versión music en catálogo; búsqueda amplia devolvió candidatos no relacionados. Se mantuvo original_sound 624371256859201 (título 'Cobra Starship - Good Girls Go Bad')."
+  },
+  {
+   "detalle": "export-download.canva.com bloqueado por el proxy: miniaturas cap. 8 = vistas previas de edición guardadas en el repo; correo usa static.metricool.com."
+  }
+ ],
+ "revisiones": []
+}
