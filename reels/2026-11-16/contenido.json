@@ -1,0 +1,101 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-16",
+  "fecha": "2026-11-16",
+  "hora": "19:00",
+  "pilar": "Instalación real",
+  "tema": "¿Dónde va tu aire? 3 reglas de ubicación antes de perforar (la 3 te ahorra tubería)",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "¿Dónde va tu aire acondicionado? 3 reglas de ubicación antes de instalar en Santiago",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Ubicación final según evaluación de tu espacio.",
+  "primer_comentario": "📲 ¿No sabes dónde poner tu aire? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y te ayudamos a ubicarlo.",
+  "escenas": [
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+      "pos": [
+        0.6,
+        0.25
+      ],
+      "ajuste": "auto",
+      "chip": "Antes de perforar",
+      "titulo": "¿Dónde va tu aire?",
+      "sub": "La 3 te ahorra tubería.",
+      "voz": "¿Dónde va tu aire? Ojo… tres reglas antes de perforar.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+      "pos": [
+        0.55,
+        0.2
+      ],
+      "ajuste": "auto",
+      "chip": "1 · Arriba y despejado",
+      "titulo": "Nada que le tape la salida",
+      "sub": "Ni muebles altos ni cortinas encima.",
+      "voz": "Uno: arriba y despejado, que nada le tape el aire.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_07.jpg",
+      "pos": [
+        0.5,
+        0.0
+      ],
+      "ajuste": "completa",
+      "chip": "2 · No directo a la cama",
+      "titulo": "Fresco, sin aire en la cara",
+      "sub": "Que reparta por la pieza.",
+      "voz": "Dos: que no te sople directo a la cama.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+      "pos": [
+        0.5,
+        0.0
+      ],
+      "ajuste": "completa",
+      "chip": "3 · Cerca del muro de afuera",
+      "titulo": "Menos tubería, menos a la vista",
+      "sub": "La instalación básica trae unos 2 m.",
+      "voz": "Y tres… cerca del muro de afuera, menos tubería.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+      "pos": [
+        0.6,
+        0.35
+      ],
+      "ajuste": "auto",
+      "chip": "Instalación real",
+      "titulo": "Míralo en tu muro antes",
+      "sub": "Simulador en climatizatepro.cl · 6 meses de garantía.",
+      "voz": "¿Dudas? Míralo en tu muro con el simulador.",
+      "zoom": "in"
+    },
+    {
+      "foto": null,
+      "pos": [
+        0.5,
+        0.5
+      ],
+      "ajuste": "auto",
+      "chip": "Tu turno",
+      "titulo": "¿Cuál no sabías?",
+      "sub": "Comenta el número · Escríbenos AIRE",
+      "voz": "¿Cuál no sabías? Comenta el número… o escríbenos AIRE.",
+      "zoom": "out"
+    }
+  ],
+  "captions": {
+    "instagram": "¿Dónde poner el aire acondicionado? 📍 3 reglas antes de perforar: arriba y despejado, que no sople directo a la cama y cerca del muro de afuera (la 3 te ahorra tubería y se ve más ordenado). ¿Cuál no sabías? Comenta el número. Mándaselo a quien está por instalar. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #inverter #depto",
+    "facebook": "¿Estás por instalar aire y no sabes dónde ponerlo? 📍 Antes de perforar, 3 reglas: 1) arriba y despejado, que ni un mueble alto ni una cortina le tape la salida; 2) que no sople directo a la cama o al sillón, para que reparta el fresco por la pieza; 3) lo más cerca posible del muro donde va la unidad de afuera: la instalación básica trae unos 2 m de tubería, así que menos distancia es menos tubería a la vista. ¿Dudas? En climatizatepro.cl tienes un simulador para verlo en tu propio muro, y lo dejamos ordenado y con 6 meses de garantía de instalación. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "¿Dónde va el aire acondicionado? 3 reglas de ubicación antes de la instalación: arriba y despejado, no directo a la cama y cerca del muro de afuera. Instalación de aire acondicionado Inverter en Santiago con simulador y garantía. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #inverter #tips"
+  }
+}
