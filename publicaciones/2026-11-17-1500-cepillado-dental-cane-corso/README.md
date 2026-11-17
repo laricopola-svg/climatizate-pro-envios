@@ -1,0 +1,2 @@
+# 17-nov-2026 15:00 · Instructivo Cane Corso: cepillado dental en 4 pasos
+Imagen única hecha en Canva (diseño DAHbKbglZWE, copia de DAHa-dEZ-Yw). Ilustración IA reutilizada MAHZSTprTIk (Canva generate-image quota_exceeded el 17-nov; todas las fotos reales de Cane Corso del banco/Drive se usaron hace < 14 días o fueron portada < 30 días). Media final: export jpg de Canva -> static.metricool.com (ver state/2026-11-17.json).
