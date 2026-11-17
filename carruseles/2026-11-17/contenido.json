@@ -1,0 +1,167 @@
+{
+  "tema": "Hoy llueve y baja a 21 °C: guía para calefaccionar con tu Midea Airvolution sin disparar la cuenta (el último truco casi nadie lo usa)",
+  "fecha": "2026-11-17",
+  "id": "2026-11-17",
+  "pilar": "Midea (guía del control en modo calor)",
+  "primer_comentario": "📲 ¿Tu Midea no calienta parejo o no sabes qué botón usar? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio). Funciones según modelo y control.",
+  "slides": [
+    {
+      "tipo": "portada",
+      "kicker": "Hoy llueve en Santiago · máx 21–24 °C",
+      "titulo": "Tu <span class=c>Midea Airvolution</span> también calefacciona",
+      "texto": "Guía rápida para usarlo en días de lluvia sin disparar la cuenta. El último truco casi nadie lo usa. Guárdalo."
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Paso a paso",
+      "titulo": "Modo calor, <span class=c>bien usado</span>",
+      "items": [
+        {
+          "icono": "☀",
+          "t": "Pásalo a calor",
+          "d": "Es el mismo equipo: Inverter frío/calor que climatiza todo el año.",
+          "calor": true
+        },
+        {
+          "icono": "🌡",
+          "t": "Temperatura moderada",
+          "d": "Ponerlo a 30 °C no calienta más rápido: solo gasta más.",
+          "calor": true
+        },
+        {
+          "icono": "⚡",
+          "t": "Turbo un rato",
+          "d": "Al llegar a la casa helada. Después vuelve a lo normal."
+        },
+        {
+          "icono": "🌿",
+          "t": "ECO+",
+          "d": "Cuando ya está tibio, para mantener parejo gastando menos."
+        }
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "kicker": "Guárdalo para el invierno también",
+      "titulo": "¿Qué uso <span class=f>según el momento</span>?",
+      "filas": [
+        [
+          "Llegas y la casa está helada",
+          "Calor + Turbo un rato"
+        ],
+        [
+          "Ya está tibio",
+          "ECO+ y temperatura moderada"
+        ],
+        [
+          "De noche",
+          "Sleep + Timer"
+        ],
+        [
+          "Te vas todo el día",
+          "Timer o apágalo"
+        ],
+        [
+          "¿Cuánto gastó?",
+          "App WiFi (según modelo)"
+        ]
+      ],
+      "nota": "Funciones según modelo y control."
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Después de la lluvia",
+      "titulo": "Funciones que <span class=f>cuidan tu equipo</span>",
+      "items": [
+        {
+          "icono": "🧼",
+          "t": "I-Clean",
+          "d": "Autolimpieza que ayuda a secarlo por dentro: menos humedad y olores."
+        },
+        {
+          "icono": "🛡",
+          "t": "Golden Fin",
+          "d": "Protección anticorrosión para la unidad de afuera, que vive a la intemperie."
+        },
+        {
+          "icono": "🔇",
+          "t": "Silence",
+          "d": "Para dormir con la pura lluvia de fondo (según modelo)."
+        },
+        {
+          "icono": "❄",
+          "t": "Modo 8 °C",
+          "d": "El que casi nadie usa: mantiene una pieza vacía sin que se hiele (según modelo y control).",
+          "calor": true
+        }
+      ]
+    },
+    {
+      "tipo": "versus",
+      "kicker": "El mismo día de lluvia",
+      "titulo": "¿A <span class=c>30 °C fijo</span> o moderado con ECO+?",
+      "a": {
+        "t": "A 30 °C fijo",
+        "xs": [
+          "No calienta más rápido",
+          "Ambiente seco y pesado",
+          "La cuenta sube"
+        ]
+      },
+      "b": {
+        "t": "Moderado + ECO+",
+        "xs": [
+          "Turbo un rato al llegar",
+          "Después tibio y parejo",
+          "Gasta menos el resto del día"
+        ]
+      },
+      "nota": "Funciones según modelo y control."
+    },
+    {
+      "tipo": "foto",
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+      "pos": "50% 0%",
+      "ajuste": "completa",
+      "kicker": "Instalación real",
+      "titulo": "Afuera llueve, adentro parejo",
+      "texto": "Unidad interior bien ubicada y la de afuera en el balcón, despejada y con el agua resuelta: así rinde en calor y en frío.",
+      "etiqueta": "Instalación real · Santiago"
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Así lo instalamos",
+      "titulo": "Para que rinda <span class=c>y se vea bien</span>",
+      "items": [
+        {
+          "icono": "◎",
+          "t": "Míralo antes en el simulador",
+          "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."
+        },
+        {
+          "icono": "⌖",
+          "t": "Ubicado donde reparte",
+          "d": "El aire llega a todo el espacio y la unidad de afuera queda despejada."
+        },
+        {
+          "icono": "✓",
+          "t": "Terminaciones limpias",
+          "d": "Recorrido ordenado, canaleta si hace falta, espacio limpio y 6 meses de garantía de instalación."
+        }
+      ]
+    },
+    {
+      "tipo": "cta",
+      "kicker": "¿Tu Midea no calienta parejo?",
+      "titulo": "Escríbenos <span class=f>AIRE</span> y te guiamos",
+      "texto": "Equipos Inverter frío/calor que climatizan todo el año, Midea Airvolution entre otros, con instalación ordenada. WhatsApp +56 9 6190 7601.",
+      "boton": "Cotiza en climatizatepro.cl"
+    }
+  ],
+  "captions": {
+    "instagram": "Midea Airvolution en modo calor 🌧️ Hoy llueve y baja a 21 °C: pásalo a calor, temperatura moderada (a 30 °C no calienta más rápido), Turbo un rato al llegar y después ECO+. El último truco, el modo 8 °C, casi nadie lo usa. ¿Cuál no conocías? Guárdalo y mándaselo a quien tiene su Midea solo para el verano. Funciones según modelo y control. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #MideaAirvolution #aireacondicionado #santiago #inverter #calefaccion",
+    "facebook": "Hoy es el día más lluvioso de la semana en Santiago y la máxima baja a 21–24 °C 🌧️ ¿Sabías que tu Midea Airvolution también calefacciona? Es Inverter frío/calor y climatiza todo el año. Guía rápida: pásalo a calor con una temperatura moderada (a 30 °C no calienta más rápido, solo gasta más), Turbo un rato al llegar a la casa helada y después ECO+ para mantener parejo. De noche, Sleep + Timer. Después de la lluvia, I-Clean ayuda a secarlo por dentro y Golden Fin protege la unidad de afuera. Funciones según modelo y control. ¿En qué comuna estás y ya lo prendiste en calor? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Cómo calefaccionar con tu Midea Airvolution en un día de lluvia en Santiago sin disparar la cuenta: modo calor, temperatura moderada, Turbo, ECO+, Sleep, Timer y modo 8 °C. Aire acondicionado Inverter frío/calor con instalación en Santiago. Funciones según modelo y control. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #MideaAirvolution #aireacondicionado #santiago #calefaccion #inverter",
+    "linkedin": "Climatización todo el año: cómo usar un split Inverter Midea Airvolution como calefacción.\n\nCon la lluvia de esta semana en Santiago (máximas de 21–24 °C), muchos equipos instalados para el verano siguen apagados. Un split Inverter frío/calor bien usado también calefacciona de forma eficiente:\n\n• Temperatura moderada: subir el setpoint a 30 °C no acelera el calentamiento y aumenta el consumo.\n• Turbo acotado al inicio y luego ECO+ para mantener confort estable.\n• Sleep y Timer para uso nocturno y para evitar funcionamiento innecesario.\n• Monitoreo de consumo vía app WiFi.\n• I-Clean (autolimpieza), Golden Fin (anticorrosión de la unidad exterior) y modo 8 °C para espacios desocupados.\n\nFunciones según modelo y control.\n\nEn Climatízate Pro acompañamos la venta con instalación de calidad: ubicación que optimiza el rendimiento, recorrido ordenado, terminaciones limpias, simulador previo en climatizatepro.cl y garantía de instalación de 6 meses. Evaluamos proyectos para oficinas y locales.\n\nContacto: WhatsApp +56 9 6190 7601 · climatizatepro.cl"
+  }
+}

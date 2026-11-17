@@ -1,0 +1,101 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-17",
+  "fecha": "2026-11-17",
+  "hora": "19:00",
+  "pilar": "Errores (Esto te sube la cuenta de luz)",
+  "tema": "Esto te sube la cuenta de luz: llueve y lo pones a 30 °C… 3 errores al calefaccionar con tu aire",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "3 errores al calefaccionar con aire acondicionado que te suben la cuenta de luz",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Limpia los filtros con el equipo apagado, según su manual.",
+  "primer_comentario": "📲 ¿Tu aire no calienta parejo? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y lo vemos.",
+  "escenas": [
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+      "pos": [
+        0.6,
+        0.25
+      ],
+      "ajuste": "auto",
+      "chip": "Esto te sube la cuenta",
+      "titulo": "Llueve y lo pones a 30 °C",
+      "sub": "El 3 casi nadie lo revisa.",
+      "voz": "Llueve y lo pones a treinta… ojo, tres errores.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+      "pos": [
+        0.55,
+        0.2
+      ],
+      "ajuste": "auto",
+      "chip": "1 · A tope no apura",
+      "titulo": "30 °C no calienta más rápido",
+      "sub": "Una temperatura moderada basta.",
+      "voz": "Uno: a treinta no calienta más rápido, gasta más.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+      "pos": [
+        0.72,
+        0.2
+      ],
+      "ajuste": "auto",
+      "chip": "2 · Ventana abierta",
+      "titulo": "Ventila antes, no durante",
+      "sub": "Cierra y después lo prendes.",
+      "voz": "Dos: ventana abierta con el aire prendido… plata afuera.",
+      "zoom": "in"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+      "pos": [
+        0.6,
+        0.35
+      ],
+      "ajuste": "auto",
+      "chip": "3 · Filtros con polvo",
+      "titulo": "Filtro sucio, equipo forzado",
+      "sub": "Revísalos con el equipo apagado.",
+      "voz": "Y tres… filtros con polvo, y trabaja forzado.",
+      "zoom": "out"
+    },
+    {
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+      "pos": [
+        0.5,
+        0.0
+      ],
+      "ajuste": "completa",
+      "chip": "Instalación real",
+      "titulo": "Bien instalado, rinde todo el año",
+      "sub": "Recorrido ordenado · 6 meses de garantía.",
+      "voz": "Bien ubicado y ordenado, calienta parejo todo el año.",
+      "zoom": "in"
+    },
+    {
+      "foto": null,
+      "pos": [
+        0.5,
+        0.5
+      ],
+      "ajuste": "auto",
+      "chip": "Tu turno",
+      "titulo": "¿Cuál hacías tú?",
+      "sub": "Comenta el número · Escríbenos AIRE",
+      "voz": "¿Cuál hacías tú? Comenta el número… o escríbenos AIRE.",
+      "zoom": "out"
+    }
+  ],
+  "captions": {
+    "instagram": "Esto te sube la cuenta de luz 💸 Llueve, baja a 21 °C y pones el aire a 30 °C: no calienta más rápido, solo gasta más. Súmale la ventana abierta y los filtros con polvo. ¿Cuál hacías tú? Comenta el número. Mándaselo a quien pone el aire a tope. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #inverter #cuentadeluz #calefaccion",
+    "facebook": "Hoy llueve en Santiago y la máxima baja a 21–24 °C… ¿ya prendiste el aire en calor? 🌧️ Ojo con 3 errores que suben la cuenta de luz: 1) ponerlo a 30 °C pensando que calienta más rápido (no apura, solo gasta más; una temperatura moderada basta); 2) dejar la ventana abierta con el equipo prendido (ventila antes y después lo prendes); 3) filtros con polvo, que obligan al equipo a trabajar forzado (revísalos con el equipo apagado, según su manual). Nuestros equipos Inverter son frío/calor y climatizan todo el año, y los instalamos bien ubicados, con recorrido ordenado y 6 meses de garantía de instalación. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "3 errores al calefaccionar con aire acondicionado que te suben la cuenta de luz: ponerlo a 30 °C, la ventana abierta y los filtros sucios. Aire acondicionado Inverter frío/calor en Santiago, instalación ordenada y con garantía. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #cuentadeluz #inverter #instalación"
+  }
+}
