@@ -36,3 +36,9 @@
 
 ## Fotos del Drive
 Carpeta "Sara Vibes Personalizaciones" (id 1CH6uoY0pCP3UnmTpFReTHXNgo_EhU6fb): Diseños/Trabajos realizados y subcarpetas (Día de la madre, Día del amor, Conciertos...). Registrar en state/fotos_usadas.json qué archivos se usaron (id de Drive y fecha) para no repetir en 14 días.
+
+## Música (pedido del dueño, 17-11-2026)
+- CADA publicación lleva una canción en tendencia elegida para que conecte de forma orgánica con el tema (ej.: navidad → villancico pop en tendencia; antes/después → audio del trend de transiciones; showcase lindo → audio "dreamy"). Buscarla cada día en rankings de la semana (Metricool, Later, SocialPilot, CreatorDB) y anotar en state: audio_ig ("Título Artista") y audio_motivo.
+- La API de Instagram solo permite poner música a Reels. Por eso en Instagram TODA publicación sale como Reel (los carruseles/fotos se convierten en video de láminas con zoom suave, ~2,6–3 s por lámina, archivo reel.mp4 + portada.jpg) con instagramData.audioConfiguration.
+- Facebook: Reel con el mismo video (la API no permite elegir música).
+- TikTok: carrusel de fotos 9x16 con autoAddMusic (TikTok elige el sonido; la API no permite elegir una canción específica).
