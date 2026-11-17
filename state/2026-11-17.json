@@ -1,0 +1,136 @@
+{
+ "fecha": "2026-11-17",
+ "dia": "martes 17 (día impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a1e8e42640b7282",
+ "messageId": "1a1e8e42640b7282",
+ "correo": "fcosotog7@gmail.com",
+ "gmail": {
+  "messageId": "1a1e8e42640b7282",
+  "threadId": "1a1e8e42640b7282",
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-17 – responde OK para publicar"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel (ayer Reel)",
+  "15:00": "imagen única IA (ayer carrusel)",
+  "20:30": "Reel IA cartoon (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Senapred alerta preventiva por calor hasta marzo 2027 (Pauta 2-nov) -> 11:00 hidratación",
+  "Micronovela por capítulos + previa fiestas (chocolate) -> 20:30 Perrinovela cap 9",
+  "Audio IG: Dame Hombro – Bulin 47 (que.es trends TikTok nov-2026, dembow en alza)"
+ ],
+ "notas": "Drive TeamFS revisado (acceso OK): sin archivos nuevos desde 2-nov (Bolsa.png/Mochila.png). Carpeta 1EGTcL1... = aire acondicionado, no usar. Todas las fotos reales de Cane Corso (banco cc_001-011 y Drive) usadas hace <14 días o portada <30 días -> 15:00 con IA reutilizada. Canva generate-image quota_exceeded 17-nov. El proxy de la sesión bloquea descargar exports de Canva y static.metricool.com: la imagen de 15:00 no se pudo revisar como export final (textos verificados en el documento de Canva, misma maquetación que el 15-nov).",
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "¿Tu Bully toma suficiente agua? 4 claves de hidratación con calor (agua fresca siempre/2 bebederos, señales de deshidratación -> veterinario, hielo/sandía/ración remojada con moderación, paseo con agua) + Dato beber de a poco / cambio brusco -> veterinario; CTA comenta TOMA o JUEGA",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco/american-bully 058, 059, 065 + Drive 1VbcA12RzfPBExuSyvW4On2T-yAc8rqZ8 (ya en repo, 15 días)",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-17-1100-hidratacion-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-8785280047000075361.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-11661639157255526205.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-5235201582121951632.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-11542499830276542948.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-5151475192258509444.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-10708000573435865110.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-14442148576952659698.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 431199117,
+     "uuid": "-7254835822529002279",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¿Aliento de dragón? Cepillado de dientes del Cane Corso en 4 pasos (dedo + pasta para perros, masaje encías, cepillo círculos, frecuencia) + Dato sarro/encías rojas/mal aliento -> veterinario; CTA comenta SE DEJA o DRAMA",
+   "raza": "Cane Corso",
+   "formato": "imagen única (Canva)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZSTprTIk (generate-image quota_exceeded 17-nov)",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/IoShH3zNy9xgvmF (diseño DAHbKbglZWE, copia de DAHa-dEZ-Yw)",
+   "carpeta": "publicaciones/2026-11-17-1500-cepillado-dental-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-16204032034076028480.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 431199128,
+     "uuid": "8306958416456204345",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 9 'EL CUMPLE': Kopito cumple 7 meses, Queen trae torta de chocolate, Ragnar y Bella alerta chocolate, giro torta de pollo y zapallo + Dato chocolate/xilitol/uvas/pasas tóxicos -> veterinario; CTA comenta PERRINOVELA, síguenos cap. 10",
+   "raza": "American Bully + Cane Corso (manada)",
+   "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZqYnFSDQ (Queen auto), MAHZqeEaBw0 (Ragnar y Bella), MAHZqbGXSAY (Kopito)",
+   "isAiGenerated": true,
+   "audio": "IG: Dame Hombro – Bulin 47, Kevin Wai, Breyco En Producidera, audioId 878191945283147, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "canva": "https://www.canva.com/d/BhP0gO38FajE_OX (diseño DAHbKdIKfr0, copia de DAHa-Rfr_Pc)",
+   "carpeta": "publicaciones/2026-11-17-2030-perrinovela-cap9-el-cumple",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 9
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-14170093693291270525.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 431199142,
+     "uuid": "8553358878714842587",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    },
+    {
+     "id": 431199239,
+     "uuid": "5160459803309655164",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ]
+}
