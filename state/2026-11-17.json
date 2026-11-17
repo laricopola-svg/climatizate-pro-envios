@@ -44,17 +44,19 @@
    ],
    "metricool": [
     {
-     "id": 431199117,
+     "id": 431357766,
      "uuid": "-7254835822529002279",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 431199117
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-17T09:06:36-03:00"
   },
   {
    "n": 2,
@@ -74,7 +76,7 @@
    ],
    "metricool": [
     {
-     "id": 431199128,
+     "id": 431357793,
      "uuid": "8306958416456204345",
      "redes": [
       "facebook",
@@ -83,10 +85,12 @@
      ],
      "isAiGenerated": true,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 431199128
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-17T09:06:36-03:00"
   },
   {
    "n": 3,
@@ -110,30 +114,33 @@
    ],
    "metricool": [
     {
-     "id": 431199142,
+     "id": 431357823,
      "uuid": "8553358878714842587",
      "redes": [
       "instagram",
       "facebook"
      ],
      "isAiGenerated": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 431199142
     },
     {
-     "id": 431199239,
+     "id": 431357839,
      "uuid": "5160459803309655164",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 431199239
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-17T09:06:36-03:00"
   }
  ],
- "ultima_revision": "2026-11-17T08:05:18-03:00",
+ "ultima_revision": "2026-11-17T09:06:36-03:00",
  "revisiones": [
   {
    "hora": "2026-11-17T07:05:25-03:00",
@@ -142,6 +149,10 @@
   {
    "hora": "2026-11-17T08:05:18-03:00",
    "resultado": "Hilo Gmail sin respuestas de fcosotog7@gmail.com (solo el correo de propuesta). Sin cambios."
+  },
+  {
+   "hora": "2026-11-17T09:06:36-03:00",
+   "resultado": "Respuesta de fcosotog7@gmail.com 08:09:58 (msg 1a1e9333d8eb0806): 'Ok' -> aprobadas las 3. updateScheduledPost draft:false en Metricool (11:00 id 431357766; 15:00 id 431357793; 20:30 IG+FB id 431357823 y TikTok id 431357839 autoPublish false). Horarios originales conservados (todos en el futuro). Estado: programada."
   }
  ]
 }
