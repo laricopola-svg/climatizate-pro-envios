@@ -26,6 +26,11 @@
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_011.jpg": [
@@ -42,6 +47,11 @@
   {
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
    "portada": false
   }
  ],
@@ -60,6 +70,11 @@
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_008.jpg": [
@@ -71,6 +86,11 @@
   {
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
    "portada": false
   }
  ],
@@ -100,6 +120,11 @@
   {
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
    "portada": false
   }
  ],
@@ -1245,6 +1270,11 @@
    "fecha": "2026-10-31",
    "carpeta": "publicaciones/2026-10-31-1100-pliegues-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1500-orejas-limpias-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_055.jpg": [
@@ -1270,6 +1300,11 @@
   {
    "fecha": "2026-10-31",
    "carpeta": "publicaciones/2026-10-31-2030-ghosteo-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1500-orejas-limpias-bully",
    "portada": false
   }
  ],
@@ -1321,6 +1356,11 @@
    "fecha": "2026-11-01",
    "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1500-orejas-limpias-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_025.jpg": [
@@ -1334,6 +1374,11 @@
   {
    "fecha": "2026-11-01",
    "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1500-orejas-limpias-bully",
    "portada": false
   }
  ],
@@ -1591,6 +1636,11 @@
    "fecha": "2026-11-16",
    "carpeta": "canva DAHbEbise00 (Perrinovela cap 8 La carta)",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-2030-perrinovela-cap10-la-foto",
+   "portada": false
   }
  ],
  "publicaciones/2026-11-10-1100-espigas-cane-corso/src_10pEBn_cYX.jpg": [
@@ -1781,6 +1831,11 @@
    "fecha": "2026-11-16",
    "carpeta": "canva DAHbEbise00 (Perrinovela cap 8 La carta)",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-2030-perrinovela-cap10-la-foto",
+   "portada": true
   }
  ],
  "publicaciones/2026-11-17-1100-hidratacion-bully/src_1VbcA12RzfP.jpg": [
@@ -1788,6 +1843,13 @@
    "fecha": "2026-11-17",
    "carpeta": "publicaciones/2026-11-17-1100-hidratacion-bully",
    "portada": false
+  }
+ ],
+ "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso/hook_diseno.jpg": [
+  {
+   "fecha": "2026-11-18",
+   "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
+   "portada": true
   }
  ]
 }
