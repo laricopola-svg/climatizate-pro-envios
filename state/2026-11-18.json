@@ -103,7 +103,7 @@
    "audio_ig": "Angel of My Dreams JADE",
    "ia": false,
    "fuente": "Drive Sara Vibes Personalizaciones/Trabajos realizados",
-   "estado": "programada",
+   "estado": "publicada",
    "metricool": [
     {
      "red": "instagram",
@@ -124,7 +124,11 @@
    "aprobada_por": "respuesta \"Ok\" 1a1ec18a7337b27a (2026-11-17 21:39)",
    "hora_real": "20:40",
    "audio_ig_usado": "Rose Petal Love (Instrumental) – Shuba",
-   "nota": "Prueba manual 18-11 20:40. 'Angel of My Dreams – JADE' no está en la biblioteca de música comercial que Instagram da a cuentas de empresa vía API. TikTok sin conectar."
+   "nota": "Prueba manual 18-11 20:40. 'Angel of My Dreams – JADE' no está en la biblioteca de música comercial que Instagram da a cuentas de empresa vía API. TikTok sin conectar.",
+   "urls_publicadas": [
+    "https://www.instagram.com/reel/Df5tS0PFTyE/",
+    "https://facebook.com/reel/1119831044152806"
+   ]
   }
  ],
  "metricool_marca": {
