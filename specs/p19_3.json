@@ -1,0 +1,6 @@
+{"slides":[
+{"tipo":"portada","foto":"/home/claude/svmedia/banco/paciencia.jpg","pos":[0.5,0.42],"chip":"Comenta 1, 2 o 3","titulo":"¿Qué polerón te representa a fin de año?","resaltar":["te representa"],"sub":"Desliza y elige con honestidad"},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/paciencia.jpg","pos":[0.5,0.45],"chip":"1","titulo":"Bajo nivel de paciencia","resaltar":["paciencia"],"sub":"Para quien llega a diciembre con la batería en rojo."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/casado.jpg","pos":[0.5,0.45],"chip":"2","titulo":"Fruto prohibido: casado","resaltar":["casado"],"sub":"Para que todos sepan que está ocupado."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/bendecida.jpg","pos":[0.5,0.55],"chip":"3","titulo":"Bendecida","resaltar":["Bendecida"],"sub":"Con mariposas también en las mangas."},
+{"tipo":"cta","titulo":"¿Cuál eres tú? Comenta 1, 2 o 3","resaltar":["1, 2 o 3"],"sub":"¿Tienes tu propia frase? Mándala por WhatsApp y la convertimos en polerón."}]}
