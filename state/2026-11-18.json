@@ -1,0 +1,154 @@
+{
+ "fecha": "2026-11-18",
+ "dia": "miércoles (par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "threadId": "1a1ee09af6fa9ce3",
+ "messageId": "1a1ee09af6fa9ce3",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-18 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a1ee09af6fa9ce3",
+  "messageId": "1a1ee09af6fa9ce3"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel foto real (ayer carrusel)",
+  "15:00": "carrusel (ayer imagen única IA)",
+  "20:30": "carrusel IA cómic (ayer Reel IA cartoon)"
+ },
+ "tendencias_usadas": [
+  "Formato POV (que.es trends noviembre 2026) -> 11:00",
+  "Audio IG: Coming Up Roses – Harry Styles (que.es trends TikTok nov-2026; solo original_sound en catálogo)",
+  "Calor/baños/piscina Chile (Emol calor extremo 7-nov) -> 15:00 orejas",
+  "Micronovela por capítulos + previa navideña (foto con gorrito) -> 20:30 Perrinovela cap 10"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu cachorro de Cane Corso se cree atleta olímpico - articulaciones en crecimiento 0-24 meses (saltos/escaleras, bici solo con autorización del veterinario, piso antideslizante, peso justo, cojera -> veterinario) + Dato radiografías de cadera y codo de los padres",
+   "raza": "Cane Corso",
+   "formato": "Reel 19 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco cc_009, cc_011, cc_005, cc_008, cc_004 + portada de diseño (hook_diseno.jpg)",
+   "isAiGenerated": false,
+   "audio": "IG: Coming Up Roses – Harry Styles, original_sound audioId 26840379028968773 (@acijan; sin versión music en catálogo), audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-18439435689767200074.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 432588679,
+     "uuid": "-8594838401846653798",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "draft": true
+    },
+    {
+     "id": 432589221,
+     "uuid": "-2972715806929370429",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¿Las orejas de tu Bully huelen a queso? Limpieza de orejas en 4 pasos (revisar/oler semanal, solo limpiador ótico indicado por veterinario, masaje base + sacudir + secar, premio y cero cotonitos) + Dato señales de otitis -> veterinario; CTA comenta SE DEJA o TELESERIE",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "fuente": "repo banco bully_062, bully_063, bully_049, bully_068",
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-18-1500-orejas-limpias-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-15351468293912165785.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-3004506165248873924.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-13138197386345523684.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-15882851613231702292.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-6510407033893632626.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-4696463451177361800.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-14154180838845282757.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 432589241,
+     "uuid": "2487030469567595066",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 10 'LA FOTO': foto navideña, Ragnar '¡SONRÍAN!', Kopito '¿el gorro se come?', Queen '¿salí bien?' / Kopito '¡MOVIDA!' + Dato el disfraz NO es obligatorio (cómodo, nada apretado ni que tape ojos/nariz, nunca solo con él); CTA comenta FOTO, síguenos cap. 11",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZwbedLFc (Queen), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 18-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/YXU2RK0yZ6V8HgO (diseño DAHbQQ7tNcI, copia de DAHbEbise00)",
+   "carpeta": "publicaciones/2026-11-18-2030-perrinovela-cap10-la-foto",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 10
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-15779625725215864758.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-928877455789369723.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-8839213288920646367.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-1597661248245696755.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 432589260,
+     "uuid": "-259201024809352477",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: búsqueda imágenes/videos modificados desde 19-oct sin archivos nuevos desde 2-nov (Bolsa.png/Mochila.png). Sin material nuevo; se pidió al dueño en el correo."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (18-nov). Pieza IA hecha reutilizando arte IA existente (copy-design + edit-design + export jpg)."
+  },
+  {
+   "detalle": "Banco Cane Corso: todas las fotos usadas en <30 días con alguna portada -> Reel 11:00 con portada de diseño; fotos cc_004/005/008/009/011 con 14 días (fotos.py OK)."
+  },
+  {
+   "detalle": "Audio IG: 'Angel of My Dreams' (JADE) no está en el catálogo de Metricool; 'Coming Up Roses' solo como original_sound."
+  }
+ ],
+ "revisiones": []
+}
