@@ -1,0 +1,56 @@
+{
+ "tema": "¿Vives en depa? 6 cosas que revisar antes de instalar tu aire (la 6 casi nadie la pregunta)",
+ "fecha": "2026-11-18",
+ "id": "2026-11-18",
+ "hora": "12:00",
+ "pilar": "Educativo (instalar en departamento)",
+ "primer_comentario": "📲 ¿Vives en depa y quieres saber cómo quedaría? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "slides": [
+  {"tipo": "portada", "kicker": "Antes del verano", "titulo": "¿Vives en <span class=c>depa</span>? 6 cosas antes de instalar tu aire",
+   "texto": "Balcón, vecinos, agua y enchufe. La 6 casi nadie la pregunta. Guárdalo."},
+  {"tipo": "lista", "kicker": "Del 1 al 3", "titulo": "El edificio <span class=f>y la de afuera</span>",
+   "items": [
+    {"icono": "📋", "t": "1. Pregunta en la administración", "d": "Algunos edificios tienen reglas para la unidad de afuera en fachada o balcón."},
+    {"icono": "📍", "t": "2. ¿Dónde va la de afuera?", "d": "Balcón, terraza o logia: con espacio para respirar y base firme.", "calor": true},
+    {"icono": "💧", "t": "3. ¿Para dónde va el agua?", "d": "Que no caiga al balcón del vecino de abajo ni moje tu terraza."}
+   ]},
+  {"tipo": "lista", "kicker": "Del 4 al 6", "titulo": "Lo que <span class=c>se ve y se cobra</span>",
+   "items": [
+    {"icono": "📏", "t": "4. Distancia entre las dos unidades", "d": "Si están en el mismo muro, menos tubería y recorrido más limpio."},
+    {"icono": "✓", "t": "5. Cómo se ve el recorrido", "d": "Canaleta y equipo derecho: nada colgando por el muro del living."},
+    {"icono": "🔌", "t": "6. ¿Hay enchufe cerca?", "d": "Si el punto eléctrico queda a más de 1,5 m, se suma por metro. Mira la tabla.", "calor": true}
+   ]},
+  {"tipo": "tabla", "kicker": "Según tu depa", "titulo": "¿Cómo <span class=f>queda el tuyo</span>?",
+   "filas": [
+    ["Pieza con balcón o terraza", "La de afuera ahí, recorrido corto"],
+    ["Sin balcón", "Soporte muro: se evalúa según el edificio"],
+    ["Pieza lejos del muro de afuera", "Extensión de tuberías: se evalúa"],
+    ["El agua no tiene salida", "Bomba de condensado: se evalúa"]
+   ]},
+  {"tipo": "tabla", "kicker": "Adicionales oficiales", "titulo": "Si tu muro <span class=c>pide más</span>",
+   "filas": [
+    ["Canaleta blanca 100×50 (2 m)", "$35.000"],
+    ["Soporte muro o piso", "$35.000"],
+    ["Punto eléctrico a más de 1,5 m", "$12.000 por metro adicional"],
+    ["Bomba de condensado o extensión", "Se evalúa"]
+   ]},
+  {"tipo": "foto", "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": "50% 0%", "ajuste": "completa",
+   "kicker": "Instalación real · depa con balcón", "titulo": "Adentro y afuera, en el mismo muro",
+   "texto": "Recorrido corto, unidad de afuera en el balcón y todo ordenado.", "etiqueta": "Instalación real · Santiago"},
+  {"tipo": "lista", "kicker": "Así lo instalamos", "titulo": "En tu depa, <span class=c>sin sorpresas</span>",
+   "items": [
+    {"icono": "◎", "t": "Míralo antes en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+    {"icono": "⌖", "t": "Te decimos qué incluye", "d": "Instalación básica (lo que trae la caja) y adicionales claros antes de perforar."},
+    {"icono": "✓", "t": "Terminaciones limpias", "d": "Recorrido ordenado, espacio limpio al terminar y garantía de instalación de 6 meses."}
+   ]},
+  {"tipo": "cta", "kicker": "¿Cuántas tenías claras?", "titulo": "Escríbenos <span class=f>AIRE</span> y lo vemos",
+   "texto": "Mándanos una foto de tu muro, del balcón y la comuna. Equipos Inverter frío/calor, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+   "boton": "Cotiza en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado en departamento: 6 cosas que revisar antes de instalar 🏢 Administración, dónde va la de afuera, el agua, la distancia, el recorrido… y la 6, la que casi nadie pregunta: dónde está el enchufe. ¿Cuántas tenías claras? Comenta el número. Guárdalo y mándaselo a tu vecino del depa de al lado. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #departamento #instalacion #inverter",
+  "facebook": "¿Vives en depa y quieres instalar aire antes del verano? 🏢 Esto conviene revisar: 1) pregunta en la administración si hay reglas para la unidad de afuera; 2) dónde va la de afuera (balcón, terraza o logia, con espacio para respirar); 3) para dónde va el agua, que no moje al vecino de abajo; 4) la distancia entre las dos unidades; 5) cómo se verá el recorrido; 6) dónde está el enchufe. La instalación básica incluye lo que trae la caja (aprox. 2 m de tubería de cobre y 2 m de cordones). Si tu depa pide más: canaleta blanca 100×50 de 2 m $35.000, soporte muro o piso $35.000 y punto eléctrico a más de 1,5 m $12.000 por metro adicional; bomba de condensado o extensión de tuberías se evalúan. Antes de decidir, míralo en tu muro con el simulador de climatizatepro.cl. ¿En qué comuna está tu depa? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Instalar aire acondicionado en departamento en Santiago: 6 cosas que revisar antes (administración, unidad exterior en balcón, desagüe, distancia, canaleta y enchufe). Aire acondicionado Inverter frío/calor, Midea Airvolution entre otros. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #departamento #instalación #inverter",
+  "linkedin": "Climatizar un departamento: seis puntos a revisar antes de instalar.\n\n1. Reglamento del edificio: algunas comunidades regulan la ubicación de la unidad exterior.\n2. Ubicación de la unidad exterior: ventilación y base firme.\n3. Desagüe: evitar molestias a vecinos y terrazas.\n4. Distancia entre unidades: menor recorrido, instalación más limpia.\n5. Estética del recorrido: canaleta y terminaciones.\n6. Punto eléctrico: su distancia puede implicar un adicional.\n\nEn Climatízate Pro informamos qué incluye la instalación básica y los adicionales antes de instalar, con simulador en línea y garantía de instalación de 6 meses. Para administraciones y comunidades con varios departamentos, hacemos evaluación técnica.\n\nCotiza: climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}

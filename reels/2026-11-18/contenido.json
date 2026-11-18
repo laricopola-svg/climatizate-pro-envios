@@ -1,0 +1,41 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-18",
+  "fecha": "2026-11-18",
+  "hora": "19:00",
+  "pilar": "Venta suave (instalación real)",
+  "tema": "Tu aire listo antes del verano en 3 pasos (el 3 casi nadie lo pregunta)",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "Aire acondicionado en Santiago: tu equipo listo antes del verano en 3 pasos",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Instalación básica: lo que trae la caja. Adicionales se cotizan según tu muro.",
+  "primer_comentario": "📲 ¿Lo quieres listo antes del verano? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) o comenta COTIZAR y te escribimos.",
+  "escenas": [
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.6, 0.25], "ajuste": "auto",
+     "chip": "Antes del verano", "titulo": "Tu aire listo en 3 pasos", "sub": "El 3 casi nadie lo pregunta.",
+     "voz": "¿Tu aire listo antes del verano? Son tres pasos.", "zoom": "in"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg", "pos": [0.55, 0.2], "ajuste": "auto",
+     "chip": "Paso 1", "titulo": "Míralo en tu muro", "sub": "Simulador en climatizatepro.cl.",
+     "voz": "Uno: subes una foto de tu muro al simulador.", "zoom": "out"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.6, 0.35], "ajuste": "auto",
+     "chip": "Paso 2", "titulo": "Sabes qué incluye", "sub": "Básica clara y adicionales según tu muro.",
+     "voz": "Dos: te decimos qué incluye, antes de perforar nada.", "zoom": "in"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.5, 0.0], "ajuste": "completa",
+     "chip": "Paso 3", "titulo": "Garantía de instalación", "sub": "6 meses, para tu tranquilidad.",
+     "voz": "Y tres, ojo… seis meses de garantía de instalación.", "zoom": "out"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg", "pos": [0.4, 0.3], "ajuste": "auto",
+     "chip": "Así queda", "titulo": "Ordenado y limpio", "sub": "Recorrido prolijo, espacio limpio.",
+     "voz": "Así queda: ordenado, y tu espacio limpiecito.", "zoom": "in"},
+    {"foto": null, "pos": [0.5, 0.5], "ajuste": "auto",
+     "chip": "Cotiza en 1 minuto", "titulo": "¿Cuál paso no sabías?", "sub": "Escríbenos AIRE · +56 9 6190 7601",
+     "voz": "¿Cuál no sabías? Comenta el número… o escríbenos AIRE.", "zoom": "out"}
+  ],
+  "captions": {
+    "instagram": "Instalación de aire acondicionado antes del verano, en 3 pasos 👌 1) lo miras en tu muro con el simulador, 2) sabes qué incluye antes de perforar, 3) garantía de instalación de 6 meses. ¿Cuál no sabías? Comenta el número. Mándaselo a quien está muerto de calor en su depa. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio) o comenta COTIZAR. #aireacondicionado #santiago #instalacion #inverter #MideaAirvolution",
+    "facebook": "Faltan un par de semanas para el verano y el calor ya avisó 🔥 Si estás pensando en instalar, así lo hacemos en 3 pasos: 1) subes una foto de tu muro al simulador de climatizatepro.cl y ves cómo queda; 2) te decimos qué incluye la instalación básica (lo que trae la caja) y si tu muro pide algo más, antes de perforar; 3) instalamos ordenado, dejamos tu espacio limpio y te damos 6 meses de garantía de instalación. Equipos Inverter frío/calor, Midea Airvolution entre otros. ¿En qué comuna estás? Cuéntanos y te decimos cómo quedaría. Cotiza en 1 minuto por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Aire acondicionado en Santiago: tu equipo listo antes del verano en 3 pasos. Simulador en tu muro, instalación clara y garantía de 6 meses. Midea Airvolution Inverter entre otros. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #MideaAirvolution #inverter"
+  }
+}
