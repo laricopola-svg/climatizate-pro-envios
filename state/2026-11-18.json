@@ -4,7 +4,7 @@
   "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
   "enviado": "2026-11-17T20:30-03:00",
   "nota": "Correo único con la prueba del 17 (pub 0) y las 3 del 18 (pub 1-3).",
-  "ultima_revision": "2026-11-17T21:03-03:00",
+  "ultima_revision": "2026-11-17T22:05-03:00",
   "publicaciones": [
     {
       "numero": 1,
@@ -40,10 +40,11 @@
       "audio_ig": "Last Christmas Wham!",
       "ia": false,
       "fuente": "Drive Sara Vibes Personalizaciones/Trabajos realizados",
-      "estado": "pendiente_aprobacion",
+      "estado": "aprobada",
       "metricool": [],
       "audio_motivo": "Clásico navideño que está entre los audios más usados en Reels esta semana; conecta directo con la guía de regalos de Navidad.",
-      "instagram_como_reel": true
+      "instagram_como_reel": true,
+      "aprobada_por": "respuesta \"Ok\" 1a1ec18a7337b27a (2026-11-17 21:39)"
     },
     {
       "numero": 2,
@@ -70,10 +71,11 @@
       "audio_ig": "Upside Down Diana Ross",
       "ia": false,
       "fuente": "Drive Sara Vibes Personalizaciones/Trabajos realizados",
-      "estado": "pendiente_aprobacion",
+      "estado": "aprobada",
       "metricool": [],
       "audio_motivo": "Es el audio del trend de transiciones antes/después en Reels; calza con mostrar la polera lisa y luego con el logo.",
-      "instagram_como_reel": true
+      "instagram_como_reel": true,
+      "aprobada_por": "respuesta \"Ok\" 1a1ec18a7337b27a (2026-11-17 21:39)"
     },
     {
       "numero": 3,
@@ -99,10 +101,11 @@
       "audio_ig": "Angel of My Dreams JADE",
       "ia": false,
       "fuente": "Drive Sara Vibes Personalizaciones/Trabajos realizados",
-      "estado": "pendiente_aprobacion",
+      "estado": "aprobada",
       "metricool": [],
       "audio_motivo": "En tendencia para mostrar algo 'demasiado lindo para ser real' (showcase soñador); calza con el polerón de mariposas.",
-      "instagram_como_reel": true
+      "instagram_como_reel": true,
+      "aprobada_por": "respuesta \"Ok\" 1a1ec18a7337b27a (2026-11-17 21:39)"
     }
   ],
   "metricool_marca": {
@@ -110,6 +113,10 @@
     "label": "SaraVibes",
     "timezone": "America/Santiago",
     "redes_conectadas": [],
-    "nota": "Revisión 21:03: marca SaraVibes (8188736) sigue sin redes conectadas; hilo sin respuestas de sara.vibespersonaliza@gmail.com (solo los 2 correos enviados). No se programó nada."
-  }
+    "nota": "Revisión 22:05: Sara respondió \"Ok\" (aprueba todo). Marca SaraVibes (8188736) sin redes conectadas (networksData vacío) -> no se puede programar. Se envió aviso para conectar redes; aprobaciones guardadas para la próxima revisión."
+  },
+  "respuestas_procesadas": [
+    "1a1ec18a7337b27a"
+  ],
+  "aviso_metricool_enviado": true
 }

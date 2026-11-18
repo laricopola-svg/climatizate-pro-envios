@@ -4,7 +4,7 @@
   "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
   "enviado": "2026-11-17T20:30-03:00",
   "nota": "Correo único con la prueba del 17 (pub 0) y las 3 del 18 (pub 1-3).",
-  "ultima_revision": "2026-11-17T21:03-03:00",
+  "ultima_revision": "2026-11-17T22:05-03:00",
   "publicaciones": [
     {
       "numero": 0,
@@ -30,10 +30,11 @@
       "audio_ig": "good mood room waves",
       "ia": false,
       "fuente": "Drive Sara Vibes Personalizaciones/Trabajos realizados",
-      "estado": "pendiente_aprobacion",
+      "estado": "aprobada",
       "metricool": [],
       "audio_motivo": "Suave y cálida: acompaña un regalo de cariño para la profe sin competir con el texto. Está entre los sonidos que más crecen en Reels esta semana.",
-      "instagram_como_reel": true
+      "instagram_como_reel": true,
+      "aprobada_por": "respuesta \"Ok\" 1a1ec18a7337b27a (2026-11-17 21:39)"
     }
   ],
   "metricool_marca": {
@@ -41,6 +42,10 @@
     "label": "SaraVibes",
     "timezone": "America/Santiago",
     "redes_conectadas": [],
-    "nota": "Revisión 21:03: marca SaraVibes (8188736) sigue sin redes conectadas; hilo sin respuestas de sara.vibespersonaliza@gmail.com (solo los 2 correos enviados). No se programó nada."
-  }
+    "nota": "Revisión 22:05: Sara respondió \"Ok\" (aprueba todo). Marca SaraVibes (8188736) sin redes conectadas (networksData vacío) -> no se puede programar. Se envió aviso para conectar redes; aprobaciones guardadas para la próxima revisión."
+  },
+  "respuestas_procesadas": [
+    "1a1ec18a7337b27a"
+  ],
+  "aviso_metricool_enviado": true
 }
