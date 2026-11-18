@@ -45,3 +45,7 @@ Carpeta "Sara Vibes Personalizaciones" (id 1CH6uoY0pCP3UnmTpFReTHXNgo_EhU6fb): D
 
 - IMPORTANTE (probado 18-11-2026): la cuenta de Instagram de Sara es de EMPRESA, y por API solo tiene acceso a la biblioteca de música comercial (sin éxitos de sellos; p. ej. "Angel of My Dreams – JADE" no está). Al programar: busca primero la canción en tendencia por título; si Metricool devuelve candidatos y ninguno es esa canción, elige de esa lista (o con otra búsqueda por estado de ánimo: "christmas", "happy", "dreamy", "upbeat", "acoustic") la pista que mejor calce con el tema y regístrala en audio_ig_usado. Primera prueba: "Rose Petal Love (Instrumental) – Shuba" (audioId 608334931793444) para el polerón de mariposas.
 - TikTok: si al conectar aparece otra cuenta (ej. teamfs_bullkennelclub), es porque el navegador ya tenía esa sesión de TikTok abierta. NUNCA programar en SaraVibes si su tiktokData no es la cuenta de Sara.
+
+## Aprobación (pedido del dueño, 18-11-2026)
+- Publicaciones del 19 al 23 de noviembre de 2026: requieren OK de Sara por correo.
+- Desde el 24 de noviembre de 2026: se publican solas a las 10:00, 15:00 y 19:30. El correo diario pasa a ser informativo; Sara solo responde "NO n" para cancelar o con cambios.
