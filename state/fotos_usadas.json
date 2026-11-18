@@ -1,5 +1,75 @@
-{"1M-u56Qnz87ordwyJKvkLghwwkHk4fQ7J":{"nombre":"Bolsa.png","usada":["2026-11-17","2026-11-18"]},
- "1buZDyvQTalnLLcUEN9VuxXq-cDXyKVgY":{"nombre":"Tía.jpeg","usada":["2026-11-18"]},
- "1rovWk0OqAXT4jjJoi3hWrCSk2fdFZN1X":{"nombre":"Mariposa.jpeg","usada":["2026-11-18"]},
- "1rk7k_Fp1NCZa0-kKrru5SEI-x2orrTd5":{"nombre":"Taller.jpeg","usada":["2026-11-18"]},
- "1PXFybKj0ToPI3ixsQyurtAuIOIB9bfsq":{"nombre":"Taller 2.jpeg","usada":["2026-11-18"]}}
+{
+ "1M-u56Qnz87ordwyJKvkLghwwkHk4fQ7J": {
+  "nombre": "Bolsa.png",
+  "usada": [
+   "2026-11-17",
+   "2026-11-18"
+  ]
+ },
+ "1buZDyvQTalnLLcUEN9VuxXq-cDXyKVgY": {
+  "nombre": "Tía.jpeg",
+  "usada": [
+   "2026-11-18"
+  ]
+ },
+ "1rovWk0OqAXT4jjJoi3hWrCSk2fdFZN1X": {
+  "nombre": "Mariposa.jpeg",
+  "usada": [
+   "2026-11-18"
+  ]
+ },
+ "1rk7k_Fp1NCZa0-kKrru5SEI-x2orrTd5": {
+  "nombre": "Taller.jpeg",
+  "usada": [
+   "2026-11-18"
+  ]
+ },
+ "1PXFybKj0ToPI3ixsQyurtAuIOIB9bfsq": {
+  "nombre": "Taller 2.jpeg",
+  "usada": [
+   "2026-11-18"
+  ]
+ },
+ "1xN2zQ-jRR-MLS2f6-lkLFYVbYUr4BIVu": {
+  "nombre": "Colibri.jpeg",
+  "usada": [
+   "2026-11-19"
+  ]
+ },
+ "1ouF-D_bFNfSMPKwyCu2CawYnpaEP-Uus": {
+  "nombre": "conjunto.jpeg",
+  "usada": [
+   "2026-11-19"
+  ]
+ },
+ "1__B40_dUenChSc-fWfeysdC5KESv1FA4": {
+  "nombre": "Corazón .jpeg",
+  "usada": [
+   "2026-11-19"
+  ]
+ },
+ "190O20bJmeoJJNvqxs7IYelsrUg6kCKjj": {
+  "nombre": "Mochila.png",
+  "usada": [
+   "2026-11-19"
+  ]
+ },
+ "1E4dUCh7AjfxN7y780m2Q2Z5lLAWcnh9a": {
+  "nombre": "Paciencia.jpeg",
+  "usada": [
+   "2026-11-19"
+  ]
+ },
+ "1PBb25M5TDWVkGFYuYxQrJA3FLM_5YOpR": {
+  "nombre": "casado.jpeg",
+  "usada": [
+   "2026-11-19"
+  ]
+ },
+ "1lS8V-dBQdSKT8FiAzekVCpGPkDj0juJI": {
+  "nombre": "Bendecida.jpeg",
+  "usada": [
+   "2026-11-19"
+  ]
+ }
+}
