@@ -1,22 +1,11 @@
 #!/bin/bash
-# uso: reel.sh carpeta segundos_por_lamina
-set -e
-D=$1; T=$2; X=0.4; FPS=30
-files=($D/9x16_*.jpg); n=${#files[@]}
-inputs=""; filt=""
-for i in "${!files[@]}"; do
-  inputs+=" -loop 1 -t $T -i ${files[$i]}"
-  fr=$(python3 -c "print(int($T*$FPS))")
-  filt+="[$i:v]scale=1188:2112,zoompan=z='min(zoom+0.0007,1.08)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=$fr:s=1080x1920:fps=$FPS,setsar=1,format=yuv420p[v$i];"
-done
-if [ $n -eq 1 ]; then last="v0"; else
-  prev="v0"; off=0
-  for ((i=1;i<n;i++)); do
-    off=$(python3 -c "print(round($T*$i-$X*$i,2))")
-    filt+="[$prev][v$i]xfade=transition=fade:duration=$X:offset=$off[x$i];"; prev="x$i"
-  done; last=$prev
-fi
-dur=$(python3 -c "print(round($T*$n-$X*($n-1),2))")
-ffmpeg -y -loglevel error $inputs -f lavfi -t $dur -i anullsrc=r=44100:cl=stereo -filter_complex "${filt%;}" -map "[$last]" -map $n:a -c:v libx264 -preset veryfast -crf 18 -pix_fmt yuv420p -r $FPS -c:a aac -b:a 128k -shortest -movflags +faststart $D/reel.mp4
-cp $D/9x16_01.jpg $D/portada.jpg
-ffprobe -v error -show_entries format=duration,size -of csv=p=0 $D/reel.mp4
+# Uso: tools/make_reel.sh <carpeta con 9x16_NN.jpg> [segundos_por_lamina]
+d=$1; n=$(ls $d/9x16_*.jpg | wc -l); per=${2:-$([ $n = 1 ] && echo 8 || echo 3)}; i=0; T=$(mktemp -d)
+for f in $(ls $d/9x16_*.jpg); do i=$((i+1)); ffmpeg -y -loglevel error -loop 1 -i $f -t $per -vf "scale=1188:2112,zoompan=z='min(zoom+0.0009,1.06)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x1920:fps=30,format=yuv420p" -r 30 -c:v libx264 -preset veryfast -crf 18 $T/s$i.mp4; done
+if [ $n = 1 ]; then cp $T/s1.mp4 $T/v.mp4; else inputs=""; fc=""; prev="0"
+ for j in $(seq 1 $n); do inputs="$inputs -i $T/s$j.mp4"; done
+ for j in $(seq 1 $((n-1))); do off=$(python3 -c "print(round($j*($per-0.4),2))"); fc="$fc[$prev][$j]xfade=transition=slideleft:duration=0.4:offset=$off[x$j];"; prev=x$j; done
+ ffmpeg -y -loglevel error $inputs -filter_complex "${fc%;}" -map "[$prev]" -c:v libx264 -preset veryfast -crf 18 -pix_fmt yuv420p $T/v.mp4; fi
+dur=$(ffprobe -v error -show_entries format=duration -of csv=p=0 $T/v.mp4)
+ffmpeg -y -loglevel error -i $T/v.mp4 -f lavfi -t $dur -i anullsrc=r=44100:cl=stereo -c:v copy -c:a aac -shortest -movflags +faststart $d/reel.mp4
+cp $d/9x16_01.jpg $d/portada.jpg; rm -rf $T; echo "$d $dur s"

@@ -3,7 +3,7 @@
 ## Marca
 - Nombre: Sara Vibes · "Prendas Personalizadas". Colores: negro (#0E0E10) y fucsia (#EC008C), blanco. Logo: tools/src/logo.jpg.
 - Redes: Instagram y TikTok @sara.vibespersonaliza · Facebook "Sara Vibes Personaliza".
-- Contacto: WhatsApp +56 9 2380 7671 · https://wa.me/56923807671?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar · Sara.VibesPersonaliza@gmail.com
+- Contacto: WhatsApp +56 9 7462 9490 · https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar · Sara.VibesPersonaliza@gmail.com
 - Tono: cercano, alegre, chileno sin exagerar ("polera", "polerón", "la profe", "la tía del jardín"). Tú, frases cortas, emojis con medida.
 
 ## Reglas (de los manuales de Sara Vibes)
@@ -49,3 +49,17 @@ Carpeta "Sara Vibes Personalizaciones" (id 1CH6uoY0pCP3UnmTpFReTHXNgo_EhU6fb): D
 ## Aprobación (pedido del dueño, 18-11-2026)
 - Publicaciones del 19 al 23 de noviembre de 2026: requieren OK de Sara por correo.
 - Desde el 24 de noviembre de 2026: se publican solas a las 10:00, 15:00 y 19:30. El correo diario pasa a ser informativo; Sara solo responde "NO n" para cancelar o con cambios.
+
+
+## Contacto (cambio del dueño, 18-11-2026)
+- WhatsApp oficial de Sara Vibes para redes: **+56 9 7462 9490** → https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar
+- TODAS las publicaciones (Instagram, Facebook y TikTok) llevan este link de WhatsApp en el texto, y las láminas muestran el número (tools/make_post.py ya lo trae). El número anterior (+56 9 2380 7671) no se usa más en redes.
+
+## Calidad de edición (estándar del dueño: experto en marketing digital con 15 años de experiencia)
+- tools/make_post.py mejora automáticamente cada foto: reducción de ruido, superresolución con IA (FSRCNN x2, una o dos veces según tamaño), iluminación local suave (CLAHE), viveza y nitidez. Las versiones quedan en banco/mejoradas/.
+- Antes de usar una foto, revisa: luz pareja, prenda nítida, diseño legible, sin cortes en cabeza/prenda. Si el ángulo es malo (foto chueca, de lejos, fondo desordenado), recórtala a la prenda, endereza, o crea un mockup profesional con IA: Canva generate-image (prenda lisa del mismo color sobre modelo o maniquí, fondo limpio de estudio) y coloca el diseño real encima; o Canva remove-background para aislar la prenda sobre un fondo de marca. Marca esas piezas como IA (isAiGenerated / isAigc) y como "imagen referencial" en el texto. Nunca cambies el diseño estampado del cliente.
+- Ganchos de 0-2 s, texto grande y legible en celular, máximo 1 idea por lámina, cierre con CTA a WhatsApp.
+
+## Música en tendencia (refuerzo 18-11-2026)
+- La meta es viralidad: la música debe ser la que está en tendencia ESA semana en Reels/TikTok. En el state guarda audio_candidatos: lista ordenada de 5 canciones en tendencia ("Título Artista") que calcen con el tema.
+- Al programar en Instagram, prueba los candidatos en orden (título solo y título + artista) hasta que Metricool resuelva uno. Solo si ninguno está en la biblioteca de la cuenta de empresa, usa la pista más parecida al ánimo (ver audio_respaldo).

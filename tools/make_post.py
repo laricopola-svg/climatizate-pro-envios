@@ -14,8 +14,76 @@ MED = GF + "Poppins-Medium.ttf"
 REG = GF + "Poppins-Regular.ttf"
 HERE = os.path.dirname(os.path.abspath(__file__))
 LOGO = os.path.join(HERE, "src", "logo.jpg")
-WA = "WhatsApp +56 9 2380 7671"
+WA = "WhatsApp +56 9 7462 9490"
 IG = "@sara.vibespersonaliza"
+
+
+# ---------- Mejora de foto (luz, color, nitidez, resolución con IA) ----------
+_CACHE = {}
+MODELS = os.path.join(HERE, "models")
+
+
+def _sr(img_bgr):
+    """Superresolución x2 con IA (EDSR; FSRCNN si EDSR no está o la imagen es grande)."""
+    import cv2
+    h, w = img_bgr.shape[:2]
+    for name, algo in (("FSRCNN_x2.pb", "fsrcnn"),):
+        mp = os.path.join(MODELS, name)
+        if not os.path.exists(mp) or (algo == "edsr" and max(h, w) > 1300):
+            continue
+        try:
+            sr = cv2.dnn_superres.DnnSuperResImpl_create()
+            sr.readModel(mp)
+            sr.setModel(algo, 2)
+            return sr.upsample(img_bgr)
+        except Exception:
+            continue
+    return cv2.resize(img_bgr, (w * 2, h * 2), interpolation=cv2.INTER_LANCZOS4)
+
+
+def enhance(path):
+    """Corrige iluminación (CLAHE), viveza, reduce ruido,
+    sube resolución con IA si la foto es chica y aplica nitidez. Devuelve PIL RGB."""
+    if path in _CACHE:
+        return _CACHE[path].copy()
+    disk = os.path.join(os.path.dirname(os.path.abspath(path)), "mejoradas", os.path.splitext(os.path.basename(path))[0] + ".png")
+    if os.path.exists(disk) and os.path.getmtime(disk) >= os.path.getmtime(path):
+        _CACHE[path] = Image.open(disk).convert("RGB")
+        return _CACHE[path].copy()
+    if os.environ.get("NOENHANCE"):
+        return Image.open(path).convert("RGB")
+    import cv2
+    import numpy as np
+    img = cv2.imread(path, cv2.IMREAD_COLOR)
+    if img is None:
+        return Image.open(path).convert("RGB")
+    img = cv2.fastNlMeansDenoisingColored(img, None, 3, 3, 7, 21)
+    if max(img.shape[:2]) < 1800:
+        img = _sr(img)
+        if max(img.shape[:2]) < 1500:
+            img = _sr(img)
+    # iluminación: CLAHE en L
+    lab = cv2.cvtColor(img, cv2.COLOR_BGR2LAB)
+    l, a, b = cv2.split(lab)
+    l2 = cv2.createCLAHE(clipLimit=1.2, tileGridSize=(3, 3)).apply(l)
+    l = cv2.addWeighted(l, 0.55, l2, 0.45, 0)
+    img = cv2.cvtColor(cv2.merge([l, a, b]), cv2.COLOR_LAB2BGR)
+    # viveza suave
+    hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV).astype(np.float32)
+    s_ = hsv[..., 1]
+    hsv[..., 1] = np.clip(s_ + (255 - s_) * 0.10 * (s_ / 255), 0, 255)
+    img = cv2.cvtColor(hsv.astype(np.uint8), cv2.COLOR_HSV2BGR)
+    # nitidez (unsharp mask)
+    blur = cv2.GaussianBlur(img, (0, 0), 1.2)
+    img = cv2.addWeighted(img, 1.35, blur, -0.35, 0)
+    out = Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
+    _CACHE[path] = out
+    try:
+        os.makedirs(os.path.dirname(disk), exist_ok=True)
+        out.save(disk)
+    except Exception:
+        pass
+    return out.copy()
 
 
 def font(path, size):
@@ -113,7 +181,7 @@ def slide(s, W, H, idx, total):
     tipo = s.get("tipo", "foto")
     pad = 70
     if tipo in ("portada", "full"):
-        im = Image.open(s["foto"]).convert("RGB")
+        im = enhance(s["foto"])
         bg = cover(im, W, H, s.get("pos", (0.5, 0.5)))
         c.paste(bg, (0, 0))
         # degradado inferior para legibilidad
@@ -156,7 +224,7 @@ def slide(s, W, H, idx, total):
         box_t = y + 14
         box_b = H - 120
         bw, bh = W - 2 * pad, box_b - box_t
-        im = Image.open(s["foto"]).convert("RGB")
+        im = enhance(s["foto"])
         if s.get("ajuste") == "completa":
             ph = contain(im, bw, bh)
             back = cover(im, bw, bh).filter(ImageFilter.GaussianBlur(28))
@@ -181,7 +249,7 @@ def slide(s, W, H, idx, total):
             fs, ls, ss = fit_text(d, s["sub"], REG, W - 2 * pad, 200, 38, 28, 1.25)
             y = draw_lines(d, ls, fs, ss, pad, y + 26, (225, 225, 225), "center", W - 2 * pad, 1.25)
         fb = font(BOLD, 40)
-        t = "Escríbenos: +56 9 2380 7671"
+        t = "WhatsApp: +56 9 7462 9490"
         tw = d.textlength(t, font=fb)
         bx = (W - tw - 90) / 2
         by = min(y + 60, H - 260)
