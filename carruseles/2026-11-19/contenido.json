@@ -1,0 +1,156 @@
+{
+  "tema": "Checklist para cotizar tu aire en un solo mensaje: 7 datos que mandarnos por WhatsApp (el 7 casi nadie lo manda)",
+  "fecha": "2026-11-19",
+  "id": "2026-11-19",
+  "pilar": "Checklist (cotizar bien)",
+  "primer_comentario": "📲 ¿Tienes los 7 datos? Mándalos con la palabra AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y te cotizamos.",
+  "slides": [
+    {
+      "tipo": "portada",
+      "kicker": "Antes del verano",
+      "titulo": "Cotiza tu aire en <span class=c>un solo mensaje</span>",
+      "texto": "Checklist de 7 datos para mandar por WhatsApp. El 7 casi nadie lo manda. Guárdalo."
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Lo básico",
+      "titulo": "Del 1 al 3: <span class=c>dónde y qué pieza</span>",
+      "items": [
+        {
+          "icono": "📍",
+          "t": "1. Tu comuna",
+          "d": "Así coordinamos la visita y el día de instalación."
+        },
+        {
+          "icono": "🛏",
+          "t": "2. Qué pieza y su tamaño",
+          "d": "Dormitorio, living u oficina, con los metros aproximados."
+        },
+        {
+          "icono": "☀",
+          "t": "3. ¿Le pega el sol?",
+          "d": "Ventanales o sol de tarde cambian la capacidad que conviene.",
+          "calor": true
+        }
+      ]
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Las fotos que ayudan",
+      "titulo": "Del 4 al 7: <span class=f>fotos y distancias</span>",
+      "items": [
+        {
+          "icono": "📷",
+          "t": "4. Foto del muro de adentro",
+          "d": "Donde te gustaría el equipo, ojalá con algo de referencia."
+        },
+        {
+          "icono": "🏙",
+          "t": "5. Foto de afuera",
+          "d": "Balcón, terraza, logia o muro donde iría la unidad exterior."
+        },
+        {
+          "icono": "📏",
+          "t": "6. Distancia entre ambas",
+          "d": "Aproximada. La básica incluye cerca de 2 m de tubería."
+        },
+        {
+          "icono": "🔌",
+          "t": "7. ¿Hay enchufe cerca?",
+          "d": "El que casi nadie manda: cambia lo que se cotiza.",
+          "calor": true
+        }
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "kicker": "Por qué te pedimos esto",
+      "titulo": "Lo que <span class=f>cambia la cotización</span>",
+      "filas": [
+        [
+          "Básica (la caja)",
+          "2 m de cobre + 2 m de cordones aprox."
+        ],
+        [
+          "Canaleta 100×50, 2 m",
+          "$35.000"
+        ],
+        [
+          "Soporte muro o piso",
+          "$35.000"
+        ],
+        [
+          "Punto eléctrico",
+          "$12.000 por metro sobre 1,5 m"
+        ]
+      ],
+      "nota": "Bomba de condensado y extensión de tuberías: se evalúan."
+    },
+    {
+      "tipo": "versus",
+      "kicker": "Mismo WhatsApp, distinta respuesta",
+      "titulo": "¿<span class=f>\"Cuánto sale?\"</span> o los 7 datos?",
+      "a": {
+        "t": "Solo \"¿cuánto sale?\"",
+        "xs": [
+          "Ida y vuelta de preguntas",
+          "Precio referencial",
+          "Sorpresas el día de instalar"
+        ]
+      },
+      "b": {
+        "t": "Con los 7 datos",
+        "xs": [
+          "Cotización clara de una",
+          "Sabes qué incluye y qué no",
+          "Fecha más rápido"
+        ]
+      }
+    },
+    {
+      "tipo": "foto",
+      "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+      "pos": "75% 40%",
+      "ajuste": "completa",
+      "kicker": "Instalación real",
+      "titulo": "Por esto pedimos la foto de afuera",
+      "texto": "La unidad exterior en la terraza, con espacio para respirar y el recorrido ordenado.",
+      "etiqueta": "Instalación real · Santiago"
+    },
+    {
+      "tipo": "lista",
+      "kicker": "Así lo instalamos",
+      "titulo": "Claro antes, <span class=c>limpio después</span>",
+      "items": [
+        {
+          "icono": "◎",
+          "t": "Míralo en el simulador",
+          "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."
+        },
+        {
+          "icono": "⌖",
+          "t": "Qué incluye, por escrito",
+          "d": "Básica y adicionales claros antes de perforar."
+        },
+        {
+          "icono": "✓",
+          "t": "Terminaciones limpias",
+          "d": "Recorrido ordenado, espacio limpio y garantía de instalación de 6 meses."
+        }
+      ]
+    },
+    {
+      "tipo": "cta",
+      "kicker": "¿Tienes los 7?",
+      "titulo": "Mándalos con la palabra <span class=f>AIRE</span>",
+      "texto": "Equipos Inverter frío/calor que climatizan todo el año, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+      "boton": "Cotiza en climatizatepro.cl"
+    }
+  ],
+  "captions": {
+    "instagram": "Cotizar aire acondicionado en un solo mensaje ✅ 7 datos: comuna, pieza y tamaño, sol, foto del muro, foto de afuera, distancia y enchufe cerca (el 7 casi nadie lo manda). ¿Cuántos tenías claros? Guárdalo y mándaselo a quien está cotizando. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #inverter #cotizar",
+    "facebook": "¿Estás cotizando tu aire antes del verano? 🙌 Te ahorramos el ida y vuelta: mándanos por WhatsApp tu comuna, qué pieza es y su tamaño, si le pega el sol, una foto del muro de adentro, una de donde iría la unidad de afuera, la distancia aproximada y si hay enchufe cerca. Con eso te decimos qué incluye la instalación básica (lo que trae la caja: aprox. 2 m de tubería de cobre y 2 m de cordones) y si tu caso necesita algo más: canaleta blanca 100×50 de 2 m $35.000, soporte muro o piso $35.000, punto eléctrico a más de 1,5 m $12.000 por metro adicional; bomba de condensado o extensión se evalúan. Equipos Inverter frío/calor, Midea Airvolution entre otros, con garantía de instalación de 6 meses. ¿En qué comuna estás? 👇 Escríbenos AIRE 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Cómo cotizar instalación de aire acondicionado en Santiago en un solo mensaje: 7 datos que mandar por WhatsApp. Midea Airvolution Inverter entre otros, instalación con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #MideaAirvolution #inverter",
+    "linkedin": "Cotizar climatización sin idas y vueltas: 7 datos que conviene enviar desde el primer mensaje.\n\n1. Comuna.\n2. Recinto y superficie aproximada.\n3. Exposición al sol.\n4. Foto del muro interior propuesto.\n5. Foto del lugar para la unidad exterior.\n6. Distancia aproximada entre ambas unidades.\n7. Punto eléctrico cercano.\n\nCon esta información se puede indicar qué cubre la instalación básica y qué adicionales aplican, antes de intervenir el muro. Sirve igual para hogares, oficinas pequeñas y locales.\n\nEn Climatízate Pro instalamos equipos Inverter frío/calor en Santiago, con simulador previo en climatizatepro.cl, recorrido ordenado, terminaciones limpias y garantía de instalación de 6 meses.\n\nCotizaciones: WhatsApp +56 9 6190 7601 · climatizatepro.cl"
+  }
+}

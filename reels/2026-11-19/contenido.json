@@ -1,0 +1,41 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-19",
+  "fecha": "2026-11-19",
+  "hora": "19:00",
+  "pilar": "Tips Midea (home office)",
+  "tema": "Tu Midea puede más #6: ¿trabajas en casa? 3 trucos para el home office (el 3 casi nadie lo usa)",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "Midea Airvolution en el home office: 3 trucos para trabajar fresco en Santiago",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Funciones según modelo y control.",
+  "primer_comentario": "📲 ¿Trabajas en casa y quieres tu aire listo antes del verano? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+  "escenas": [
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.6, 0.25], "ajuste": "auto",
+     "chip": "Tu Midea puede más #6", "titulo": "¿Trabajas en casa?", "sub": "3 trucos para el home office.",
+     "voz": "¿Trabajas en casa? Tu Midea tiene tres trucos.", "zoom": "in"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg", "pos": [0.55, 0.2], "ajuste": "auto",
+     "chip": "Truco 1", "titulo": "ECO+ toda la jornada", "sub": "Fresco y gastando menos.",
+     "voz": "Uno: ECO+ en la mañana, y gasta menos todo el día.", "zoom": "out"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.6, 0.35], "ajuste": "auto",
+     "chip": "Truco 2", "titulo": "Silence en la reunión", "sub": "Según modelo.",
+     "voz": "Dos: Silence, y en la reunión nadie lo escucha.", "zoom": "in"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg", "pos": [0.72, 0.2], "ajuste": "auto",
+     "chip": "Truco 3", "titulo": "Follow Me", "sub": "El control mide donde estás tú.",
+     "voz": "Y tres, ojo… Follow Me mide el calor donde estás tú.", "zoom": "out"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.5, 0.0], "ajuste": "completa",
+     "chip": "Bien instalado", "titulo": "Que no te sople en la nuca", "sub": "Ubicado pensando en tu escritorio.",
+     "voz": "Y bien ubicado… no te sopla en la nuca.", "zoom": "in"},
+    {"foto": null, "pos": [0.5, 0.5], "ajuste": "auto",
+     "chip": "Home office fresco", "titulo": "¿Cuál no conocías?", "sub": "Escríbenos AIRE · +56 9 6190 7601",
+     "voz": "¿Cuál no conocías? Comenta el número… o escríbenos AIRE.", "zoom": "out"}
+  ],
+  "captions": {
+    "instagram": "Midea Airvolution en el home office 💻 3 trucos: ECO+ toda la jornada, Silence para las reuniones y Follow Me para que mida la temperatura donde estás tú (el 3 casi nadie lo usa). ¿Cuál no conocías? Comenta el número. Mándaselo a quien trabaja desde la casa. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). Funciones según modelo y control. #aireacondicionado #santiago #homeoffice #MideaAirvolution #inverter",
+    "facebook": "¿Trabajas desde la casa? 💻 Antes de que llegue el calor de diciembre, tres trucos de tu Midea Airvolution para el home office: ECO+ para estar fresco toda la jornada gastando menos, Silence para que no se escuche en las reuniones y Follow Me, que mide la temperatura donde está el control, o sea, en tu escritorio (funciones según modelo y control). Y si todavía no tienes equipo, lo ubicamos para que no te sople en la nuca, con recorrido ordenado y garantía de instalación de 6 meses. ¿En qué comuna trabajas desde la casa? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Aire acondicionado Santiago: 3 trucos de Midea Airvolution para el home office. ECO+, Silence y Follow Me (según modelo y control). Instalación de aire Inverter con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #MideaAirvolution #homeoffice #instalación"
+  }
+}
