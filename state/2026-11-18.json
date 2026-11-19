@@ -179,7 +179,8 @@
    "fuente": "Drive (Tía, Colibrí, Paciencia, Bolsa, Taller 2) mejoradas con IA",
    "estado": "pendiente_aprobacion",
    "metricool": [],
-   "nota": "Publicación extra pedida por el dueño el 18-11 21:34; se publica apenas Sara responda OK."
+   "nota": "Publicación extra pedida por el dueño el 18-11 21:34; se publica apenas Sara responda OK.",
+   "gmail_threadId": "1a1f13e86e5ce1b9"
   }
  ],
  "metricool_marca": {
@@ -197,5 +198,8 @@
   "1a1ec18a7337b27a"
  ],
  "aviso_metricool_enviado": true,
- "push_aviso_redes_18": true
+ "push_aviso_redes_18": true,
+ "hilos_extra": [
+  "1a1f13e86e5ce1b9"
+ ]
 }
