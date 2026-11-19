@@ -4,7 +4,7 @@
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
  "enviado": "2026-11-19T19:40-03:00",
  "modo": "aprobacion",
- "ultima_revision": null,
+ "ultima_revision": "2026-11-19T20:06-03:00",
  "nota_formato": "Rotación vs 19-11 (10:00 reel de láminas, 15:00 foto, 19:30 carrusel) -> 20-11: 10:00 carrusel, 15:00 reel, 19:30 foto.",
  "investigacion": {
   "audios": "CreatorDB (18-11), SocialPilot (17-25 nov), Later (13-11), Metricool TikTok (16-11), Tokchart (19-11)",
@@ -56,9 +56,34 @@
    "ia": false,
    "fuente": "Drive carpeta 'Navidad' (4.jpeg, 5.jpeg, 6.jpeg) mejoradas con IA; portada = collage armado con esas 3 fotos",
    "avisos": "Las 3 fotos de la carpeta 'Navidad' parecen imágenes de catálogo/mockup de internet (nombres en inglés: Daniel, Emma, Lisa). En el texto se presentan como 'ideas de referencia', no como trabajos hechos. Confirma que puedes usarlas.",
-   "estado": "pendiente_aprobacion",
-   "metricool": [],
-   "audio_ig": "All I Want for Christmas Is You Mariah Carey"
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 434879829,
+     "uuid": "-667669559819746548",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-667669559819746548"
+    },
+    {
+     "red": "facebook",
+     "id": 434880035,
+     "uuid": "-6351566552489046125",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6351566552489046125"
+    },
+    {
+     "red": "tiktok",
+     "id": 434880049,
+     "uuid": "-4938605410952591895",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-4938605410952591895"
+    }
+   ],
+   "audio_ig": "All I Want for Christmas Is You Mariah Carey",
+   "audio_ig_usado": "Joy To The World (Reels Sound - Photo Dump) – Julia Gartha (1160423229395467)",
+   "audio_tipo": "respaldo",
+   "audio_intentos": [
+    "All I Want for Christmas Is You",
+    "Christmas Market"
+   ]
   },
   {
    "numero": 2,
@@ -101,9 +126,33 @@
    "ia": true,
    "fuente": "Drive 'Polerones cuarto medio': 2.jpeg (foto real, recortada y mejorada con IA) + 6.jpeg (maqueta IA de Sara Vibes, marcada 'imagen referencial')",
    "avisos": "La foto real muestra el nombre 'MAGALI' (clienta): confirma que autoriza su uso. La maqueta morada (6.jpeg) es imagen IA con el nombre 'MARTINA' y el año 2024: va marcada como imagen referencial.",
-   "estado": "pendiente_aprobacion",
-   "metricool": [],
-   "audio_ig": "Time Pink Floyd"
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 434880275,
+     "uuid": "7081393415824098427",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7081393415824098427"
+    },
+    {
+     "red": "facebook",
+     "id": 434880448,
+     "uuid": "8465688224366086816",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8465688224366086816"
+    },
+    {
+     "red": "tiktok",
+     "id": 434880462,
+     "uuid": "6929791171968516750",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6929791171968516750"
+    }
+   ],
+   "audio_ig": "Time Pink Floyd",
+   "audio_ig_usado": "Level Up – Giulio Cercato (849342490718599)",
+   "audio_tipo": "respaldo",
+   "audio_intentos": [
+    "upbeat"
+   ]
   },
   {
    "numero": 3,
@@ -140,10 +189,38 @@
    "ia": false,
    "fuente": "Drive carpeta 'Navidad' 2.jpeg (mejorada con IA)",
    "avisos": "La polera muestra el apellido 'Gómez': confirma que es un trabajo tuyo y que el cliente autoriza mostrarlo (si no, la cambiamos).",
-   "estado": "pendiente_aprobacion",
-   "metricool": [],
-   "audio_ig": "Christmas Market Eoneun"
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 434880670,
+     "uuid": "1080873576288702106",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1080873576288702106"
+    },
+    {
+     "red": "facebook",
+     "id": 434880679,
+     "uuid": "4183059030948924693",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=4183059030948924693"
+    },
+    {
+     "red": "tiktok",
+     "id": 434880701,
+     "uuid": "-724707127382946920",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-724707127382946920"
+    }
+   ],
+   "audio_ig": "Christmas Market Eoneun",
+   "audio_ig_usado": "Deck The Halls (Jazz) – Global Genius (322565551554019)",
+   "audio_tipo": "respaldo",
+   "audio_intentos": []
   }
  ],
- "gmail_messageId": "1a1f5f793bd799d2"
+ "gmail_messageId": "1a1f5f793bd799d2",
+ "respuestas_procesadas": [
+  "1a1f605c51e7a659"
+ ],
+ "cambios": [
+  "20:06 (19-11) Sara respondió \"Ok\" -> aprobadas las 3; programadas en IG/FB/TikTok (9 posts). Audio IG: tendencias (Mariah, Christmas Market) no resuelven exacto en biblioteca de empresa -> respaldo. Correo \"Publicación programada\" enviado (msg 1a1f60e974c0ef65)."
+ ]
 }
