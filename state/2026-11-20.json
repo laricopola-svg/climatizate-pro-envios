@@ -1,8 +1,8 @@
 {
  "fecha": "2026-11-20",
- "gmail_threadId": null,
+ "gmail_threadId": "1a1f5f793bd799d2",
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
- "enviado": null,
+ "enviado": "2026-11-19T19:40-03:00",
  "modo": "aprobacion",
  "ultima_revision": null,
  "nota_formato": "Rotación vs 19-11 (10:00 reel de láminas, 15:00 foto, 19:30 carrusel) -> 20-11: 10:00 carrusel, 15:00 reel, 19:30 foto.",
@@ -144,5 +144,6 @@
    "metricool": [],
    "audio_ig": "Christmas Market Eoneun"
   }
- ]
+ ],
+ "gmail_messageId": "1a1f5f793bd799d2"
 }
