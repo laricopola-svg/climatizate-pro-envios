@@ -45,17 +45,19 @@
    ],
    "metricool": [
     {
-     "id": 433969273,
+     "id": 434058470,
      "uuid": "6376742489286265816",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 433969273
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-19T07:29-03:00 (fcosotog7: \"Ok\")"
   },
   {
    "n": 2,
@@ -74,17 +76,19 @@
    ],
    "metricool": [
     {
-     "id": 433969333,
+     "id": 434058488,
      "uuid": "-701277218914942778",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 433969333
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-19T07:29-03:00 (fcosotog7: \"Ok\")"
   },
   {
    "n": 3,
@@ -108,27 +112,30 @@
    ],
    "metricool": [
     {
-     "id": 433969905,
+     "id": 434058521,
      "uuid": "-7180424368759618840",
      "redes": [
       "instagram",
       "facebook"
      ],
      "isAiGenerated": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 433969905
     },
     {
-     "id": 433970005,
+     "id": 434058532,
      "uuid": "6290939475739820795",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 433970005
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-19T07:29-03:00 (fcosotog7: \"Ok\")"
   }
  ],
  "incidencias": [
@@ -158,6 +165,10 @@
   {
    "hora": "2026-11-19T07:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta). Sin cambios; las 3 siguen en borrador."
+  },
+  {
+   "hora": "2026-11-19T08:06-03:00",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (19-nov 07:29) -> aprobadas las 3. updateScheduledPost draft:false en los 4 posts (11:00, 15:00, 20:30 IG+FB, 20:30 TikTok autoPublish:false -> requiere completar en app Metricool). Horas originales mantenidas (todas futuras). Estado: programada."
   }
  ]
 }
