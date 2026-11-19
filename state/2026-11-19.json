@@ -1,0 +1,158 @@
+{
+ "fecha": "2026-11-19",
+ "dia": "jueves (impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a1f32ed7bf730b5",
+ "messageId": "1a1f32ed7bf730b5",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-19 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a1f32ed7bf730b5",
+  "messageId": "1a1f32ed7bf730b5"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel foto real (ayer Reel)",
+  "15:00": "imagen única foto real (ayer carrusel)",
+  "20:30": "Reel IA cartoon 3D (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Calor noviembre Chile (Radio Agricultura 11-nov 'calor extremo') -> pulgas 11:00",
+  "Micronovela por capítulos + viajes de fin de año -> Perrinovela cap 11",
+  "Audio IG: Driving Home for Christmas (temporada navideña). Sweet As Honey (The Sundries) y What's Up (HARDMAX) no están en el catálogo de Metricool"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Se mudó una pulga y no paga arriendo: señales (rascado, test papel húmedo), 95% en la casa (lavar camas/aspirar), antiparasitario según veterinario para todos los animales + Dato tenia; CTA comenta PULGA o DRAMA",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_017, bully_038, bully_024, bully_056",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-19-1100-pulgas-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-3977574572008162795.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-15751795569455445247.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-18278624987356491428.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-18280832129515907660.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-10754833314779466409.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-1013456941502043468.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-17785237741490799333.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 433969273,
+     "uuid": "6376742489286265816",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Niño + Cane Corso: 4 reglas de oro (adulto mirando, mano suave sin abrazos/subirse, comiendo o durmiendo no se toca, señales de 'basta' -> separar) + Dato convivencia desde cachorro / tensión -> educador profesional",
+   "raza": "Cane Corso",
+   "formato": "imagen única",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco/american-bully/bully_040.jpg (en realidad Cane Corso grises con niño; mal archivada, consultado al dueño)",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-19-1500-ninos-y-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-17661837360770135742.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 433969333,
+     "uuid": "-701277218914942778",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 11 'EL VIAJE': Queen en el auto 'Yo me pido ADELANTE', Ragnar y Bella '¿Y quién cuida los regalos?', giro Kopito se queda cuidando el árbol + Dato en el auto arnés con cinturón o caja de transporte, nunca suelto ni con la cabeza afuera; CTA comenta PERRINOVELA, síguenos cap. 12",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZqYnFSDQ (Queen auto), MAHZqeEaBw0 (Ragnar y Bella), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 19-nov",
+   "isAiGenerated": true,
+   "audio": "IG: Driving Home for Christmas – Chris Rea, original_sound audioId 938756314903740 (sin versión music en catálogo), audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "canva": "https://www.canva.com/d/V7mNBXMbIO9xCN0 (diseño DAHbWRZutig, copia de DAHbKdIKfr0)",
+   "carpeta": "(sin carpeta: mp4 pasado directo de Canva a Metricool)",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 11
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-13945356744513775648.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 433969905,
+     "uuid": "-7180424368759618840",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    },
+    {
+     "id": 433970005,
+     "uuid": "6290939475739820795",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 2-nov (Bolsa.png/Mochila.png). Se pidió material al dueño en el correo."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (19-nov). Reel IA hecho reutilizando arte IA existente (copy-design + edit-design + export mp4)."
+  },
+  {
+   "detalle": "Banco Bully: casi todas las fotos usadas como portada en <30 días; 11:00 con portada de diseño. Tema sol/piel descartado (ya usado 23-oct)."
+  },
+  {
+   "detalle": "bully_040.jpg y bully_018.jpg son Cane Corso (carpeta equivocada). bully_040 usada hoy a las 15:00 como Cane Corso; consultado al dueño."
+  },
+  {
+   "detalle": "Sin acceso desde el sandbox a export-download.canva.com ni static.metricool.com: no se pudo descargar el mp4 para revisar fotogramas; se revisaron las miniaturas de Canva de las 4 escenas. Miniaturas del correo (Canva) caducan en horas."
+  },
+  {
+   "detalle": "Audio: 'Sweet As Honey' (The Sundries) y 'What's Up - Deep house' (HARDMAX) no están en el catálogo de Metricool; se usó Driving Home for Christmas (original_sound)."
+  }
+ ],
+ "revisiones": []
+}
