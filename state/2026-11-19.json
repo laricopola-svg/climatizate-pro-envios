@@ -3,7 +3,7 @@
  "gmail_threadId": "1a1f0ce5e6d44fba",
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
  "enviado": "2026-11-18T19:37-03:00",
- "ultima_revision": "2026-11-18T21:03-03:00",
+ "ultima_revision": "2026-11-18T22:07-03:00",
  "publicaciones": [
   {
    "numero": 1,
@@ -40,8 +40,31 @@
    "ia": false,
    "fuente": "Drive: Colibri.jpeg, conjunto.jpeg, Corazón .jpeg",
    "avisos": "Colibri.jpeg muestra el rostro de una modelo (parece foto de catálogo/mockup): confirma que tienes derecho a usarla.",
-   "estado": "pendiente_aprobacion",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 433629791,
+     "uuid": "3486030472535295596",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=3486030472535295596"
+    },
+    {
+     "red": "facebook",
+     "id": 433629935,
+     "uuid": "-4468069111817486115",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-4468069111817486115"
+    },
+    {
+     "red": "tiktok",
+     "id": 433629952,
+     "uuid": "-5683871334484653441",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-5683871334484653441"
+    }
+   ],
+   "aprobada_por": "Sara: \"Ok\" y \"Todo OK\" (18-11 21:44)",
+   "audio_ig_usado": "A Jazzy Little Christmas – Daria Novo (813709654702967)",
+   "audio_tipo": "respaldo",
+   "audio_nota": "'It's Beginning to Look a Lot like Christmas Michael Bublé' no está en la biblioteca comercial de la cuenta de empresa (solo re-subidas 'original_sound' no oficiales); se usó pista de biblioteca."
   },
   {
    "numero": 2,
@@ -70,8 +93,31 @@
    "ia": false,
    "fuente": "Drive: Mochila.png",
    "avisos": "La mochila lleva el nombre 'Franco' y dice 'Feliz Día del Alumno': confirma que puedes mostrar ese nombre (si era de un pedido real). El texto aclara que el diseño y el nombre se eligen.",
-   "estado": "pendiente_aprobacion",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 433630263,
+     "uuid": "6974791730359389448",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6974791730359389448"
+    },
+    {
+     "red": "facebook",
+     "id": 433630271,
+     "uuid": "-5137005681579179657",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-5137005681579179657"
+    },
+    {
+     "red": "tiktok",
+     "id": 433630285,
+     "uuid": "3207079749262786879",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=3207079749262786879"
+    }
+   ],
+   "aprobada_por": "Sara: \"Ok\" y \"Todo OK\" (18-11 21:44)",
+   "audio_ig_usado": "Romantic (Reels Sound - Photo Dump) – Sugartapes (1581803845934560)",
+   "audio_tipo": "respaldo",
+   "audio_nota": "'Coming Up Roses Harry Styles' no está en la biblioteca comercial de la cuenta de empresa (solo re-subidas 'original_sound' no oficiales); se usó pista de biblioteca."
   },
   {
    "numero": 3,
@@ -108,8 +154,31 @@
    "ia": false,
    "fuente": "Drive: Paciencia.jpeg, casado.jpeg, Bendecida.jpeg",
    "avisos": "Bendecida.jpeg muestra el rostro de una modelo (parece mockup de catálogo): confirma que puedes usarla.",
-   "estado": "pendiente_aprobacion",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 433630660,
+     "uuid": "5382628517864883455",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=5382628517864883455"
+    },
+    {
+     "red": "facebook",
+     "id": 433630885,
+     "uuid": "-8888517056790507764",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-8888517056790507764"
+    },
+    {
+     "red": "tiktok",
+     "id": 433630899,
+     "uuid": "-5491435671453743925",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-5491435671453743925"
+    }
+   ],
+   "aprobada_por": "Sara: \"Ok\" y \"Todo OK\" (18-11 21:44)",
+   "audio_ig_usado": "Belles – cloud cover (1749076469617346)",
+   "audio_tipo": "respaldo",
+   "audio_nota": "'Stop The Wedding! Ashe' no está en la biblioteca comercial de la cuenta de empresa (solo re-subidas 'original_sound' no oficiales); se usó pista de biblioteca."
   }
  ],
  "gmail_messageId": "1a1f0ce5e6d44fba",
@@ -119,5 +188,12 @@
   "fin_clases_RM": "BioBioChile 16-11-2026: 4 dic (JEC) / 18 dic (sin JEC)"
  },
  "nota_revisiones": "Revisión 20:03 (18-11): sin respuestas de Sara en el hilo aún; marca SaraVibes sin redes conectadas. | Revisión 21:03 (18-11): sin respuestas de Sara en el hilo; marca SaraVibes con FB/IG/TikTok correctos. Nada que programar.",
- "nota_contacto": "18-11 21:20: WhatsApp cambiado a +56 9 7462 9490 en láminas y textos; fotos mejoradas (IA x2 + luz + nitidez) y videos regenerados."
+ "nota_contacto": "18-11 21:20: WhatsApp cambiado a +56 9 7462 9490 en láminas y textos; fotos mejoradas (IA x2 + luz + nitidez) y videos regenerados.",
+ "respuestas_procesadas": [
+  "1a1f142cbcff181c",
+  "1a1f1430a4dfffe1"
+ ],
+ "cambios": [
+  "22:07 Sara aprobó todo (\"Todo OK\"); 3 pubs programadas en IG/FB/TikTok. Nota: la pub 3 de IG se creó por error con texto de prueba \"x\" y se corrigió de inmediato con updateScheduledPost (id 433630562 -> 433630660)."
+ ]
 }
