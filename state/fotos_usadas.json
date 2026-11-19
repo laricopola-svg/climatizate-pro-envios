@@ -157,6 +157,11 @@
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-19",
+   "carpeta": "publicaciones/2026-11-19-1100-pulgas-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_038.jpg": [
@@ -168,6 +173,11 @@
   {
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-19",
+   "carpeta": "publicaciones/2026-11-19-1100-pulgas-bully",
    "portada": false
   }
  ],
@@ -790,6 +800,11 @@
   {
    "fecha": "2026-10-29",
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-19",
+   "carpeta": "publicaciones/2026-11-19-1100-pulgas-bully",
    "portada": false
   }
  ],
@@ -1414,6 +1429,11 @@
   {
    "fecha": "2026-11-02",
    "carpeta": "publicaciones/2026-11-02-1500-olfato-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-19",
+   "carpeta": "publicaciones/2026-11-19-1100-pulgas-bully",
    "portada": false
   }
  ],
