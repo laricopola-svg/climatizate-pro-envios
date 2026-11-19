@@ -1,0 +1,8 @@
+{"tema":"navidad","slides":[
+{"tipo":"portada","chip":"NAVIDAD 2026","titulo":"Regalos que NADIE va a querer devolver","resaltar":"devolver","fotos":["/home/claude/svmedia/banco/tia.jpg","/home/claude/svmedia/banco/colibri.jpg","/home/claude/svmedia/banco/paciencia.jpg"],"sub":"Desliza y elige el tuyo"},
+{"tipo":"idea","n":1,"para":"Para la tía regalona","foto":"/home/claude/svmedia/banco/tia.jpg","pos":[0.5,0.45],"titulo":"Un polerón que lo dice todo","sub":"Su frase, su apodo, su sello. Imposible que no lo use."},
+{"tipo":"idea","n":2,"para":"Para tu mejor amiga","foto":"/home/claude/svmedia/banco/colibri.jpg","pos":[0.5,0.42],"titulo":"Diseño en el pecho y en las mangas","sub":"Las mangas son lo que hace que te pregunten dónde lo compraste."},
+{"tipo":"idea","n":3,"para":"Para la que llega sin batería","foto":"/home/claude/svmedia/banco/paciencia.jpg","pos":[0.5,0.45],"titulo":"Humor que se usa todo el verano","sub":"Para reírse juntas en la cena de Navidad."},
+{"tipo":"idea","n":4,"para":"Para la profe","foto":"/home/claude/svmedia/banco/bolsa.png","pos":[0.5,0.55],"titulo":"Bolsa con frase para cerrar el año","sub":"Útil, linda y con su nombre si quieres."},
+{"tipo":"idea","n":5,"para":"Para tu equipo de trabajo","foto":"/home/claude/svmedia/banco/taller2.jpg","pos":[0.55,0.35],"titulo":"Poleras con el logo de tu pyme","sub":"El regalo de fin de año que además hace publicidad."},
+{"tipo":"cta","titulo":"¿A quién se lo regalarías? Etiquétala","resaltar":["Etiquétala"],"sub":"Cotiza tu regalo personalizado y pide con tiempo para Navidad."}]}
