@@ -39,25 +39,28 @@
    ],
    "metricool": [
     {
-     "id": 435322371,
+     "id": 435474037,
      "uuid": "-830049162798544253",
      "redes": [
       "instagram",
       "facebook"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 435322371
     },
     {
-     "id": 435322384,
+     "id": 435474056,
      "uuid": "-6449281202002902793",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
-     "draft": true
+     "draft": false,
+     "id_anterior": 435322384
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-20T09:00:23-03:00"
   },
   {
    "n": 2,
@@ -82,17 +85,19 @@
    ],
    "metricool": [
     {
-     "id": 435322404,
+     "id": 435474068,
      "uuid": "1447748811330176620",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 435322404
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-20T09:00:23-03:00"
   },
   {
    "n": 3,
@@ -119,7 +124,7 @@
    ],
    "metricool": [
     {
-     "id": 435322416,
+     "id": 435474082,
      "uuid": "-5650343255768740760",
      "redes": [
       "facebook",
@@ -128,10 +133,12 @@
      ],
      "isAiGenerated": true,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 435322416
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobada": "2026-11-20T09:00:23-03:00"
   }
  ],
  "incidencias": [
@@ -162,7 +169,11 @@
   {
    "hora": "2026-11-20T08:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta enviada); sin cambios."
+  },
+  {
+   "hora": "2026-11-20T09:07-03:00",
+   "resultado": "Respuesta de fcosotog7@gmail.com (msg 1a1f8d47988c1563, 09:00:23 -03): 'Ok' sin números -> aprobadas las 3. updateScheduledPost draft:false en 4 posts (IG/FB 11:00, TikTok 11:00 autoPublish false, 15:00, 20:30); horas sin cambio (todas en el futuro). Estado: programada."
   }
  ],
- "ultima_revision": "2026-11-20T08:05-03:00"
+ "ultima_revision": "2026-11-20T09:07-03:00"
 }
