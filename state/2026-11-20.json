@@ -1,0 +1,157 @@
+{
+ "fecha": "2026-11-20",
+ "dia": "viernes (par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "threadId": "1a1f8558c13e72ef",
+ "messageId": "1a1f8558c13e72ef",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-20 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a1f8558c13e72ef",
+  "messageId": "1a1f8558c13e72ef"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel foto real (ayer carrusel)",
+  "15:00": "carrusel foto real (ayer imagen única)",
+  "20:30": "carrusel IA cómic (ayer Reel IA cartoon 3D)"
+ },
+ "tendencias_usadas": [
+  "Temporada de piscina / calor de fin de primavera en Chile -> seguridad en piscina 11:00",
+  "Licenciaturas de fin de año + micronovela por capítulos -> Perrinovela cap 12",
+  "Audio IG: Ramalama (Bang Bang) sigue en top Metricool (lista 2-nov); BODYPAINTING (Emilia) sin coincidencia exacta en catálogo"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "¿Tu Cane Corso sabe nadar? Seguridad en piscina: molosos se cansan rápido, enseñar la SALIDA por escalera, chaleco con asa, Queen 'solo me mojo las patitas' (nunca obligar), Dato piscina cercada/tapada, nunca solo, enjuague y orejas secas, tos/vómito/respiración rara tras tragar agua -> veterinario; CTA nadador o patitas",
+   "raza": "Cane Corso",
+   "formato": "Reel 17,3 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco cc_003, cc_007, cc_006 (Queen) + hook_diseno.jpg y dato_diseno.jpg",
+   "isAiGenerated": false,
+   "audio": "IG: Ramalama (Bang Bang) – Róisín Murphy, audioId 736015230804186, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-20-1100-piscina-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-1067550316987208.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 435322371,
+     "uuid": "-830049162798544253",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "draft": true
+    },
+    {
+     "id": 435322384,
+     "uuid": "-6449281202002902793",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Lo llamas y tu Bully se hace el sordo: ¡VEN! a la primera en 4 pasos (una palabra, en casa a 2 m, premio de lujo + fiesta, nunca llamar para retar) + Dato cuerda larga 5-10 m y correa en espacios públicos (Ley Cholito); CTA VIENE o SORDO",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_019, bully_008, bully_042, bully_011",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-20-1500-ven-cuando-llamo-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-12835097540892238007.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-4813741902925802652.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-2291507639228532551.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-6618399804292806443.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-4175174758032321904.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-1996911060580089431.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-7677970068490602450.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 435322404,
+     "uuid": "1447748811330176620",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 12 'LA LICENCIATURA': Kopito (7 meses) se gradúa de la escuela de cachorros, Ragnar 'yo repetí 3 veces', Queen '¡mi niña!', Kopito '¿y el premio?' + Dato el cachorro NO se educa solo (socializar desde chico con vacunas según veterinario, entrenar de adulto, educador sin castigos); CTA comenta TITULADO, síguenos cap. 13",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZwbedLFc (Queen), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 20-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/wYxh0_ukQG_Dvef (diseño DAHbcXIb5sU, copia de DAHbQQ7tNcI)",
+   "carpeta": "(sin carpeta: jpg pasados directo de Canva a Metricool)",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 12
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7540297-file-16493825323956708747.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-9130919987715640850.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-16534801069786466198.jpeg",
+    "https://static.metricool.com/planner/202611/7540297-file-10811354456583456979.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 435322416,
+     "uuid": "-5650343255768740760",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 2-nov (Bolsa.png/Mochila.png). Se pidió material al dueño en el correo."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (20-nov). Pieza IA hecha reutilizando arte IA existente (copy-design + edit-design + export jpg)."
+  },
+  {
+   "detalle": "fotos.py: cc_002, bully_002, bully_010, bully_032 bloqueadas (fueron portada <30 días); bully_037 descartada porque parece Cane Corso (revisar con el dueño, posible foto mal archivada como bully_040/018)."
+  },
+  {
+   "detalle": "Audio IG: 'BODYPAINTING' (Emilia) con múltiples coincidencias erróneas en catálogo Metricool; se usó Ramalama (Bang Bang). Lista de tendencias de Metricool más reciente es del 2-nov."
+  },
+  {
+   "detalle": "Noticia de calor de Meteored hallada era de 2025: no se usó como dato; se habló genéricamente de temporada de piscina."
+  }
+ ]
+}

@@ -14,6 +14,11 @@
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-2030-guardianes-cap5-ia-vs-real",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1100-piscina-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_005.jpg": [
@@ -104,6 +109,11 @@
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1100-codos-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1100-piscina-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_009.jpg": [
@@ -133,6 +143,11 @@
    "fecha": "2026-10-21",
    "carpeta": "publicaciones/2026-10-21-1100-alergias-primavera-bully",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1500-ven-cuando-llamo-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_042.jpg": [
@@ -144,6 +159,11 @@
   {
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1500-ven-cuando-llamo-bully",
    "portada": false
   }
  ],
@@ -219,6 +239,11 @@
   {
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1100-piscina-cane-corso",
    "portada": false
   }
  ],
@@ -388,6 +413,11 @@
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1500-ven-cuando-llamo-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_035.jpg": [
@@ -411,6 +441,11 @@
   {
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1500-ven-cuando-llamo-bully",
    "portada": false
   }
  ],
@@ -1870,6 +1905,20 @@
    "fecha": "2026-11-18",
    "carpeta": "publicaciones/2026-11-18-1100-articulaciones-cachorro-cane-corso",
    "portada": true
+  }
+ ],
+ "publicaciones/2026-11-20-1100-piscina-cane-corso/hook_diseno.jpg": [
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1100-piscina-cane-corso",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-20-1100-piscina-cane-corso/dato_diseno.jpg": [
+  {
+   "fecha": "2026-11-20",
+   "carpeta": "publicaciones/2026-11-20-1100-piscina-cane-corso",
+   "portada": false
   }
  ]
 }
