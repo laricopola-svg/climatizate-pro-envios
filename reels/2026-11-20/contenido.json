@@ -1,0 +1,41 @@
+{
+  "tipo": "reel",
+  "id": "2026-11-20",
+  "fecha": "2026-11-20",
+  "hora": "19:00",
+  "pilar": "Errores (antes de comprar)",
+  "tema": "3 errores al comprar tu aire acondicionado (el 3 sale caro)",
+  "audio_ig": "Sunshine (Instrumental) Twista",
+  "tiktok_title": "3 errores al comprar aire acondicionado en Santiago (el 3 sale caro)",
+  "ia": true,
+  "voz": true,
+  "voz_id": "M2 (Supertonic 3)",
+  "etiqueta": "Instalación real Climatízate Pro",
+  "nota": "Capacidad e instalación según evaluación de tu espacio.",
+  "primer_comentario": "📲 ¿Estás por comprar tu aire? Mándanos foto del muro y tu comuna: escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+  "escenas": [
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.6, 0.25], "ajuste": "auto",
+     "chip": "Antes de comprar", "titulo": "3 errores al comprar tu aire", "sub": "El 3 sale caro.",
+     "voz": "¿Vas a comprar aire? Ojo… tres errores comunes.", "zoom": "in"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg", "pos": [0.55, 0.2], "ajuste": "auto",
+     "chip": "Error 1", "titulo": "Elegir la capacidad a ojo", "sub": "Muy chico, trabaja forzado.",
+     "voz": "Uno: elegirlo a ojo. Si queda chico, gasta más.", "zoom": "out"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg", "pos": [0.4, 0.3], "ajuste": "auto",
+     "chip": "Error 2", "titulo": "Cotizar sin foto del muro", "sub": "Después vienen las sorpresas.",
+     "voz": "Dos: cotizar sin foto… y después, sorpresas.", "zoom": "in"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.6, 0.35], "ajuste": "auto",
+     "chip": "Error 3", "titulo": "Mirar solo el equipo", "sub": "La instalación decide cómo rinde.",
+     "voz": "Y tres… mirar el equipo, y no la instalación.", "zoom": "out"},
+    {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.5, 0.0], "ajuste": "completa",
+     "chip": "Así lo hacemos", "titulo": "Míralo antes de perforar", "sub": "Simulador + 6 meses de garantía.",
+     "voz": "Por eso, míralo antes en el simulador, con garantía.", "zoom": "in"},
+    {"foto": null, "pos": [0.5, 0.5], "ajuste": "auto",
+     "chip": "Antes de comprar", "titulo": "¿Cuál casi cometes?", "sub": "Escríbenos AIRE · +56 9 6190 7601",
+     "voz": "¿Cuál casi cometes? Comenta el número… o escríbenos AIRE.", "zoom": "out"}
+  ],
+  "captions": {
+    "instagram": "Comprar aire acondicionado: 3 errores comunes 👀 Elegir la capacidad a ojo, cotizar sin foto del muro y mirar solo el equipo sin pensar en la instalación (el 3 sale caro). ¿Cuál casi cometes? Comenta el número. Mándaselo a quien está por comprar uno. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #inverter #instalacion #MideaAirvolution",
+    "facebook": "¿Estás por comprar tu aire antes de diciembre? 👀 Ojo con tres errores que vemos harto: elegir la capacidad a ojo (si queda chico, trabaja forzado y gasta más), cotizar sin mandar una foto del muro (y después aparecen sorpresas) y fijarse solo en el equipo, cuando la instalación es la que decide cómo rinde y cómo se ve. Nosotros te mostramos antes cómo queda con el simulador de climatizatepro.cl, dejamos el recorrido ordenado y la instalación tiene 6 meses de garantía. Equipos Inverter frío/calor, Midea Airvolution entre otros. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Aire acondicionado Santiago: 3 errores al comprar tu equipo (el 3 sale caro). Capacidad, foto del muro e instalación. Equipos Inverter Midea Airvolution con instalación ordenada y garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #MideaAirvolution #instalación #inverter"
+  }
+}
