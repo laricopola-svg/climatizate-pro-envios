@@ -1,0 +1,6 @@
+{"slides":[
+{"tipo":"portada","foto":"/home/claude/svmedia/banco/psicologa.jpg","pos":[0.3,0.5],"chip":"Comenta 1, 2 o 3","titulo":"¿Cuál te pondrías para ir a trabajar?","resaltar":["ir a trabajar?"],"sub":"Polerones por profesión"},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/psicologa.jpg","ajuste":"completa","chip":"1 · Psicóloga","titulo":"Acompaño, escucho, guío","resaltar":["escucho"],"sub":"Frase en la espalda y detalles en las mangas."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/fonoaudiologa.jpg","ajuste":"completa","chip":"2 · Fonoaudióloga","titulo":"Comunicación que transforma vidas","resaltar":["transforma"],"sub":"Su profesión en colores, adelante y atrás."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/matrona_roja.jpg","ajuste":"completa","chip":"3 · Matrona","titulo":"Con vocación y corazón","resaltar":["corazón"],"sub":"¿Y tu profesión? Cuéntanos y la diseñamos."},
+{"tipo":"cta","titulo":"Tu profesión, en tu polerón","resaltar":["tu polerón"],"sub":"Nombre, profesión y colores a tu gusto. Te mostramos la maqueta antes de estampar."}]}
