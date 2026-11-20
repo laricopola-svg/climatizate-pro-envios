@@ -1,0 +1,51 @@
+{
+"clips": [
+{
+"photo": "publicaciones/2026-11-20-1100-piscina-cane-corso/hook_diseno.jpg",
+"text": "POV: tu Cane Corso vio la piscina por primera vez",
+"size": 80,
+"text_y": 1560,
+"dur": 2.6
+},
+{
+"photo": "banco/cane-corso/cc_003.jpg",
+"text": "No todos los molosos nadan bien",
+"sub": "Mucho músculo = se cansan rápido. Enséñale la SALIDA: entrar y salir por la escalera, con calma y premio",
+"size": 88,
+"text_y": 1300,
+"dur": 3.8,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_007.jpg",
+"text": "Chaleco salvavidas para perros",
+"sub": "Con asa en el lomo. Clave en cachorros y perros pesados",
+"size": 88,
+"text_y": 1330,
+"dur": 3.0,
+"fit": "contain"
+},
+{
+"photo": "banco/cane-corso/cc_006.jpg",
+"text": "Queen: «yo solo me mojo las patitas»",
+"sub": "Y está bien. Nunca lo obligues ni lo tires al agua",
+"size": 86,
+"text_y": 1330,
+"dur": 3.0,
+"fit": "contain"
+},
+{
+"photo": "publicaciones/2026-11-20-1100-piscina-cane-corso/dato_diseno.jpg",
+"text": "Piscina cercada o tapada y nunca solo cerca del agua",
+"sub": "Después: enjuague con agua dulce y orejas secas. ¿Tose, vomita o respira raro tras tragar agua? Veterinario al tiro",
+"size": 78,
+"text_y": 760,
+"dur": 4.2
+}
+],
+"end": {
+"title": "Síguenos para más datos de molosos",
+"sub": "Cane Corso KCC · American Bully ABKC",
+"dur": 2.5
+}
+}
