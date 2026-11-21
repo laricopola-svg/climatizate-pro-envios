@@ -45,17 +45,19 @@
    ],
    "metricool": [
     {
-     "id": 436520294,
+     "id": 436571968,
      "uuid": "6819518447315272366",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 436520294
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-21T07:58:19-0300 (fcosotog7: 'Ok')"
   },
   {
    "n": 2,
@@ -74,17 +76,19 @@
    ],
    "metricool": [
     {
-     "id": 436520301,
+     "id": 436571987,
      "uuid": "-6114507481957972440",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 436520301
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-21T07:58:19-0300 (fcosotog7: 'Ok')"
   },
   {
    "n": 3,
@@ -109,27 +113,30 @@
    ],
    "metricool": [
     {
-     "id": 436520451,
+     "id": 436572022,
      "uuid": "1099485398348874860",
      "redes": [
       "instagram",
       "facebook"
      ],
      "isAiGenerated": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 436520451
     },
     {
-     "id": 436520455,
+     "id": 436572033,
      "uuid": "-5669667154825296978",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 436520455
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "aprobado": "2026-11-21T07:58:19-0300 (fcosotog7: 'Ok')"
   }
  ],
  "incidencias": [
@@ -153,7 +160,11 @@
   {
    "hora": "2026-11-21T07:07:09-0300",
    "resultado": "Sin respuestas de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta). Sin cambios."
+  },
+  {
+   "hora": "2026-11-21T08:07:00-0300",
+   "resultado": "Respuesta de fcosotog7@gmail.com 07:58 (msg 1a1fdc20459cef9b): 'Ok' -> aprobadas las 3. updateScheduledPost draft:false en los 4 posts de Metricool (horas originales 11:00, 15:00, 20:30 en el futuro, sin cambio de hora). Nuevos ids: 436571968, 436571987, 436572022 (IG+FB), 436572033 (TikTok, autoPublish false -> notificación a la app). Estado: programada."
   }
  ],
- "ultima_revision": "2026-11-21T07:07:09-0300"
+ "ultima_revision": "2026-11-21T08:07:00-0300"
 }
