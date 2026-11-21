@@ -1,0 +1,153 @@
+{
+ "fecha": "2026-11-21",
+ "dia": "sábado (impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a1fd7b7796cb087",
+ "messageId": "1a1fd7b7796cb087",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-21 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a1fd7b7796cb087",
+  "messageId": "1a1fd7b7796cb087"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel foto real (ayer Reel)",
+  "15:00": "imagen única foto real Drive (ayer carrusel)",
+  "20:30": "Reel IA cartoon 3D (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Anuncio real de camada Ragnar x Dakota (20-nov) + formato viral 'anuncio de embarazo' -> Perrinovela cap 13",
+  "Celo de la hembra (crianza responsable, conecta con la camada) 11:00",
+  "Temporada navideña: audio IG Jingle Bells Disco (Oshi) 709755712163848"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "El celo de tu Bully hembra: cuándo llega (6-12 meses, luego ~cada 6), señales, dura ~3 semanas, cuidados (correa, sin parques, reja, esterilizar -> veterinario) + Dato primer celo ≠ cruza / alerta post-celo (decaída, sed, flujo mal olor) -> veterinario urgente; CTA REGALONA o MAÑOSA",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_002, bully_036, bully_025, bully_028",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-21-1100-celo-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-3893660782221536737.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-12280982425584211650.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-7964799958692017.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-8377857586659446434.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-668469045678340015.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-8413868888752456088.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-5047453956627613210.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 436520294,
+     "uuid": "6819518447315272366",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Visita al vet sin drama: que tu Cane Corso se deje revisar en 4 pasos (tocar de a poco, boca, patas, visitas de paseo a la clínica) + Dato 50 kg que se dejan revisar = consultas seguras / miedo o gruñidos -> educador profesional; CTA VALIENTE o DRAMA",
+   "raza": "Cane Corso",
+   "formato": "imagen única",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive id 1v1Mx25CnG9br7LVBEOrtYoQP4SFVNvWq (IMG_4772.jpg, ya en repo)",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-21-1500-revision-sin-drama-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-10947904328625596522.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 436520301,
+     "uuid": "-6114507481957972440",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 13 'LA NOTICIA': Queen '¿Dakota anda RARA?', Ragnar '¿¡PAPÁ YO!?', Bella 'Yo sabía...', giro Kopito '¿Ya no voy a ser la guagua de la casa?' + Dato perra preñada (control veterinario, comida/suplementos solo los que indique el veterinario, paseos suaves, cero saltos); noticia real camada Ragnar x Dakota; CTA PADRINO, síguenos cap. 14",
+   "raza": "American Bully + Cane Corso (manada)",
+   "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZqYnFSDQ (Queen auto), MAHZqeEaBw0 (Ragnar y Bella), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 21-nov",
+   "isAiGenerated": true,
+   "audio": "IG: Jingle Bells Disco – Oshi, audioId 709755712163848 (music), audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "canva": "https://www.canva.com/d/I9fEgZYB16WLugt (diseño DAHbiYud50w, copia de DAHbWRZutig)",
+   "carpeta": "(sin carpeta: mp4 pasado directo de Canva a Metricool)",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 13
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-9418872175218522338.mp4",
+    "https://static.metricool.com/planner/202611/7551690-file-9858969363837964793.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 436520451,
+     "uuid": "1099485398348874860",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    },
+    {
+     "id": 436520455,
+     "uuid": "-5669667154825296978",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: único material nuevo = piezas TeamFS_RagnarDakota_* (20-nov, ya publicadas por otra sesión). Sin videos nuevos. Se usó una foto de Drive ya descargada (IMG_4772, id 1v1Mx25...)."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (21-nov). Sin otros generadores IA disponibles (create-video de Canva requiere aprobación explícita del usuario). Reel IA hecho reutilizando arte IA existente; no existe ilustración IA de Dakota."
+  },
+  {
+   "detalle": "Banco: bully_041/029 bloqueadas (portada <30 días); bully_037 y bully_018 son Cane Corso; banco CC agotado (todas usadas en plan semanal) -> 15:00 con foto de Drive. Se pidió material al dueño."
+  },
+  {
+   "detalle": "Miniaturas del Reel en el correo son de Canva y caducan en horas; link al mp4 de Metricool incluido."
+  }
+ ],
+ "revisiones": []
+}
