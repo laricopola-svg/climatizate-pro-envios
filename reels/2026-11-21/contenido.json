@@ -1,0 +1,101 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-21",
+ "fecha": "2026-11-21",
+ "hora": "19:00",
+ "pilar": "Instalación real (serie \"Así quedó en Santiago\")",
+ "tema": "Así quedó en Santiago: 3 espacios, 3 instalaciones reales (la 3 es un negocio)",
+ "audio_ig": "Dancing On My Own (Instrumental) Pink Gloves",
+ "tiktok_title": "Así quedó: 3 instalaciones reales de aire acondicionado en Santiago (la 3 es un local)",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Ubicación de cada equipo según evaluación del espacio.",
+ "primer_comentario": "📲 ¿Cuál se parece a tu espacio? Comenta COTIZAR o escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio).",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.35,
+    0.25
+   ],
+   "ajuste": "auto",
+   "chip": "Así quedó en Santiago",
+   "titulo": "3 espacios, 3 instalaciones reales",
+   "sub": "La 3 es un negocio.",
+   "voz": "Tres espacios reales… mira cómo quedó cada uno.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_07.jpg",
+   "pos": [
+    0.5,
+    0.0
+   ],
+   "ajuste": "completa",
+   "chip": "1 · Dormitorio",
+   "titulo": "Arriba y sin soplar a la cama",
+   "sub": "Para dormir fresco, sin corriente encima.",
+   "voz": "Uno: el dormitorio. Arriba, sin soplarte en la cama.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.5,
+    0.0
+   ],
+   "ajuste": "completa",
+   "chip": "2 · Depa con balcón",
+   "titulo": "La de afuera, en el balcón",
+   "sub": "Una a cada lado del muro.",
+   "voz": "Dos: el depa. La de afuera, en el balcón.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_13.jpg",
+   "pos": [
+    0.62,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "3 · Local comercial",
+   "titulo": "En altura, fuera del paso",
+   "sub": "Los clientes ni la notan.",
+   "voz": "Y tres… el local: arriba, fuera del paso.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.6,
+    0.35
+   ],
+   "ajuste": "auto",
+   "chip": "Así lo dejamos",
+   "titulo": "Ordenado y con 6 meses de garantía",
+   "sub": "Recorrido limpio, espacio limpio.",
+   "voz": "Todo ordenado, el espacio limpio… y con garantía.",
+   "zoom": "in"
+  },
+  {
+   "foto": null,
+   "pos": [
+    0.5,
+    0.5
+   ],
+   "ajuste": "auto",
+   "chip": "Así quedó en Santiago",
+   "titulo": "¿Cuál se parece al tuyo?",
+   "sub": "Comenta COTIZAR · +56 9 6190 7601",
+   "voz": "¿Cuál se parece al tuyo? Comenta COTIZAR y te escribimos.",
+   "zoom": "out"
+  }
+ ],
+ "captions": {
+  "instagram": "Instalación de aire acondicionado en Santiago: así quedó en 3 espacios reales 👀 Dormitorio arriba y sin soplar a la cama, depa con la unidad de afuera en el balcón y (la 3) un local con la unidad en altura, fuera del paso. ¿Cuál se parece al tuyo? Comenta COTIZAR y te escribimos. Mándaselo a quien está por instalar. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #inverter #climatizacion",
+  "facebook": "Así quedaron tres instalaciones reales en Santiago 👀 Un dormitorio con el equipo arriba y sin soplar a la cama, un depa con la unidad de afuera en el balcón, al otro lado del muro y una floristería con la unidad en altura, fuera del paso de los clientes. En todas, recorrido ordenado, espacio limpio al terminar y 6 meses de garantía de instalación. Y antes de perforar, puedes ver cómo queda en tu muro con el simulador de climatizatepro.cl. Equipos Inverter frío/calor, Midea Airvolution entre otros. ¿Es para tu depa, tu casa o tu negocio, y en qué comuna? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Instalación de aire acondicionado en Santiago: así quedó en un dormitorio, un depa con balcón y un local comercial. Equipos Inverter, Midea Airvolution entre otros, con recorrido ordenado y garantía de instalación. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #MideaAirvolution #antesydespues"
+ }
+}
