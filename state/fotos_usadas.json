@@ -401,6 +401,11 @@
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-1500-unas-bully",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-21",
+   "carpeta": "publicaciones/2026-11-21-1100-celo-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_008.jpg": [
@@ -539,6 +544,11 @@
   {
    "fecha": "2026-11-07",
    "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-21",
+   "carpeta": "publicaciones/2026-11-21-1100-celo-bully",
    "portada": false
   }
  ],
@@ -860,6 +870,11 @@
    "fecha": "2026-10-29",
    "carpeta": "publicaciones/2026-10-29-1100-ojos-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-21",
+   "carpeta": "publicaciones/2026-11-21-1100-celo-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_026.jpg": [
@@ -1027,6 +1042,12 @@
     "fecha": "2026-11-02",
     "titulo": "IMG_4772.jpg",
     "hora": "1100"
+   },
+   {
+    "fecha": "2026-11-21",
+    "titulo": "IMG_4772.jpg (Cane Corso negro sentado)",
+    "carpeta": "publicaciones/2026-11-21-1500-revision-sin-drama-cane-corso",
+    "portada": true
    }
   ],
   "1air127z2Y3OrlL5QXQKNEfi2EXqQIggi": [
@@ -1417,6 +1438,11 @@
   {
    "fecha": "2026-11-01",
    "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-21",
+   "carpeta": "publicaciones/2026-11-21-1100-celo-bully",
    "portada": false
   }
  ],
@@ -1919,6 +1945,13 @@
    "fecha": "2026-11-20",
    "carpeta": "publicaciones/2026-11-20-1100-piscina-cane-corso",
    "portada": false
+  }
+ ],
+ "canva:MAHZqYnFSDQ": [
+  {
+   "fecha": "2026-11-21",
+   "carpeta": "canva DAHbiYud50w (Perrinovela cap 13 Reel)",
+   "portada": true
   }
  ]
 }

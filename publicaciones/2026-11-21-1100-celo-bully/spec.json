@@ -1,0 +1,66 @@
+{
+"slides": [
+{
+"type": "cover",
+"kicker": "Educativo · American Bully",
+"title": "Tu Bully hembra anda rara y hay 'visitas' en la reja",
+"title_size": 70,
+"subtitle": "Puede ser el celo: lo que nadie te explicó (y cómo cuidarla)",
+"cta": "Desliza →",
+"big": "6m"
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_002.jpg",
+"fx": 0.5,
+"fy": 0.3,
+"label": "Clave 1",
+"headline": "¿Cuándo llega?",
+"body": "El primer celo suele aparecer entre los 6 y 12 meses, y después más o menos cada 6 meses. Cada perra tiene su propio reloj."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_036.jpg",
+"fx": 0.5,
+"fy": 0.5,
+"label": "Clave 2",
+"headline": "Las señales",
+"body": "Vulva hinchada, sangrado leve, se lame más, orina seguido y anda regalona o mañosa. Y los machos del barrio de repente te adoran."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_025.jpg",
+"fx": 0.5,
+"fy": 0.35,
+"label": "Clave 3",
+"headline": "Dura unas 3 semanas",
+"body": "Ojo: puede quedar preñada incluso cuando el sangrado ya bajó. Todo ese tiempo, cuidado extra."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_028.jpg",
+"fx": 0.5,
+"fy": 0.4,
+"label": "Clave 4",
+"headline": "Cómo cuidarla",
+"body": "Siempre con correa, nada de plazas ni parques de perros sueltos, reja revisada y machos separados. ¿Esterilizar? Conversa con tu veterinario."
+},
+{
+"type": "point",
+"label": "Dato TeamFS",
+"big": "!",
+"headline": "Primer celo ≠ cruza",
+"body": "Un criador responsable no cruza a una perra en su primer celo: espera madurez, chequeo veterinario y registro. Y si después del celo la ves decaída, con mucha sed o flujo con mal olor: veterinario urgente."
+},
+{
+"type": "cta",
+"headline": "¿Tu Bully hembra es regalona o mañosa en el celo?",
+"highlight": "Comenta: REGALONA o MAÑOSA",
+"bullets": [
+"Guarda esto si tienes hembra",
+"Compártelo con quien tiene cachorra",
+"Síguenos para más datos de molosos"
+]
+}
+]
+}
