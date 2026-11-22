@@ -211,6 +211,11 @@
    "fecha": "2026-11-04",
    "carpeta": "publicaciones/2026-11-04-1500-agua-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1500-paseo-sin-tirones-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_057.jpg": [
@@ -394,6 +399,11 @@
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1100-comida-navidena-cane-corso",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_002.jpg": [
@@ -471,6 +481,11 @@
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1500-paseo-sin-tirones-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_020.jpg": [
@@ -513,6 +528,11 @@
   {
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1500-paseo-sin-tirones-bully",
    "portada": false
   }
  ],
@@ -562,6 +582,11 @@
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1100-comida-navidena-cane-corso",
+   "portada": false
   }
  ],
  "banco/cane-corso/cc_001.jpg": [
@@ -573,6 +598,11 @@
   {
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1100-abejas-cane-corso",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1100-comida-navidena-cane-corso",
    "portada": false
   }
  ],
@@ -692,6 +722,11 @@
   {
    "fecha": "2026-10-25",
    "carpeta": "publicaciones/2026-10-25-2030-estoy-bien-manada",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1500-paseo-sin-tirones-bully",
    "portada": false
   }
  ],
@@ -1952,6 +1987,20 @@
    "fecha": "2026-11-21",
    "carpeta": "canva DAHbiYud50w (Perrinovela cap 13 Reel)",
    "portada": true
+  }
+ ],
+ "publicaciones/2026-11-22-1100-comida-navidena-cane-corso/hook_diseno.jpg": [
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1100-comida-navidena-cane-corso",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-22-1100-comida-navidena-cane-corso/dato_diseno.jpg": [
+  {
+   "fecha": "2026-11-22",
+   "carpeta": "publicaciones/2026-11-22-1100-comida-navidena-cane-corso",
+   "portada": false
   }
  ]
 }
