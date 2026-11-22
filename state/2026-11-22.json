@@ -39,25 +39,29 @@
    ],
    "metricool": [
     {
-     "id": 437406545,
+     "id": 437593944,
      "uuid": "4914997289872476411",
      "redes": [
       "instagram",
       "facebook"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 437406545
     },
     {
-     "id": 437406859,
+     "id": 437593972,
      "uuid": "5285347534609992012",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
-     "draft": true
+     "draft": false,
+     "id_anterior": 437406859
     }
    ],
-   "estado": "borrador"
+   "estado": "programada",
+   "hora_programada": "11:15",
+   "nota_hora": "11:00 ya había pasado al aprobar; reprogramada a 11:15 (ahora+10 min)"
   },
   {
    "n": 2,
@@ -82,17 +86,18 @@
    ],
    "metricool": [
     {
-     "id": 437406876,
+     "id": 437593981,
      "uuid": "-6289917323231539211",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 437406876
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -119,7 +124,7 @@
    ],
    "metricool": [
     {
-     "id": 437406889,
+     "id": 437593992,
      "uuid": "-7750773060610408397",
      "redes": [
       "facebook",
@@ -128,10 +133,11 @@
      ],
      "isAiGenerated": true,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 437406889
     }
    ],
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "incidencias": [
@@ -167,6 +173,17 @@
   {
    "hora": "2026-11-22T10:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta). Sin cambios."
+  },
+  {
+   "hora": "2026-11-22T11:05-03:00",
+   "resultado": "Respuesta 'Ok' de fcosotog7@gmail.com (10:13). Aprobadas las 3: draft:false en Metricool. #1 IG+FB y TikTok (autoPublish false) reprogramados a 11:15; #2 15:00; #3 20:30. Todas 'programada'."
   }
- ]
+ ],
+ "aprobacion": {
+  "de": "fcosotog7@gmail.com",
+  "messageId": "1a2036464182fbcf",
+  "fecha": "2026-11-22T10:13:47-03:00",
+  "texto": "Ok",
+  "interpretacion": "aprobar las 3"
+ }
 }
