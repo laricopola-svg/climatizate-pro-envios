@@ -1,0 +1,101 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-22",
+ "fecha": "2026-11-22",
+ "hora": "19:00",
+ "pilar": "Tips Midea (serie \"Tu Midea puede más\")",
+ "tema": "Tu Midea puede más #7: se vienen 35 °C… 3 botones en orden para llegar a un horno sin disparar la cuenta (el 3 casi nadie lo usa)",
+ "audio_ig": "Dancing On My Own (Instrumental) Pink Gloves",
+ "tiktok_title": "Se vienen 35 °C en Santiago: 3 botones de tu Midea Airvolution en orden",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Funciones según modelo y control.",
+ "primer_comentario": "📲 ¿Tu aire no alcanza con el calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y lo vemos.",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.35,
+    0.25
+   ],
+   "ajuste": "auto",
+   "chip": "Tu Midea puede más #7",
+   "titulo": "Se vienen 35 °C",
+   "sub": "El 3 casi nadie lo usa.",
+   "voz": "¿Treinta y cinco grados el miércoles? Tu Midea, en este orden.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.55,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "1 · Llegas a un horno",
+   "titulo": "Turbo, solo un rato",
+   "sub": "Baja la temperatura más rápido.",
+   "voz": "Uno: llegas a un horno… Turbo, un ratito.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.6,
+    0.35
+   ],
+   "ajuste": "auto",
+   "chip": "2 · Ya está fresco",
+   "titulo": "Pasa a ECO+",
+   "sub": "Mantiene el fresco gastando menos.",
+   "voz": "Dos: ya fresco, pasa a ECO+ y gasta menos.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": [
+    0.72,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "3 · En la noche",
+   "titulo": "Sleep para dormir",
+   "sub": "Ajusta solo la temperatura en la noche.",
+   "voz": "Y tres, ojo… en la noche, Sleep, y duermes parejo.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.5,
+    0.0
+   ],
+   "ajuste": "completa",
+   "chip": "Así lo instalamos",
+   "titulo": "Bien ubicado, rinde más",
+   "sub": "Recorrido ordenado y 6 meses de garantía.",
+   "voz": "Bien instalado, enfría parejo sin ir al máximo.",
+   "zoom": "in"
+  },
+  {
+   "foto": null,
+   "pos": [
+    0.5,
+    0.5
+   ],
+   "ajuste": "auto",
+   "chip": "Tu Midea puede más #7",
+   "titulo": "¿Cuál te faltaba?",
+   "sub": "Escríbenos AIRE · +56 9 6190 7601",
+   "voz": "¿Cuál te faltaba? Comenta el número… o escríbenos AIRE.",
+   "zoom": "out"
+  }
+ ],
+ "captions": {
+  "instagram": "Midea Airvolution con 35 °C: 3 botones en orden 🔥 Llegas a un horno → Turbo un rato. Ya fresco → ECO+. En la noche → Sleep (el 3 casi nadie lo usa). ¿Cuál te faltaba? Comenta el número. Mándaselo a quien tiene Midea en la casa. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). Funciones según modelo y control. #aireacondicionado #santiago #midea #olaDeCalor #inverter",
+  "facebook": "Se vienen días de calor fuerte en Santiago: Megatiempo pronostica hasta 35 °C para el miércoles 🥵 Si tienes un Midea Airvolution, úsalo en este orden: 1) llegas y la casa es un horno: Turbo, solo un rato; 2) cuando ya está fresco, pasa a ECO+ para mantenerlo gastando menos; 3) en la noche, Sleep, y duermes parejo. Y si tu equipo no alcanza o sopla donde no debe, muchas veces es la ubicación: nosotros instalamos con recorrido ordenado, espacio limpio y 6 meses de garantía de instalación (funciones según modelo y control). ¿En qué comuna te pega más fuerte el calor? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Midea Airvolution con 35 °C en Santiago: Turbo, ECO+ y Sleep, en ese orden. Aire acondicionado Inverter, instalación en Santiago con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). Funciones según modelo y control. #aireacondicionado #santiago #MideaAirvolution #calor #instalación"
+ }
+}
