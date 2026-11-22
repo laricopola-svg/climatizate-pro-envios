@@ -1,0 +1,154 @@
+{
+ "fecha": "2026-11-22",
+ "dia": "domingo (par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "threadId": "1a202a317696c33a",
+ "messageId": "1a202a317696c33a",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-22 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a202a317696c33a",
+  "messageId": "1a202a317696c33a"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel foto real (ayer carrusel)",
+  "15:00": "carrusel foto real (ayer imagen única)",
+  "20:30": "carrusel IA cómic (ayer Reel IA cartoon 3D)"
+ },
+ "tendencias_usadas": [
+  "Inicio temporada navideña Chile: pan de pascua/cola de mono en las mesas -> comida prohibida (formato POV)",
+  "Perrinovela cap 14 continúa anuncio real camada Ragnar x Dakota (formato 'embarazo')",
+  "Audio IG navideño: We Wish You A Merry Christmas (Bass Boosted) 1097808322023192; All I Want for Christmas Is You no está en catálogo Metricool"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: llegó diciembre y tu Cane Corso ya olió la mesa - comida navideña prohibida (pasas del pan de pascua/riñón, chocolate y cola de mono, huesos cocidos/grasa-pancreatitis) + Dato: si comió, veterinario al tiro, no inducir vómito por cuenta propia; CTA ladrón de comida",
+   "raza": "Cane Corso",
+   "formato": "Reel 18,6 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco cc_001, cc_002, cc_010 + hook_diseno.jpg y dato_diseno.jpg",
+   "isAiGenerated": false,
+   "audio": "IG: We Wish You A Merry Christmas (Bass Boosted) – Giulio Cercato, audioId 1097808322023192, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-22-1100-comida-navidena-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-5639920585978025287.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 437406545,
+     "uuid": "4914997289872476411",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "draft": true
+    },
+    {
+     "id": 437406859,
+     "uuid": "5285347534609992012",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¿Tú paseas a tu Bully o tu Bully te pasea a ti? Paseo sin tirones en 4 pasos (gastar energía antes, árbol si tira, premiar al lado, arnés pecho sin púas/ahorque) + Dato sesiones cortas / educador profesional; CTA YO o MI BULLY",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_005, bully_016, bully_043, bully_021",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-22-1500-paseo-sin-tirones-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-2970820675048139898.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-6585633949613179908.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-887507997591390608.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-3353431240098521013.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-12664101839789171524.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-14061063873337009505.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-4599906216986654652.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 437406876,
+     "uuid": "-6289917323231539211",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 14 'LA ECOGRAFÍA': Kopito '¡QUIERO VER!', Ragnar '¿y si salen a mí?', Queen '¡seré tía!', Kopito '¿Y YO QUÉ?' + Dato la preñez no se adivina: ecografía veterinaria (desde ~25 días), gestación ~63 días; CTA nombre para la camada, síguenos cap. 15",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZwbedLFc (Queen), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 22-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/iEm2xW0NBC7RyCu (diseño DAHboRhCrxI, copia de DAHbcXIb5sU)",
+   "carpeta": "(sin carpeta: jpg pasados directo de Canva a Metricool; descarga desde Canva bloqueada por proxy)",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 14
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-8223597174518541216.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-7555612040979533765.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-13939069092438128688.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-16945682811409420936.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 437406889,
+     "uuid": "-7750773060610408397",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 20-nov (solo TeamFS_RagnarDakota_* ya publicadas). Se pidió material al dueño."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (22-nov). Pieza IA hecha reutilizando arte IA existente (copy-design + edit-design + export jpg)."
+  },
+  {
+   "detalle": "fotos.py: bully_023/010/052/033 bloqueadas (portada <30 días); bully_040 descartada (parece Cane Corso, revisar archivo)."
+  },
+  {
+   "detalle": "Audio IG: 'All I Want for Christmas Is You' sin coincidencia en catálogo Metricool; se usó We Wish You A Merry Christmas (Bass Boosted)."
+  }
+ ]
+}
