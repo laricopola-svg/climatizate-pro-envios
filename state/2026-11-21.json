@@ -4,7 +4,7 @@
   "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
   "enviado": "2026-11-20T19:40-03:00",
   "modo": "aprobacion",
-  "ultima_revision": "2026-11-21T21:03-03:00",
+  "ultima_revision": "2026-11-21T22:03-03:00",
   "nota_formato": "Rotación vs 20-11 (10:00 carrusel, 15:00 reel, 19:30 foto) -> 21-11: 10:00 reel, 15:00 carrusel (sale como Reel en IG), 19:30 carrusel.",
   "investigacion": {
     "audios": "CreatorDB (18-11), SocialPilot (17-25 nov), Later (13-11), Metricool TikTok (16-11), Tokchart (20-11), Ignix (16-11)",
@@ -233,7 +233,8 @@
     "18:03 sin nueva respuesta de Sara en el hilo; pub. 1 (10:00) y 3 (19:30) siguen pendiente_aprobacion. Pub. 2 programada 15:00 (se verifica publicada desde las 21:00). Marca SaraVibes OK (IG/FB/TikTok correctos). No existe state 22-11 aún.",
     "19:03 sin nueva respuesta de Sara en el hilo; pub. 1 (10:00) y 3 (19:30) siguen pendiente_aprobacion (sin OK, no se programan). Pub. 2 programada 15:00 (se verifica publicada desde las 21:00). Marca SaraVibes OK (IG/FB/TikTok correctos). No existe state 22-11 aún.",
     "20:03 sin nueva respuesta de Sara en el hilo; pub. 1 (10:00) y 3 (19:30) siguen pendiente_aprobacion (19:30 ya pasó; si llega OK antes de las 23:00 se programa a ahora+10 min). Pub. 2 programada 15:00. Hilo 22-11 sin respuesta. Marca SaraVibes OK (IG/FB/TikTok correctos).",
-    "21:03 pub. 2 confirmada PUBLICADA en IG/FB/TikTok (URLs guardadas). Sin nueva respuesta de Sara; pub. 1 y 3 siguen pendiente_aprobacion (si llega OK antes de las 23:00 se programan a ahora+10 min). Hilo 22-11 sin respuesta. Marca SaraVibes OK."
+    "21:03 pub. 2 confirmada PUBLICADA en IG/FB/TikTok (URLs guardadas). Sin nueva respuesta de Sara; pub. 1 y 3 siguen pendiente_aprobacion (si llega OK antes de las 23:00 se programan a ahora+10 min). Hilo 22-11 sin respuesta. Marca SaraVibes OK.",
+    "22:03 sin nueva respuesta de Sara en el hilo; pub. 1 y 3 siguen pendiente_aprobacion (si llega OK antes de las 23:00 se programan a ahora+10 min). Pub. 2 publicada. Hilo 22-11 sin respuesta. Marca SaraVibes OK (IG/FB/TikTok correctos)."
   ],
   "respuestas_procesadas": [
     "1a1fdf217f904517"
