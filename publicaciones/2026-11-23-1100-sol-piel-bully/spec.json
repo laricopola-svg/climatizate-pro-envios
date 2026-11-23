@@ -1,0 +1,66 @@
+{
+"slides": [
+{
+"type": "cover",
+"kicker": "Educativo · American Bully",
+"title": "Sí, tu Bully también se puede quemar con el sol",
+"title_size": 74,
+"subtitle": "Ojo con los blancos, merle y narices rosadas",
+"cta": "Desliza →",
+"big": "4"
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_048.jpg",
+"fx": 0.0,
+"fy": 0.5,
+"label": "Clave 1",
+"headline": "¿Quién corre más riesgo?",
+"body": "Pelaje blanco o muy claro, merle con zonas rosadas, nariz y párpados sin pigmento, y la guatita con poco pelo. ¿Tu Bully toma sol como lagartija? Es contigo."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_035.jpg",
+"fx": 0.5,
+"fy": 0.3,
+"label": "Clave 2",
+"headline": "Señales de quemadura",
+"body": "Piel roja o caliente en nariz, orejas o guata, descamación, costritas o molestia al tocarlo. ¿Lo ves? Consulta a tu veterinario."
+},
+{
+"type": "point",
+"photo": "banco/american-bully/bully_027.jpg",
+"fx": 0.5,
+"fy": 0.35,
+"label": "Clave 3",
+"headline": "Sombra en las horas peludas",
+"body": "Entre 11:00 y 17:00 el sol pega más fuerte. Paseos temprano o al atardecer, y sombra siempre disponible en el patio (no solo un rato)."
+},
+{
+"type": "point",
+"photo": "publicaciones/2026-11-23-1100-sol-piel-bully/src_bully_012.jpg",
+"fx": 0.5,
+"fy": 0.5,
+"label": "Clave 4",
+"headline": "Protector… pero de perro",
+"body": "Si tu veterinario lo recomienda, usa protector solar formulado para perros en nariz y orejas. Nada del bloqueador de la casa: algunos ingredientes hacen mal si lo lame."
+},
+{
+"type": "point",
+"label": "Dato TeamFS",
+"big": "!",
+"headline": "La piel también se revisa",
+"body": "Una costra o herida que no sana en la nariz u orejas de un perro de piel clara no es «solo el sol»: llévalo al veterinario. Detectar a tiempo hace la diferencia."
+},
+{
+"type": "cta",
+"headline": "¿Tu Bully es de sombra o de solcito?",
+"highlight": "Comenta: SOMBRA o SOLCITO",
+"bullets": [
+"Guarda esto para este verano",
+"Compártelo con el dueño de un Bully blanco",
+"Síguenos para más datos de molosos"
+]
+}
+]
+}

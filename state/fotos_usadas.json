@@ -445,6 +445,11 @@
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-23",
+   "carpeta": "publicaciones/2026-11-23-1100-sol-piel-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_019.jpg": [
@@ -517,6 +522,12 @@
    "fecha": "2026-11-07",
    "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-23",
+   "carpeta": "publicaciones/2026-11-23-1100-sol-piel-bully",
+   "portada": false,
+   "nota": "vía src_bully_012.jpg (recorte sin logo)"
   }
  ],
  "banco/american-bully/bully_021.jpg": [
@@ -552,6 +563,11 @@
   {
    "fecha": "2026-11-07",
    "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-23",
+   "carpeta": "publicaciones/2026-11-23-1100-sol-piel-bully",
    "portada": false
   }
  ],
@@ -646,6 +662,11 @@
   {
    "fecha": "2026-11-07",
    "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-23",
+   "carpeta": "publicaciones/2026-11-23-1100-sol-piel-bully",
    "portada": false
   }
  ],
@@ -2000,6 +2021,13 @@
   {
    "fecha": "2026-11-22",
    "carpeta": "publicaciones/2026-11-22-1100-comida-navidena-cane-corso",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-23-1100-sol-piel-bully/src_bully_012.jpg": [
+  {
+   "fecha": "2026-11-23",
+   "carpeta": "publicaciones/2026-11-23-1100-sol-piel-bully",
    "portada": false
   }
  ]
