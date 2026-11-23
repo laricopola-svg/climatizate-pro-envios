@@ -4,7 +4,7 @@
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
  "enviado": "2026-11-23T19:36-03:00",
  "modo": "automatico",
- "ultima_revision": null,
+ "ultima_revision": "2026-11-23T20:07-03:00",
  "nota_formato": "23-11 sin publicaciones (no hubo state). 24-11: 10:00 carrusel→Reel en IG, 15:00 reel, 19:30 foto. Reutiliza las 3 piezas vencidas del 22-11 (nunca publicadas).",
  "investigacion": {
   "audios": "SocialPilot IG y TikTok (17-25 nov), Buffer IG (3-11), Virlo (23-11: Flower In A Hurricane/GTA VI lidera; POV mejor gancho 32,9%, antes/después 28,5%). Se evitan audio_ig de 21 y 22-11.",
@@ -72,8 +72,35 @@
     "1VFsvJZ0mAudX2-ALGbSm_aFgW1YqCVBu": "Poleron canguro adulto.jpeg"
    },
    "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 439559594,
+     "uuid": "1623624118550021484",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1623624118550021484"
+    },
+    {
+     "red": "facebook",
+     "id": 439559903,
+     "uuid": "6087820733197206040",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6087820733197206040"
+    },
+    {
+     "red": "tiktok",
+     "id": 439559977,
+     "uuid": "1064542453973271917",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1064542453973271917"
+    }
+   ],
+   "audio_ig_usado": "November - past day (original_sound, 25493313880306363)",
+   "audio_tipo": "tendencia",
+   "audio_intentos": [
+    "It's Beginning to Look a Lot like Christmas (sin match)",
+    "Christmas Market (sin match)",
+    "Christmas Market Eoneun (sin match)",
+    "November Past Day → 25493313880306363 (resuelto en revisión anterior)"
+   ]
   },
   {
    "numero": 2,
@@ -124,8 +151,36 @@
     "1fblT43jJ0bjALqNvX4Wkg-BfYweO8i5G": "Poleron Polo.jpeg (dibujo Tía Diana)"
    },
    "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 439560850,
+     "uuid": "-647000170225119536",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-647000170225119536"
+    },
+    {
+     "red": "facebook",
+     "id": 439560875,
+     "uuid": "-665050999815976432",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-665050999815976432"
+    },
+    {
+     "red": "tiktok",
+     "id": 439560900,
+     "uuid": "7078877917158919721",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7078877917158919721"
+    }
+   ],
+   "audio_ig_usado": "Hello Sunshine – Trout Recording (502753367042819)",
+   "audio_tipo": "respaldo",
+   "audio_intentos": [
+    "Upside Down",
+    "Upside Down Diana Ross",
+    "Flower In A Hurricane",
+    "Reels Sound - Transition"
+   ],
+   "audio_nota": "Upside Down / Flower In A Hurricane no están en la biblioteca comercial de la cuenta de empresa; se usó pista alegre de la lista de candidatos."
   },
   {
    "numero": 3,
@@ -168,8 +223,39 @@
     "1GmxnP3sCPJMtgchpbaMh7SzUAtK0mTxy": "Zeus.jpeg"
    },
    "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 439561645,
+     "uuid": "-7046061937766544414",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-7046061937766544414"
+    },
+    {
+     "red": "facebook",
+     "id": 439561660,
+     "uuid": "-3480802804720513628",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3480802804720513628"
+    },
+    {
+     "red": "tiktok",
+     "id": 439561684,
+     "uuid": "7695466053348966718",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7695466053348966718"
+    }
+   ],
+   "audio_ig_usado": "Happy Days – Giulio Cercato (1388161098514399)",
+   "audio_tipo": "respaldo",
+   "audio_intentos": [
+    "My Moon My Man",
+    "Mr. Brightside (solo re-subidas original_sound no oficiales)",
+    "happy dog"
+   ],
+   "audio_nota": "My Moon My Man / Mr. Brightside no están en la biblioteca comercial; se usó pista alegre de biblioteca."
   }
- ]
+ ],
+ "cambios": [
+  "23-11 20:07: sin respuestas de Sara; marca SaraVibes verificada (FB/IG/TikTok OK); contacto OK en 9 captions; media 200; programadas 1,2,3 en IG (Reel)/FB (Reel)/TikTok (fotos)."
+ ],
+ "respuestas_procesadas": []
 }
