@@ -1,0 +1,41 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-23",
+ "fecha": "2026-11-23",
+ "hora": "19:00",
+ "pilar": "Instalación real (serie \"Así quedó en Santiago\")",
+ "tema": "¿Instalas antes del calorón? Así es el día de tu instalación en 3 momentos (el 3 casi nadie lo espera)",
+ "audio_ig": "Midnight City M83",
+ "tiktok_title": "Así es el día de tu instalación de aire acondicionado en Santiago: 3 momentos",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Ubicación final según evaluación de tu espacio.",
+ "primer_comentario": "📲 ¿Quieres tu aire antes del calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con una foto de tu muro y tu comuna.",
+ "escenas": [
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.35, 0.25], "ajuste": "auto",
+   "chip": "Así es tu instalación", "titulo": "Hoy 30 °C, el miércoles 35 °C", "sub": "El 3 casi nadie lo espera.",
+   "voz": "¿Instalas antes del calorón? Así es el día.", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg", "pos": [0.55, 0.2], "ajuste": "auto",
+   "chip": "1 · Llegamos", "titulo": "Primero, dónde va", "sub": "Lo ubicamos contigo.",
+   "voz": "Uno: vemos contigo dónde queda mejor.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.5, 0.0], "ajuste": "completa",
+   "chip": "2 · Recorrido", "titulo": "Adentro y afuera, en orden", "sub": "Una unidad a cada lado del muro.",
+   "voz": "Dos: recorrido corto y ordenado, sin cables colgando.", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.6, 0.35], "ajuste": "auto",
+   "chip": "3 · Lo que nadie espera", "titulo": "Tu espacio, limpio", "sub": "Como lo encontramos.",
+   "voz": "Y tres, ojo… te dejamos el espacio limpio.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg", "pos": [0.4, 0.3], "ajuste": "auto",
+   "chip": "Y después", "titulo": "6 meses de garantía", "sub": "Garantía de instalación.",
+   "voz": "Y quedas con seis meses de garantía.", "zoom": "in"},
+  {"foto": null, "pos": [0.5, 0.5], "ajuste": "auto",
+   "chip": "Así es tu instalación", "titulo": "¿Cuál te importa más?", "sub": "Escríbenos AIRE · +56 9 6190 7601",
+   "voz": "¿Cuál te importa más? Comenta el número… o escríbenos AIRE.", "zoom": "out"}
+ ],
+ "captions": {
+  "instagram": "Instalación de aire acondicionado: así es el día, en 3 momentos 🔧 1) vemos contigo dónde queda mejor, 2) recorrido corto y ordenado, 3) te dejamos el espacio limpio (el 3 casi nadie lo espera). ¿Cuál te importa más? Comenta el número. Mándaselo a quien quiere instalar antes del calor. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #calor #inverter",
+  "facebook": "Hoy Santiago parte la semana con ~30 °C y Megatiempo pronostica hasta 35 °C para el miércoles 🥵 Si estás pensando instalar, así es el día con nosotros: primero vemos contigo dónde queda mejor el equipo; después hacemos un recorrido corto y ordenado entre la unidad de adentro y la de afuera, sin cables colgando; y al final te dejamos el espacio limpio, como lo encontramos. Quedas con 6 meses de garantía de instalación, y antes puedes ver cómo queda en tu muro con el simulador de climatizatepro.cl. Equipos Inverter frío/calor, Midea Airvolution entre otros. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Así es el día de tu instalación de aire acondicionado en Santiago: ubicación, recorrido ordenado y espacio limpio. Inverter frío/calor, Midea Airvolution entre otros, con 6 meses de garantía de instalación. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #MideaAirvolution #calor"
+ }
+}

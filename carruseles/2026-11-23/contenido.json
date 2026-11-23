@@ -1,0 +1,55 @@
+{
+ "tema": "Antes de los 35 °C: ¿cuántos BTU necesita tu pieza? Guía referencial en 1 minuto (la 6 casi nadie la considera)",
+ "fecha": "2026-11-23",
+ "id": "2026-11-23",
+ "hora": "12:00",
+ "pilar": "Educativo (capacidad BTU según la pieza)",
+ "primer_comentario": "📲 ¿No sabes cuántos BTU necesitas? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con los m² y tu comuna.",
+ "slides": [
+  {"tipo": "portada", "kicker": "Antes del miércoles 35 °C",
+   "titulo": "¿Cuántos BTU necesita <span class=c>tu pieza</span>?",
+   "texto": "Guía referencial en 1 minuto. La 6 casi nadie la considera. Guárdalo."},
+  {"tipo": "tabla", "kicker": "Según los m² · referencial", "titulo": "Tu pieza, <span class=f>tu capacidad</span>",
+   "filas": [
+    ["Hasta 15 m² · dormitorio", "9.000 BTU"],
+    ["15 a 25 m² · pieza grande o living chico", "12.000 BTU"],
+    ["25 a 35 m² · living-comedor", "18.000 BTU"],
+    ["35 a 50 m² · espacio amplio", "24.000 BTU"]
+   ],
+   "nota": "Referencial: la capacidad se confirma al evaluar tu espacio."},
+  {"tipo": "lista", "kicker": "Pasos 1 al 3", "titulo": "Mídelo <span class=f>en 1 minuto</span>",
+   "items": [
+    {"icono": "📏", "t": "1. Largo × ancho = m²", "d": "Ejemplo: 4 × 3,5 m = 14 m². Con una huincha basta."},
+    {"icono": "⌖", "t": "2. Mide todo el espacio que quieres climatizar", "d": "Si el living se une con el comedor o la cocina, cuéntalo todo."},
+    {"icono": "📲", "t": "3. Mándanos la medida", "d": "Con los m² y una foto del muro te decimos la capacidad que conviene."}
+   ]},
+  {"tipo": "lista", "kicker": "Lo que te hace subir", "titulo": "Cuándo pedir <span class=c>un poco más</span>",
+   "items": [
+    {"icono": "☀", "t": "4. Sol de la tarde o ventanales", "d": "La pieza se calienta más y el equipo tiene que trabajar más.", "calor": true},
+    {"icono": "🏢", "t": "5. Último piso o techo alto", "d": "Más volumen de aire o más calor que entra por arriba."},
+    {"icono": "👥", "t": "6. Mucha gente o equipos que calientan", "d": "Cocina integrada, computadores o un negocio con clientes. Esta casi nadie la considera.", "calor": true}
+   ]},
+  {"tipo": "versus", "kicker": "El error más común", "titulo": "¿Más chico para ahorrar o <span class=f>justo</span>?",
+   "a": {"t": "Más chico", "xs": ["No alcanza con 35 °C", "Trabaja forzado", "Gasta más"]},
+   "b": {"t": "Capacidad justa", "xs": ["Llega a la temperatura", "Inverter mantiene parejo", "Gasta lo justo"]},
+   "nota": "Más grande tampoco es mejor: se elige la capacidad justa."},
+  {"tipo": "foto", "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": "60% 35%",
+   "kicker": "Instalación real · living-comedor", "titulo": "En espacios grandes, la ubicación también cuenta",
+   "texto": "Arriba y despejado, para que el aire llegue a todo el espacio.", "etiqueta": "Instalación real · Santiago"},
+  {"tipo": "lista", "kicker": "Así lo instalamos", "titulo": "Capacidad justa, <span class=c>bien instalada</span>",
+   "items": [
+    {"icono": "◎", "t": "Míralo antes en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+    {"icono": "⌖", "t": "Ubicado donde reparte", "d": "Arriba, despejado y con la de afuera donde pueda respirar."},
+    {"icono": "✓", "t": "Terminaciones limpias", "d": "Recorrido ordenado, espacio limpio al terminar y garantía de instalación de 6 meses."}
+   ]},
+  {"tipo": "cta", "kicker": "¿Ya sabes tus m²?", "titulo": "Escríbenos <span class=f>AIRE</span> con tu medida",
+   "texto": "Mándanos los m², una foto del muro y tu comuna. Equipos Inverter frío/calor de 9.000 a 24.000 BTU, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+   "boton": "Cotiza en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "¿Cuántos BTU necesito? 🥵 Antes de los 35 °C del miércoles, mide tu pieza en 1 minuto: hasta 15 m² → 9.000 BTU; 15–25 → 12.000; 25–35 → 18.000; 35–50 → 24.000 (referencial). La 6 casi nadie la considera. ¿Cuántos m² tiene tu pieza? Comenta. Guárdalo y mándaselo a quien está por comprar. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #btu #calor #inverter",
+  "facebook": "Megatiempo pronostica ~30 °C hoy, 32 el martes y hasta 35 °C el miércoles en Santiago 🥵 Si estás por comprar aire, la pregunta clave es: ¿cuántos BTU necesita tu pieza? Guía referencial: hasta 15 m² (dormitorio) 9.000 BTU; 15 a 25 m² 12.000 BTU; 25 a 35 m² (living-comedor) 18.000 BTU; 35 a 50 m² 24.000 BTU. Súbele un poco si te pega el sol de la tarde, si es último piso o techo alto, o si hay mucha gente o equipos que calientan (cocina integrada, computadores). Ni más chico \"para ahorrar\" ni más grande: la capacidad justa, y bien instalada, con simulador, recorrido ordenado y 6 meses de garantía de instalación. La capacidad final se confirma al evaluar tu espacio. ¿En qué comuna estás y cuántos m² tiene tu pieza? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "¿Cuántos BTU necesita tu pieza? Guía de aire acondicionado en Santiago: 9.000, 12.000, 18.000 o 24.000 BTU según los m² (referencial). Inverter frío/calor, Midea Airvolution entre otros, instalación con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #btu #calor #instalación",
+  "linkedin": "Semana de calor en Santiago (pronóstico de hasta 35 °C): elegir la capacidad correcta es la primera decisión para climatizar bien una oficina, consulta o local.\n\nReferencia por superficie: hasta 15 m², 9.000 BTU; 15–25 m², 12.000 BTU; 25–35 m², 18.000 BTU; 35–50 m², 24.000 BTU.\n\nFactores que aumentan la carga: sol de tarde o vitrinas, último piso o cielos altos, y ocupación o equipos que generan calor (computadores, clientes, cocina). Un equipo subdimensionado trabaja forzado y consume más; uno sobredimensionado tampoco es la solución.\n\nEn Climatízate Pro confirmamos la capacidad en una evaluación técnica (también para proyectos con varios equipos) e instalamos equipos Inverter frío/calor con terminaciones limpias y garantía de instalación de 6 meses.\n\nCotiza: climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}
