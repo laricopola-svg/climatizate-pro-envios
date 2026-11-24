@@ -40,26 +40,28 @@
    ],
    "metricool": [
     {
-     "id": 440014262,
+     "id": 440107672,
      "uuid": "6961113374632724335",
      "redes": [
       "instagram",
       "facebook"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 440014262
     },
     {
-     "id": 440014835,
+     "id": 440107685,
      "uuid": "5461369591600663969",
      "redes": [
       "tiktok"
      ],
      "autoPublish": false,
-     "draft": true
+     "draft": false,
+     "id_anterior": 440014835
     }
    ],
    "texto": "👅 POV: tu Cane Corso se lame las patas como si fueran helado de piña 🍦\n\n¿Maña o picazón? Depende de cuánto 👇\n🐾 Un poco después de comer o dormir: normal, es su forma de asearse.\n🚨 Sin parar y todos los días: puede ser alergia, hongos, una espiga entre los dedos o puro aburrimiento.\n💧 Después del paseo: revisa entre los dedos y seca bien. La humedad del pasto regado es la fiesta de los hongos.\n🧴 Nada de cremas ni remedios de la casa: algunos son tóxicos si los lame.\n\nDato TeamFS: pelo rojizo en las patas (manchado por la saliva), piel roja, mal olor o cojera = consulta a tu veterinario.\n\n¿Tu Cane Corso se lame las patas… o te lame a ti? Te leemos 👇\n💾 Guarda · 🔁 Comparte con el dueño de un moloso lamedor · 💬 DM · ➕ Síguenos para más datos de molosos.\n\n📲 Consultas y cachorros por WhatsApp: https://wa.me/56961907601 (+56 9 6190 7601)\n\n#CaneCorso #CaneCorsoChile #MastinItaliano #SaludCanina #VeranoConPerros #PerrosChile #TeamFSKennelClub",
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 2,
@@ -84,18 +86,19 @@
    ],
    "metricool": [
     {
-     "id": 440014861,
+     "id": 440107705,
      "uuid": "-855601220613289484",
      "redes": [
       "facebook",
       "instagram",
       "tiktok"
      ],
-     "draft": true
+     "draft": false,
+     "id_anterior": 440014861
     }
    ],
    "texto": "🎁 El trend del perro que sale del regalo… versión sin traumar a tu Bully.\n\nPegas papel de regalo en la puerta, lo llamas y ¡pum! aparece tu Bully como regalo de Navidad. Así se hace bien:\n1️⃣ Primero que lo huela: muéstrale el papel, premio, y recién ahí lo pegas.\n2️⃣ Papel delgado, sin glitter, y la cinta por el lado de afuera, lejos de su boca.\n3️⃣ Lo llamas con su premio favorito y voz de fiesta. Nunca lo empujes ni lo tires de la correa.\n4️⃣ Si retrocede, bosteza, se lame los labios o mete la cola: se acabó por hoy. La foto no vale más que su confianza.\n\nDato TeamFS: después de la foto, papel y cinta a la basura. Si se tragó un pedazo grande o cinta, llama a tu veterinario al tiro.\n\n¿Tu Bully ROMPE el papel o ARRANCA? Cuéntanos 👇 (y si te sale la foto, etiquétanos 📸)\n💾 Guarda para la foto navideña · 🔁 Comparte con quien ya compró el papel · 💬 DM · ➕ Síguenos para más datos de molosos.\n\n📲 Consultas y cachorros por WhatsApp: https://wa.me/56961907601 (+56 9 6190 7601)\n\n#AmericanBully #BullyChile #ABKC #NavidadConPerros #FotoNavideña #AdiestramientoCanino #TeamFSKennelClub",
-   "estado": "borrador"
+   "estado": "programada"
   },
   {
    "n": 3,
@@ -122,7 +125,7 @@
    ],
    "metricool": [
     {
-     "id": 440014886,
+     "id": 440107723,
      "uuid": "6567996096784452026",
      "redes": [
       "facebook",
@@ -131,11 +134,12 @@
      ],
      "isAiGenerated": true,
      "isAigc": true,
-     "draft": true
+     "draft": false,
+     "id_anterior": 440014886
     }
    ],
    "texto": "📛 Perrinovela TeamFS · Capítulo 16: LOS NOMBRES\n\nLa camada de Ragnar x Dakota necesita nombre y la manada armó asamblea 🗳️\nRagnar: \"Ragnar Jr.\" (humildad, cero) 😎\nKopito, 7 meses: \"¡GALLETA!\"… y después \"¡ZAPALLO!\" (sí, tiene hambre) 🍪🎃\nQueen: \"Reina II\", obvio 👑\n\nDato TeamFS: el nombre de llamado va corto (2 sílabas) y que no suene a \"no\" ni a otra orden: lo aprende más rápido. Y en el pedigrí ABKC cada cachorro lleva además su nombre oficial registrado.\n\n¿GALLETA, ZAPALLO o REINA II? Vota en comentarios 👇 (o propón el tuyo)\n💾 Guarda · 🔁 Comparte con tu grupo perruno · ➕ Síguenos para el capítulo 17\n\n✨ Ilustraciones creadas con IA, inspiradas en nuestra manada real.\n\n📲 Consultas y cachorros por WhatsApp: https://wa.me/56961907601 (+56 9 6190 7601)\n\n#AmericanBully #BullyChile #ABKC #CaneCorso #Perrinovela #HumorPerruno #TeamFSKennelClub",
-   "estado": "borrador"
+   "estado": "programada"
   }
  ],
  "incidencias": [
@@ -162,6 +166,11 @@
   {
    "hora": "2026-11-24T07:05-03:00",
    "resultado": "sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta enviada 06:42). Sin cambios."
+  },
+  {
+   "hora": "2026-11-24T08:05-03:00",
+   "resultado": "Respuesta de fcosotog7@gmail.com 07:39 ('Ok') -> aprobadas las 3. updateScheduledPost draft:false en 4 posts Metricool (IG+FB y TikTok de la 1; la 2; la 3), horas originales 11:00/15:00/20:30 conservadas. Estado: programada."
   }
- ]
+ ],
+ "ultima_revision": "2026-11-24T08:05-03:00"
 }
