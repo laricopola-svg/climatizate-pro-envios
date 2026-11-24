@@ -1,265 +1,268 @@
 {
- "fecha": "2026-11-24",
- "gmail_threadId": "1a20a8d99366a03e",
- "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
- "enviado": "2026-11-23T19:36-03:00",
- "modo": "automatico",
- "ultima_revision": "2026-11-23T20:07-03:00",
- "nota_formato": "23-11 sin publicaciones (no hubo state). 24-11: 10:00 carrusel→Reel en IG, 15:00 reel, 19:30 foto. Reutiliza las 3 piezas vencidas del 22-11 (nunca publicadas).",
- "investigacion": {
-  "audios": "SocialPilot IG y TikTok (17-25 nov), Buffer IG (3-11), Virlo (23-11: Flower In A Hurricane/GTA VI lidera; POV mejor gancho 32,9%, antes/después 28,5%). Se evitan audio_ig de 21 y 22-11.",
-  "black_friday": "27-30 nov (CCS); sin promoción confirmada por Sara, no se menciona descuento",
-  "drive": "Sin archivos nuevos en el Drive desde el 18-11 (búsqueda createdTime > 2026-11-18 vacía).",
-  "competencia": "No se revisaron métricas de Arte Sublime / Tee.cl; no se citan.",
-  "nota_add_repo": "add_repo no disponible como herramienta; el repo ya estaba en alcance."
- },
- "publicaciones": [
-  {
-   "numero": 1,
-   "hora": "10:00",
-   "formato": "carrusel",
-   "tema": "Guía: ¿qué prenda elijo para mi estampado? (5 opciones, para guardar)",
-   "carpeta": "2026-11-24-1000-guia-que-prenda",
-   "spec": "specs/p24_1.json",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_06.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_07.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_06.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_07.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/portada.jpg"
-   },
-   "captions": {
-    "instagram": "¿Polera, dryfit, piqué o polerón? 🤔 Guárdate esta guía antes de pedir tu prenda personalizada:\n\n1️⃣ Polera de algodón: la clásica para el día a día (nombres, frases, regalos)\n2️⃣ Polera dryfit: secado rápido y tela respirable, para deporte, paseos de curso y niños\n3️⃣ Polera piqué (cuello polo): la más formal, ideal para uniformes con logo\n4️⃣ Manga larga: para las tardes frescas, también con cuello polo\n5️⃣ Polerón canguro: abrigador y con bolsillo, el clásico para regalar\n\n¿Cuál es tu favorita? Comenta el número 👇 y compártela con quien está viendo qué regalar esta Navidad (¡queda justo un mes!) 🎁\n¿No sabes cuál elegir? Cuéntanos para qué es y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#ropapersonalizada #polerapersonalizada #estampadodtf #santiagochile #saravibes",
-    "facebook": "¿Polera, dryfit, piqué o polerón? 🤔 Guárdate esta guía antes de pedir tu prenda personalizada:\n\n1️⃣ Polera de algodón: la clásica para el día a día (nombres, frases, regalos)\n2️⃣ Polera dryfit: secado rápido y tela respirable, para deporte, paseos de curso y niños\n3️⃣ Polera piqué (cuello polo): la más formal, ideal para uniformes con logo\n4️⃣ Manga larga: para las tardes frescas, también con cuello polo\n5️⃣ Polerón canguro: abrigador y con bolsillo, el clásico para regalar\n\n¿Cuál es tu favorita? Comenta el número 👇 y compártela con quien está viendo qué regalar esta Navidad (¡queda justo un mes!) 🎁\n¿No sabes cuál elegir? Cuéntanos para qué es y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#ropapersonalizada #polerapersonalizada #estampadodtf #santiagochile #saravibes",
-    "tiktok": "¿Polera, dryfit, piqué o polerón? 🤔 Guárdate esta guía antes de pedir tu prenda personalizada:\n\n1️⃣ Polera de algodón: la clásica para el día a día (nombres, frases, regalos)\n2️⃣ Polera dryfit: secado rápido y tela respirable, para deporte, paseos de curso y niños\n3️⃣ Polera piqué (cuello polo): la más formal, ideal para uniformes con logo\n4️⃣ Manga larga: para las tardes frescas, también con cuello polo\n5️⃣ Polerón canguro: abrigador y con bolsillo, el clásico para regalar\n\n¿Cuál es tu favorita? Comenta el número 👇 y compártela con quien está viendo qué regalar esta Navidad (¡queda justo un mes!) 🎁\n¿No sabes cuál elegir? Cuéntanos para qué es y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#ropapersonalizada #polerapersonalizada #estampadodtf #santiagochile #saravibes"
-   },
-   "audio_ig": "It's Beginning to Look a Lot like Christmas Michael Bublé",
-   "audio_candidatos": [
-    "It's Beginning to Look a Lot like Christmas Michael Bublé",
-    "Christmas Market Eoneun",
-    "All I Want for Christmas Is You Mariah Carey",
-    "Coming Up Roses Harry Styles",
-    "November Past Day"
-   ],
-   "audio_respaldo": "christmas",
-   "audio_motivo": "Es el audio de 'se viene la Navidad' en Reels esta semana (SocialPilot 17-25 nov): acompaña una guía tranquila para guardar sin competir con el texto.",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Drive: Mariposa 2.jpeg (foto real, portada) + catálogo de Sara: Polera algodón manga corta.png, Polera Dryfit niño.jpeg, Polera pique Mujer.jpeg, Polera manga larga hombre.jpeg, Poleron canguro adulto.jpeg (recortadas sin títulos ni precios) — mejoradas con IA",
-   "avisos": "La lámina del polerón canguro viene de tu catálogo, que traía precios y 'desde 6 unidades': los recorté y NO aparecen. Las fotos de catálogo parecen imágenes de producto (tipo mockup): si no son tus prendas reales, dime y les pongo 'imagen referencial'. Portada: persona de espaldas, sin rostro.",
-   "por_que": "Educativo 'para guardar': resuelve la duda #1 antes de cotizar (qué prenda elegir) en la semana de Black Friday (27-30 nov, sin mencionar descuentos) y a un mes de Navidad; invita a comentar con un número.",
-   "fotos_drive": {
-    "1bdN6w--yKQz7z5VIZZ-lCM3MFbnYCYLU": "Mariposa 2.jpeg",
-    "1G8ywGUxfB6UCZUVgJ0pf3QQG8O6x_DCz": "Polera algodón manga corta.png",
-    "1ER-txc6MhvdI6bOLvu-M08adHc0tj1wz": "Polera Dryfit niño.jpeg",
-    "1gzyVJqAr5puqx-9s-CRR9-LbuVi2bttD": "Polera pique Mujer.jpeg",
-    "1GQENjRDxbAZEf1P1DzKiHWOa03gesVej": "Polera manga larga hombre.jpeg",
-    "1VFsvJZ0mAudX2-ALGbSm_aFgW1YqCVBu": "Poleron canguro adulto.jpeg"
-   },
-   "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
-   "estado": "programada",
-   "metricool": [
-    {
-     "red": "instagram",
-     "id": 439559594,
-     "uuid": "1623624118550021484",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1623624118550021484"
-    },
-    {
-     "red": "facebook",
-     "id": 439559903,
-     "uuid": "6087820733197206040",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6087820733197206040"
-    },
-    {
-     "red": "tiktok",
-     "id": 439559977,
-     "uuid": "1064542453973271917",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1064542453973271917"
-    }
-   ],
-   "audio_ig_usado": "November - past day (original_sound, 25493313880306363)",
-   "audio_tipo": "tendencia",
-   "audio_intentos": [
-    "It's Beginning to Look a Lot like Christmas (sin match)",
-    "Christmas Market (sin match)",
-    "Christmas Market Eoneun (sin match)",
-    "November Past Day → 25493313880306363 (resuelto en revisión anterior)"
-   ]
+  "fecha": "2026-11-24",
+  "gmail_threadId": "1a20a8d99366a03e",
+  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
+  "enviado": "2026-11-23T19:36-03:00",
+  "modo": "automatico",
+  "ultima_revision": "2026-11-23T21:04-03:00",
+  "nota_formato": "23-11 sin publicaciones (no hubo state). 24-11: 10:00 carrusel→Reel en IG, 15:00 reel, 19:30 foto. Reutiliza las 3 piezas vencidas del 22-11 (nunca publicadas).",
+  "investigacion": {
+    "audios": "SocialPilot IG y TikTok (17-25 nov), Buffer IG (3-11), Virlo (23-11: Flower In A Hurricane/GTA VI lidera; POV mejor gancho 32,9%, antes/después 28,5%). Se evitan audio_ig de 21 y 22-11.",
+    "black_friday": "27-30 nov (CCS); sin promoción confirmada por Sara, no se menciona descuento",
+    "drive": "Sin archivos nuevos en el Drive desde el 18-11 (búsqueda createdTime > 2026-11-18 vacía).",
+    "competencia": "No se revisaron métricas de Arte Sublime / Tee.cl; no se citan.",
+    "nota_add_repo": "add_repo no disponible como herramienta; el repo ya estaba en alcance."
   },
-  {
-   "numero": 2,
-   "hora": "15:00",
-   "formato": "reel",
-   "tema": "Reel POV: el dibujo de tu sobrino convertido en polerón (regalo de Navidad)",
-   "carpeta": "2026-11-24-1500-reel-dibujo-poleron",
-   "spec": "specs/p24_2.json",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_05.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_05.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/portada.jpg"
-   },
-   "captions": {
-    "instagram": "POV: tu sobrino te dibujó… y lo convertimos en polerón 🥹🎨\n\nCada trazo, cada color y su letra, tal cual como en el papel. \"Te amo tía Diana\" ahora se puede usar todos los días 💗\n\nEs de esos regalos que no existen en ninguna tienda: para la tía, la abuela, el papá o la profe.\n\n¿A quién le regalarías el dibujo de tu peque? Etiquétala 👇\n\n✏️ Cómo pedirlo: mándanos una foto nítida del dibujo + prenda + talla, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad 🎄\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #poleronpersonalizado #regalospersonalizados #estampadodtf #santiagochile",
-    "facebook": "POV: tu sobrino te dibujó… y lo convertimos en polerón 🥹🎨\n\nCada trazo, cada color y su letra, tal cual como en el papel. \"Te amo tía Diana\" ahora se puede usar todos los días 💗\n\nEs de esos regalos que no existen en ninguna tienda: para la tía, la abuela, el papá o la profe.\n\n¿A quién le regalarías el dibujo de tu peque? Etiquétala 👇\n\n✏️ Cómo pedirlo: mándanos una foto nítida del dibujo + prenda + talla, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad 🎄\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #poleronpersonalizado #regalospersonalizados #estampadodtf #santiagochile",
-    "tiktok": "POV: tu sobrino te dibujó… y lo convertimos en polerón 🥹🎨\n\nCada trazo, cada color y su letra, tal cual como en el papel. \"Te amo tía Diana\" ahora se puede usar todos los días 💗\n\nEs de esos regalos que no existen en ninguna tienda: para la tía, la abuela, el papá o la profe.\n\n¿A quién le regalarías el dibujo de tu peque? Etiquétala 👇\n\n✏️ Cómo pedirlo: mándanos una foto nítida del dibujo + prenda + talla, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad 🎄\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #poleronpersonalizado #regalospersonalizados #estampadodtf #santiagochile"
-   },
-   "audio_ig": "Upside Down Diana Ross",
-   "audio_candidatos": [
-    "Upside Down Diana Ross",
-    "Time Pink Floyd",
-    "All I Want for Christmas Is You Mariah Carey",
-    "Flower In A Hurricane Justice",
-    "Coming Up Roses Harry Styles"
-   ],
-   "audio_respaldo": "acoustic",
-   "audio_motivo": "'Upside Down' es el audio de los antes/después con transición (Buffer, nov 2026): calza perfecto con dibujo en papel → polerón; POV es el gancho con mejor rendimiento esta semana (Virlo 23-11).",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Drive: Poleron Polo.jpeg (foto real del polerón con dibujo infantil; recortes de detalle) — mejorada con IA",
-   "avisos": "Aparecen los nombres 'Franco' y 'Tía Diana' (dibujo de un niño): confirma que la clienta autoriza mostrarlo. No aparece ningún rostro real.",
-   "por_que": "POV + transformación (dibujo → prenda): emocional y muy compartible, las tías y abuelas etiquetan. Regalo de Navidad único que abre conversaciones por WhatsApp (mandar el dibujo).",
-   "fotos_drive": {
-    "1fblT43jJ0bjALqNvX4Wkg-BfYweO8i5G": "Poleron Polo.jpeg (dibujo Tía Diana)"
-   },
-   "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
-   "estado": "programada",
-   "metricool": [
+  "publicaciones": [
     {
-     "red": "instagram",
-     "id": 439560850,
-     "uuid": "-647000170225119536",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-647000170225119536"
+      "numero": 1,
+      "hora": "10:00",
+      "formato": "carrusel",
+      "tema": "Guía: ¿qué prenda elijo para mi estampado? (5 opciones, para guardar)",
+      "carpeta": "2026-11-24-1000-guia-que-prenda",
+      "spec": "specs/p24_1.json",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_06.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/4x5_07.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_06.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/9x16_07.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1000-guia-que-prenda/portada.jpg"
+      },
+      "captions": {
+        "instagram": "¿Polera, dryfit, piqué o polerón? 🤔 Guárdate esta guía antes de pedir tu prenda personalizada:\n\n1️⃣ Polera de algodón: la clásica para el día a día (nombres, frases, regalos)\n2️⃣ Polera dryfit: secado rápido y tela respirable, para deporte, paseos de curso y niños\n3️⃣ Polera piqué (cuello polo): la más formal, ideal para uniformes con logo\n4️⃣ Manga larga: para las tardes frescas, también con cuello polo\n5️⃣ Polerón canguro: abrigador y con bolsillo, el clásico para regalar\n\n¿Cuál es tu favorita? Comenta el número 👇 y compártela con quien está viendo qué regalar esta Navidad (¡queda justo un mes!) 🎁\n¿No sabes cuál elegir? Cuéntanos para qué es y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#ropapersonalizada #polerapersonalizada #estampadodtf #santiagochile #saravibes",
+        "facebook": "¿Polera, dryfit, piqué o polerón? 🤔 Guárdate esta guía antes de pedir tu prenda personalizada:\n\n1️⃣ Polera de algodón: la clásica para el día a día (nombres, frases, regalos)\n2️⃣ Polera dryfit: secado rápido y tela respirable, para deporte, paseos de curso y niños\n3️⃣ Polera piqué (cuello polo): la más formal, ideal para uniformes con logo\n4️⃣ Manga larga: para las tardes frescas, también con cuello polo\n5️⃣ Polerón canguro: abrigador y con bolsillo, el clásico para regalar\n\n¿Cuál es tu favorita? Comenta el número 👇 y compártela con quien está viendo qué regalar esta Navidad (¡queda justo un mes!) 🎁\n¿No sabes cuál elegir? Cuéntanos para qué es y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#ropapersonalizada #polerapersonalizada #estampadodtf #santiagochile #saravibes",
+        "tiktok": "¿Polera, dryfit, piqué o polerón? 🤔 Guárdate esta guía antes de pedir tu prenda personalizada:\n\n1️⃣ Polera de algodón: la clásica para el día a día (nombres, frases, regalos)\n2️⃣ Polera dryfit: secado rápido y tela respirable, para deporte, paseos de curso y niños\n3️⃣ Polera piqué (cuello polo): la más formal, ideal para uniformes con logo\n4️⃣ Manga larga: para las tardes frescas, también con cuello polo\n5️⃣ Polerón canguro: abrigador y con bolsillo, el clásico para regalar\n\n¿Cuál es tu favorita? Comenta el número 👇 y compártela con quien está viendo qué regalar esta Navidad (¡queda justo un mes!) 🎁\n¿No sabes cuál elegir? Cuéntanos para qué es y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#ropapersonalizada #polerapersonalizada #estampadodtf #santiagochile #saravibes"
+      },
+      "audio_ig": "It's Beginning to Look a Lot like Christmas Michael Bublé",
+      "audio_candidatos": [
+        "It's Beginning to Look a Lot like Christmas Michael Bublé",
+        "Christmas Market Eoneun",
+        "All I Want for Christmas Is You Mariah Carey",
+        "Coming Up Roses Harry Styles",
+        "November Past Day"
+      ],
+      "audio_respaldo": "christmas",
+      "audio_motivo": "Es el audio de 'se viene la Navidad' en Reels esta semana (SocialPilot 17-25 nov): acompaña una guía tranquila para guardar sin competir con el texto.",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Drive: Mariposa 2.jpeg (foto real, portada) + catálogo de Sara: Polera algodón manga corta.png, Polera Dryfit niño.jpeg, Polera pique Mujer.jpeg, Polera manga larga hombre.jpeg, Poleron canguro adulto.jpeg (recortadas sin títulos ni precios) — mejoradas con IA",
+      "avisos": "La lámina del polerón canguro viene de tu catálogo, que traía precios y 'desde 6 unidades': los recorté y NO aparecen. Las fotos de catálogo parecen imágenes de producto (tipo mockup): si no son tus prendas reales, dime y les pongo 'imagen referencial'. Portada: persona de espaldas, sin rostro.",
+      "por_que": "Educativo 'para guardar': resuelve la duda #1 antes de cotizar (qué prenda elegir) en la semana de Black Friday (27-30 nov, sin mencionar descuentos) y a un mes de Navidad; invita a comentar con un número.",
+      "fotos_drive": {
+        "1bdN6w--yKQz7z5VIZZ-lCM3MFbnYCYLU": "Mariposa 2.jpeg",
+        "1G8ywGUxfB6UCZUVgJ0pf3QQG8O6x_DCz": "Polera algodón manga corta.png",
+        "1ER-txc6MhvdI6bOLvu-M08adHc0tj1wz": "Polera Dryfit niño.jpeg",
+        "1gzyVJqAr5puqx-9s-CRR9-LbuVi2bttD": "Polera pique Mujer.jpeg",
+        "1GQENjRDxbAZEf1P1DzKiHWOa03gesVej": "Polera manga larga hombre.jpeg",
+        "1VFsvJZ0mAudX2-ALGbSm_aFgW1YqCVBu": "Poleron canguro adulto.jpeg"
+      },
+      "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 439559594,
+          "uuid": "1623624118550021484",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1623624118550021484"
+        },
+        {
+          "red": "facebook",
+          "id": 439559903,
+          "uuid": "6087820733197206040",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6087820733197206040"
+        },
+        {
+          "red": "tiktok",
+          "id": 439559977,
+          "uuid": "1064542453973271917",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1064542453973271917"
+        }
+      ],
+      "audio_ig_usado": "November - past day (original_sound, 25493313880306363)",
+      "audio_tipo": "tendencia",
+      "audio_intentos": [
+        "It's Beginning to Look a Lot like Christmas (sin match)",
+        "Christmas Market (sin match)",
+        "Christmas Market Eoneun (sin match)",
+        "November Past Day → 25493313880306363 (resuelto en revisión anterior)"
+      ]
     },
     {
-     "red": "facebook",
-     "id": 439560875,
-     "uuid": "-665050999815976432",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-665050999815976432"
+      "numero": 2,
+      "hora": "15:00",
+      "formato": "reel",
+      "tema": "Reel POV: el dibujo de tu sobrino convertido en polerón (regalo de Navidad)",
+      "carpeta": "2026-11-24-1500-reel-dibujo-poleron",
+      "spec": "specs/p24_2.json",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/4x5_05.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/9x16_05.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1500-reel-dibujo-poleron/portada.jpg"
+      },
+      "captions": {
+        "instagram": "POV: tu sobrino te dibujó… y lo convertimos en polerón 🥹🎨\n\nCada trazo, cada color y su letra, tal cual como en el papel. \"Te amo tía Diana\" ahora se puede usar todos los días 💗\n\nEs de esos regalos que no existen en ninguna tienda: para la tía, la abuela, el papá o la profe.\n\n¿A quién le regalarías el dibujo de tu peque? Etiquétala 👇\n\n✏️ Cómo pedirlo: mándanos una foto nítida del dibujo + prenda + talla, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad 🎄\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #poleronpersonalizado #regalospersonalizados #estampadodtf #santiagochile",
+        "facebook": "POV: tu sobrino te dibujó… y lo convertimos en polerón 🥹🎨\n\nCada trazo, cada color y su letra, tal cual como en el papel. \"Te amo tía Diana\" ahora se puede usar todos los días 💗\n\nEs de esos regalos que no existen en ninguna tienda: para la tía, la abuela, el papá o la profe.\n\n¿A quién le regalarías el dibujo de tu peque? Etiquétala 👇\n\n✏️ Cómo pedirlo: mándanos una foto nítida del dibujo + prenda + talla, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad 🎄\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #poleronpersonalizado #regalospersonalizados #estampadodtf #santiagochile",
+        "tiktok": "POV: tu sobrino te dibujó… y lo convertimos en polerón 🥹🎨\n\nCada trazo, cada color y su letra, tal cual como en el papel. \"Te amo tía Diana\" ahora se puede usar todos los días 💗\n\nEs de esos regalos que no existen en ninguna tienda: para la tía, la abuela, el papá o la profe.\n\n¿A quién le regalarías el dibujo de tu peque? Etiquétala 👇\n\n✏️ Cómo pedirlo: mándanos una foto nítida del dibujo + prenda + talla, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad 🎄\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #poleronpersonalizado #regalospersonalizados #estampadodtf #santiagochile"
+      },
+      "audio_ig": "Upside Down Diana Ross",
+      "audio_candidatos": [
+        "Upside Down Diana Ross",
+        "Time Pink Floyd",
+        "All I Want for Christmas Is You Mariah Carey",
+        "Flower In A Hurricane Justice",
+        "Coming Up Roses Harry Styles"
+      ],
+      "audio_respaldo": "acoustic",
+      "audio_motivo": "'Upside Down' es el audio de los antes/después con transición (Buffer, nov 2026): calza perfecto con dibujo en papel → polerón; POV es el gancho con mejor rendimiento esta semana (Virlo 23-11).",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Drive: Poleron Polo.jpeg (foto real del polerón con dibujo infantil; recortes de detalle) — mejorada con IA",
+      "avisos": "Aparecen los nombres 'Franco' y 'Tía Diana' (dibujo de un niño): confirma que la clienta autoriza mostrarlo. No aparece ningún rostro real.",
+      "por_que": "POV + transformación (dibujo → prenda): emocional y muy compartible, las tías y abuelas etiquetan. Regalo de Navidad único que abre conversaciones por WhatsApp (mandar el dibujo).",
+      "fotos_drive": {
+        "1fblT43jJ0bjALqNvX4Wkg-BfYweO8i5G": "Poleron Polo.jpeg (dibujo Tía Diana)"
+      },
+      "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 439560850,
+          "uuid": "-647000170225119536",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-647000170225119536"
+        },
+        {
+          "red": "facebook",
+          "id": 439560875,
+          "uuid": "-665050999815976432",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-665050999815976432"
+        },
+        {
+          "red": "tiktok",
+          "id": 439560900,
+          "uuid": "7078877917158919721",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7078877917158919721"
+        }
+      ],
+      "audio_ig_usado": "Hello Sunshine – Trout Recording (502753367042819)",
+      "audio_tipo": "respaldo",
+      "audio_intentos": [
+        "Upside Down",
+        "Upside Down Diana Ross",
+        "Flower In A Hurricane",
+        "Reels Sound - Transition"
+      ],
+      "audio_nota": "Upside Down / Flower In A Hurricane no están en la biblioteca comercial de la cuenta de empresa; se usó pista alegre de la lista de candidatos."
     },
     {
-     "red": "tiktok",
-     "id": 439560900,
-     "uuid": "7078877917158919721",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7078877917158919721"
+      "numero": 3,
+      "hora": "19:30",
+      "formato": "foto",
+      "tema": "Polerón con tu mascota (Zeus): comenta el nombre de la tuya",
+      "carpeta": "2026-11-24-1930-mascota-zeus",
+      "spec": "specs/p24_3.json",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/4x5_01.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/9x16_01.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/portada.jpg"
+      },
+      "captions": {
+        "instagram": "Él es Zeus y ahora tiene su propio polerón 🐶✨\n\nSu foto + su nombre, estampados en un polerón gris para andar con él a todas partes (aunque se quede en la casa 😅).\n\n👇 ¿Cómo se llama tu mascota? Comenta su nombre y te contamos cómo quedaría en tu polerón.\n\n🎁 Idea de regalo de Navidad para el más perruno (o gatuno) de la familia.\nMándanos una foto nítida de tu mascota y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#poleronpersonalizado #mascotas #regalospersonalizados #santiagochile #saravibes",
+        "facebook": "Él es Zeus y ahora tiene su propio polerón 🐶✨\n\nSu foto + su nombre, estampados en un polerón gris para andar con él a todas partes (aunque se quede en la casa 😅).\n\n👇 ¿Cómo se llama tu mascota? Comenta su nombre y te contamos cómo quedaría en tu polerón.\n\n🎁 Idea de regalo de Navidad para el más perruno (o gatuno) de la familia.\nMándanos una foto nítida de tu mascota y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#poleronpersonalizado #mascotas #regalospersonalizados #santiagochile #saravibes",
+        "tiktok": "Él es Zeus y ahora tiene su propio polerón 🐶✨\n\nSu foto + su nombre, estampados en un polerón gris para andar con él a todas partes (aunque se quede en la casa 😅).\n\n👇 ¿Cómo se llama tu mascota? Comenta su nombre y te contamos cómo quedaría en tu polerón.\n\n🎁 Idea de regalo de Navidad para el más perruno (o gatuno) de la familia.\nMándanos una foto nítida de tu mascota y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#poleronpersonalizado #mascotas #regalospersonalizados #santiagochile #saravibes"
+      },
+      "audio_ig": "My Moon My Man FINNEAS",
+      "audio_candidatos": [
+        "My Moon My Man FINNEAS",
+        "BEAUTY AND A BEAT X COLA (ALTÉGO MIX) altego_music",
+        "Coming Up Roses Harry Styles",
+        "Christmas Market Eoneun",
+        "Mr. Brightside The Killers"
+      ],
+      "audio_respaldo": "happy",
+      "audio_motivo": "'My Moon My Man' (cover de niki) es el audio del trend 'soft launch' en TikTok esta semana (SocialPilot 17-25 nov): presentamos a Zeus como 'soft launch' de su polerón, tierno y comentable.",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Drive: Zeus.jpeg (foto real, recortada sin bordes blancos) — mejorada con IA",
+      "avisos": "Es el perrito de un cliente ('Zeus'): confirma que el dueño autoriza mostrar la foto y el nombre. Sin rostros de personas.",
+      "por_que": "Las mascotas generan muchos comentarios; '¿cómo se llama la tuya?' es fácil de responder y abre conversaciones para cotizar. Regalo de Navidad diferente.",
+      "fotos_drive": {
+        "1GmxnP3sCPJMtgchpbaMh7SzUAtK0mTxy": "Zeus.jpeg"
+      },
+      "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 439561645,
+          "uuid": "-7046061937766544414",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-7046061937766544414"
+        },
+        {
+          "red": "facebook",
+          "id": 439561660,
+          "uuid": "-3480802804720513628",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3480802804720513628"
+        },
+        {
+          "red": "tiktok",
+          "id": 439561684,
+          "uuid": "7695466053348966718",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7695466053348966718"
+        }
+      ],
+      "audio_ig_usado": "Happy Days – Giulio Cercato (1388161098514399)",
+      "audio_tipo": "respaldo",
+      "audio_intentos": [
+        "My Moon My Man",
+        "Mr. Brightside (solo re-subidas original_sound no oficiales)",
+        "happy dog"
+      ],
+      "audio_nota": "My Moon My Man / Mr. Brightside no están en la biblioteca comercial; se usó pista alegre de biblioteca."
     }
-   ],
-   "audio_ig_usado": "Hello Sunshine – Trout Recording (502753367042819)",
-   "audio_tipo": "respaldo",
-   "audio_intentos": [
-    "Upside Down",
-    "Upside Down Diana Ross",
-    "Flower In A Hurricane",
-    "Reels Sound - Transition"
-   ],
-   "audio_nota": "Upside Down / Flower In A Hurricane no están en la biblioteca comercial de la cuenta de empresa; se usó pista alegre de la lista de candidatos."
-  },
-  {
-   "numero": 3,
-   "hora": "19:30",
-   "formato": "foto",
-   "tema": "Polerón con tu mascota (Zeus): comenta el nombre de la tuya",
-   "carpeta": "2026-11-24-1930-mascota-zeus",
-   "spec": "specs/p24_3.json",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/4x5_01.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/9x16_01.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-24-1930-mascota-zeus/portada.jpg"
-   },
-   "captions": {
-    "instagram": "Él es Zeus y ahora tiene su propio polerón 🐶✨\n\nSu foto + su nombre, estampados en un polerón gris para andar con él a todas partes (aunque se quede en la casa 😅).\n\n👇 ¿Cómo se llama tu mascota? Comenta su nombre y te contamos cómo quedaría en tu polerón.\n\n🎁 Idea de regalo de Navidad para el más perruno (o gatuno) de la familia.\nMándanos una foto nítida de tu mascota y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#poleronpersonalizado #mascotas #regalospersonalizados #santiagochile #saravibes",
-    "facebook": "Él es Zeus y ahora tiene su propio polerón 🐶✨\n\nSu foto + su nombre, estampados en un polerón gris para andar con él a todas partes (aunque se quede en la casa 😅).\n\n👇 ¿Cómo se llama tu mascota? Comenta su nombre y te contamos cómo quedaría en tu polerón.\n\n🎁 Idea de regalo de Navidad para el más perruno (o gatuno) de la familia.\nMándanos una foto nítida de tu mascota y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#poleronpersonalizado #mascotas #regalospersonalizados #santiagochile #saravibes",
-    "tiktok": "Él es Zeus y ahora tiene su propio polerón 🐶✨\n\nSu foto + su nombre, estampados en un polerón gris para andar con él a todas partes (aunque se quede en la casa 😅).\n\n👇 ¿Cómo se llama tu mascota? Comenta su nombre y te contamos cómo quedaría en tu polerón.\n\n🎁 Idea de regalo de Navidad para el más perruno (o gatuno) de la familia.\nMándanos una foto nítida de tu mascota y te mostramos la maqueta antes de estampar.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#poleronpersonalizado #mascotas #regalospersonalizados #santiagochile #saravibes"
-   },
-   "audio_ig": "My Moon My Man FINNEAS",
-   "audio_candidatos": [
-    "My Moon My Man FINNEAS",
-    "BEAUTY AND A BEAT X COLA (ALTÉGO MIX) altego_music",
-    "Coming Up Roses Harry Styles",
-    "Christmas Market Eoneun",
-    "Mr. Brightside The Killers"
-   ],
-   "audio_respaldo": "happy",
-   "audio_motivo": "'My Moon My Man' (cover de niki) es el audio del trend 'soft launch' en TikTok esta semana (SocialPilot 17-25 nov): presentamos a Zeus como 'soft launch' de su polerón, tierno y comentable.",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Drive: Zeus.jpeg (foto real, recortada sin bordes blancos) — mejorada con IA",
-   "avisos": "Es el perrito de un cliente ('Zeus'): confirma que el dueño autoriza mostrar la foto y el nombre. Sin rostros de personas.",
-   "por_que": "Las mascotas generan muchos comentarios; '¿cómo se llama la tuya?' es fácil de responder y abre conversaciones para cotizar. Regalo de Navidad diferente.",
-   "fotos_drive": {
-    "1GmxnP3sCPJMtgchpbaMh7SzUAtK0mTxy": "Zeus.jpeg"
-   },
-   "reutiliza": "Pieza del 22-11 que venció sin publicarse; regenerada el 23-11 con el número nuevo.",
-   "estado": "programada",
-   "metricool": [
-    {
-     "red": "instagram",
-     "id": 439561645,
-     "uuid": "-7046061937766544414",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-7046061937766544414"
-    },
-    {
-     "red": "facebook",
-     "id": 439561660,
-     "uuid": "-3480802804720513628",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3480802804720513628"
-    },
-    {
-     "red": "tiktok",
-     "id": 439561684,
-     "uuid": "7695466053348966718",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7695466053348966718"
-    }
-   ],
-   "audio_ig_usado": "Happy Days – Giulio Cercato (1388161098514399)",
-   "audio_tipo": "respaldo",
-   "audio_intentos": [
-    "My Moon My Man",
-    "Mr. Brightside (solo re-subidas original_sound no oficiales)",
-    "happy dog"
-   ],
-   "audio_nota": "My Moon My Man / Mr. Brightside no están en la biblioteca comercial; se usó pista alegre de biblioteca."
+  ],
+  "cambios": [
+    "23-11 20:07: sin respuestas de Sara; marca SaraVibes verificada (FB/IG/TikTok OK); contacto OK en 9 captions; media 200; programadas 1,2,3 en IG (Reel)/FB (Reel)/TikTok (fotos).",
+    "23-11 21:04: respuesta de Sara \"Genial, ¡gracias!\" (sin cambios ni NO); 3 publicaciones siguen programadas."
+  ],
+  "respuestas_procesadas": [
+    "1a20ab22a08abd31"
+  ],
+  "correo_programada": {
+    "id": "1a20aa962d639c94",
+    "enviado": "2026-11-23T20:08-03:00"
   }
- ],
- "cambios": [
-  "23-11 20:07: sin respuestas de Sara; marca SaraVibes verificada (FB/IG/TikTok OK); contacto OK en 9 captions; media 200; programadas 1,2,3 en IG (Reel)/FB (Reel)/TikTok (fotos)."
- ],
- "respuestas_procesadas": [],
- "correo_programada": {
-  "id": "1a20aa962d639c94",
-  "enviado": "2026-11-23T20:08-03:00"
- }
 }
