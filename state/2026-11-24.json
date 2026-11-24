@@ -1,0 +1,162 @@
+{
+ "fecha": "2026-11-24",
+ "dia": "martes (par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "threadId": "1a20cef4ce76534e",
+ "messageId": "1a20cef4ce76534e",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-24 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a20cef4ce76534e",
+  "messageId": "1a20cef4ce76534e"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel foto real (ayer carrusel)",
+  "15:00": "carrusel foto real (ayer imagen única)",
+  "20:30": "carrusel IA cómic (ayer Reel IA cartoon 3D)"
+ },
+ "tendencias_usadas": [
+  "Formato POV + temporada calor/pasto regado (alerta preventiva por calor Senapred hasta marzo 2027) -> patas lamidas 11:00",
+  "Trend navideño 'perro que sale del regalo' (papel de regalo en la puerta) -> instructivo seguro 15:00",
+  "Perrinovela + camada real Ragnar x Dakota (cap. 14 pidió nombres) -> cap. 16 votación de nombres",
+  "Audio IG: Sleigh Ride Serenade (Reels Sound - Photo Dump) – Ella Joy Meir 4197483217201534 (Pump It, Upside Down Diana Ross y Underneath the Tree sin versión 'music' original en catálogo)"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso se lame las patas como si fueran helado - ¿maña o picazón? (alergia, hongos, espigas, aburrimiento; revisar/secar tras paseo; nada de cremas caseras) + Dato pelo rojizo/piel roja/mal olor/cojera -> veterinario; CTA se lame las patas o te lame a ti",
+   "raza": "Cane Corso",
+   "formato": "Reel 16,7 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_018, bully_037 (son Cane Corso mal archivados en american-bully) + hook_diseno.jpg y dato_diseno.jpg",
+   "isAiGenerated": false,
+   "audio": "IG: Sleigh Ride Serenade (Reels Sound - Photo Dump) – Ella Joy Meir, audioId 4197483217201534 (music), audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-24-1100-patas-lamidas-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-2348793312230476511.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 440014262,
+     "uuid": "6961113374632724335",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "draft": true
+    },
+    {
+     "id": 440014835,
+     "uuid": "5461369591600663969",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "draft": true
+    }
+   ],
+   "texto": "👅 POV: tu Cane Corso se lame las patas como si fueran helado de piña 🍦\n\n¿Maña o picazón? Depende de cuánto 👇\n🐾 Un poco después de comer o dormir: normal, es su forma de asearse.\n🚨 Sin parar y todos los días: puede ser alergia, hongos, una espiga entre los dedos o puro aburrimiento.\n💧 Después del paseo: revisa entre los dedos y seca bien. La humedad del pasto regado es la fiesta de los hongos.\n🧴 Nada de cremas ni remedios de la casa: algunos son tóxicos si los lame.\n\nDato TeamFS: pelo rojizo en las patas (manchado por la saliva), piel roja, mal olor o cojera = consulta a tu veterinario.\n\n¿Tu Cane Corso se lame las patas… o te lame a ti? Te leemos 👇\n💾 Guarda · 🔁 Comparte con el dueño de un moloso lamedor · 💬 DM · ➕ Síguenos para más datos de molosos.\n\n📲 Consultas y cachorros por WhatsApp: https://wa.me/56961907601 (+56 9 6190 7601)\n\n#CaneCorso #CaneCorsoChile #MastinItaliano #SaludCanina #VeranoConPerros #PerrosChile #TeamFSKennelClub",
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "El trend del perro que sale del regalo sin traumar a tu Bully: 4 pasos (que huela el papel, papel delgado/cinta afuera, llamar sin empujar, cortar ante señales de estrés) + Dato papel/cinta a la basura, si tragó -> veterinario; CTA ROMPE o ARRANCA",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_029, bully_041, bully_022, bully_034",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-24-1500-foto-regalo-bully",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-740413159170459589.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-10765046654350672115.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-13144811513170979016.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-5481106034386481507.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-8512205386093487315.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-9129605741366001175.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-15581724323476781846.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 440014861,
+     "uuid": "-855601220613289484",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "texto": "🎁 El trend del perro que sale del regalo… versión sin traumar a tu Bully.\n\nPegas papel de regalo en la puerta, lo llamas y ¡pum! aparece tu Bully como regalo de Navidad. Así se hace bien:\n1️⃣ Primero que lo huela: muéstrale el papel, premio, y recién ahí lo pegas.\n2️⃣ Papel delgado, sin glitter, y la cinta por el lado de afuera, lejos de su boca.\n3️⃣ Lo llamas con su premio favorito y voz de fiesta. Nunca lo empujes ni lo tires de la correa.\n4️⃣ Si retrocede, bosteza, se lame los labios o mete la cola: se acabó por hoy. La foto no vale más que su confianza.\n\nDato TeamFS: después de la foto, papel y cinta a la basura. Si se tragó un pedazo grande o cinta, llama a tu veterinario al tiro.\n\n¿Tu Bully ROMPE el papel o ARRANCA? Cuéntanos 👇 (y si te sale la foto, etiquétanos 📸)\n💾 Guarda para la foto navideña · 🔁 Comparte con quien ya compró el papel · 💬 DM · ➕ Síguenos para más datos de molosos.\n\n📲 Consultas y cachorros por WhatsApp: https://wa.me/56961907601 (+56 9 6190 7601)\n\n#AmericanBully #BullyChile #ABKC #NavidadConPerros #FotoNavideña #AdiestramientoCanino #TeamFSKennelClub",
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 16 'LOS NOMBRES': Ragnar 'Ragnar Jr.', Kopito (7 meses) '¡GALLETA!' / '¡ZAPALLO!', Queen 'Reina II' + Dato nombre de llamado corto (2 sílabas, que no suene a 'no') / nombre oficial en pedigrí ABKC; CTA votar nombre, síguenos cap. 17",
+   "raza": "Cane Corso + American Bully (manada)",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZwbedLFc (Queen), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 24-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/3D36YOW7bJYhkvU (diseño DAHb0VgViQY, copia de DAHboRhCrxI)",
+   "carpeta": "(sin carpeta: jpg pasados directo de Canva a Metricool)",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 16
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-7705376943959470422.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-12162347799124596018.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-609364195317246589.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-10896323342405475623.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 440014886,
+     "uuid": "6567996096784452026",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "texto": "📛 Perrinovela TeamFS · Capítulo 16: LOS NOMBRES\n\nLa camada de Ragnar x Dakota necesita nombre y la manada armó asamblea 🗳️\nRagnar: \"Ragnar Jr.\" (humildad, cero) 😎\nKopito, 7 meses: \"¡GALLETA!\"… y después \"¡ZAPALLO!\" (sí, tiene hambre) 🍪🎃\nQueen: \"Reina II\", obvio 👑\n\nDato TeamFS: el nombre de llamado va corto (2 sílabas) y que no suene a \"no\" ni a otra orden: lo aprende más rápido. Y en el pedigrí ABKC cada cachorro lleva además su nombre oficial registrado.\n\n¿GALLETA, ZAPALLO o REINA II? Vota en comentarios 👇 (o propón el tuyo)\n💾 Guarda · 🔁 Comparte con tu grupo perruno · ➕ Síguenos para el capítulo 17\n\n✨ Ilustraciones creadas con IA, inspiradas en nuestra manada real.\n\n📲 Consultas y cachorros por WhatsApp: https://wa.me/56961907601 (+56 9 6190 7601)\n\n#AmericanBully #BullyChile #ABKC #CaneCorso #Perrinovela #HumorPerruno #TeamFSKennelClub",
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 20-nov (solo TeamFS_RagnarDakota_* ya publicadas). Se pidió material al dueño."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (24-nov). Pieza IA hecha reutilizando arte IA existente (copy-design + edit-design + export jpg)."
+  },
+  {
+   "detalle": "Banco Cane Corso agotado (<14 días). Se detectó que bully_018, bully_037 y bully_053 (carpeta american-bully) son Cane Corso: 018 y 037 se usaron para el Reel CC de 11:00. Conviene moverlos a banco/cane-corso."
+  },
+  {
+   "detalle": "fotos.py: bully_032/003/050/066/064/053 bloqueadas (portada <30 días); se usaron 022 y 034."
+  },
+  {
+   "detalle": "Audio IG: Pump It, Upside Down (Diana Ross) y Underneath the Tree (Kelly Clarkson) sin versión 'music' del artista original en catálogo Metricool; se usó Sleigh Ride Serenade (Reels Sound)."
+  }
+ ],
+ "revisiones": []
+}
