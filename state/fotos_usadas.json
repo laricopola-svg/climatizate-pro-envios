@@ -479,6 +479,11 @@
    "fecha": "2026-11-06",
    "carpeta": "publicaciones/2026-11-06-1500-remedio-sin-drama-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1500-foto-regalo-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_005.jpg": [
@@ -509,6 +514,11 @@
   {
    "fecha": "2026-10-22",
    "carpeta": "publicaciones/2026-10-22-2030-amor-perros-cc-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1100-patas-lamidas-cane-corso",
    "portada": false
   }
  ],
@@ -552,6 +562,11 @@
    "fecha": "2026-10-23",
    "carpeta": "publicaciones/2026-10-23-1100-sol-piel-bully",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1500-foto-regalo-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_048.jpg": [
@@ -639,6 +654,11 @@
    "fecha": "2026-10-24",
    "carpeta": "publicaciones/2026-10-24-1500-bano-bully",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1500-foto-regalo-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_009.jpg": [
@@ -844,6 +864,11 @@
   {
    "fecha": "2026-10-27",
    "carpeta": "publicaciones/2026-10-27-2030-pasarela-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1100-patas-lamidas-cane-corso",
    "portada": false
   }
  ],
@@ -1519,6 +1544,11 @@
    "fecha": "2026-11-01",
    "carpeta": "publicaciones/2026-11-01-1100-oidos-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1500-foto-regalo-bully",
+   "portada": false
   }
  ],
  "publicaciones/2026-11-02-1500-olfato-bully/src_1hF3zmxQZDH_xs47jp2uSI61De37hq8v_.jpg": [
@@ -2028,6 +2058,20 @@
   {
    "fecha": "2026-11-23",
    "carpeta": "publicaciones/2026-11-23-1100-sol-piel-bully",
+   "portada": false
+  }
+ ],
+ "publicaciones/2026-11-24-1100-patas-lamidas-cane-corso/hook_diseno.jpg": [
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1100-patas-lamidas-cane-corso",
+   "portada": true
+  }
+ ],
+ "publicaciones/2026-11-24-1100-patas-lamidas-cane-corso/dato_diseno.jpg": [
+  {
+   "fecha": "2026-11-24",
+   "carpeta": "publicaciones/2026-11-24-1100-patas-lamidas-cane-corso",
    "portada": false
   }
  ]
