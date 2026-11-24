@@ -1,0 +1,101 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-24",
+ "fecha": "2026-11-24",
+ "hora": "19:00",
+ "pilar": "Errores (serie \"Esto te sube la cuenta de luz\")",
+ "tema": "Esto te sube la cuenta de luz: hoy 32 °C y 3 errores al enfriar con tu aire (el 3 casi nadie lo sabe)",
+ "audio_ig": "Vice City Neon Dust",
+ "tiktok_title": "3 errores con el aire acondicionado que te suben la cuenta de la luz en Santiago",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Dirección del aire según modelo y control.",
+ "primer_comentario": "📲 ¿Tu aire no da abasto con el calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con una foto de tu muro y tu comuna.",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.35,
+    0.25
+   ],
+   "ajuste": "auto",
+   "chip": "Esto te sube la cuenta de luz",
+   "titulo": "Hoy 32 °C: 3 errores",
+   "sub": "El 3 casi nadie lo sabe.",
+   "voz": "¿Treinta y dos grados? Tres errores que suben la cuenta.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": [
+    0.72,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "Error 1",
+   "titulo": "La puerta de la pieza abierta",
+   "sub": "Enfrías toda la casa.",
+   "voz": "Uno: la puerta abierta… enfrías el pasillo.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": [
+    0.4,
+    0.3
+   ],
+   "ajuste": "auto",
+   "chip": "Error 2",
+   "titulo": "Abrir el balcón a cada rato",
+   "sub": "El frío se va para afuera.",
+   "voz": "Dos: abrir el balcón a cada rato… se va el frío.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.55,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "Error 3 · casi nadie lo sabe",
+   "titulo": "Las aletas apuntando al suelo",
+   "sub": "En frío, mejor derecho al frente.",
+   "voz": "Y tres, ojo… aletas al suelo. El frío baja solo.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.5,
+    0.0
+   ],
+   "ajuste": "completa",
+   "chip": "Bien instalado",
+   "titulo": "Arriba y ordenado, reparte parejo",
+   "sub": "Garantía de instalación de 6 meses.",
+   "voz": "Bien ubicado y ordenado… reparte parejo.",
+   "zoom": "in"
+  },
+  {
+   "foto": null,
+   "pos": [
+    0.5,
+    0.5
+   ],
+   "ajuste": "auto",
+   "chip": "Esto te sube la cuenta de luz",
+   "titulo": "¿Cuál haces tú?",
+   "sub": "Escríbenos AIRE · +56 9 6190 7601",
+   "voz": "¿Cuál haces tú? Comenta el número o escríbenos AIRE.",
+   "zoom": "out"
+  }
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado y la cuenta de la luz: 3 errores con 32 °C 🥵 1) la puerta de la pieza abierta, 2) abrir el balcón a cada rato, 3) las aletas apuntando al suelo (el 3 casi nadie lo sabe: el frío baja solo). ¿Cuál haces tú? Comenta el número. Mándaselo a quien enfría el pasillo. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #calor #ahorro #inverter",
+  "facebook": "Megatiempo pronosticaba ~32 °C para hoy martes y hasta 35 °C mañana miércoles en Santiago 🥵 Con este calor, hay 3 errores que te suben la cuenta de la luz: dejar la puerta de la pieza abierta (enfrías el pasillo y toda la casa), abrir el balcón a cada rato (el frío se va para afuera) y dejar las aletas apuntando al suelo: en modo frío el aire frío baja solo, así que conviene dirigirlo al frente (dirección según modelo y control). Y si el equipo está bien ubicado, arriba y con recorrido ordenado, reparte parejo. Nosotros instalamos equipos Inverter frío/calor, Midea Airvolution entre otros, con 6 meses de garantía de instalación. ¿En qué comuna estás y cuál de los 3 hacías? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "3 errores con el aire acondicionado que te suben la cuenta de la luz en Santiago con 32 °C: puerta abierta, balcón abierto y aletas al suelo. Inverter frío/calor, Midea Airvolution entre otros, instalación con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #calor #ahorro #instalación"
+ }
+}

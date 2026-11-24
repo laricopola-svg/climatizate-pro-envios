@@ -1,0 +1,153 @@
+{
+ "tema": "Ola de calor de noche: tu Midea Airvolution para dormir fresco sin disparar la cuenta (el 6 casi nadie lo usa)",
+ "fecha": "2026-11-24",
+ "id": "2026-11-24",
+ "hora": "12:00",
+ "pilar": "Midea (guía del control para la noche)",
+ "primer_comentario": "📲 ¿Noches de calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y te guiamos con tu Midea.",
+ "slides": [
+  {
+   "tipo": "portada",
+   "kicker": "Tu Midea puede más",
+   "titulo": "Noches de calor: <span class=c>duerme fresco</span> con tu Midea",
+   "texto": "6 pasos con el control, sin disparar la cuenta. El 6 casi nadie lo usa. Guárdalo."
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Antes de acostarte",
+   "titulo": "Deja la pieza <span class=f>lista</span>",
+   "items": [
+    {
+     "icono": "⚡",
+     "t": "1. Turbo un rato, con la puerta cerrada",
+     "d": "Baja rápido la temperatura de la pieza. Después lo vuelves a lo normal.",
+     "calor": true
+    },
+    {
+     "icono": "🌡",
+     "t": "2. Temperatura moderada",
+     "d": "A 16 °C no duermes mejor: gasta más y amaneces helado."
+    },
+    {
+     "icono": "🎯",
+     "t": "3. Que no te sople a la cama",
+     "d": "Dirige el aire al frente con el control, no directo a ti."
+    }
+   ]
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Ya acostado",
+   "titulo": "Que trabaje <span class=c>solito</span>",
+   "items": [
+    {
+     "icono": "🌙",
+     "t": "4. Sleep",
+     "d": "Ajusta la temperatura de a poco durante la noche para que duermas parejo."
+    },
+    {
+     "icono": "⏱",
+     "t": "5. Timer",
+     "d": "Lo programas para que se apague en la madrugada, cuando refresca."
+    },
+    {
+     "icono": "🔇",
+     "t": "6. Silence (según modelo)",
+     "d": "Baja el ruido de la unidad de adentro. Este casi nadie lo usa.",
+     "calor": true
+    }
+   ]
+  },
+  {
+   "tipo": "tabla",
+   "kicker": "Tu noche, paso a paso",
+   "titulo": "¿Qué botón <span class=c>a qué hora</span>?",
+   "filas": [
+    [
+     "Llegas a un horno",
+     "Turbo un rato, puerta cerrada"
+    ],
+    [
+     "Al acostarte",
+     "Sleep, temperatura moderada"
+    ],
+    [
+     "Madrugada",
+     "Timer: se apaga solito"
+    ],
+    [
+     "Desde la cama",
+     "App WiFi (según modelo)"
+    ]
+   ],
+   "nota": "Funciones según modelo y control."
+  },
+  {
+   "tipo": "versus",
+   "kicker": "El error de las noches de calor",
+   "titulo": "¿A 16 °C toda la noche o <span class=f>Sleep + Timer</span>?",
+   "a": {
+    "t": "A 16 °C toda la noche",
+    "xs": [
+     "Amaneces helado",
+     "Trabaja de más",
+     "La cuenta sube"
+    ]
+   },
+   "b": {
+    "t": "Sleep + Timer",
+    "xs": [
+     "Duermes parejo",
+     "Se apaga solito",
+     "Gasta menos"
+    ]
+   },
+   "nota": "Funciones según modelo y control."
+  },
+  {
+   "tipo": "foto",
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_07.jpg",
+   "pos": "50% 0%",
+   "ajuste": "completa",
+   "kicker": "Instalación real · dormitorio",
+   "titulo": "Arriba, sin soplarte en la cama",
+   "texto": "Bien ubicado, el aire reparte en toda la pieza y duermes parejo.",
+   "etiqueta": "Instalación real · Santiago"
+  },
+  {
+   "tipo": "lista",
+   "kicker": "Así lo instalamos",
+   "titulo": "Para dormir <span class=c>tranquilo</span>",
+   "items": [
+    {
+     "icono": "◎",
+     "t": "Míralo antes en el simulador",
+     "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."
+    },
+    {
+     "icono": "⌖",
+     "t": "Ubicado pensando en tu cama",
+     "d": "Arriba, despejado y sin apuntarte directo."
+    },
+    {
+     "icono": "✓",
+     "t": "Terminaciones limpias",
+     "d": "Recorrido ordenado, espacio limpio al terminar y garantía de instalación de 6 meses."
+    }
+   ]
+  },
+  {
+   "tipo": "cta",
+   "kicker": "¿Cuál no usabas?",
+   "titulo": "Escríbenos <span class=f>AIRE</span> y te guiamos",
+   "texto": "¿Dudas con tu control o quieres instalar en tu dormitorio? Equipos Inverter frío/calor, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+   "boton": "Cotiza en climatizatepro.cl"
+  }
+ ],
+ "captions": {
+  "instagram": "Midea Airvolution de noche: 6 pasos para dormir fresco con calor 🌙 Turbo un rato, temperatura moderada, que no te sople a la cama, Sleep, Timer y Silence (el 6 casi nadie lo usa). ¿Cuál no usabas? Comenta el número. Guárdalo y mándaselo a quien duerme a 16 °C. Funciones según modelo y control. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #MideaAirvolution #calor #dormir",
+  "facebook": "Con días de 32 a 35 °C en Santiago, las noches también se ponen pesadas 🥵 Si tienes un Midea Airvolution, así lo usas para dormir fresco sin disparar la cuenta: 1) Turbo un rato con la puerta cerrada al llegar; 2) temperatura moderada, nada de 16 °C; 3) que el aire no te apunte a la cama; 4) Sleep, que ajusta la temperatura de a poco; 5) Timer, para que se apague solito en la madrugada; 6) Silence, que baja el ruido (según modelo). Funciones según modelo y control. Y si todavía no tienes aire en el dormitorio, lo instalamos bien ubicado, con recorrido ordenado y 6 meses de garantía de instalación. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Midea Airvolution: cómo dormir fresco en la ola de calor de Santiago con Sleep, Timer y Silence. Aire acondicionado Inverter frío/calor con instalación y garantía. Funciones según modelo y control. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #MideaAirvolution #calor #tips",
+  "linkedin": "Semana de calor en Santiago: el descanso nocturno también se ve afectado. Seis recomendaciones de uso para equipos Midea Airvolution que ayudan a mantener confort sin elevar el consumo:\n\n1. Turbo por un período breve al llegar, con la puerta cerrada.\n2. Temperatura moderada; bajar a 16 °C no mejora el descanso.\n3. Dirigir el flujo de aire lejos de las personas.\n4. Modo Sleep para ajustes graduales durante la noche.\n5. Timer para apagar el equipo en la madrugada.\n6. Modo Silence para menor ruido (según modelo).\n\nFunciones según modelo y control. En Climatízate Pro instalamos equipos Inverter frío/calor con simulador en línea, terminaciones limpias y garantía de instalación de 6 meses, también para hoteles, residenciales y consultas.\n\nCotiza: climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}
