@@ -4,7 +4,7 @@
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
  "enviado": "2026-11-24T19:55-03:00",
  "modo": "automatico",
- "ultima_revision": null,
+ "ultima_revision": "2026-11-24T20:07-03:00",
  "nota_formato": "25-11: 10:00 reel (ayer carrusel), 15:00 carrusel (ayer reel), 19:30 carrusel (ayer foto). Todas salen como Reel en IG. Reutiliza piezas vencidas: 21-11 guía cuidados y 18-11 uniformes (aprobada por Sara 17-11).",
  "investigacion": {
   "audios": "CreatorDB (semana 18-11) y SocialPilot (17-25 nov): Time, Last Christmas, Bublé, Christmas Market, November, Coming Up Roses, Stop the Wedding!, I Knew It I Knew You, BEAUTY and a BEAT X COLA (teaser Black Friday), Blue Danube Waltz, Housewife. Postdom TikTok 23-29 nov: POV, 'This is your sign', expectativa vs realidad. Se evitan audios de 22-24-11.",
@@ -60,8 +60,29 @@
    "fuente": "Fotos reales/maquetas del Drive (Matrona, Miss Paula, polerón Suyai, Miss Pauli) mejoradas con IA (ruido, superresolución, luz, nitidez).",
    "aviso_autorizacion": "Se ven nombres de clientas en los diseños (Miss Paula, Miss Pauli, Suyai) y en la portada una persona de espaldas (sin rostro). Si alguna no autorizó, responde NO 1.",
    "por_que": "Las guías 'para guardar' son el formato que más guardados y compartidos genera; justo antes de Black Friday y Navidad, mucha gente compra prendas para regalar. Pieza vencida del 21-11 (nunca publicada), regenerada con el número nuevo.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 441026229,
+     "uuid": "-893770308749669344",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-893770308749669344"
+    },
+    {
+     "red": "facebook",
+     "id": 441026242,
+     "uuid": "-4420569528355634716",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-4420569528355634716"
+    },
+    {
+     "red": "tiktok",
+     "id": 441026269,
+     "uuid": "3594066470521816711",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=3594066470521816711"
+    }
+   ],
+   "audio_ig_usado": "Johann Strauss II - The Blue Danube Waltz (original_sound, 833284158423824)",
+   "audio_tipo": "tendencia"
   },
   {
    "numero": 2,
@@ -108,8 +129,29 @@
    "fuente": "Fotos reales del Drive (Taller.jpeg y Taller 2.jpeg) mejoradas con IA.",
    "aviso_autorizacion": "Se ve la marca y el teléfono del cliente (Taller F.G.S.). Sara aprobó esta pieza el 17-11; si el cliente no quiere aparecer, responde NO 2.",
    "por_que": "Contenido B2B de cierre de año: las pymes planifican uniformes para marzo y la fiesta de fin de año. Usa fotos reales de un pedido ya aprobado por Sara el 17-11 (no se alcanzó a publicar el 18-11).",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 441027018,
+     "uuid": "-2690257522293847011",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-2690257522293847011"
+    },
+    {
+     "red": "facebook",
+     "id": 441027030,
+     "uuid": "-3365633152348370271",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3365633152348370271"
+    },
+    {
+     "red": "tiktok",
+     "id": 441027049,
+     "uuid": "-3183257805005501612",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3183257805005501612"
+    }
+   ],
+   "audio_ig_usado": "The Killers - Mr. Brightside (original_sound, 776763186671892)",
+   "audio_tipo": "tendencia (2º candidato; 'Time Pink Floyd' no está en la biblioteca)"
   },
   {
    "numero": 3,
@@ -156,8 +198,37 @@
    "fuente": "Diseños/maquetas del Drive (pollito.jpeg, gato.jpeg, MARIPOSAS.jpeg) mejorados con IA; se recortaron los bordes blancos. MARIPOSAS es foto de modelo marcada 'Imagen referencial'.",
    "aviso_autorizacion": "Sin rostros (la modelo de mariposas aparece sin cara) ni nombres de clientes. El pollito sostiene un cuchillo (meme conocido): si prefieres evitarlo, responde NO 3.",
    "por_que": "Black Friday es del 27 al 30-11 (CCS): aprovechamos la conversación sin inventar descuentos, con un 'comenta 1, 2 o 3' que dispara comentarios y etiquetas. Diseños con frases chilenas (humor + verano).",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 441027575,
+     "uuid": "6611534267838448620",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6611534267838448620"
+    },
+    {
+     "red": "facebook",
+     "id": 441027585,
+     "uuid": "956036516071752008",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=956036516071752008"
+    },
+    {
+     "red": "tiktok",
+     "id": 441027601,
+     "uuid": "-6753446573969882916",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6753446573969882916"
+    }
+   ],
+   "audio_ig_usado": "BEAUTY AND A BEAT X COLA (ALTÉGO MIX) – altego_music (original_sound, 938379164688807)",
+   "audio_tipo": "tendencia"
   }
+ ],
+ "correo_programada": {
+  "id": "1a20fceddaf34375",
+  "enviado": "2026-11-24T20:07-03:00"
+ },
+ "respuestas_procesadas": [],
+ "cambios": [
+  "24-11 20:07: sin respuestas de Sara; marca SaraVibes verificada (FB/IG/TikTok OK); contacto OK en 9 captions; media 200; programadas 1,2,3 en IG (Reel)/FB (Reel)/TikTok (fotos); correo de confirmación enviado."
  ]
 }
