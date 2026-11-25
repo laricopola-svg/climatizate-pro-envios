@@ -4,7 +4,7 @@
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
  "enviado": "2026-11-25T19:40-03:00",
  "modo": "automatico",
- "ultima_revision": null,
+ "ultima_revision": "2026-11-25T20:07-03:00",
  "nota_formato": "26-11: 10:00 carrusel (ayer reel), 15:00 reel (ayer carrusel), 19:30 foto (ayer carrusel). Todas salen como Reel en IG.",
  "investigacion": {
   "audios": "SocialPilot Reels/TikTok (17-25 nov), Later (20-11), Dash Social (24-11), Tokchart TikTok (24-11). Se evitan los audios de 24 y 25-11 (Bublé, Christmas Market, Mariah, Coming Up Roses, November, Upside Down, Time, My Moon My Man, BEAUTY and a BEAT, Mr. Brightside, Blue Danube, Stop The Wedding!, Housewife, I Knew It). Nuevos: Bonito Bonito (Thiago Navarro), Tu Me Estas Enamorando, Rechazame, BbY WOW, Baby, Mooo!, '3' Britney (transición de outfit), Last Christmas (trend 'Dear Santa').",
@@ -62,8 +62,29 @@
    "fuente": "Fotos/maquetas del Drive ya usadas antes (Tía, Paciencia, Mariposa 'Vicky', Bolsa, casado) mejoradas con IA; se reutiliza la idea de la guía de regalos vencida del 18-11 con enfoque amigo secreto. Mariposa 'Vicky' es foto de modelo: 'imagen referencial'.",
    "aviso_autorizacion": "La lámina 2 muestra una modelo con el polerón 'Vicky' (foto ya publicada antes, marcada como imagen referencial).",
    "por_que": "El amigo secreto de la pega, el curso y la familia se sortea a fines de noviembre: contenido útil para guardar y compartir en grupos de WhatsApp, justo antes del Black Friday (27-30 nov) sin mencionar descuentos.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 442439979,
+     "uuid": "-6886615668219887128",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6886615668219887128"
+    },
+    {
+     "red": "facebook",
+     "id": 442440271,
+     "uuid": "-6699396282701298291",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6699396282701298291"
+    },
+    {
+     "red": "tiktok",
+     "id": 442440289,
+     "uuid": "4124032243651921748",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=4124032243651921748"
+    }
+   ],
+   "audio_ig_usado": "Karol G - BbY WOW (feat. Judeline, Rusowsky) (original_sound, 29122858187318145)",
+   "audio_tipo": "tendencia (3er candidato; 'Last Christmas' y 'Bonito, Bonito' sin versión exacta / reservado para post 2)"
   },
   {
    "numero": 2,
@@ -110,8 +131,29 @@
    "fuente": "Foto real del Drive (Mochilas de tela.jpeg): enderezada (rotada 90°), recortes de detalle y mejorada con IA.",
    "aviso_autorizacion": "Se ven nombres de pila de niños (Indira, Trinidad, Ignacio, Renato, Maite) en un pedido real hecho para el Día del Alumno; sin rostros ni apellidos. Confirma que el cliente autoriza mostrarlo; si no, responde NO 2 antes de las 15:00.",
    "por_que": "Fin del año escolar (clases terminan en diciembre): las directivas de apoderados y las tías del jardín buscan el regalo para todo el curso. Foto real y nueva (nunca publicada) de un pedido grande, que da confianza.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 442440319,
+     "uuid": "8075826350705232112",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8075826350705232112"
+    },
+    {
+     "red": "facebook",
+     "id": 442440552,
+     "uuid": "3587174833031302355",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=3587174833031302355"
+    },
+    {
+     "red": "tiktok",
+     "id": 442440583,
+     "uuid": "5261972347182598283",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=5261972347182598283"
+    }
+   ],
+   "audio_ig_usado": "Contiene: Bonito, Bonito – Thiago Navarro Music (original_sound, 27193689590329436)",
+   "audio_tipo": "tendencia (1er candidato)"
   },
   {
    "numero": 3,
@@ -150,9 +192,34 @@
    "fuente": "Maqueta del Drive (Navidad/Polera personalizada.jpeg) mejorada con IA; se presenta como 'imagen referencial'.",
    "aviso_autorizacion": "Sin rostros. El nombre 'Gabriel' es parte de la maqueta del diseño.",
    "por_que": "Pregunta simple de comentar ('tu inicial') para subir comentarios y abrir conversaciones de pedidos navideños familiares; foto nueva, nunca publicada.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 442441451,
+     "uuid": "-3355210162524962123",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3355210162524962123"
+    },
+    {
+     "red": "facebook",
+     "id": 442441473,
+     "uuid": "8267495852916162926",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8267495852916162926"
+    },
+    {
+     "red": "tiktok",
+     "id": 442441498,
+     "uuid": "-519925091110140105",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-519925091110140105"
+    }
+   ],
+   "audio_ig_usado": "Justin Bieber - Baby ft. Ludacris (original_sound, 1232655988414117)",
+   "audio_tipo": "tendencia (3er candidato; 'Angel of My Dreams' y 'Tu Me Estas Enamorando' no están en la biblioteca)"
   }
  ],
- "gmail_messageId": "1a214ddcb61d9346"
+ "gmail_messageId": "1a214ddcb61d9346",
+ "respuestas_procesadas": [],
+ "cambios": [
+  "25-11 20:07: sin respuestas de Sara; marca SaraVibes verificada (FB/IG/TikTok OK); contacto OK en 9 captions; media 200; programadas 1,2,3 en IG (Reel)/FB (Reel)/TikTok (fotos); correo de confirmación enviado."
+ ]
 }
