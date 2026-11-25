@@ -508,6 +508,11 @@
    "fecha": "2026-11-07",
    "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-25",
+   "carpeta": "publicaciones/2026-11-25-1100-hot-spots-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_018.jpg": [
@@ -647,6 +652,11 @@
    "fecha": "2026-11-07",
    "carpeta": "publicaciones/2026-11-07-1100-garrapatas-bully",
    "portada": false
+  },
+  {
+   "fecha": "2026-11-25",
+   "carpeta": "publicaciones/2026-11-25-1100-hot-spots-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_029.jpg": [
@@ -670,6 +680,11 @@
   {
    "fecha": "2026-11-07",
    "carpeta": "publicaciones/2026-11-07-2030-mariah-navidad-bully",
+   "portada": false
+  },
+  {
+   "fecha": "2026-11-25",
+   "carpeta": "publicaciones/2026-11-25-1100-hot-spots-bully",
    "portada": false
   }
  ],
@@ -695,6 +710,11 @@
    "fecha": "2026-10-25",
    "carpeta": "publicaciones/2026-10-25-1100-peso-ideal-bully",
    "portada": true
+  },
+  {
+   "fecha": "2026-11-25",
+   "carpeta": "publicaciones/2026-11-25-1100-hot-spots-bully",
+   "portada": false
   }
  ],
  "banco/american-bully/bully_013.jpg": [
