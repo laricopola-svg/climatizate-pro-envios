@@ -1,0 +1,82 @@
+{
+"slides": [
+{
+"tipo": "portada",
+"foto": "/home/claude/svmedia/banco/tia.jpg",
+"pos": [
+0.5,
+0.4
+],
+"chip": "Guía amigo secreto · guárdala",
+"titulo": "Te tocó en el amigo secreto y no sabes qué regalar",
+"resaltar": [
+"amigo secreto"
+],
+"sub": "4 ideas personalizadas que sí se usan. Desliza"
+},
+{
+"tipo": "foto",
+"foto": "/home/claude/svmedia/banco/paciencia.jpg",
+"pos": [
+0.5,
+0.5
+],
+"chip": "1 · Para el de la pega",
+"titulo": "Polerón con una frase que lo represente",
+"resaltar": [
+"frase"
+],
+"sub": "Un chiste interno de la oficina y listo: regalo que se usa todo el invierno."
+},
+{
+"tipo": "foto",
+"foto": "/home/claude/svmedia/banco/mariposa.jpg",
+"pos": [
+0.5,
+0.45
+],
+"chip": "2 · Para tu amiga",
+"titulo": "Su nombre con el diseño que más le gusta",
+"resaltar": [
+"nombre"
+],
+"sub": "Pecho, espalda o mangas: tú eliges dónde va. Imagen referencial."
+},
+{
+"tipo": "foto",
+"foto": "/home/claude/svmedia/banco/bolsa.png",
+"pos": [
+0.5,
+0.55
+],
+"chip": "3 · Para la profe o la tía",
+"titulo": "Una bolsa con frase que usa todos los días",
+"resaltar": [
+"todos los días"
+],
+"sub": "Para el mercado, los cuadernos o la playa."
+},
+{
+"tipo": "foto",
+"foto": "/home/claude/svmedia/banco/casado.jpg",
+"pos": [
+0.5,
+0.5
+],
+"chip": "4 · Para el tío bromista",
+"titulo": "El polerón con humor que va a mostrar en la once",
+"resaltar": [
+"humor"
+],
+"sub": "Elige una frase de su estilo y te mostramos la maqueta antes de estampar."
+},
+{
+"tipo": "cta",
+"titulo": "¿Cuál le regalarías a tu amigo secreto? Comenta 1, 2, 3 o 4",
+"resaltar": [
+"1, 2, 3 o 4"
+],
+"sub": "Guarda esta guía y mándala al grupo del amigo secreto. Pide con tiempo."
+}
+]
+}

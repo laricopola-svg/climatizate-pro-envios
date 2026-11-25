@@ -1,0 +1,65 @@
+{
+"slides": [
+{
+"tipo": "portada",
+"foto": "/home/claude/svmedia/banco/mochilas_alumno.jpg",
+"pos": [
+0.5,
+0.45
+],
+"chip": "Regalo para todo el curso",
+"titulo": "Una mochila con el nombre de CADA alumno",
+"resaltar": [
+"CADA alumno"
+],
+"sub": "Así quedó este pedido de mochilas de tela"
+},
+{
+"tipo": "portada",
+"foto": "/home/claude/svmedia/banco/mochilas_alumno.jpg",
+"pos": [
+1.0,
+0.3
+],
+"chip": "Detalle",
+"titulo": "Mismo diseño, un nombre distinto en cada una",
+"resaltar": [
+"un nombre distinto"
+],
+"sub": "Nadie confunde su mochila."
+},
+{
+"tipo": "portada",
+"foto": "/home/claude/svmedia/banco/mochilas_alumno.jpg",
+"pos": [
+0.0,
+0.7
+],
+"chip": "Colores vivos",
+"titulo": "Estampado DTF a todo color",
+"resaltar": [
+"a todo color"
+],
+"sub": "Diseño a elección: tu frase, el nombre del curso o el logo del colegio."
+},
+{
+"tipo": "foto",
+"foto": "/home/claude/svmedia/banco/mochilas_alumno.jpg",
+"ajuste": "completa",
+"chip": "Fin de año escolar",
+"titulo": "El regalo de cierre de año para el curso",
+"resaltar": [
+"cierre de año"
+],
+"sub": "Ideal para la directiva de apoderados o la tía del jardín. Pide con tiempo."
+},
+{
+"tipo": "cta",
+"titulo": "Cotiza las mochilas de tu curso",
+"resaltar": [
+"tu curso"
+],
+"sub": "Cuéntanos cuántas son, el diseño y la lista de nombres. Te mostramos la maqueta antes de producir."
+}
+]
+}
