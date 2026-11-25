@@ -1,0 +1,55 @@
+{
+  "tema": "¿Instalas con este calor? Checklist de 7 cosas para tener listas el día de tu instalación (la 7 casi nadie la piensa)",
+  "fecha": "2026-11-25",
+  "id": "2026-11-25",
+  "pilar": "Checklist (día de instalación)",
+  "primer_comentario": "📲 ¿Instalas esta semana? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con una foto de tu muro y tu comuna.",
+  "slides": [
+    {"tipo": "portada", "kicker": "Si instalas con este calor",
+     "titulo": "Día de instalación: <span class=c>7 cosas listas</span>",
+     "texto": "Así todo fluye y tu espacio queda limpio. La 7 casi nadie la piensa. Guárdalo."},
+    {"tipo": "lista", "kicker": "Adentro", "titulo": "Del 1 al 4: <span class=c>la pieza lista</span>",
+     "items": [
+      {"icono": "🧱", "t": "1. Muro despejado", "d": "Saca cuadros y repisas de donde va el equipo."},
+      {"icono": "🛋", "t": "2. Espacio bajo el muro", "d": "Corre muebles y cama para trabajar cómodo."},
+      {"icono": "🔌", "t": "3. ¿Hay enchufe cerca?", "d": "Si está lejos, avísanos antes: se cotiza."},
+      {"icono": "🐾", "t": "4. Mascotas en otra pieza", "d": "Más tranquilos ellos y más rápido el trabajo."}
+     ]},
+    {"tipo": "lista", "kicker": "Afuera", "titulo": "Del 5 al 7: <span class=f>la de afuera</span>",
+     "items": [
+      {"icono": "🏙", "t": "5. Acceso despejado", "d": "Balcón, terraza o logia libres para la unidad exterior."},
+      {"icono": "📋", "t": "6. ¿Vives en depa?", "d": "Pregunta antes en la administración por sus reglas."},
+      {"icono": "💧", "t": "7. ¿Dónde cae el agua?", "d": "Al enfriar bota agua: que no moje al vecino. La que casi nadie piensa.", "calor": true}
+     ]},
+    {"tipo": "tabla", "kicker": "Para que no haya sorpresas", "titulo": "¿Qué pasa <span class=f>si tu caso…?</span>",
+     "filas": [
+      ["Básica (la caja)", "2 m de cobre + 2 m de cordones aprox."],
+      ["Quieres tubos tapados", "Canaleta 100×50, 2 m: $35.000"],
+      ["La de afuera sin base", "Soporte muro o piso: $35.000"],
+      ["Enchufe lejos", "$12.000 por metro sobre 1,5 m"]
+     ],
+     "nota": "Bomba de condensado y extensión de tuberías: se evalúan."},
+    {"tipo": "versus", "kicker": "Mismo día, distinta experiencia", "titulo": "¿Improvisar o <span class=c>tener todo listo?</span>",
+     "a": {"t": "Sin preparar", "xs": ["Mover muebles a última hora", "Dudas de dónde va", "Sorpresas con el agua"]},
+     "b": {"t": "Con los 7 listos", "xs": ["Instalación más fluida", "Ubicación ya decidida", "Espacio limpio al terminar"]}},
+    {"tipo": "foto", "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg", "pos": "72% 20%", "ajuste": "auto",
+     "kicker": "Instalación real", "titulo": "Arriba, despejado y en orden",
+     "texto": "Así queda cuando el muro está listo: recorrido ordenado y la pieza limpia.",
+     "etiqueta": "Instalación real · Santiago"},
+    {"tipo": "lista", "kicker": "Así lo instalamos", "titulo": "Claro antes, <span class=c>limpio después</span>",
+     "items": [
+      {"icono": "◎", "t": "Míralo en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+      {"icono": "⌖", "t": "Qué incluye, antes de perforar", "d": "Básica y adicionales claros desde el primer mensaje."},
+      {"icono": "✓", "t": "Terminaciones limpias", "d": "Recorrido ordenado, espacio limpio y garantía de instalación de 6 meses."}
+     ]},
+    {"tipo": "cta", "kicker": "¿Instalas esta semana?", "titulo": "Escríbenos <span class=f>AIRE</span> y lo coordinamos",
+     "texto": "Equipos Inverter frío/calor que climatizan todo el año, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+     "boton": "Cotiza en climatizatepro.cl"}
+  ],
+  "captions": {
+    "instagram": "Instalación de aire acondicionado: checklist de 7 cosas para tener listas ✅ muro despejado, espacio bajo el muro, enchufe cerca, mascotas en otra pieza, acceso a la de afuera, reglas de la administración y ¿dónde cae el agua? (la 7 casi nadie la piensa). ¿Cuántas tienes listas? Comenta el número. Guárdalo y mándaselo a quien instala esta semana. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #inverter #calor",
+    "facebook": "¿Vas a instalar tu aire con este calor? 🥵 Para que el día de la instalación fluya y tu espacio quede limpio, deja listas estas 7 cosas: el muro despejado, el espacio de abajo libre, revisa si hay enchufe cerca, las mascotas en otra pieza, el acceso al balcón, terraza o logia, las reglas de la administración si vives en depa y, la que casi nadie piensa, dónde va a caer el agua que bota el equipo al enfriar. La instalación básica incluye lo que trae la caja (aprox. 2 m de tubería de cobre y 2 m de cordones). Si tu caso necesita algo más, te lo decimos antes de perforar: canaleta blanca 100×50 de 2 m $35.000, soporte muro o piso $35.000, punto eléctrico a más de 1,5 m $12.000 por metro adicional; bomba de condensado o extensión se evalúan. Equipos Inverter frío/calor, Midea Airvolution entre otros, con 6 meses de garantía de instalación. ¿En qué comuna estás? 👇 Escríbenos AIRE 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+    "tiktok": "Checklist para el día de la instalación de tu aire acondicionado en Santiago: 7 cosas para tener listas (la 7 casi nadie la piensa). Instalación con garantía, Midea Airvolution Inverter entre otros. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #MideaAirvolution #inverter",
+    "linkedin": "Instalar climatización sin interrumpir más de la cuenta: 7 puntos para preparar el día de la instalación.\n\n1. Muro despejado donde irá el equipo.\n2. Espacio libre bajo ese muro.\n3. Punto eléctrico cercano (si no lo hay, se cotiza antes).\n4. Mascotas en otro recinto.\n5. Acceso despejado al lugar de la unidad exterior.\n6. Reglas de la administración del edificio, si aplica.\n7. Salida del agua de condensado, para no afectar a vecinos ni veredas.\n\nCon esto la instalación es más fluida y el espacio queda limpio. Sirve para hogares, oficinas pequeñas y locales.\n\nEn Climatízate Pro instalamos equipos Inverter frío/calor en Santiago, con simulador previo en climatizatepro.cl, recorrido ordenado, terminaciones limpias y garantía de instalación de 6 meses.\n\nCotizaciones: WhatsApp +56 9 6190 7601 · climatizatepro.cl"
+  }
+}

@@ -1,0 +1,41 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-25",
+ "fecha": "2026-11-25",
+ "hora": "19:00",
+ "pilar": "Venta suave (instalación real terminada + qué incluye + simulador)",
+ "tema": "Hoy 35 °C: así queda un aire bien instalado, qué incluye y cómo cotizar en 1 minuto (lo último casi nadie lo usa)",
+ "audio_ig": "GTA 6 Main Theme (EPIC Version) Apex Sound Odyssey",
+ "tiktok_title": "Instalación de aire acondicionado en Santiago: así queda bien hecha y qué incluye",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Instalación básica: lo que trae la caja. Adicionales se cotizan según tu muro.",
+ "primer_comentario": "📲 ¿Lo quieres así en tu casa? Comenta COTIZAR o escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con una foto de tu muro y tu comuna.",
+ "escenas": [
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.35, 0.25], "ajuste": "auto",
+   "chip": "Así quedó en Santiago", "titulo": "Hoy 35 °C: así queda bien instalado", "sub": "Lo último casi nadie lo usa.",
+   "voz": "¿Treinta y cinco grados hoy? Mira cómo queda bien instalado.", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.5, 0.0], "ajuste": "completa",
+   "chip": "1 · Ubicación", "titulo": "Adentro y afuera, en el mismo muro", "sub": "La de afuera, con espacio para respirar.",
+   "voz": "Uno: la de afuera en el balcón, con espacio.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg", "pos": [0.55, 0.2], "ajuste": "auto",
+   "chip": "2 · Terminaciones", "titulo": "Recorrido ordenado, espacio limpio", "sub": "Garantía de instalación de 6 meses.",
+   "voz": "Dos: todo ordenado, y seis meses de garantía.", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.6, 0.35], "ajuste": "auto",
+   "chip": "Qué incluye", "titulo": "La básica: lo que trae la caja", "sub": "Aprox. 2 m de cobre y 2 m de cordones.",
+   "voz": "La básica trae dos metros de tubería y los cordones.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg", "pos": [0.4, 0.3], "ajuste": "auto",
+   "chip": "3 · Casi nadie lo usa", "titulo": "Míralo en tu muro con el simulador", "sub": "Cotiza en 1 minuto en climatizatepro.cl",
+   "voz": "Y tres, ojo… míralo antes en tu muro, con el simulador.", "zoom": "in"},
+  {"foto": null, "pos": [0.5, 0.5], "ajuste": "auto",
+   "chip": "Así quedó en Santiago", "titulo": "¿Lo quieres así en tu casa?", "sub": "Comenta COTIZAR · +56 9 6190 7601",
+   "voz": "¿Lo quieres así en tu casa? Comenta COTIZAR y te escribimos.", "zoom": "out"}
+ ],
+ "captions": {
+  "instagram": "Instalación de aire acondicionado bien hecha, con 35 °C afuera 🥵 1) la de afuera con espacio para respirar, 2) recorrido ordenado y espacio limpio, con 6 meses de garantía, 3) antes de perforar, míralo en tu muro con el simulador (casi nadie lo usa). ¿Lo quieres así? Comenta COTIZAR y te escribimos. Mándaselo a quien está muerto de calor. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #inverter #calor",
+  "facebook": "Hoy miércoles Santiago podría llegar a 35 °C según el pronóstico de Megatiempo 🥵 Así queda una instalación bien hecha: la unidad de afuera con espacio para respirar, recorrido ordenado, espacio limpio y 6 meses de garantía de instalación. La instalación básica incluye lo que trae la caja (aprox. 2 m de tubería de cobre y 2 m de cordones); si tu muro necesita algo más, te lo decimos antes de perforar: canaleta blanca 100×50 de 2 m $35.000, soporte muro o piso $35.000, punto eléctrico a más de 1,5 m $12.000 por metro adicional; bomba de condensado o extensión se evalúan. Y antes de decidir, sube una foto de tu muro al simulador de climatizatepro.cl y mira cómo queda. Equipos Inverter frío/calor, Midea Airvolution entre otros. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Instalación de aire acondicionado en Santiago con 35 °C: así queda bien hecha, qué incluye la instalación básica y cómo cotizar en 1 minuto con el simulador. Inverter frío/calor, Midea Airvolution entre otros, con 6 meses de garantía de instalación. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #MideaAirvolution #calor"
+ }
+}
