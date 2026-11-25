@@ -1,0 +1,148 @@
+{
+ "fecha": "2026-11-25",
+ "dia": "miércoles (impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a2121500a69747a",
+ "messageId": "1a2121500a69747a",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-25 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a2121500a69747a",
+  "messageId": "1a2121500a69747a"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel foto real (ayer Reel)",
+  "15:00": "imagen única IA (ayer carrusel)",
+  "20:30": "Reel IA cartoon 3D (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Calor en Chile / cuidados de mascotas con altas temperaturas -> hot spots 11:00",
+  "Humor 'tac tac tac' / velociraptor -> uñas 15:00",
+  "Perrinovelas con IA (perrita Kanini viral) + camada real Ragnar x Dakota -> cap. 17 baby shower",
+  "Audio IG: Christmas Medley (Reels Sound - Listicle) – Ecklectic Music 1563654357995417 (Last Christmas de Wham! sin match en catálogo)"
+ ],
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Hot spots (dermatitis húmeda aguda) en el Bully: qué es, por qué sale con calor, dónde mirar, qué NO hacer + Dato prevenir es secar / crece rápido, duele o huele mal -> veterinario el mismo día; CTA SÍ o NUNCA",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_010, bully_009, bully_054, bully_020",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-25-1100-hot-spots-bully",
+   "metricool": [
+    {
+     "id": 441466856,
+     "uuid": "-2568707825476222641",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¿Garras de velociraptor? Córtale las uñas al Cane Corso en 4 pasos (tocar patas, cortaúñas grande + premio, solo la puntita/uñas negras, 1-2 patas por día cada 2-4 semanas) + Dato uñas largas cargan articulaciones / sangra o cojea -> veterinario; CTA SE DEJA o TELESERIE",
+   "raza": "Cane Corso",
+   "formato": "imagen única (Canva)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZSTprTIk (generate-image quota_exceeded 25-nov)",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/5sK-9O3IJt0Z7e4 (diseño DAHb6Upi5kU, copia de DAHbKbglZWE)",
+   "carpeta": "publicaciones/2026-11-25-1500-unas-cane-corso (miniatura)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-12697980219464228818.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 441466877,
+     "uuid": "8436451095249961447",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Perrinovela TeamFS (Guardianes T2) Cap. 17 'EL BABY SHOWER': Queen va por los regalos, Ragnar invita al barrio / Bella 'Dakota quiere SIESTA', giro Kopito (7 meses) '¿los globos se comen?' + Dato perrita preñada = calma, pocas visitas, globos/cintas lejos -> veterinario; CTA SHOWER, síguenos cap. 18",
+   "raza": "American Bully + Cane Corso (manada)",
+   "formato": "Reel 4 escenas (Canva mp4) IG+FB + TikTok aparte (autoPublish false)",
+   "estilo": "IA cartoon 3D (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZqYnFSDQ (Queen auto), MAHZqeEaBw0 (Ragnar y Bella), MAHZqbGXSAY (Kopito)",
+   "isAiGenerated": true,
+   "audio": "IG: Christmas Medley (Reels Sound - Listicle) – Ecklectic Music, audioId 1563654357995417 (music), audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "canva": "https://www.canva.com/d/RiNyW5JjgAFx_Cx (diseño DAHb6YE3_3A, copia de DAHbuWNSvYg)",
+   "carpeta": "publicaciones/2026-11-25-2030-perrinovela-cap17-baby-shower (miniaturas)",
+   "serie": {
+    "nombre": "Perrinovela TeamFS (Los Guardianes T2)",
+    "capitulo": 17
+   },
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-9596052184087515660.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 441467484,
+     "uuid": "-4288822508516061289",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    },
+    {
+     "id": 441467541,
+     "uuid": "-230416146346718259",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "isAigc": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 20-nov. Se pidió material al dueño en el correo."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (25-nov). Piezas IA hechas reutilizando arte IA existente."
+  },
+  {
+   "detalle": "Banco Cane Corso agotado (<14 días / portada <30) -> 15:00 con ilustración IA reutilizada."
+  },
+  {
+   "detalle": "banco/american-bully/bully_040.jpg es Cane Corso (gris) con un niño: mal archivada, conviene moverla a banco/cane-corso."
+  },
+  {
+   "detalle": "IG audio 'Last Christmas Wham!' sin match; se usó Christmas Medley (Reels Sound - Listicle)."
+  }
+ ]
+}
