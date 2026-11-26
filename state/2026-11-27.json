@@ -4,7 +4,7 @@
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
  "enviado": "2026-11-26T19:41-03:00",
  "modo": "automatico",
- "ultima_revision": null,
+ "ultima_revision": "2026-11-26T20:07-03:00",
  "nota_formato": "27-11: 10:00 reel (ayer carrusel), 15:00 carrusel (ayer reel), 19:30 carrusel (ayer foto). Todas salen como Reel en IG.",
  "investigacion": {
   "audios": "Dash Social (24-11), SocialPilot Reels/TikTok (17-25 nov), CreatorDB (semana 18-11), Tokchart (26-11), Later (20-11). Se evitan audios de 24, 25 y 26-11 (Bublé, Upside Down, My Moon My Man, Blue Danube, Time, BEAUTY and a BEAT, Last Christmas, Bonito Bonito, Angel of My Dreams).",
@@ -62,8 +62,29 @@
    "fuente": "Maquetas de diseños de Sara del Drive (Educadora.jpeg, Profe Leo) + catálogo de prendas del Drive (Polera pique hombre, Polerón canguro niño), recortadas y mejoradas con IA (sin imágenes generadas).",
    "por_que": "Hoy parte el Black Friday (27-30 nov, CCS): la gente compara precios; una guía honesta de qué cambia el valor (sin inventar precios) se guarda y comparte y lleva a cotizar por WhatsApp.",
    "aviso_autorizacion": "Educadora y Profe Leo son maquetas con modelo (no fotos de clientes). \"Profe Leo\" es un nombre de pila en el diseño: confirma que se puede mostrar.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 443741416,
+     "uuid": "3502417647442019239",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=3502417647442019239"
+    },
+    {
+     "red": "facebook",
+     "id": 443741600,
+     "uuid": "8494481579945903323",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8494481579945903323"
+    },
+    {
+     "red": "tiktok",
+     "id": 443741621,
+     "uuid": "-2503649610793531080",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-2503649610793531080"
+    }
+   ],
+   "audio_ig_usado": "Harry Styles - Coming Up Roses (original_sound, 26894565483571825)",
+   "audio_tipo": "tendencia (3er candidato; 'November' de Past Day y 'Christmas Market' de Eoneun no están en la biblioteca)"
   },
   {
    "numero": 2,
@@ -112,8 +133,29 @@
    "fuente": "Diseños de Sara del banco (Colibrí, Bendecida, Conjunto, Navidad nombres con gorro, de la carpeta Navidad 4-6 usada el 20-11): maquetas/fotos de producto del Drive, mejoradas con IA. Usadas por última vez el 19 y 20-11 (más de 7 días).",
    "por_que": "Trend 'Dear Santa' (Later, 20-11) adaptado a Chile como carta al Viejito Pascuero; a un mes de Navidad y en Black Friday, muestra 4 ideas de regalo y refuerza 'pide con tiempo'.",
    "aviso_autorizacion": "Colibrí y Bendecida muestran modelos de maqueta (no clientas). Los nombres Daniel, Emma y Lisa son de ejemplo en la maqueta navideña.",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 443741977,
+     "uuid": "8674030220829346593",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8674030220829346593"
+    },
+    {
+     "red": "facebook",
+     "id": 443742155,
+     "uuid": "-2771025639251099549",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-2771025639251099549"
+    },
+    {
+     "red": "tiktok",
+     "id": 443742163,
+     "uuid": "-1080955535577955253",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-1080955535577955253"
+    }
+   ],
+   "audio_ig_usado": "Underneath the Tree - Kelly Clarkson (original_sound, 2058516111266605)",
+   "audio_tipo": "tendencia (2º candidato; 'All I Want for Christmas Is You' sin versión exacta en la biblioteca)"
   },
   {
    "numero": 3,
@@ -160,9 +202,38 @@
    "fuente": "Maquetas de frases del Drive (carpeta de frases 2, 3 y 5.jpeg), mejoradas con IA. Nunca publicadas.",
    "por_que": "Las publicaciones de \"etiqueta a…\" multiplican el alcance (cada etiqueta lleva la cuenta a otra persona) y en Black Friday la gente está en modo compras con amigas. Diseños nuevos nunca publicados.",
    "aviso_autorizacion": "Sin rostros, nombres ni marcas. Son maquetas de producto (fondo de estudio).",
-   "estado": "pendiente_programar",
-   "metricool": []
+   "estado": "programada",
+   "metricool": [
+    {
+     "red": "instagram",
+     "id": 443742528,
+     "uuid": "1952874279057836361",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1952874279057836361"
+    },
+    {
+     "red": "facebook",
+     "id": 443742544,
+     "uuid": "-8315719769690386570",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-8315719769690386570"
+    },
+    {
+     "red": "tiktok",
+     "id": 443742568,
+     "uuid": "6140019794655072254",
+     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6140019794655072254"
+    }
+   ],
+   "audio_ig_usado": "Charli XCX - Boom Clap (original_sound, 27583205128020810)",
+   "audio_tipo": "tendencia (1er candidato)"
   }
  ],
- "gmail_messageId": "1a21a04e8674210b"
+ "gmail_messageId": "1a21a04e8674210b",
+ "respuestas_procesadas": [],
+ "cambios": [
+  "2026-11-26 20:07: sin respuestas de Sara en el hilo; marca SaraVibes verificada (FB/IG/TikTok correctos); control de contacto OK; programadas 1, 2 y 3 en IG (Reel con música), FB (Reel) y TikTok (fotos) para el 27-11 10:00/15:00/19:30."
+ ],
+ "correo_programada": {
+  "id": "1a21a1c79ebb6218",
+  "enviado": "2026-11-26T20:07-03:00"
+ }
 }
