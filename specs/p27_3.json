@@ -1,0 +1,7 @@
+{"slides":[
+{"tipo":"portada","foto":"/home/claude/svmedia/banco/frase_hambre.jpg","pos":[0.5,0.5],"chip":"Etiqueta","titulo":"Black Friday: etiqueta a quien necesita esta polera","resaltar":["etiqueta"],"sub":"Desliza y elige la tuya"},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/frase_cafe.jpg","pos":[0.5,0.55],"chip":"1","titulo":"La que no funciona sin café","resaltar":["sin café"],"sub":"El día de hoy llega gracias al auspicio de mi café."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/frase_hambre.jpg","pos":[0.5,0.55],"chip":"2","titulo":"La que se pone pesada con hambre","resaltar":["con hambre"],"sub":"Perdón por lo que dije cuando tenía hambre."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/frase_drama.jpg","pos":[0.5,0.55],"chip":"3","titulo":"La reina del drama","resaltar":["drama"],"sub":"La llama que se tira al suelo por todo. ¿Te suena?"},
+{"tipo":"cta","titulo":"¿Cuál eres tú: 1, 2 o 3?","resaltar":["1, 2 o 3"],"sub":"Comenta tu número y etiqueta a tu 2. Tu frase en tu polera: cotiza por WhatsApp."}
+]}

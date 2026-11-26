@@ -1,0 +1,8 @@
+{"slides":[
+{"tipo":"portada","foto":"/home/claude/svmedia/banco/colibri.jpg","pos":[0.5,0.35],"chip":"Dear Santa","titulo":"Querido Viejito Pascuero: este año quiero...","resaltar":["Viejito Pascuero"],"sub":"mi lista de deseos personalizada"},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/colibri.jpg","pos":[0.5,0.45],"chip":"Deseo 1","titulo":"Algo que nadie más tenga","resaltar":["nadie más"],"sub":"Un diseño a todo color, hecho solo para mí."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/bendecida.jpg","pos":[0.5,0.55],"chip":"Deseo 2","titulo":"Que diga lo que siento","resaltar":["lo que siento"],"sub":"Mi palabra, mi frase o mi nombre, con mariposas hasta en las mangas."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/conjunto.jpg","pos":[0.5,0.5],"chip":"Deseo 3","titulo":"Un conjunto para andar cómoda en la casa","resaltar":["conjunto"],"sub":"Polerón y buzo a juego, con el mismo diseño."},
+{"tipo":"foto","foto":"/home/claude/svmedia/banco/nav_nombres_gorro.jpg","ajuste":"completa","chip":"Deseo 4","titulo":"Que toda la familia ande igual","resaltar":["toda la familia"],"sub":"Una polera navideña con el nombre de cada uno."},
+{"tipo":"cta","titulo":"Deseo 5: que llegue a tiempo","resaltar":["a tiempo"],"sub":"Pide con tiempo. Cotiza por WhatsApp y te mostramos la maqueta antes de estampar."}
+]}
