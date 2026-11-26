@@ -1,0 +1,55 @@
+{
+ "tema": "¿Mito o verdad? 6 creencias sobre goteos, ruidos y «le falta gas» (la 6 casi nadie la pregunta)",
+ "fecha": "2026-11-26",
+ "id": "2026-11-26",
+ "hora": "12:00",
+ "pilar": "Mitos (goteos, ruidos y fallas)",
+ "primer_comentario": "📲 ¿Tu aire gotea, suena raro o enfría poco? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y lo vemos.",
+ "slides": [
+  {"tipo": "portada", "kicker": "¿Mito o verdad?",
+   "titulo": "6 creencias sobre <span class=c>goteos, ruidos</span> y «le falta gas»",
+   "texto": "Después de días de calor, muchos se preguntan esto. La 6 casi nadie la pregunta. Guárdalo."},
+  {"tipo": "lista", "kicker": "Mitos del 1 al 3", "titulo": "Lo que <span class=f>todos creen</span>",
+   "items": [
+    {"icono": "💧", "t": "1. «Si gotea adentro, es normal»: MITO", "d": "Adentro no debería gotear. Si pasa, pide una revisión técnica.", "calor": true},
+    {"icono": "🌿", "t": "2. «Que salga agua afuera es una falla»: MITO", "d": "Es la humedad que saca de tu pieza. Lo importante es dónde cae."},
+    {"icono": "🌡", "t": "3. «Si enfría poco, le falta gas»: NO SIEMPRE", "d": "Muchas veces son filtros sucios, puertas abiertas, mala ubicación o capacidad chica. Que lo revise un técnico."}
+   ]},
+  {"tipo": "lista", "kicker": "Mitos del 4 al 6", "titulo": "Los que <span class=c>salen caros</span>",
+   "items": [
+    {"icono": "🧼", "t": "4. «Un equipo nuevo no necesita mantención»: MITO", "d": "Los filtros se revisan seguido, con el equipo apagado y según su manual."},
+    {"icono": "🔇", "t": "5. «Si suena fuerte, enfría más»: MITO", "d": "Un Inverter regula su velocidad y trabaja suave. Un ruido raro se revisa."},
+    {"icono": "✓", "t": "6. «La instalación no tiene garantía»: MITO", "d": "Con nosotros tiene 6 meses de garantía de instalación. Esta casi nadie la pregunta.", "calor": true}
+   ]},
+  {"tipo": "tabla", "kicker": "Para no adivinar", "titulo": "¿Qué hago <span class=c>si…</span>?",
+   "filas": [
+    ["Gotea adentro", "Apágalo y pide revisión técnica"],
+    ["Sale agua afuera", "Normal: revisa que no moje al vecino"],
+    ["Enfría poco", "Revisa filtros y puertas; si sigue, técnico"],
+    ["Suena raro", "Pide revisión, no lo fuerces"]
+   ],
+   "nota": "Nada de abrir el equipo ni tocar el gas: eso lo hace un técnico."},
+  {"tipo": "versus", "kicker": "El error más común", "titulo": "¿«Cárgale gas» o <span class=f>revisar primero</span>?",
+   "a": {"t": "Cárgale gas", "xs": ["Gastas sin saber la causa", "El problema vuelve", "Puede ser otra cosa"]},
+   "b": {"t": "Revisar primero", "xs": ["Se ve la causa real", "Filtros, ubicación o capacidad", "Arreglas una vez"]},
+   "nota": "Equipos Inverter frío/calor: climatizan todo el año."},
+  {"tipo": "foto", "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg", "pos": "75% 40%", "ajuste": "completa",
+   "kicker": "Instalación real · mito 2", "titulo": "El agua de afuera, bien resuelta",
+   "texto": "Unidad exterior en la terraza, despejada y con el desagüe pensado desde el día uno.", "etiqueta": "Instalación real · Santiago"},
+  {"tipo": "lista", "kicker": "Así lo instalamos", "titulo": "Para que no <span class=c>gotee ni suene</span>",
+   "items": [
+    {"icono": "◎", "t": "Míralo antes en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+    {"icono": "⌖", "t": "Nivelado y con salida de agua", "d": "Bien ubicado, con el desagüe resuelto y la de afuera respirando."},
+    {"icono": "✓", "t": "Terminaciones limpias", "d": "Recorrido ordenado, espacio limpio al terminar y garantía de instalación de 6 meses."}
+   ]},
+  {"tipo": "cta", "kicker": "¿Cuántas creías?", "titulo": "Escríbenos <span class=f>AIRE</span> y lo vemos",
+   "texto": "Cuéntanos qué le pasa a tu aire, o mándanos una foto de tu muro y la comuna para instalar. Equipos Inverter frío/calor, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+   "boton": "Cotiza en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado que gotea, suena o «le falta gas»: ¿mito o verdad? 💧 6 creencias que te hacen gastar de más. La 6 casi nadie la pregunta. ¿Cuántas creías? Comenta el número. Guárdalo y mándaselo a quien le quieren «cargar gas». Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #mitos #inverter #instalacion",
+  "facebook": "Después de los días de calor fuerte en Santiago, nos llegan harto estas preguntas 💧 ¿Mito o verdad? 1) Que gotee adentro NO es normal: pide revisión técnica. 2) Que salga agua afuera sí es normal: es la humedad que saca de tu pieza; lo importante es que no moje al vecino. 3) Si enfría poco, no siempre «le falta gas»: muchas veces son filtros, puertas abiertas, ubicación o capacidad. 4) Un equipo nuevo también necesita que revises los filtros. 5) Un Inverter trabaja suave: si suena fuerte o raro, se revisa. 6) La instalación sí tiene garantía: con nosotros, 6 meses. Instalamos con simulador, recorrido ordenado y espacio limpio. ¿En qué comuna estás y cuántas creías? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Aire acondicionado que gotea o enfría poco: 6 mitos (no siempre le falta gas). Instalación de aire acondicionado en Santiago con garantía, Inverter frío/calor y Midea Airvolution. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #mitos #instalación #tips",
+  "linkedin": "Seis creencias frecuentes sobre equipos de aire acondicionado después de una semana de calor, útiles para hogares, oficinas y locales.\n\n1. El goteo en la unidad interior no es normal y requiere revisión técnica.\n2. El agua en la unidad exterior es condensado normal; lo relevante es su descarga.\n3. Bajo rendimiento no siempre implica falta de refrigerante: filtros, ubicación o capacidad son causas frecuentes.\n4. Los equipos nuevos también requieren revisión periódica de filtros.\n5. Los equipos Inverter regulan su velocidad; un ruido anormal debe revisarse.\n6. La instalación debe tener garantía: en Climatízate Pro es de 6 meses.\n\nPara oficinas o locales con varios equipos, hacemos evaluación técnica.\n\nCotiza: climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}

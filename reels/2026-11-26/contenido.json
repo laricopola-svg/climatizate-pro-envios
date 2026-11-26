@@ -1,0 +1,41 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-26",
+ "fecha": "2026-11-26",
+ "hora": "19:00",
+ "pilar": "Tips Midea (serie \"Tu Midea puede más\")",
+ "tema": "Tu Midea puede más #8: después del calorón, 3 funciones que cuidan tu equipo (la 3 casi nadie la mira)",
+ "audio_ig": "Grand Theft Auto: San Andreas (Official Theme Song) Michael Hunter",
+ "tiktok_title": "Midea Airvolution: 3 funciones que cuidan tu aire acondicionado después del calor",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Funciones según modelo y control.",
+ "primer_comentario": "📲 ¿Tu aire quedó con olor o gastando más después del calor? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y lo vemos.",
+ "escenas": [
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg", "pos": [0.35, 0.25], "ajuste": "auto",
+   "chip": "Tu Midea puede más #8", "titulo": "Después del calorón", "sub": "La 3 casi nadie la mira.",
+   "voz": "¿Le diste duro al aire? Tu Midea se cuida solito.", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg", "pos": [0.55, 0.2], "ajuste": "auto",
+   "chip": "1 · Adentro", "titulo": "I-Clean", "sub": "Seca y limpia por dentro.",
+   "voz": "Uno: I-Clean lo seca por dentro… chao olor a humedad.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg", "pos": [0.5, 0.0], "ajuste": "completa",
+   "chip": "2 · Afuera", "titulo": "Golden Fin", "sub": "Protege la unidad de afuera.",
+   "voz": "Dos: Golden Fin cuida la unidad de afuera.", "zoom": "in"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": [0.6, 0.35], "ajuste": "auto",
+   "chip": "3 · En el celular", "titulo": "Mira su consumo", "sub": "En la app WiFi.",
+   "voz": "Y tres, ojo… en la app ves si está gastando de más.", "zoom": "out"},
+  {"foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg", "pos": [0.72, 0.2], "ajuste": "auto",
+   "chip": "Así lo instalamos", "titulo": "Bien instalado, dura más", "sub": "Recorrido ordenado y 6 meses de garantía.",
+   "voz": "Bien instalado, con garantía… dura harto más.", "zoom": "in"},
+  {"foto": null, "pos": [0.5, 0.5], "ajuste": "auto",
+   "chip": "Tu Midea puede más #8", "titulo": "¿Cuál no conocías?", "sub": "Escríbenos AIRE · +56 9 6190 7601",
+   "voz": "¿Cuál no conocías? Comenta el número… o escríbenos AIRE.", "zoom": "out"}
+ ],
+ "captions": {
+  "instagram": "Midea Airvolution después del calor: 3 funciones que cuidan tu equipo 🧼 I-Clean lo seca por dentro, Golden Fin protege la unidad de afuera y en la app WiFi ves si está gastando de más (la 3 casi nadie la mira). ¿Cuál no conocías? Comenta el número. Mándaselo a quien tiene Midea en la casa. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). Funciones según modelo y control. #aireacondicionado #santiago #midea #inverter #calor",
+  "facebook": "Después de los días de calor fuerte en Santiago, tu aire trabajó harto 🥵 Si tienes un Midea Airvolution, tiene 3 funciones que lo cuidan: 1) I-Clean, que lo seca y limpia por dentro para que no quede olor a humedad; 2) Golden Fin, el recubrimiento que protege la unidad de afuera; 3) la app WiFi, donde ves cuánto consume y notas si está gastando de más (funciones según modelo y control). Y lo que más le alarga la vida: una buena instalación. Nosotros instalamos con recorrido ordenado, espacio limpio y 6 meses de garantía de instalación. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Midea Airvolution: I-Clean, Golden Fin y la app WiFi para cuidar tu aire acondicionado después del calor. Aire acondicionado Inverter en Santiago, instalación con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). Funciones según modelo y control. #aireacondicionado #santiago #MideaAirvolution #instalación #tips"
+ }
+}
