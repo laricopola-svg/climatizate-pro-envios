@@ -1,8 +1,8 @@
 {
  "fecha": "2026-11-27",
- "gmail_threadId": null,
+ "gmail_threadId": "1a21a04e8674210b",
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
- "enviado": null,
+ "enviado": "2026-11-26T19:41-03:00",
  "modo": "automatico",
  "ultima_revision": null,
  "nota_formato": "27-11: 10:00 reel (ayer carrusel), 15:00 carrusel (ayer reel), 19:30 carrusel (ayer foto). Todas salen como Reel en IG.",
@@ -163,5 +163,6 @@
    "estado": "pendiente_programar",
    "metricool": []
   }
- ]
+ ],
+ "gmail_messageId": "1a21a04e8674210b"
 }
