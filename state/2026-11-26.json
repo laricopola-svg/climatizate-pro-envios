@@ -1,0 +1,63 @@
+{
+ "fecha": "2026-11-26",
+ "dia": "jueves (par: Cane Corso 11:00 y 20:30, Bully 15:00) – ajustado: Bully 11:00 y 15:00 por banco CC agotado",
+ "threadId": "1a2173dd495b4fa3",
+ "messageId": "1a2173dd495b4fa3",
+ "correo": {"para": "fcosotog7@gmail.com", "asunto": "[TeamFS] Propuesta 2026-11-26 – responde OK para publicar"},
+ "gmail": {"threadId": "1a2173dd495b4fa3", "messageId": "1a2173dd495b4fa3"},
+ "rotacion_formatos": {
+  "11:00": "Reel foto real (ayer carrusel)",
+  "15:00": "carrusel foto real (ayer imagen única IA)",
+  "20:30": "carrusel IA cómic (ayer Reel IA cartoon 3D)"
+ },
+ "tendencias_usadas": [
+  "Formato POV + temporada calor/parásitos Chile (noticias nov-2026 calor y mascotas) -> garrapatas 11:00",
+  "Juntas de fin de año con perros + humor 'tío en asado' -> saludo entre perros 15:00",
+  "Mito o realidad con personaje de la manada (Queen) en cómic IA; sin Perrinovela (bajada a 1/semana según revisión semanal aprobada 23-nov)",
+  "Audio IG: Jingle Bells Swing – Giulio Cercato 171835059332496 (Jingle Bell Rock original sin match)"
+ ],
+ "coordinacion_plan_semanal": "Hoy 21:15 hay además Reel 'Mi Bully es tsundere' del plan semanal aprobado (OK 23-nov).",
+ "publicaciones": [
+  {"n": 1, "hora": "11:00",
+   "tema": "POV: verruga con patas - garrapatas en el Bully: revisar tras paseo (orejas, cuello, axilas, dedos, cola), no aplastar/quemar/alcohol/aceite, pinza fina o veterinario, antiparasitario indicado por veterinario + pasto corto; Dato decaído/sin hambre/fiebre días después -> veterinario (ehrlichiosis)",
+   "raza": "American Bully", "formato": "Reel 21,9 s (IG+FB) + TikTok aparte (autoPublish false)", "estilo": "foto real", "voz": false,
+   "fuente": "repo banco bully_032 (portada), bully_052, bully_015, bully_001, bully_057", "isAiGenerated": false,
+   "audio": "IG: Jingle Bells Swing – Giulio Cercato, audioId 171835059332496 (music), audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-26-1100-garrapatas-bully",
+   "media_metricool": ["https://static.metricool.com/planner/202611/7551690-file-1236708924496089049.mp4"],
+   "metricool": [
+    {"id": 442863725, "uuid": "-8116412887786109335", "redes": ["instagram", "facebook"], "draft": true},
+    {"id": 442863842, "uuid": "-6417072866885351597", "redes": ["tiktok"], "autoPublish": false, "draft": true}
+   ], "estado": "borrador"},
+  {"n": 2, "hora": "15:00",
+   "tema": "Tu Bully saluda como tío en asado: saludo entre perros en 4 pasos (lejos y en paralelo, correa suelta, regla 3 segundos, leer señales y retirarse) + Dato preguntar al dueño/terreno neutral/educador; CTA TÍO o GATO",
+   "raza": "American Bully", "formato": "carrusel 7 láminas (3 fotos + 4 de diseño)", "estilo": "foto real", "voz": false,
+   "fuente": "repo banco bully_014, bully_023, bully_013", "isAiGenerated": false, "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-26-1500-saludo-perros-bully",
+   "metricool": [{"id": 442864337, "uuid": "-3164839178094755255", "redes": ["facebook", "instagram", "tiktok"], "draft": true}],
+   "estado": "borrador"},
+  {"n": 3, "hora": "20:30",
+   "tema": "¿MITO O NO? Queen responde: 'son bravos' (guardianes socializados), 'más grande es mejor' (estándar: equilibrio/articulaciones), 'con patio basta' (quiere familia) + Dato exigir registro KCC/padres/crianza; CTA comenta tu mito",
+   "raza": "Cane Corso (Queen) + cameo Kopito", "formato": "carrusel 4 láminas (Canva)", "estilo": "IA cómic (reutilizada)", "voz": false,
+   "fuente": "IA Canva reutilizada MAHZwbedLFc (Queen), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 26-nov",
+   "isAiGenerated": true, "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/m092Zi2ShDZNiI0 (diseño DAHcAftmPf8, copia de DAHb0VgViQY)",
+   "carpeta": "publicaciones/2026-11-26-2030-mito-o-no-queen-cane-corso (README; láminas solo en Metricool)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-12725565746155110906.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-12832294490523969892.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-15644984050688551368.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-8403880463251956043.jpeg"],
+   "metricool": [{"id": 442864354, "uuid": "-2074937972088814197", "redes": ["facebook", "instagram", "tiktok"], "isAiGenerated": true, "draft": true}],
+   "estado": "borrador"}
+ ],
+ "incidencias": [
+  {"detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."},
+  {"detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 20-nov. Se pidió material al dueño."},
+  {"detalle": "Canva generate-image: quota_exceeded (26-nov). Pieza IA hecha reutilizando arte existente."},
+  {"detalle": "Banco Cane Corso agotado (todas usadas <14 días; bully_040 = CC usada 19-nov sin registrar en fotos_usadas). 11:00 cambiada a Bully. Banco Bully casi agotado: solo quedaban 8 fotos elegibles."},
+  {"detalle": "Proxy bloquea descarga desde export-download.canva.com y static.metricool.com (403): láminas 20:30 no quedaron en el repo."},
+  {"detalle": "Jingle Bell Rock original sin match en catálogo IG de Metricool."}
+ ],
+ "revisiones": []
+}
