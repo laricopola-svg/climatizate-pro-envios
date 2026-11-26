@@ -1,225 +1,226 @@
 {
- "fecha": "2026-11-26",
- "gmail_threadId": "1a214ddcb61d9346",
- "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
- "enviado": "2026-11-25T19:40-03:00",
- "modo": "automatico",
- "ultima_revision": "2026-11-25T20:07-03:00",
- "nota_formato": "26-11: 10:00 carrusel (ayer reel), 15:00 reel (ayer carrusel), 19:30 foto (ayer carrusel). Todas salen como Reel en IG.",
- "investigacion": {
-  "audios": "SocialPilot Reels/TikTok (17-25 nov), Later (20-11), Dash Social (24-11), Tokchart TikTok (24-11). Se evitan los audios de 24 y 25-11 (Bublé, Christmas Market, Mariah, Coming Up Roses, November, Upside Down, Time, My Moon My Man, BEAUTY and a BEAT, Mr. Brightside, Blue Danube, Stop The Wedding!, Housewife, I Knew It). Nuevos: Bonito Bonito (Thiago Navarro), Tu Me Estas Enamorando, Rechazame, BbY WOW, Baby, Mooo!, '3' Britney (transición de outfit), Last Christmas (trend 'Dear Santa').",
-  "formatos": "Later 13-20 nov: 'Dear Santa' (lista de deseos), '5 stages of...', 'appointment timestamps', transición de outfit, 'I feel like I haven't done much this year'.",
-  "fechas": "Black Friday 27-30 nov (CCS, +400 marcas); sin promoción confirmada por Sara: no se menciona descuento. Fin del año escolar en diciembre (noticias 16-17 nov). Amigo secreto: guías de regalo de Falabella/Líder/Sodimac activas.",
-  "competencia": "No se revisaron métricas de cuentas de estampado de Santiago; no se citan.",
-  "drive": "Sin archivos nuevos (últimos modificados 02-11). Nuevas usadas: Mochilas de tela.jpeg, Navidad/Polera personalizada.jpeg. Descartadas: Póleron/Póleron 2/Conjunto Buzo (personajes KPop Demon Hunters/Huntrix, licencia), Navidad/Familia y Trabajos/Familia (Grinch), Navidad/3 (marca de agua 'mockup'), Botas personalizadas (foto de catálogo de terceros), carpetas numeradas (Homero Simpson, Toy Story) y Enamorados (rostros de terceros, origen no confirmado).",
-  "nota_add_repo": "add_repo no disponible como herramienta; el repo ya estaba en alcance y el clone funcionó."
- },
- "publicaciones": [
-  {
-   "numero": 1,
-   "hora": "10:00",
-   "formato": "carrusel",
-   "tema": "Guía: te tocó en el amigo secreto y no sabes qué regalar — 4 ideas personalizadas que sí se usan (para guardar y mandar al grupo)",
-   "carpeta": "2026-11-26-1000-guia-amigo-secreto",
-   "spec": "specs/p26_1.json",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_06.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_06.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/portada.jpg"
-   },
-   "captions": {
-    "instagram": "¿Te tocó en el amigo secreto y no tienes idea qué regalar? 🎁\n\nGuarda esta guía 👇\n\n1️⃣ Para el de la pega: polerón con una frase que lo represente\n2️⃣ Para tu amiga: su nombre con el diseño que más le gusta\n3️⃣ Para la profe o la tía: bolsa con frase para usar todos los días\n4️⃣ Para el tío bromista: polerón con humor para lucir en la once\n\nTú eliges la frase, el nombre o el diseño, y te mostramos la maqueta antes de estampar. Pide con tiempo 🎄\n\n¿Cuál le regalarías a tu amigo secreto? Comenta 1, 2, 3 o 4 👇\nMándasela al grupo del amigo secreto 😉\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#amigosecreto #regalosdenavidad #regalospersonalizados #poleronpersonalizado #santiagochile",
-    "facebook": "¿Te tocó en el amigo secreto y no tienes idea qué regalar? 🎁\n\nGuarda esta guía 👇\n\n1️⃣ Para el de la pega: polerón con una frase que lo represente\n2️⃣ Para tu amiga: su nombre con el diseño que más le gusta\n3️⃣ Para la profe o la tía: bolsa con frase para usar todos los días\n4️⃣ Para el tío bromista: polerón con humor para lucir en la once\n\nTú eliges la frase, el nombre o el diseño, y te mostramos la maqueta antes de estampar. Pide con tiempo 🎄\n\n¿Cuál le regalarías a tu amigo secreto? Comenta 1, 2, 3 o 4 👇\nMándasela al grupo del amigo secreto 😉\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#amigosecreto #regalosdenavidad #regalospersonalizados #poleronpersonalizado #santiagochile",
-    "tiktok": "¿Te tocó en el amigo secreto y no tienes idea qué regalar? 🎁\n\nGuarda esta guía 👇\n\n1️⃣ Para el de la pega: polerón con una frase que lo represente\n2️⃣ Para tu amiga: su nombre con el diseño que más le gusta\n3️⃣ Para la profe o la tía: bolsa con frase para usar todos los días\n4️⃣ Para el tío bromista: polerón con humor para lucir en la once\n\nTú eliges la frase, el nombre o el diseño, y te mostramos la maqueta antes de estampar. Pide con tiempo 🎄\n\n¿Cuál le regalarías a tu amigo secreto? Comenta 1, 2, 3 o 4 👇\nMándasela al grupo del amigo secreto 😉\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#amigosecreto #regalosdenavidad #regalospersonalizados #poleronpersonalizado #santiagochile"
-   },
-   "audio_ig": "Last Christmas Wham!",
-   "audio_candidatos": [
-    "Last Christmas Wham!",
-    "Bonito, Bonito Thiago Navarro Music",
-    "BbY WOW Rusowsky",
-    "Baby Ludacris",
-    "3 Britney Spears"
-   ],
-   "audio_respaldo": "christmas",
-   "audio_motivo": "'Last Christmas' es el audio del trend 'Dear Santa' (lista de deseos navideña) de esta semana en Reels (Later 20-11, SocialPilot): calza perfecto con una guía de regalos para el amigo secreto.",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Fotos/maquetas del Drive ya usadas antes (Tía, Paciencia, Mariposa 'Vicky', Bolsa, casado) mejoradas con IA; se reutiliza la idea de la guía de regalos vencida del 18-11 con enfoque amigo secreto. Mariposa 'Vicky' es foto de modelo: 'imagen referencial'.",
-   "aviso_autorizacion": "La lámina 2 muestra una modelo con el polerón 'Vicky' (foto ya publicada antes, marcada como imagen referencial).",
-   "por_que": "El amigo secreto de la pega, el curso y la familia se sortea a fines de noviembre: contenido útil para guardar y compartir en grupos de WhatsApp, justo antes del Black Friday (27-30 nov) sin mencionar descuentos.",
-   "estado": "programada",
-   "metricool": [
-    {
-     "red": "instagram",
-     "id": 442439979,
-     "uuid": "-6886615668219887128",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6886615668219887128"
-    },
-    {
-     "red": "facebook",
-     "id": 442440271,
-     "uuid": "-6699396282701298291",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6699396282701298291"
-    },
-    {
-     "red": "tiktok",
-     "id": 442440289,
-     "uuid": "4124032243651921748",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=4124032243651921748"
-    }
-   ],
-   "audio_ig_usado": "Karol G - BbY WOW (feat. Judeline, Rusowsky) (original_sound, 29122858187318145)",
-   "audio_tipo": "tendencia (3er candidato; 'Last Christmas' y 'Bonito, Bonito' sin versión exacta / reservado para post 2)"
+  "fecha": "2026-11-26",
+  "gmail_threadId": "1a214ddcb61d9346",
+  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
+  "enviado": "2026-11-25T19:40-03:00",
+  "modo": "automatico",
+  "ultima_revision": "2026-11-25T21:05-03:00",
+  "nota_formato": "26-11: 10:00 carrusel (ayer reel), 15:00 reel (ayer carrusel), 19:30 foto (ayer carrusel). Todas salen como Reel en IG.",
+  "investigacion": {
+    "audios": "SocialPilot Reels/TikTok (17-25 nov), Later (20-11), Dash Social (24-11), Tokchart TikTok (24-11). Se evitan los audios de 24 y 25-11 (Bublé, Christmas Market, Mariah, Coming Up Roses, November, Upside Down, Time, My Moon My Man, BEAUTY and a BEAT, Mr. Brightside, Blue Danube, Stop The Wedding!, Housewife, I Knew It). Nuevos: Bonito Bonito (Thiago Navarro), Tu Me Estas Enamorando, Rechazame, BbY WOW, Baby, Mooo!, '3' Britney (transición de outfit), Last Christmas (trend 'Dear Santa').",
+    "formatos": "Later 13-20 nov: 'Dear Santa' (lista de deseos), '5 stages of...', 'appointment timestamps', transición de outfit, 'I feel like I haven't done much this year'.",
+    "fechas": "Black Friday 27-30 nov (CCS, +400 marcas); sin promoción confirmada por Sara: no se menciona descuento. Fin del año escolar en diciembre (noticias 16-17 nov). Amigo secreto: guías de regalo de Falabella/Líder/Sodimac activas.",
+    "competencia": "No se revisaron métricas de cuentas de estampado de Santiago; no se citan.",
+    "drive": "Sin archivos nuevos (últimos modificados 02-11). Nuevas usadas: Mochilas de tela.jpeg, Navidad/Polera personalizada.jpeg. Descartadas: Póleron/Póleron 2/Conjunto Buzo (personajes KPop Demon Hunters/Huntrix, licencia), Navidad/Familia y Trabajos/Familia (Grinch), Navidad/3 (marca de agua 'mockup'), Botas personalizadas (foto de catálogo de terceros), carpetas numeradas (Homero Simpson, Toy Story) y Enamorados (rostros de terceros, origen no confirmado).",
+    "nota_add_repo": "add_repo no disponible como herramienta; el repo ya estaba en alcance y el clone funcionó."
   },
-  {
-   "numero": 2,
-   "hora": "15:00",
-   "formato": "reel",
-   "tema": "Reel: mochilas de tela con el nombre de cada alumno — idea de regalo de cierre de año para todo el curso",
-   "carpeta": "2026-11-26-1500-reel-mochilas-curso",
-   "spec": "specs/p26_2.json",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_05.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_05.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/portada.jpg"
-   },
-   "captions": {
-    "instagram": "Una mochila con el nombre de CADA alumno 🎒✨\n\nAsí quedó este pedido de mochilas de tela: mismo diseño, un nombre distinto en cada una (nadie confunde la suya 😅).\n\n✅ Estampado DTF a todo color\n✅ Diseño a elección: tu frase, el nombre del curso o el logo del colegio\n✅ Te mostramos la maqueta antes de producir\n\nIdeal para la directiva de apoderados o la tía del jardín que quiere cerrar el año con un regalo para todos. Pide con tiempo.\n\n¿Para qué curso las harías? Cuéntanos en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#findeañoescolar #regalospersonalizados #mochilapersonalizada #estampadodtf #santiagochile",
-    "facebook": "Una mochila con el nombre de CADA alumno 🎒✨\n\nAsí quedó este pedido de mochilas de tela: mismo diseño, un nombre distinto en cada una (nadie confunde la suya 😅).\n\n✅ Estampado DTF a todo color\n✅ Diseño a elección: tu frase, el nombre del curso o el logo del colegio\n✅ Te mostramos la maqueta antes de producir\n\nIdeal para la directiva de apoderados o la tía del jardín que quiere cerrar el año con un regalo para todos. Pide con tiempo.\n\n¿Para qué curso las harías? Cuéntanos en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#findeañoescolar #regalospersonalizados #mochilapersonalizada #estampadodtf #santiagochile",
-    "tiktok": "Una mochila con el nombre de CADA alumno 🎒✨\n\nAsí quedó este pedido de mochilas de tela: mismo diseño, un nombre distinto en cada una (nadie confunde la suya 😅).\n\n✅ Estampado DTF a todo color\n✅ Diseño a elección: tu frase, el nombre del curso o el logo del colegio\n✅ Te mostramos la maqueta antes de producir\n\nIdeal para la directiva de apoderados o la tía del jardín que quiere cerrar el año con un regalo para todos. Pide con tiempo.\n\n¿Para qué curso las harías? Cuéntanos en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#findeañoescolar #regalospersonalizados #mochilapersonalizada #estampadodtf #santiagochile"
-   },
-   "audio_ig": "Bonito, Bonito Thiago Navarro Music",
-   "audio_candidatos": [
-    "Bonito, Bonito Thiago Navarro Music",
-    "3 Britney Spears",
-    "Tu Me Estas Enamorando La Piedra Urbana",
-    "You're Under Arrest ILLIT",
-    "BbY WOW Rusowsky"
-   ],
-   "audio_respaldo": "happy",
-   "audio_motivo": "'Bonito, Bonito' es la canción en español que más crece en TikTok esta semana (Tokchart 24-11): alegre y tierna, calza con un reel de mochilas con nombres de niños; '3' de Britney es el respaldo del trend 'transición de outfit'.",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Foto real del Drive (Mochilas de tela.jpeg): enderezada (rotada 90°), recortes de detalle y mejorada con IA.",
-   "aviso_autorizacion": "Se ven nombres de pila de niños (Indira, Trinidad, Ignacio, Renato, Maite) en un pedido real hecho para el Día del Alumno; sin rostros ni apellidos. Confirma que el cliente autoriza mostrarlo; si no, responde NO 2 antes de las 15:00.",
-   "por_que": "Fin del año escolar (clases terminan en diciembre): las directivas de apoderados y las tías del jardín buscan el regalo para todo el curso. Foto real y nueva (nunca publicada) de un pedido grande, que da confianza.",
-   "estado": "programada",
-   "metricool": [
+  "publicaciones": [
     {
-     "red": "instagram",
-     "id": 442440319,
-     "uuid": "8075826350705232112",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8075826350705232112"
+      "numero": 1,
+      "hora": "10:00",
+      "formato": "carrusel",
+      "tema": "Guía: te tocó en el amigo secreto y no sabes qué regalar — 4 ideas personalizadas que sí se usan (para guardar y mandar al grupo)",
+      "carpeta": "2026-11-26-1000-guia-amigo-secreto",
+      "spec": "specs/p26_1.json",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/4x5_06.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/9x16_06.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1000-guia-amigo-secreto/portada.jpg"
+      },
+      "captions": {
+        "instagram": "¿Te tocó en el amigo secreto y no tienes idea qué regalar? 🎁\n\nGuarda esta guía 👇\n\n1️⃣ Para el de la pega: polerón con una frase que lo represente\n2️⃣ Para tu amiga: su nombre con el diseño que más le gusta\n3️⃣ Para la profe o la tía: bolsa con frase para usar todos los días\n4️⃣ Para el tío bromista: polerón con humor para lucir en la once\n\nTú eliges la frase, el nombre o el diseño, y te mostramos la maqueta antes de estampar. Pide con tiempo 🎄\n\n¿Cuál le regalarías a tu amigo secreto? Comenta 1, 2, 3 o 4 👇\nMándasela al grupo del amigo secreto 😉\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#amigosecreto #regalosdenavidad #regalospersonalizados #poleronpersonalizado #santiagochile",
+        "facebook": "¿Te tocó en el amigo secreto y no tienes idea qué regalar? 🎁\n\nGuarda esta guía 👇\n\n1️⃣ Para el de la pega: polerón con una frase que lo represente\n2️⃣ Para tu amiga: su nombre con el diseño que más le gusta\n3️⃣ Para la profe o la tía: bolsa con frase para usar todos los días\n4️⃣ Para el tío bromista: polerón con humor para lucir en la once\n\nTú eliges la frase, el nombre o el diseño, y te mostramos la maqueta antes de estampar. Pide con tiempo 🎄\n\n¿Cuál le regalarías a tu amigo secreto? Comenta 1, 2, 3 o 4 👇\nMándasela al grupo del amigo secreto 😉\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#amigosecreto #regalosdenavidad #regalospersonalizados #poleronpersonalizado #santiagochile",
+        "tiktok": "¿Te tocó en el amigo secreto y no tienes idea qué regalar? 🎁\n\nGuarda esta guía 👇\n\n1️⃣ Para el de la pega: polerón con una frase que lo represente\n2️⃣ Para tu amiga: su nombre con el diseño que más le gusta\n3️⃣ Para la profe o la tía: bolsa con frase para usar todos los días\n4️⃣ Para el tío bromista: polerón con humor para lucir en la once\n\nTú eliges la frase, el nombre o el diseño, y te mostramos la maqueta antes de estampar. Pide con tiempo 🎄\n\n¿Cuál le regalarías a tu amigo secreto? Comenta 1, 2, 3 o 4 👇\nMándasela al grupo del amigo secreto 😉\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#amigosecreto #regalosdenavidad #regalospersonalizados #poleronpersonalizado #santiagochile"
+      },
+      "audio_ig": "Last Christmas Wham!",
+      "audio_candidatos": [
+        "Last Christmas Wham!",
+        "Bonito, Bonito Thiago Navarro Music",
+        "BbY WOW Rusowsky",
+        "Baby Ludacris",
+        "3 Britney Spears"
+      ],
+      "audio_respaldo": "christmas",
+      "audio_motivo": "'Last Christmas' es el audio del trend 'Dear Santa' (lista de deseos navideña) de esta semana en Reels (Later 20-11, SocialPilot): calza perfecto con una guía de regalos para el amigo secreto.",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Fotos/maquetas del Drive ya usadas antes (Tía, Paciencia, Mariposa 'Vicky', Bolsa, casado) mejoradas con IA; se reutiliza la idea de la guía de regalos vencida del 18-11 con enfoque amigo secreto. Mariposa 'Vicky' es foto de modelo: 'imagen referencial'.",
+      "aviso_autorizacion": "La lámina 2 muestra una modelo con el polerón 'Vicky' (foto ya publicada antes, marcada como imagen referencial).",
+      "por_que": "El amigo secreto de la pega, el curso y la familia se sortea a fines de noviembre: contenido útil para guardar y compartir en grupos de WhatsApp, justo antes del Black Friday (27-30 nov) sin mencionar descuentos.",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 442439979,
+          "uuid": "-6886615668219887128",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6886615668219887128"
+        },
+        {
+          "red": "facebook",
+          "id": 442440271,
+          "uuid": "-6699396282701298291",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6699396282701298291"
+        },
+        {
+          "red": "tiktok",
+          "id": 442440289,
+          "uuid": "4124032243651921748",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=4124032243651921748"
+        }
+      ],
+      "audio_ig_usado": "Karol G - BbY WOW (feat. Judeline, Rusowsky) (original_sound, 29122858187318145)",
+      "audio_tipo": "tendencia (3er candidato; 'Last Christmas' y 'Bonito, Bonito' sin versión exacta / reservado para post 2)"
     },
     {
-     "red": "facebook",
-     "id": 442440552,
-     "uuid": "3587174833031302355",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=3587174833031302355"
+      "numero": 2,
+      "hora": "15:00",
+      "formato": "reel",
+      "tema": "Reel: mochilas de tela con el nombre de cada alumno — idea de regalo de cierre de año para todo el curso",
+      "carpeta": "2026-11-26-1500-reel-mochilas-curso",
+      "spec": "specs/p26_2.json",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/4x5_05.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/9x16_05.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1500-reel-mochilas-curso/portada.jpg"
+      },
+      "captions": {
+        "instagram": "Una mochila con el nombre de CADA alumno 🎒✨\n\nAsí quedó este pedido de mochilas de tela: mismo diseño, un nombre distinto en cada una (nadie confunde la suya 😅).\n\n✅ Estampado DTF a todo color\n✅ Diseño a elección: tu frase, el nombre del curso o el logo del colegio\n✅ Te mostramos la maqueta antes de producir\n\nIdeal para la directiva de apoderados o la tía del jardín que quiere cerrar el año con un regalo para todos. Pide con tiempo.\n\n¿Para qué curso las harías? Cuéntanos en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#findeañoescolar #regalospersonalizados #mochilapersonalizada #estampadodtf #santiagochile",
+        "facebook": "Una mochila con el nombre de CADA alumno 🎒✨\n\nAsí quedó este pedido de mochilas de tela: mismo diseño, un nombre distinto en cada una (nadie confunde la suya 😅).\n\n✅ Estampado DTF a todo color\n✅ Diseño a elección: tu frase, el nombre del curso o el logo del colegio\n✅ Te mostramos la maqueta antes de producir\n\nIdeal para la directiva de apoderados o la tía del jardín que quiere cerrar el año con un regalo para todos. Pide con tiempo.\n\n¿Para qué curso las harías? Cuéntanos en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#findeañoescolar #regalospersonalizados #mochilapersonalizada #estampadodtf #santiagochile",
+        "tiktok": "Una mochila con el nombre de CADA alumno 🎒✨\n\nAsí quedó este pedido de mochilas de tela: mismo diseño, un nombre distinto en cada una (nadie confunde la suya 😅).\n\n✅ Estampado DTF a todo color\n✅ Diseño a elección: tu frase, el nombre del curso o el logo del colegio\n✅ Te mostramos la maqueta antes de producir\n\nIdeal para la directiva de apoderados o la tía del jardín que quiere cerrar el año con un regalo para todos. Pide con tiempo.\n\n¿Para qué curso las harías? Cuéntanos en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#findeañoescolar #regalospersonalizados #mochilapersonalizada #estampadodtf #santiagochile"
+      },
+      "audio_ig": "Bonito, Bonito Thiago Navarro Music",
+      "audio_candidatos": [
+        "Bonito, Bonito Thiago Navarro Music",
+        "3 Britney Spears",
+        "Tu Me Estas Enamorando La Piedra Urbana",
+        "You're Under Arrest ILLIT",
+        "BbY WOW Rusowsky"
+      ],
+      "audio_respaldo": "happy",
+      "audio_motivo": "'Bonito, Bonito' es la canción en español que más crece en TikTok esta semana (Tokchart 24-11): alegre y tierna, calza con un reel de mochilas con nombres de niños; '3' de Britney es el respaldo del trend 'transición de outfit'.",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Foto real del Drive (Mochilas de tela.jpeg): enderezada (rotada 90°), recortes de detalle y mejorada con IA.",
+      "aviso_autorizacion": "Se ven nombres de pila de niños (Indira, Trinidad, Ignacio, Renato, Maite) en un pedido real hecho para el Día del Alumno; sin rostros ni apellidos. Confirma que el cliente autoriza mostrarlo; si no, responde NO 2 antes de las 15:00.",
+      "por_que": "Fin del año escolar (clases terminan en diciembre): las directivas de apoderados y las tías del jardín buscan el regalo para todo el curso. Foto real y nueva (nunca publicada) de un pedido grande, que da confianza.",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 442440319,
+          "uuid": "8075826350705232112",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8075826350705232112"
+        },
+        {
+          "red": "facebook",
+          "id": 442440552,
+          "uuid": "3587174833031302355",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=3587174833031302355"
+        },
+        {
+          "red": "tiktok",
+          "id": 442440583,
+          "uuid": "5261972347182598283",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=5261972347182598283"
+        }
+      ],
+      "audio_ig_usado": "Contiene: Bonito, Bonito – Thiago Navarro Music (original_sound, 27193689590329436)",
+      "audio_tipo": "tendencia (1er candidato)"
     },
     {
-     "red": "tiktok",
-     "id": 442440583,
-     "uuid": "5261972347182598283",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=5261972347182598283"
+      "numero": 3,
+      "hora": "19:30",
+      "formato": "foto",
+      "tema": "Polera navideña con tu inicial con gorro y tu nombre: comenta tu inicial",
+      "carpeta": "2026-11-26-1930-inicial-navidad",
+      "spec": "specs/p26_3.json",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/4x5_01.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/9x16_01.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/portada.jpg"
+      },
+      "captions": {
+        "instagram": "Tu inicial con gorro navideño y tu nombre 🎄\n\nUna polera para la cena del 24, la foto familiar o para regalar: la letra y el nombre los eliges tú (y se puede hacer para toda la familia).\n\n✍️ ¿Qué letra va en la tuya? Escribe tu inicial en los comentarios 👇\n\nTe mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #polerapersonalizada #poleranavideña #saravibes #santiagochile",
+        "facebook": "Tu inicial con gorro navideño y tu nombre 🎄\n\nUna polera para la cena del 24, la foto familiar o para regalar: la letra y el nombre los eliges tú (y se puede hacer para toda la familia).\n\n✍️ ¿Qué letra va en la tuya? Escribe tu inicial en los comentarios 👇\n\nTe mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #polerapersonalizada #poleranavideña #saravibes #santiagochile",
+        "tiktok": "Tu inicial con gorro navideño y tu nombre 🎄\n\nUna polera para la cena del 24, la foto familiar o para regalar: la letra y el nombre los eliges tú (y se puede hacer para toda la familia).\n\n✍️ ¿Qué letra va en la tuya? Escribe tu inicial en los comentarios 👇\n\nTe mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #polerapersonalizada #poleranavideña #saravibes #santiagochile"
+      },
+      "audio_ig": "Angel of My Dreams JADE",
+      "audio_candidatos": [
+        "Angel of My Dreams JADE",
+        "Tu Me Estas Enamorando La Piedra Urbana",
+        "Baby Ludacris",
+        "Mooo! Doja Cat",
+        "Rechazame Prince Royce"
+      ],
+      "audio_respaldo": "christmas",
+      "audio_motivo": "'Angel of My Dreams' es el audio de los 'reveals' (joyas, transformaciones) en Reels este mes (Dash Social 24-11): sirve para revelar la polera; si no está en la biblioteca de empresa, usar pista navideña.",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Maqueta del Drive (Navidad/Polera personalizada.jpeg) mejorada con IA; se presenta como 'imagen referencial'.",
+      "aviso_autorizacion": "Sin rostros. El nombre 'Gabriel' es parte de la maqueta del diseño.",
+      "por_que": "Pregunta simple de comentar ('tu inicial') para subir comentarios y abrir conversaciones de pedidos navideños familiares; foto nueva, nunca publicada.",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 442441451,
+          "uuid": "-3355210162524962123",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3355210162524962123"
+        },
+        {
+          "red": "facebook",
+          "id": 442441473,
+          "uuid": "8267495852916162926",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8267495852916162926"
+        },
+        {
+          "red": "tiktok",
+          "id": 442441498,
+          "uuid": "-519925091110140105",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-519925091110140105"
+        }
+      ],
+      "audio_ig_usado": "Justin Bieber - Baby ft. Ludacris (original_sound, 1232655988414117)",
+      "audio_tipo": "tendencia (3er candidato; 'Angel of My Dreams' y 'Tu Me Estas Enamorando' no están en la biblioteca)"
     }
-   ],
-   "audio_ig_usado": "Contiene: Bonito, Bonito – Thiago Navarro Music (original_sound, 27193689590329436)",
-   "audio_tipo": "tendencia (1er candidato)"
-  },
-  {
-   "numero": 3,
-   "hora": "19:30",
-   "formato": "foto",
-   "tema": "Polera navideña con tu inicial con gorro y tu nombre: comenta tu inicial",
-   "carpeta": "2026-11-26-1930-inicial-navidad",
-   "spec": "specs/p26_3.json",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/4x5_01.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/9x16_01.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-26-1930-inicial-navidad/portada.jpg"
-   },
-   "captions": {
-    "instagram": "Tu inicial con gorro navideño y tu nombre 🎄\n\nUna polera para la cena del 24, la foto familiar o para regalar: la letra y el nombre los eliges tú (y se puede hacer para toda la familia).\n\n✍️ ¿Qué letra va en la tuya? Escribe tu inicial en los comentarios 👇\n\nTe mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #polerapersonalizada #poleranavideña #saravibes #santiagochile",
-    "facebook": "Tu inicial con gorro navideño y tu nombre 🎄\n\nUna polera para la cena del 24, la foto familiar o para regalar: la letra y el nombre los eliges tú (y se puede hacer para toda la familia).\n\n✍️ ¿Qué letra va en la tuya? Escribe tu inicial en los comentarios 👇\n\nTe mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #polerapersonalizada #poleranavideña #saravibes #santiagochile",
-    "tiktok": "Tu inicial con gorro navideño y tu nombre 🎄\n\nUna polera para la cena del 24, la foto familiar o para regalar: la letra y el nombre los eliges tú (y se puede hacer para toda la familia).\n\n✍️ ¿Qué letra va en la tuya? Escribe tu inicial en los comentarios 👇\n\nTe mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #polerapersonalizada #poleranavideña #saravibes #santiagochile"
-   },
-   "audio_ig": "Angel of My Dreams JADE",
-   "audio_candidatos": [
-    "Angel of My Dreams JADE",
-    "Tu Me Estas Enamorando La Piedra Urbana",
-    "Baby Ludacris",
-    "Mooo! Doja Cat",
-    "Rechazame Prince Royce"
-   ],
-   "audio_respaldo": "christmas",
-   "audio_motivo": "'Angel of My Dreams' es el audio de los 'reveals' (joyas, transformaciones) en Reels este mes (Dash Social 24-11): sirve para revelar la polera; si no está en la biblioteca de empresa, usar pista navideña.",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Maqueta del Drive (Navidad/Polera personalizada.jpeg) mejorada con IA; se presenta como 'imagen referencial'.",
-   "aviso_autorizacion": "Sin rostros. El nombre 'Gabriel' es parte de la maqueta del diseño.",
-   "por_que": "Pregunta simple de comentar ('tu inicial') para subir comentarios y abrir conversaciones de pedidos navideños familiares; foto nueva, nunca publicada.",
-   "estado": "programada",
-   "metricool": [
-    {
-     "red": "instagram",
-     "id": 442441451,
-     "uuid": "-3355210162524962123",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-3355210162524962123"
-    },
-    {
-     "red": "facebook",
-     "id": 442441473,
-     "uuid": "8267495852916162926",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8267495852916162926"
-    },
-    {
-     "red": "tiktok",
-     "id": 442441498,
-     "uuid": "-519925091110140105",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-519925091110140105"
-    }
-   ],
-   "audio_ig_usado": "Justin Bieber - Baby ft. Ludacris (original_sound, 1232655988414117)",
-   "audio_tipo": "tendencia (3er candidato; 'Angel of My Dreams' y 'Tu Me Estas Enamorando' no están en la biblioteca)"
-  }
- ],
- "gmail_messageId": "1a214ddcb61d9346",
- "respuestas_procesadas": [],
- "cambios": [
-  "25-11 20:07: sin respuestas de Sara; marca SaraVibes verificada (FB/IG/TikTok OK); contacto OK en 9 captions; media 200; programadas 1,2,3 en IG (Reel)/FB (Reel)/TikTok (fotos); correo de confirmación enviado."
- ]
+  ],
+  "gmail_messageId": "1a214ddcb61d9346",
+  "respuestas_procesadas": [],
+  "cambios": [
+    "25-11 20:07: sin respuestas de Sara; marca SaraVibes verificada (FB/IG/TikTok OK); contacto OK en 9 captions; media 200; programadas 1,2,3 en IG (Reel)/FB (Reel)/TikTok (fotos); correo de confirmación enviado.",
+    "25-11 21:05: sin respuestas de Sara; 9 posts siguen programados (PENDING) en Metricool."
+  ]
 }
