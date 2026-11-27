@@ -4,7 +4,7 @@
   "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
   "enviado": "2026-11-26T19:41-03:00",
   "modo": "automatico",
-  "ultima_revision": "2026-11-27T14:05-03:00",
+  "ultima_revision": "2026-11-27T15:05-03:00",
   "nota_formato": "27-11: 10:00 reel (ayer carrusel), 15:00 carrusel (ayer reel), 19:30 carrusel (ayer foto). Todas salen como Reel en IG.",
   "investigacion": {
     "audios": "Dash Social (24-11), SocialPilot Reels/TikTok (17-25 nov), CreatorDB (semana 18-11), Tokchart (26-11), Later (20-11). Se evitan audios de 24, 25 y 26-11 (Bublé, Upside Down, My Moon My Man, Blue Danube, Time, BEAUTY and a BEAT, Last Christmas, Bonito Bonito, Angel of My Dreams).",
@@ -163,7 +163,7 @@
           "id_anterior": 444341281
         }
       ],
-      "audio_ig_usado": "Underneath the Tree - Kelly Clarkson (original_sound, 2058516111266605)",
+      "audio_ig_usado": "Holiday Bells – Scott Dugdale (music, 193842924859531, 18%/100%)",
       "audio_tipo": "tendencia (2º candidato; 'All I Want for Christmas Is You' sin versión exacta en la biblioteca)",
       "voz_en_off": "Querido Viejito Pascuero: este año quiero algo que nadie más tenga. Mi frase, mi nombre… ¡y que toda la familia ande igual! ¿Y tú, qué le pedirías? Escríbenos al WhatsApp de Sara Vibes.",
       "nota_voz": "27-11 13:20: voz cambiada a Supertonic 3 (más natural) por pedido del dueño.",
@@ -237,7 +237,7 @@
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=6140019794655072254"
         }
       ],
-      "audio_ig_usado": "Charli XCX - Boom Clap (original_sound, 27583205128020810)",
+      "audio_ig_usado": "Rose Petal Love (Instrumental) – Shuba (music, 608334931793444, 18%/100%)",
       "audio_tipo": "tendencia (1er candidato)",
       "voz_en_off": "¡Ojo! Alguien de tu grupo necesita esta polera. ¿La que no funciona sin café, la que se pone pesada con hambre, o la reina del drama? Comenta uno, dos o tres… ¡y etiquétala!",
       "nota_voz": "27-11 13:20: voz cambiada a Supertonic 3 (más natural) por pedido del dueño."
@@ -250,7 +250,8 @@
   "cambios": [
     "2026-11-26 20:07: sin respuestas de Sara en el hilo; marca SaraVibes verificada (FB/IG/TikTok correctos); control de contacto OK; programadas 1, 2 y 3 en IG (Reel con música), FB (Reel) y TikTok (fotos) para el 27-11 10:00/15:00/19:30.",
     "26-11 21:05: Sara respondió \"No 1\" (msg 1a21a3de5e03c638, 20:43). Publicación 1 (10:00, guía qué cambia el precio) → \"rechazada\"; sus 3 posts (IG/FB/TikTok) pasados a borrador (draft:true) en Metricool, nuevos ids 443781004/443781013/443781022. Publicaciones 2 y 3 siguen programadas.",
-    "27-11 14:05: sin respuestas nuevas de Sara; 2 (15:00) y 3 (19:30) siguen programadas en Metricool (IG/FB/TikTok, PENDING, contacto OK, música IG tipo 'music'). Sin cambios."
+    "27-11 14:05: sin respuestas nuevas de Sara; 2 (15:00) y 3 (19:30) siguen programadas en Metricool (IG/FB/TikTok, PENDING, contacto OK, música IG tipo 'music'). Sin cambios.",
+    "27-11 15:05: sin respuestas nuevas de Sara; marca SaraVibes OK. Publicación 2 (15:00) en estado PUBLISHING en IG/FB/TikTok; 3 (19:30) PENDING en IG/FB/TikTok (contacto OK, música IG tipo 'music'). Corregido audio_ig_usado de 2 y 3 en el state según Metricool."
   ],
   "correo_programada": {
     "id": "1a21a1c79ebb6218",
