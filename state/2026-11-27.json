@@ -4,7 +4,7 @@
   "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
   "enviado": "2026-11-26T19:41-03:00",
   "modo": "automatico",
-  "ultima_revision": "2026-11-27T15:05-03:00",
+  "ultima_revision": "2026-11-27T16:05-03:00",
   "nota_formato": "27-11: 10:00 reel (ayer carrusel), 15:00 carrusel (ayer reel), 19:30 carrusel (ayer foto). Todas salen como Reel en IG.",
   "investigacion": {
     "audios": "Dash Social (24-11), SocialPilot Reels/TikTok (17-25 nov), CreatorDB (semana 18-11), Tokchart (26-11), Later (20-11). Se evitan audios de 24, 25 y 26-11 (Bublé, Upside Down, My Moon My Man, Blue Danube, Time, BEAUTY and a BEAT, Last Christmas, Bonito Bonito, Angel of My Dreams).",
@@ -139,28 +139,31 @@
       "fuente": "Diseños de Sara del banco (Colibrí, Bendecida, Conjunto, Navidad nombres con gorro, de la carpeta Navidad 4-6 usada el 20-11): maquetas/fotos de producto del Drive, mejoradas con IA. Usadas por última vez el 19 y 20-11 (más de 7 días).",
       "por_que": "Trend 'Dear Santa' (Later, 20-11) adaptado a Chile como carta al Viejito Pascuero; a un mes de Navidad y en Black Friday, muestra 4 ideas de regalo y refuerza 'pide con tiempo'.",
       "aviso_autorizacion": "Colibrí y Bendecida muestran modelos de maqueta (no clientas). Los nombres Daniel, Emma y Lisa son de ejemplo en la maqueta navideña.",
-      "estado": "programada",
+      "estado": "publicada",
       "metricool": [
         {
           "red": "instagram",
           "id": 444586112,
           "uuid": "8674030220829346593",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8674030220829346593",
-          "id_anterior": 444340836
+          "id_anterior": 444340836,
+          "publicUrl": "https://www.instagram.com/reel/DgQScQhihB0/"
         },
         {
           "red": "facebook",
           "id": 444586221,
           "uuid": "-2771025639251099549",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-2771025639251099549",
-          "id_anterior": 444340975
+          "id_anterior": 444340975,
+          "publicUrl": "https://facebook.com/reel/1468762455391128"
         },
         {
           "red": "tiktok",
           "id": 444586345,
           "uuid": "-1080955535577955253",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-1080955535577955253",
-          "id_anterior": 444341281
+          "id_anterior": 444341281,
+          "publicUrl": "https://www.tiktok.com/@sara.vibespersonaliza/video/7712914764929797383"
         }
       ],
       "audio_ig_usado": "Holiday Bells – Scott Dugdale (music, 193842924859531, 18%/100%)",
@@ -251,7 +254,8 @@
     "2026-11-26 20:07: sin respuestas de Sara en el hilo; marca SaraVibes verificada (FB/IG/TikTok correctos); control de contacto OK; programadas 1, 2 y 3 en IG (Reel con música), FB (Reel) y TikTok (fotos) para el 27-11 10:00/15:00/19:30.",
     "26-11 21:05: Sara respondió \"No 1\" (msg 1a21a3de5e03c638, 20:43). Publicación 1 (10:00, guía qué cambia el precio) → \"rechazada\"; sus 3 posts (IG/FB/TikTok) pasados a borrador (draft:true) en Metricool, nuevos ids 443781004/443781013/443781022. Publicaciones 2 y 3 siguen programadas.",
     "27-11 14:05: sin respuestas nuevas de Sara; 2 (15:00) y 3 (19:30) siguen programadas en Metricool (IG/FB/TikTok, PENDING, contacto OK, música IG tipo 'music'). Sin cambios.",
-    "27-11 15:05: sin respuestas nuevas de Sara; marca SaraVibes OK. Publicación 2 (15:00) en estado PUBLISHING en IG/FB/TikTok; 3 (19:30) PENDING en IG/FB/TikTok (contacto OK, música IG tipo 'music'). Corregido audio_ig_usado de 2 y 3 en el state según Metricool."
+    "27-11 15:05: sin respuestas nuevas de Sara; marca SaraVibes OK. Publicación 2 (15:00) en estado PUBLISHING en IG/FB/TikTok; 3 (19:30) PENDING en IG/FB/TikTok (contacto OK, música IG tipo 'music'). Corregido audio_ig_usado de 2 y 3 en el state según Metricool.",
+    "27-11 16:05: sin respuestas nuevas de Sara; marca SaraVibes OK. Publicación 2 (15:00) PUBLICADA en IG/FB/TikTok (URLs guardadas). 3 (19:30) sigue PENDING en IG/FB/TikTok (contacto OK, música IG 'music'). Sin correo."
   ],
   "correo_programada": {
     "id": "1a21a1c79ebb6218",
