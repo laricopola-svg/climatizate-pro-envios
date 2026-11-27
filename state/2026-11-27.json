@@ -116,7 +116,7 @@
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1500-carta-viejito-pascuero/9x16_05.jpg",
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1500-carta-viejito-pascuero/9x16_06.jpg"
         ],
-        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1500-carta-viejito-pascuero/reel.mp4",
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/595d327/publicaciones/2026-11-27-1500-carta-viejito-pascuero/reel.mp4",
         "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1500-carta-viejito-pascuero/portada.jpg"
       },
       "captions": {
@@ -124,7 +124,7 @@
         "facebook": "Querido Viejito Pascuero 🎅 este año quiero…\n\n✨ Algo que nadie más tenga\n🦋 Que diga lo que siento (mi palabra, mi frase o mi nombre)\n🖤 Un conjunto para andar cómoda en la casa\n🎄 Que toda la familia ande igual, con el nombre de cada uno\n⏰ Y que llegue a tiempo\n\nTodo con estampado DTF a todo color, en la prenda que elijas, y con maqueta antes de estampar. Pide con tiempo para Navidad.\n\n¿Y tú qué le pedirías al Viejito? Escríbelo en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regalospersonalizados #poleronpersonalizado #saravibes #santiagochile",
         "tiktok": "Querido Viejito Pascuero 🎅 este año quiero…\n\n✨ Algo que nadie más tenga\n🦋 Que diga lo que siento (mi palabra, mi frase o mi nombre)\n🖤 Un conjunto para andar cómoda en la casa\n🎄 Que toda la familia ande igual, con el nombre de cada uno\n⏰ Y que llegue a tiempo\n\nTodo con estampado DTF a todo color, en la prenda que elijas, y con maqueta antes de estampar. Pide con tiempo para Navidad.\n\n¿Y tú qué le pedirías al Viejito? Escríbelo en los comentarios 👇\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regalospersonalizados #poleronpersonalizado #saravibes #santiagochile"
       },
-      "audio_ig": "All I Want for Christmas Is You Mariah Carey",
+      "audio_ig": "Holiday Bells – Scott Dugdale (18%)",
       "audio_candidatos": [
         "All I Want for Christmas Is You Mariah Carey",
         "Underneath the Tree Kelly Clarkson",
@@ -143,25 +143,31 @@
       "metricool": [
         {
           "red": "instagram",
-          "id": 443741977,
+          "id": 444340836,
           "uuid": "8674030220829346593",
-          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8674030220829346593"
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8674030220829346593",
+          "id_anterior": 443741977
         },
         {
           "red": "facebook",
-          "id": 443742155,
+          "id": 444340975,
           "uuid": "-2771025639251099549",
-          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-2771025639251099549"
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-2771025639251099549",
+          "id_anterior": 443742155
         },
         {
           "red": "tiktok",
-          "id": 443742163,
+          "id": 444341281,
           "uuid": "-1080955535577955253",
-          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-1080955535577955253"
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-1080955535577955253",
+          "id_anterior": 443742163
         }
       ],
       "audio_ig_usado": "Underneath the Tree - Kelly Clarkson (original_sound, 2058516111266605)",
-      "audio_tipo": "tendencia (2º candidato; 'All I Want for Christmas Is You' sin versión exacta en la biblioteca)"
+      "audio_tipo": "tendencia (2º candidato; 'All I Want for Christmas Is You' sin versión exacta en la biblioteca)",
+      "voz_en_off": "Querido Viejito Pascuero: este año quiero algo que nadie más tenga. Mi frase, mi nombre… ¡y que toda la familia ande igual! ¿Y tú, qué le pedirías? Escríbenos al WhatsApp de Sara Vibes.",
+      "nota_voz": "27-11 09:55: reel regenerado con voz en off (tools/voz.py). IG: música instrumental de la biblioteca comercial al 18% y voz al 100%; FB reel con voz.",
+      "nota_tiktok": "Prueba A/B: TikTok como video con voz (sin autoAddMusic) vs 19:30 carrusel de fotos con música automática."
     },
     {
       "numero": 3,
@@ -185,7 +191,7 @@
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1930-etiqueta-frases/9x16_04.jpg",
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1930-etiqueta-frases/9x16_05.jpg"
         ],
-        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1930-etiqueta-frases/reel.mp4",
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/595d327/publicaciones/2026-11-27-1930-etiqueta-frases/reel.mp4",
         "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1930-etiqueta-frases/portada.jpg"
       },
       "captions": {
@@ -193,7 +199,7 @@
         "facebook": "Black Friday y alguien de tu grupo NECESITA esta polera 😂\n\n1️⃣ La que no funciona sin café ☕\n2️⃣ La que se pone pesada con hambre 🍔\n3️⃣ La reina del drama 🦙\n\n¿Cuál eres tú? Comenta 1, 2 o 3 y etiqueta a tu número 2 👇\n\nTu frase, tu nombre o tu diseño en la prenda que quieras: poleras, polerones y más, con estampado DTF.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#polerapersonalizada #ropapersonalizada #emprendimientochileno #saravibes #santiagochile",
         "tiktok": "Black Friday y alguien de tu grupo NECESITA esta polera 😂\n\n1️⃣ La que no funciona sin café ☕\n2️⃣ La que se pone pesada con hambre 🍔\n3️⃣ La reina del drama 🦙\n\n¿Cuál eres tú? Comenta 1, 2 o 3 y etiqueta a tu número 2 👇\n\nTu frase, tu nombre o tu diseño en la prenda que quieras: poleras, polerones y más, con estampado DTF.\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#polerapersonalizada #ropapersonalizada #emprendimientochileno #saravibes #santiagochile"
       },
-      "audio_ig": "boom clap Charli xcx",
+      "audio_ig": "Rose Petal Love (Instrumental) – Shuba (18%)",
       "audio_candidatos": [
         "boom clap Charli xcx",
         "Housewife Tate McRae",
@@ -212,15 +218,17 @@
       "metricool": [
         {
           "red": "instagram",
-          "id": 443742528,
+          "id": 444341093,
           "uuid": "1952874279057836361",
-          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1952874279057836361"
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1952874279057836361",
+          "id_anterior": 443742528
         },
         {
           "red": "facebook",
-          "id": 443742544,
+          "id": 444341166,
           "uuid": "-8315719769690386570",
-          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-8315719769690386570"
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-8315719769690386570",
+          "id_anterior": 443742544
         },
         {
           "red": "tiktok",
@@ -230,7 +238,9 @@
         }
       ],
       "audio_ig_usado": "Charli XCX - Boom Clap (original_sound, 27583205128020810)",
-      "audio_tipo": "tendencia (1er candidato)"
+      "audio_tipo": "tendencia (1er candidato)",
+      "voz_en_off": "¡Ojo! Alguien de tu grupo necesita esta polera. ¿La que no funciona sin café, la que se pone pesada con hambre, o la reina del drama? Comenta uno, dos o tres… ¡y etiquétala!",
+      "nota_voz": "27-11 09:55: reel regenerado con voz en off (tools/voz.py). IG: música instrumental de la biblioteca comercial al 18% y voz al 100%; FB reel con voz."
     }
   ],
   "gmail_messageId": "1a21a04e8674210b",

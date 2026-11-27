@@ -63,3 +63,33 @@ Carpeta "Sara Vibes Personalizaciones" (id 1CH6uoY0pCP3UnmTpFReTHXNgo_EhU6fb): D
 ## Música en tendencia (refuerzo 18-11-2026)
 - La meta es viralidad: la música debe ser la que está en tendencia ESA semana en Reels/TikTok. En el state guarda audio_candidatos: lista ordenada de 5 canciones en tendencia ("Título Artista") que calcen con el tema.
 - Al programar en Instagram, prueba los candidatos en orden (título solo y título + artista) hasta que Metricool resuelva uno. Solo si ninguno está en la biblioteca de la cuenta de empresa, usa la pista más parecida al ánimo (ver audio_respaldo).
+
+## ESTRATEGIA 2.0 (pedido del dueño, 27-11-2026) — prevalece sobre lo anterior si hay conflicto
+
+### Diagnóstico con datos de Metricool (19 al 27-11)
+- Instagram: los Reels hechos con láminas de texto tuvieron 13–47 vistas y 9–28 de alcance; entre 28 % y 80 % de la gente pasa de largo en los primeros 3 s. Lo que más rindió fue lo que tiene **personas o una historia real**: polerón Mariposas con modelo (186 vistas), "POV: tu sobrino te dibujó" (83 vistas, 61 de alcance).
+- TikTok rinde 5–20 veces más que Instagram: "POV egresados" 986 vistas, "dibujo del sobrino" 440, "¿cuál regalarías?" 347, "amigo secreto" 296. Las guías de texto quedan bajo 250.
+- Facebook: casi 0. Los Reels de FB salían **sin sonido** (el video no tenía audio).
+- Las "voces" que se escuchaban venían de audios "original sound" de otras cuentas usados como música en Instagram (pueden traer voces). **No usar audios "original_sound"** de terceros; solo pistas de la biblioteca comercial (audioType "music").
+
+### Reglas nuevas
+1. **Voz en off en todos los Reels/videos**: mujer latina, cálida, amable y alegre, fluida. Escribe `publicaciones/<carpeta>/voz.txt` (máx 35 palabras, frases cortas, vocabulario chileno natural: polerón, pyme, regalonear, la once, el curso, la tía del jardín; sin garabatos ni "po" forzado) y `tools/make_reel.sh` la genera con `tools/voz.py` y ajusta el ritmo de las láminas a la voz. Prioridad de voz:
+   a) Si Canva `create-video` (engine **h3max**, guía "generic", audio.mode "voice-over", language "Español de Chile", accent "Chileno, de Santiago", voice_direction "mujer de 25–30 años, cálida, amable y alegre, natural y fluida, nada robótica") tiene cupo: 1 video IA al día con voz chilena.
+   b) Si no: voz local `tools/voz.py` (Piper es_MX "claude", masterizada). Es latina neutra, no chilena.
+2. **Gancho en 1,5 s**: la primera frase hablada y la primera imagen dicen a QUIÉN le habla ("Si eres la tía que siempre regala calcetines…", "¿Tienes una pyme y tu equipo no tiene uniforme?") o muestran el resultado final. Nada de portadas solo con texto.
+3. **Personas en 2 de cada 3 piezas** (modelo, manos estampando, cliente usando la prenda). Formatos que más rinden: POV con historia, antes/después, "peel reveal" (despegar el film DTF), proceso de estampado, prueba de prenda, unboxing de pedido, "me pidieron esto en los comentarios". Las guías de texto: máximo 1 cada 2 días.
+4. **Duración 8–15 s**, 3–6 cortes, texto grande y corto en pantalla.
+5. **Mezcla 70 % personas / 30 % empresas**: de lunes a sábado 1 de las 3 publicaciones es para EMPRESAS (rota la hora) y el domingo las 3 son para personas (≈ 6 de 21 por semana).
+   - Personas: regalos (Navidad, amigo secreto, cumpleaños, día de la madre/padre), familia a juego, parejas, mascotas, curso/licenciatura, frases con humor, nombre/inicial, deporte, verano.
+   - Empresas: uniformes con logo (poleras piqué, polerones, delantales, jockeys), merchandising con UV DTF (tazas, termos, botellas, vasos, cuadernos, agendas, lápices, cajas), regalos corporativos de fin de año, kits de bienvenida, ferias y eventos, emprendedores que quieren su marca en todo.
+6. **Catálogo ampliado (todo lo que se puede personalizar)**:
+   - DTF textil: poleras algodón, piqué, dryfit, manga larga, polerones canguro y con cierre, buzos, shorts, chaquetas, delantales, jockeys/gorros, bolsas tote, mochilas de tela, ropa de bebé y niños, bandanas de mascota, uniformes.
+   - UV DTF: tazas, termos, botellas, vasos y frascos de vidrio, mugs metálicos, cuadernos y agendas, lápices, llaveros, cajas y packaging, carcasas, macetas, tablas, placas, artículos de oficina y de hogar.
+   - No inventes precios, plazos, stock ni promociones. Si mencionas un producto que no está en el Drive, dilo como "también personalizamos…" y "imagen referencial".
+7. **Imágenes de campaña con IA** (Canva `generate-image`, PORTRAIT_4_5 o PORTRAIT_9_16): sesiones en exterior (parque, playa, terraza, calle de barrio de Santiago con luz de tarde), en estudio (fondo de color de marca, luz suave) o lifestyle (oficina, cocina, living navideño). Personas latinas de distintas edades, ropa con diseños ORIGINALES (frases, nombres, mariposas, logos inventados), nunca marcas ni personajes con licencia, nunca niños como protagonistas de anuncios. Máximo 4 imágenes IA por día para Sara (el cupo de Canva se comparte con TeamFS). Marca "isAiGenerated": true / "isAigc": true y pon "(Imagen referencial creada con IA)" en el texto. Si Canva no tiene cupo, usa fotos reales del Drive y regístralo en el state.
+8. **Audio por red**:
+   - Instagram con voz: `audioConfiguration` con una pista instrumental de la biblioteca comercial (audioType "music"), `audioVolume` 18, `videoVolume` 100. Sin voz: `audioVolume` 100, `videoVolume` 0.
+   - Facebook: Reel con el mismo video (ahora con voz).
+   - TikTok: prueba A/B. Video con voz (`autoAddMusic` false) contra carrusel de fotos con `autoAddMusic` true. Anota en el state `tiktok_formato` ("video" o "fotos") y compara las vistas cada semana.
+9. **Primera hora**: el correo a Sara recuerda responder los comentarios en los primeros 60 min (la velocidad de interacción decide si el Reel se muestra a más gente).
+10. **Competencia**: las tiendas de estampado de Santiago publican sobre todo catálogo y marketplaces, sin métricas públicas. Lo que se viraliza en el rubro (guías de Printify y Gelato 2026) es el proceso o "reveal" del estampado, el gancho "no lo encontré, así que lo hice", la respuesta a un comentario con un pedido a medida y los regalos con reacción. No cites métricas de terceros que no veas.
