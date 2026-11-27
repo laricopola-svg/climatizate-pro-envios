@@ -213,5 +213,9 @@
    "fecha": "2026-11-27T20:06:00-03:00",
    "detalle": "Sara respondió 'No 1' (msg 1a21f356c79ae964): pub 1 rechazada. Pub 2 y 3 programadas en IG/FB/TikTok (URLs raw con commit 2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb). Audio IG: pub2 'Christmas Market' no está en biblioteca → 'Belles – cloud cover' (2º candidato); pub3 'Romantic (Reels Sound - Photo Dump) – Sugartapes'. Videos con voz verificados (-18.5 / -18.4 dB)."
   }
- ]
+ ],
+ "correo_programada": {
+  "id": "1a21f4266efb3edd",
+  "fecha": "2026-11-27T20:07:00-03:00"
+ }
 }
