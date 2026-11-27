@@ -1,0 +1,55 @@
+{
+ "tema": "¿Compras aire en Black Friday? 6 cosas que revisar antes de pagar (la 6 casi nadie la mira)",
+ "fecha": "2026-11-27",
+ "id": "2026-11-27",
+ "hora": "12:00",
+ "pilar": "Educativo (comprar bien en Black Friday)",
+ "primer_comentario": "📲 ¿Estás comparando equipos este Black Friday? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con tus m², una foto del muro y tu comuna.",
+ "slides": [
+  {"tipo": "portada", "kicker": "Black Friday · 27 al 30 de noviembre",
+   "titulo": "¿Compras aire? <span class=c>6 cosas</span> que revisar antes de pagar",
+   "texto": "El precio del equipo es solo una parte. La 6 casi nadie la mira. Guárdalo."},
+  {"tipo": "lista", "kicker": "Del equipo · 1 al 3", "titulo": "Que te sirva <span class=f>de verdad</span>",
+   "items": [
+    {"icono": "📐", "t": "1. La capacidad para tus m²", "d": "Si queda chico, trabaja forzado. Si sobra, gastas de más. Mide tu pieza antes.", "calor": true},
+    {"icono": "📶", "t": "2. Las funciones que vas a usar", "d": "WiFi, Sleep, ECO+, Timer… revisa cuáles trae ese modelo y control."},
+    {"icono": "🛡", "t": "3. La garantía del equipo", "d": "Cuánto dura y quién la responde si algo falla."}
+   ]},
+  {"tipo": "lista", "kicker": "De la instalación · 4 al 6", "titulo": "Lo que <span class=c>no sale en la oferta</span>",
+   "items": [
+    {"icono": "🧰", "t": "4. ¿Incluye instalación? ¿Qué trae?", "d": "La básica es lo que trae la caja. Pregunta qué se cobra aparte según tu muro."},
+    {"icono": "💧", "t": "5. ¿Dónde va la de afuera?", "d": "Balcón, terraza o soporte, y dónde cae el agua. Mejor saberlo antes."},
+    {"icono": "✓", "t": "6. ¿La instalación tiene garantía?", "d": "La que casi nadie mira. Con nosotros: 6 meses de garantía de instalación.", "calor": true}
+   ]},
+  {"tipo": "tabla", "kicker": "El precio real", "titulo": "Equipo + lo que <span class=c>tu muro pide</span>",
+   "filas": [
+    ["Instalación básica", "Incluida: aprox. 2 m de cobre y 2 m de cordones"],
+    ["Canaleta blanca 100×50 (2 m)", "$35.000"],
+    ["Soporte muro o piso", "$35.000"],
+    ["Punto eléctrico a más de 1,5 m", "$12.000 por metro adicional"]
+   ],
+   "nota": "Bomba de condensado y extensión de tuberías se evalúan según tu espacio."},
+  {"tipo": "versus", "kicker": "El error de este fin de semana", "titulo": "¿Precio del equipo o <span class=f>total instalado</span>?",
+   "a": {"t": "Solo el equipo", "xs": ["Sorpresas el día de instalar", "Capacidad a ojo", "Sin saber dónde va"]},
+   "b": {"t": "Total instalado", "xs": ["Sabes qué incluye", "Capacidad según tus m²", "Garantía de instalación"]},
+   "nota": "Equipos Inverter frío/calor: climatizan todo el año."},
+  {"tipo": "foto", "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg", "pos": "92% 30%", "ajuste": "auto",
+   "kicker": "Instalación real", "titulo": "Esto no sale en la foto de la oferta",
+   "texto": "Bien ubicado, recorrido ordenado y el espacio limpio al terminar.", "etiqueta": "Instalación real · Santiago"},
+  {"tipo": "lista", "kicker": "Así lo instalamos", "titulo": "Sin <span class=c>sorpresas</span>",
+   "items": [
+    {"icono": "◎", "t": "Míralo antes en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+    {"icono": "⌖", "t": "Te decimos qué incluye antes de perforar", "d": "Ubicación, recorrido y adicionales claros desde el principio."},
+    {"icono": "✓", "t": "Terminaciones limpias", "d": "Recorrido ordenado, espacio limpio y 6 meses de garantía de instalación."}
+   ]},
+  {"tipo": "cta", "kicker": "¿Cuántas tenías claras?", "titulo": "Escríbenos <span class=f>AIRE</span> antes de pagar",
+   "texto": "Mándanos los m² de tu pieza, una foto del muro y tu comuna, y te decimos qué te sirve y cómo queda instalado. Equipos Inverter frío/calor, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+   "boton": "Cotiza en climatizatepro.cl"}
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado en Black Friday: 6 cosas que revisar antes de pagar 🛒 El precio del equipo es solo una parte: capacidad, funciones, garantía, qué incluye la instalación, dónde va la de afuera… y la 6, que casi nadie mira. ¿Cuántas tenías claras? Comenta el número. Guárdalo y mándaselo a quien está cotizando aire. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #blackfriday #inverter #instalacion",
+  "facebook": "¿Estás mirando aire acondicionado en este Black Friday (27 al 30 de noviembre)? 🛒 Antes de pagar, revisa estas 6 cosas: 1) que la capacidad calce con los m² de tu pieza; 2) qué funciones trae ese modelo (WiFi, Sleep, ECO+, Timer); 3) la garantía del equipo; 4) si incluye instalación y qué trae: la básica es lo que viene en la caja, aprox. 2 m de tubería de cobre y 2 m de cordones; 5) dónde va la unidad de afuera y dónde cae el agua; 6) si la instalación tiene garantía (con nosotros, 6 meses). Adicionales oficiales según tu muro: canaleta blanca 100×50 de 2 m $35.000, soporte muro o piso $35.000, punto eléctrico a más de 1,5 m $12.000 por metro adicional; bomba de condensado y extensión se evalúan. Y en climatizatepro.cl ves cómo queda en tu muro con el simulador. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Comprar aire acondicionado en Black Friday: 6 cosas que revisar antes de pagar. Capacidad, funciones de Midea Airvolution, garantía e instalación en Santiago. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #blackfriday #instalación #tips",
+  "linkedin": "Black Friday 2026 (27 al 30 de noviembre): seis puntos para evaluar la compra de equipos de aire acondicionado en hogares, oficinas y locales.\n\n1. Capacidad acorde a los m² y uso del espacio.\n2. Funciones disponibles según modelo y control (WiFi, ECO+, Sleep, Timer).\n3. Garantía del equipo y quién la respalda.\n4. Qué incluye la instalación y qué adicionales puede requerir cada muro.\n5. Ubicación de la unidad exterior y descarga del condensado.\n6. Garantía de la instalación: en Climatízate Pro es de 6 meses.\n\nEl costo relevante es el total instalado, no solo el precio del equipo. Para oficinas o locales con varios equipos, hacemos evaluación técnica.\n\nCotiza: climatizatepro.cl · WhatsApp +56 9 6190 7601"
+ }
+}

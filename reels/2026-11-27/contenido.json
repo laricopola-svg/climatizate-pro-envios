@@ -1,0 +1,101 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-27",
+ "fecha": "2026-11-27",
+ "hora": "19:00",
+ "pilar": "Errores (instalación)",
+ "tema": "¿Aire en Black Friday? 3 errores de instalación que vemos en Santiago (el 3 le moja al vecino)",
+ "audio_ig": "Vice City: Neon Dust",
+ "tiktok_title": "Aire acondicionado en Black Friday: 3 errores de instalación que vemos en Santiago",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Ubicación y recorrido según evaluación de tu espacio.",
+ "primer_comentario": "📲 ¿Vas a instalar tu aire este verano? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con una foto del muro y tu comuna.",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.35,
+    0.25
+   ],
+   "ajuste": "auto",
+   "chip": "Black Friday",
+   "titulo": "3 errores al instalar",
+   "sub": "El 3 le moja al vecino.",
+   "voz": "¿Aire en Black Friday? Ojo… tres errores al instalar.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg",
+   "pos": [
+    0.72,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "1 · Ubicación",
+   "titulo": "¿Donde cabe o donde enfría?",
+   "sub": "Arriba y despejado.",
+   "voz": "Uno: donde cabe, y no donde reparte el aire.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.6,
+    0.35
+   ],
+   "ajuste": "auto",
+   "chip": "2 · Recorrido",
+   "titulo": "¿Cables colgando?",
+   "sub": "Así no: recorrido corto y ordenado.",
+   "voz": "Dos: cables y tubos colgando por todo el muro.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.5,
+    0.0
+   ],
+   "ajuste": "completa",
+   "chip": "3 · El agua",
+   "titulo": "¿El agua al vecino?",
+   "sub": "El agua de afuera, bien resuelta.",
+   "voz": "Y tres… el agua de afuera, cayéndole al vecino.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.55,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "Así lo instalamos",
+   "titulo": "Ordenado y con garantía",
+   "sub": "6 meses de garantía de instalación.",
+   "voz": "Así lo dejamos: ordenado, limpio y con garantía.",
+   "zoom": "in"
+  },
+  {
+   "foto": null,
+   "pos": [
+    0.5,
+    0.5
+   ],
+   "ajuste": "auto",
+   "chip": "Instalación con garantía",
+   "titulo": "¿Cuál has visto?",
+   "sub": "Escríbenos AIRE · +56 9 6190 7601",
+   "voz": "¿Cuál has visto tú? Comenta el número… o escríbenos AIRE.",
+   "zoom": "out"
+  }
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado en Black Friday: el equipo es la mitad, la otra mitad es la instalación 👀 3 errores que vemos en Santiago: ubicarlo donde cabe y no donde reparte, cables colgando por el muro y el agua de afuera cayéndole al vecino (el 3 es el que más reclamos trae). ¿Cuál has visto tú? Comenta el número. Mándaselo a quien está por comprar aire. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #blackfriday #instalacion #inverter",
+  "facebook": "¿Estás mirando aire acondicionado en este Black Friday? 🛒 Antes de decidir, piensa en la instalación, porque ahí vemos los errores más comunes en Santiago: 1) ponerlo donde cabe y no donde reparte el aire; 2) cables y tubos colgando por todo el muro; 3) el agua de la unidad de afuera cayéndole al vecino de abajo. Nosotros vendemos e instalamos equipos Inverter frío/calor con recorrido ordenado, buena ubicación, espacio limpio y 6 meses de garantía de instalación. Y puedes ver cómo queda en tu muro con el simulador de climatizatepro.cl. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Aire acondicionado Santiago: 3 errores de instalación que vemos después de comprar en Black Friday. Ubicación, cables a la vista y el agua al vecino. Instalación de equipos Inverter con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #blackfriday #tips"
+ }
+}
