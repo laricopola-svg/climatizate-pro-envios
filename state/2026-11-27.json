@@ -116,7 +116,7 @@
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1500-carta-viejito-pascuero/9x16_05.jpg",
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1500-carta-viejito-pascuero/9x16_06.jpg"
         ],
-        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/595d327/publicaciones/2026-11-27-1500-carta-viejito-pascuero/reel.mp4",
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/22800b9/publicaciones/2026-11-27-1500-carta-viejito-pascuero/reel.mp4",
         "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1500-carta-viejito-pascuero/portada.jpg"
       },
       "captions": {
@@ -143,30 +143,30 @@
       "metricool": [
         {
           "red": "instagram",
-          "id": 444340836,
+          "id": 444586112,
           "uuid": "8674030220829346593",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=8674030220829346593",
-          "id_anterior": 443741977
+          "id_anterior": 444340836
         },
         {
           "red": "facebook",
-          "id": 444340975,
+          "id": 444586221,
           "uuid": "-2771025639251099549",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-2771025639251099549",
-          "id_anterior": 443742155
+          "id_anterior": 444340975
         },
         {
           "red": "tiktok",
-          "id": 444341281,
+          "id": 444586345,
           "uuid": "-1080955535577955253",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-1080955535577955253",
-          "id_anterior": 443742163
+          "id_anterior": 444341281
         }
       ],
       "audio_ig_usado": "Underneath the Tree - Kelly Clarkson (original_sound, 2058516111266605)",
       "audio_tipo": "tendencia (2º candidato; 'All I Want for Christmas Is You' sin versión exacta en la biblioteca)",
       "voz_en_off": "Querido Viejito Pascuero: este año quiero algo que nadie más tenga. Mi frase, mi nombre… ¡y que toda la familia ande igual! ¿Y tú, qué le pedirías? Escríbenos al WhatsApp de Sara Vibes.",
-      "nota_voz": "27-11 09:55: reel regenerado con voz en off (tools/voz.py). IG: música instrumental de la biblioteca comercial al 18% y voz al 100%; FB reel con voz.",
+      "nota_voz": "27-11 13:20: voz cambiada a Supertonic 3 (más natural) por pedido del dueño.",
       "nota_tiktok": "Prueba A/B: TikTok como video con voz (sin autoAddMusic) vs 19:30 carrusel de fotos con música automática."
     },
     {
@@ -191,7 +191,7 @@
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1930-etiqueta-frases/9x16_04.jpg",
           "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1930-etiqueta-frases/9x16_05.jpg"
         ],
-        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/595d327/publicaciones/2026-11-27-1930-etiqueta-frases/reel.mp4",
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/22800b9/publicaciones/2026-11-27-1930-etiqueta-frases/reel.mp4",
         "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-27-1930-etiqueta-frases/portada.jpg"
       },
       "captions": {
@@ -218,17 +218,17 @@
       "metricool": [
         {
           "red": "instagram",
-          "id": 444341093,
+          "id": 444586501,
           "uuid": "1952874279057836361",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=1952874279057836361",
-          "id_anterior": 443742528
+          "id_anterior": 444341093
         },
         {
           "red": "facebook",
-          "id": 444341166,
+          "id": 444586604,
           "uuid": "-8315719769690386570",
           "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-8315719769690386570",
-          "id_anterior": 443742544
+          "id_anterior": 444341166
         },
         {
           "red": "tiktok",
@@ -240,7 +240,7 @@
       "audio_ig_usado": "Charli XCX - Boom Clap (original_sound, 27583205128020810)",
       "audio_tipo": "tendencia (1er candidato)",
       "voz_en_off": "¡Ojo! Alguien de tu grupo necesita esta polera. ¿La que no funciona sin café, la que se pone pesada con hambre, o la reina del drama? Comenta uno, dos o tres… ¡y etiquétala!",
-      "nota_voz": "27-11 09:55: reel regenerado con voz en off (tools/voz.py). IG: música instrumental de la biblioteca comercial al 18% y voz al 100%; FB reel con voz."
+      "nota_voz": "27-11 13:20: voz cambiada a Supertonic 3 (más natural) por pedido del dueño."
     }
   ],
   "gmail_messageId": "1a21a04e8674210b",
