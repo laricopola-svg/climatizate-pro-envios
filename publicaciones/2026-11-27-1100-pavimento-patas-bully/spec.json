@@ -1,0 +1,60 @@
+{
+"slides": [
+{
+"type": "cover",
+"photo": "banco/american-bully/bully_033.jpg",
+"fx": 0.95,
+"fy": 0.4,
+"kicker": "Educativo · American Bully",
+"title": "Tu Bully no está bailando: el piso le está quemando las patas",
+"title_size": 66,
+"subtitle": "Almohadillas y calor: lo que nadie te avisa",
+"cta": "Desliza →"
+},
+{
+"type": "point",
+"label": "Clave 1",
+"headline": "El test de los 7 segundos",
+"body": "Pon el dorso de tu mano en el pavimento 7 segundos. Si no aguantas, él tampoco. Al sol, el asfalto se calienta muchísimo más que el aire.",
+"big": "1"
+},
+{
+"type": "point",
+"label": "Clave 2",
+"headline": "Pasea temprano o al atardecer",
+"body": "Antes de las 10 y después de las 19 h. Entre medio: pasto, sombra y paseos cortos. Los molosos se acaloran rápido.",
+"big": "2"
+},
+{
+"type": "point",
+"label": "Clave 3",
+"headline": "Señales de patas quemadas",
+"body": "Cojea, se lame las patas, no quiere caminar, almohadillas rojas, oscuras o con ampollas. Si ves algo de esto: consulta a tu veterinario.",
+"big": "3"
+},
+{
+"type": "point",
+"label": "Clave 4",
+"headline": "Lo que NO se hace",
+"body": "Nada de cremas caseras, hielo directo ni \"ya se le va a pasar\". Agua fresca (no helada) en las patas, sombra y al veterinario.",
+"big": "4"
+},
+{
+"type": "point",
+"label": "Dato TeamFS",
+"big": "!",
+"headline": "¿Y si lo rapo para que pase menos calor? NO",
+"body": "El pelo corto del Bully y del Cane Corso también lo protege del sol. Raparlo lo deja expuesto a quemaduras. Lo que sirve: horario, sombra y agua siempre."
+},
+{
+"type": "cta",
+"headline": "¿Tu Bully pasea de día o de noche?",
+"highlight": "Comenta: SOL o LUNA",
+"bullets": [
+"Guárdalo para este verano",
+"Compártelo con quien pasea a mediodía",
+"Síguenos para más datos de molosos"
+]
+}
+]
+}
