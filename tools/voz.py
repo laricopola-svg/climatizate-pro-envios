@@ -24,7 +24,14 @@ def preparar(t):
     t = t.replace("WhatsApp", "guasap").replace("pyme", "pyme").replace("…", ",")
     return t
 
+def deps():
+    try:
+        import sherpa_onnx, soundfile  # noqa
+    except ImportError:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "--break-system-packages", "sherpa-onnx", "soundfile"], check=True)
+
 def voz(texto, out, vel=1.0, sid=None):
+    deps()
     import sherpa_onnx, soundfile as sf
     sid = int(sid if sid is not None else os.environ.get("VOZ_SARA", 1))
     d = carpeta()
