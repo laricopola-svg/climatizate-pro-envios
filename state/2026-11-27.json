@@ -1,0 +1,140 @@
+{
+ "fecha": "2026-11-27",
+ "dia": "viernes (impar: Bully 11:00 y 20:30, Cane Corso 15:00)",
+ "threadId": "1a21c61b772da9b7",
+ "messageId": "1a21c61b772da9b7",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-27 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a21c61b772da9b7",
+  "messageId": "1a21c61b772da9b7"
+ },
+ "rotacion_formatos": {
+  "11:00": "carrusel foto real (ayer Reel)",
+  "15:00": "imagen única IA cartoon (ayer carrusel)",
+  "20:30": "Reel foto real fichas (ayer carrusel IA cómic)"
+ },
+ "tendencias_usadas": [
+  "Calor en Chile: alertas golpe de calor y debate 'rapar al perro en verano' (CNN Chile, La Tercera) -> pavimento/almohadillas 11:00",
+  "Noches de verano/ladridos y vecinos, humor cotidiano -> 15:00",
+  "Formato 'If you're new here / te presento a la manada' para captar seguidores + anticipo camada Ragnar x Dakota -> 20:30",
+  "Black Friday evitado: ya cubierto por R5 Guardianes IA del plan semanal (21:15)"
+ ],
+ "coordinacion_plan_semanal": "Hoy 21:15 Reel R5 'Guardianes IA Black Friday' del plan semanal.",
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "Tu Bully no está bailando: pavimento caliente quema almohadillas - test 7 segundos, pasear antes 10/después 19 h, señales -> veterinario, no cremas caseras/hielo + Dato no rapar (pelo protege del sol); CTA SOL o LUNA",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (1 foto + 6 de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_033 (portada)",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-27-1100-pavimento-patas-bully",
+   "metricool": [
+    {
+     "id": 444128466,
+     "uuid": "8251601374606280725",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "¿Guardia de todo el barrio? Ladridos nocturnos del Cane Corso en 4 pasos (gracias + llamar + premiar alerta, premiar 3 s de silencio, ejercicio/olfato de día, no gritar) + Dato ladrido excesivo/ansiedad -> educador profesional; CTA GUARDIA o DORMILÓN",
+   "raza": "Cane Corso",
+   "formato": "imagen única (Canva)",
+   "estilo": "IA cartoon (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZw1TxprE (generate-image quota_exceeded 27-nov)",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/oOJa2nKN1AiziQB (diseño DAHcGTYO7rI, copia de DAHb6Upi5kU)",
+   "carpeta": "publicaciones/2026-11-27-1500-ladridos-nocturnos-cane-corso (README; imagen solo en Metricool)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-8147228774375846042.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 444128484,
+     "uuid": "125677890044577389",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "Si eres nuevo aquí: te presento a la manada (Ragnar disciplina/bolsa de comida, Dakota futura mamá, Bella modelo, Krypto pose de campeón, Kopito 7 meses zapatillas) + Dato registro ABKC/KCC, padres y crianza a la vista; cierre camada Ragnar x Dakota; CTA comenta tu favorito",
+   "raza": "American Bully (manada)",
+   "formato": "Reel 20 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real (fichas)",
+   "voz": false,
+   "fuente": "repo marca/fichas ragnar_dakota, ragnar_poster, dakota_poster, bella_poster, krypto_vs_bella, kopito_poster, camada_abkc",
+   "isAiGenerated": false,
+   "audio": "IG: Dame Hombro – Bulin 47, Kevin Wai, audioId 878191945283147, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-27-2030-te-presento-la-manada",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-11870901419224526927.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 444128524,
+     "uuid": "-1636753096629860628",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "draft": true
+    },
+    {
+     "id": 444128569,
+     "uuid": "986634636026662489",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 20-nov. Se pidió material al dueño."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (27-nov). Pieza IA hecha reutilizando ilustración MAHZw1TxprE."
+  },
+  {
+   "detalle": "Banco Cane Corso agotado (0 elegibles); banco Bully: solo bully_033 elegible (regla portada 30 días aplicada a fotos que fueron portada)."
+  },
+  {
+   "detalle": "Proxy bloquea descarga desde export-download.canva.com: imagen 15:00 solo en Metricool."
+  }
+ ],
+ "revisiones": []
+}
