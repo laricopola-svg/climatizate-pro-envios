@@ -4,7 +4,7 @@
   "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
   "enviado": "2026-11-26T19:41-03:00",
   "modo": "automatico",
-  "ultima_revision": "2026-11-26T21:05-03:00",
+  "ultima_revision": "2026-11-27T14:05-03:00",
   "nota_formato": "27-11: 10:00 reel (ayer carrusel), 15:00 carrusel (ayer reel), 19:30 carrusel (ayer foto). Todas salen como Reel en IG.",
   "investigacion": {
     "audios": "Dash Social (24-11), SocialPilot Reels/TikTok (17-25 nov), CreatorDB (semana 18-11), Tokchart (26-11), Later (20-11). Se evitan audios de 24, 25 y 26-11 (Bublé, Upside Down, My Moon My Man, Blue Danube, Time, BEAUTY and a BEAT, Last Christmas, Bonito Bonito, Angel of My Dreams).",
@@ -249,7 +249,8 @@
   ],
   "cambios": [
     "2026-11-26 20:07: sin respuestas de Sara en el hilo; marca SaraVibes verificada (FB/IG/TikTok correctos); control de contacto OK; programadas 1, 2 y 3 en IG (Reel con música), FB (Reel) y TikTok (fotos) para el 27-11 10:00/15:00/19:30.",
-    "26-11 21:05: Sara respondió \"No 1\" (msg 1a21a3de5e03c638, 20:43). Publicación 1 (10:00, guía qué cambia el precio) → \"rechazada\"; sus 3 posts (IG/FB/TikTok) pasados a borrador (draft:true) en Metricool, nuevos ids 443781004/443781013/443781022. Publicaciones 2 y 3 siguen programadas."
+    "26-11 21:05: Sara respondió \"No 1\" (msg 1a21a3de5e03c638, 20:43). Publicación 1 (10:00, guía qué cambia el precio) → \"rechazada\"; sus 3 posts (IG/FB/TikTok) pasados a borrador (draft:true) en Metricool, nuevos ids 443781004/443781013/443781022. Publicaciones 2 y 3 siguen programadas.",
+    "27-11 14:05: sin respuestas nuevas de Sara; 2 (15:00) y 3 (19:30) siguen programadas en Metricool (IG/FB/TikTok, PENDING, contacto OK, música IG tipo 'music'). Sin cambios."
   ],
   "correo_programada": {
     "id": "1a21a1c79ebb6218",
