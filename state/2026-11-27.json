@@ -188,6 +188,10 @@
   {
    "hora": "2026-11-27T19:05-03:00",
    "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta). Sin cambios; las 3 siguen en borrador. La n1 (11:00) y la n2 (15:00) ya pasaron; si se aprueban se programarán a ahora+10 min."
+  },
+  {
+   "hora": "2026-11-27T20:05-03:00",
+   "resultado": "Sin respuesta de fcosotog7@gmail.com en el hilo (1 mensaje, solo la propuesta). Sin cambios; las 3 siguen en borrador. n1 y n2 ya pasaron y n3 (20:30) está a menos de 30 min; si se aprueban se programarán a ahora+10 min (n3 a su hora si faltan 5 min o más)."
   }
  ]
 }
