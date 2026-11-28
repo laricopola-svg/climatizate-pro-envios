@@ -1,0 +1,55 @@
+{
+"tema": "¿Estrenas tu Midea Airvolution? 6 cosas que configurar el primer día (la 6 casi nadie la hace)",
+"fecha": "2026-11-28",
+"id": "2026-11-28",
+"hora": "12:00",
+"pilar": "Midea (guía del control: primer día)",
+"primer_comentario": "📲 ¿Estrenas aire este verano? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) y te guiamos con tu Midea o lo instalamos por ti.",
+"slides": [
+{"tipo": "portada", "kicker": "Tu Midea puede más · Primer día",
+ "titulo": "¿Estrenas tu Midea? <span class=c>6 cosas</span> que configurar hoy",
+ "texto": "Para que enfríe bien y no dispare la cuenta. La 6 casi nadie la hace. Guárdalo."},
+{"tipo": "lista", "kicker": "Apenas lo prendes · 1 al 3", "titulo": "Déjalo <span class=f>listo</span>",
+ "items": [
+  {"icono": "📶", "t": "1. Conecta la app WiFi", "d": "Lo manejas desde el celular y ves cuánto consume (según modelo)."},
+  {"icono": "⚡", "t": "2. Prueba Turbo y luego ECO+", "d": "Turbo un rato para bajar el calor; ya fresco, ECO+ para gastar menos.", "calor": true},
+  {"icono": "🌡", "t": "3. Elige una temperatura moderada", "d": "Ponerlo al mínimo no enfría más rápido: solo gasta más."}
+ ]},
+{"tipo": "lista", "kicker": "Para la noche y después · 4 al 6", "titulo": "Lo que <span class=c>casi nadie configura</span>",
+ "items": [
+  {"icono": "🌙", "t": "4. Sleep para dormir", "d": "Ajusta la temperatura de a poco mientras duermes."},
+  {"icono": "⏱", "t": "5. Timer para que se apague solo", "d": "Que no quede prendido toda la noche ni cuando sales."},
+  {"icono": "🧼", "t": "6. I-Clean después de usarlo harto", "d": "Lo seca por dentro y ayuda a evitar el olor a humedad. La que casi nadie hace.", "calor": true}
+ ]},
+{"tipo": "tabla", "kicker": "Guárdalo para el verano", "titulo": "¿Qué botón <span class=c>a qué hora</span>?",
+ "filas": [
+  ["Llegas y la casa está caliente", "Turbo, un rato"],
+  ["Ya está fresco", "ECO+"],
+  ["Te vas a acostar", "Sleep + Timer"],
+  ["Después de días de uso", "I-Clean"]
+ ],
+ "nota": "Funciones según modelo y control."},
+{"tipo": "versus", "kicker": "El error del primer día", "titulo": "¿Control en el cajón o <span class=f>configurado</span>?",
+ "a": {"t": "Al mínimo y listo", "xs": ["Gasta más", "Frío directo en la cara", "Prendido toda la noche"]},
+ "b": {"t": "Configurado el día 1", "xs": ["Turbo y luego ECO+", "Sleep + Timer", "Ves el consumo en la app"]},
+ "nota": "Inverter frío/calor: climatiza todo el año. Funciones según modelo y control."},
+{"tipo": "foto", "foto": "/home/claude/envios/fotos/mejoradas/foto_03.jpg", "pos": "72% 20%", "ajuste": "auto",
+ "kicker": "Instalación real", "titulo": "Bien instalado, el control rinde más",
+ "texto": "Arriba, despejado y con terminaciones limpias.", "etiqueta": "Instalación real · Santiago"},
+{"tipo": "lista", "kicker": "Así lo instalamos", "titulo": "Para que <span class=c>funcione como debe</span>",
+ "items": [
+  {"icono": "◎", "t": "Míralo antes en el simulador", "d": "Sube una foto de tu muro en climatizatepro.cl y ves cómo queda."},
+  {"icono": "⌖", "t": "Ubicado donde reparte el aire", "d": "Recorrido ordenado y terminaciones limpias."},
+  {"icono": "✓", "t": "Espacio limpio y garantía", "d": "Te dejamos todo limpio y con 6 meses de garantía de instalación."}
+ ]},
+{"tipo": "cta", "kicker": "¿Cuál no conocías?", "titulo": "Escríbenos <span class=f>AIRE</span> y te guiamos",
+ "texto": "¿Ya tienes tu Midea o lo estás pensando? Te ayudamos a sacarle partido o lo instalamos por ti. Equipos Inverter frío/calor, Midea Airvolution entre otros. WhatsApp +56 9 6190 7601.",
+ "boton": "Cotiza en climatizatepro.cl"}
+],
+"captions": {
+ "instagram": "Midea Airvolution: 6 cosas que configurar el primer día 📲 App WiFi, Turbo y luego ECO+, temperatura moderada, Sleep, Timer… y la 6, I-Clean, que casi nadie usa. Funciones según modelo y control. ¿Cuál no conocías? Comenta el número. Guárdalo y mándaselo a quien estrena aire este verano. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #midea #aireacondicionado #santiago #inverter #tips",
+ "facebook": "¿Te compraste aire en este Black Friday o lo estás pensando? 🛒 Si es un Midea Airvolution, el primer día configúralo así: conecta la app WiFi para manejarlo desde el celular y ver el consumo; usa Turbo un rato y después ECO+; elige una temperatura moderada (al mínimo no enfría más rápido); en la noche Sleep + Timer; y después de días de uso, I-Clean para secarlo por dentro. (Funciones según modelo y control.) Y si todavía no lo instalas, lo hacemos nosotros: equipos Inverter frío/calor, recorrido ordenado, espacio limpio y 6 meses de garantía de instalación. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+ "tiktok": "Midea Airvolution: cómo configurar tu aire acondicionado el primer día. App WiFi, Turbo, ECO+, Sleep, Timer e I-Clean (según modelo y control). Instalación de aire acondicionado en Santiago con garantía. WhatsApp +56 9 6190 7601 (link en la bio). #midea #aireacondicionado #santiago #tips #inverter",
+ "linkedin": "Un equipo bien elegido rinde lo que promete solo si se instala y se usa bien. En oficinas, consultas y locales vemos equipos Inverter funcionando al mínimo todo el día, encendidos fuera de horario y sin mantención básica. Configurar desde el primer día Timer, ECO+ y el monitoreo de consumo por WiFi (según modelo) ayuda a controlar el gasto y a cuidar el equipo. En Climatízate Pro vendemos e instalamos split muro Inverter frío/calor —Midea Airvolution entre otros— con instalación ordenada y 6 meses de garantía de instalación. Conversemos: WhatsApp +56 9 6190 7601 · climatizatepro.cl"
+}
+}

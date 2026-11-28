@@ -1,0 +1,101 @@
+{
+ "tipo": "reel",
+ "id": "2026-11-28",
+ "fecha": "2026-11-28",
+ "hora": "19:00",
+ "pilar": "Instalación real (serie «Así quedó en Santiago»)",
+ "tema": "Así quedó en Santiago: sigue el recorrido de un aire bien instalado, de la pieza al balcón (el final casi nadie lo mira)",
+ "audio_ig": "Grand Theft Auto: San Andreas (Official Theme Song) Michael Hunter",
+ "tiktok_title": "Aire acondicionado bien instalado en Santiago: sigue el recorrido de adentro hacia afuera",
+ "ia": true,
+ "voz": true,
+ "voz_id": "M2 (Supertonic 3)",
+ "etiqueta": "Instalación real Climatízate Pro",
+ "nota": "Ubicación y recorrido según evaluación de tu espacio.",
+ "primer_comentario": "📲 ¿Quieres tu aire así de ordenado? Escríbenos AIRE al WhatsApp +56 9 6190 7601 (link en la bio) con una foto del muro y tu comuna.",
+ "escenas": [
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_08.jpg",
+   "pos": [
+    0.35,
+    0.25
+   ],
+   "ajuste": "auto",
+   "chip": "Así quedó en Santiago",
+   "titulo": "Sigue el recorrido",
+   "sub": "El final casi nadie lo mira.",
+   "voz": "¿Por dónde pasan los tubos de tu aire? Síguelos.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_02.jpg",
+   "pos": [
+    0.55,
+    0.2
+   ],
+   "ajuste": "auto",
+   "chip": "1 · Adentro",
+   "titulo": "Arriba y nivelado",
+   "sub": "Donde reparte el aire.",
+   "voz": "Uno: arriba, derechito, donde reparte el aire.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_06.jpg",
+   "pos": [
+    0.6,
+    0.35
+   ],
+   "ajuste": "auto",
+   "chip": "2 · El recorrido",
+   "titulo": "Corto y ordenado",
+   "sub": "Nada colgando por el muro.",
+   "voz": "Dos: el recorrido corto, sin nada colgando.",
+   "zoom": "in"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_00.jpg",
+   "pos": [
+    0.5,
+    0.0
+   ],
+   "ajuste": "completa",
+   "chip": "3 · Afuera",
+   "titulo": "Al otro lado del muro",
+   "sub": "Firme y con espacio.",
+   "voz": "Tres: la de afuera, firme y con espacio para respirar.",
+   "zoom": "out"
+  },
+  {
+   "foto": "/home/claude/envios/fotos/mejoradas/foto_05.jpg",
+   "pos": [
+    0.75,
+    0.4
+   ],
+   "ajuste": "completa",
+   "chip": "4 · El final",
+   "titulo": "¿Y el agua?",
+   "sub": "Bien resuelta, sin mojar a nadie.",
+   "voz": "Y el final, ojo… el agua, que no moje a nadie.",
+   "zoom": "in"
+  },
+  {
+   "foto": null,
+   "pos": [
+    0.5,
+    0.5
+   ],
+   "ajuste": "auto",
+   "chip": "Garantía de instalación 6 meses",
+   "titulo": "¿Cuántos cumple el tuyo?",
+   "sub": "Escríbenos AIRE · +56 9 6190 7601",
+   "voz": "¿Cuántos cumple el tuyo? Comenta el número… o escríbenos AIRE.",
+   "zoom": "out"
+  }
+ ],
+ "captions": {
+  "instagram": "Aire acondicionado bien instalado: sigue el recorrido de adentro hacia afuera 👀 1) arriba y nivelado, 2) recorrido corto y ordenado, 3) la unidad de afuera firme y con espacio, 4) el agua bien resuelta (el que casi nadie mira). Instalación real en Santiago, con 6 meses de garantía de instalación. ¿Cuántos cumple el tuyo? Comenta el número. Mándaselo a quien está por instalar. Cotiza por WhatsApp: +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalacion #inverter #hogar",
+  "facebook": "¿Alguna vez te fijaste por dónde pasan los tubos de tu aire? 👀 En una instalación bien hecha el recorrido se ve así: el equipo arriba y nivelado, donde reparte el aire; el recorrido corto y ordenado, sin cables colgando; la unidad de afuera firme y con espacio para respirar; y el agua bien resuelta, sin mojar el balcón ni al vecino de abajo. Así dejamos cada instalación en Santiago: equipos Inverter frío/calor, terminaciones limpias, el espacio limpio y 6 meses de garantía de instalación. Antes de decidir puedes ver cómo queda en tu muro con el simulador de climatizatepro.cl. ¿En qué comuna estás? 👇 Escríbenos AIRE por WhatsApp 👉 https://wa.me/56961907601?text=Hola%2C%20quiero%20cotizar%20mi%20aire",
+  "tiktok": "Aire acondicionado Santiago: así se ve una instalación bien hecha, de la pieza al balcón. Ubicación, recorrido ordenado, unidad exterior y desagüe. Instalación de equipos Inverter con garantía. Cotiza por WhatsApp +56 9 6190 7601 (link en la bio). #aireacondicionado #santiago #instalación #hogar #tips"
+ }
+}
