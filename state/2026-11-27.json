@@ -4,7 +4,7 @@
  "correo_aprobacion": "sara.vibespersonaliza@gmail.com",
  "enviado": "2026-11-26T19:41-03:00",
  "modo": "automatico",
- "ultima_revision": "2026-11-27T20:06:00-03:00",
+ "ultima_revision": "2026-11-27T21:05:00-03:00",
  "nota_formato": "27-11: 10:00 reel (ayer carrusel), 15:00 carrusel (ayer reel), 19:30 carrusel (ayer foto). Todas salen como Reel en IG.",
  "investigacion": {
   "audios": "Dash Social (24-11), SocialPilot Reels/TikTok (17-25 nov), CreatorDB (semana 18-11), Tokchart (26-11), Later (20-11). Se evitan audios de 24, 25 y 26-11 (Bublé, Upside Down, My Moon My Man, Blue Danube, Time, BEAUTY and a BEAT, Last Christmas, Bonito Bonito, Angel of My Dreams).",
@@ -170,7 +170,12 @@
    "audio_tipo": "tendencia (2º candidato; 'All I Want for Christmas Is You' sin versión exacta en la biblioteca)",
    "voz_en_off": "Querido Viejito Pascuero: este año quiero algo que nadie más tenga. Mi frase, mi nombre… ¡y que toda la familia ande igual! ¿Y tú, qué le pedirías? Escríbenos al WhatsApp de Sara Vibes.",
    "nota_voz": "27-11 13:20: voz cambiada a Supertonic 3 (más natural) por pedido del dueño.",
-   "nota_tiktok": "Prueba A/B: TikTok como video con voz (sin autoAddMusic) vs 19:30 carrusel de fotos con música automática."
+   "nota_tiktok": "Prueba A/B: TikTok como video con voz (sin autoAddMusic) vs 19:30 carrusel de fotos con música automática.",
+   "urls_publicas": {
+    "instagram": "https://www.instagram.com/reel/DgQScQhihB0/",
+    "facebook": "https://facebook.com/reel/1468762455391128",
+    "tiktok": "https://www.tiktok.com/@sara.vibespersonaliza/video/7712914764929797383"
+   }
   },
   {
    "numero": 3,
@@ -267,7 +272,8 @@
   {
    "fecha": "2026-11-27T20:06:00-03:00",
    "detalle": "Pub 3 (19:30) publicada en IG, FB y TikTok según Metricool."
-  }
+  },
+  "21:05 revisión final: sin respuestas nuevas; #2 y #3 publicadas en IG/FB/TikTok (URLs registradas); #1 rechazada (borrador)."
  ],
  "correo_programada": {
   "id": "1a21a1c79ebb6218",

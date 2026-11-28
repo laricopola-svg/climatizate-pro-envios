@@ -4,7 +4,7 @@
  "correo_aprobacion": "1a21f2d25906f7dc",
  "enviado": "2026-11-27T19:43:08-03:00",
  "modo": "automatico",
- "ultima_revision": "2026-11-27T20:06:00-03:00",
+ "ultima_revision": "2026-11-27T21:05:00-03:00",
  "aprendizaje": "Semana 20–27/11 (Metricool, 7 días). MEJORES: TikTok 'POV egresados' 986 vistas, 'dibujo del sobrino' 440, 'regalo para la tía/profe' 376, '¿cuál regalarías?' 347, 'amigo secreto' 296; Instagram 'POV sobrino' 83 vistas/61 alcance/6 interacciones, 'POV egresados' 43, 'Familia + apellido' 39, 'Zeus' 38 (28 de alcance). PEORES: TikTok 'inicial con gorro' 38, 'mochilas por alumno' 73, 'Familia + apellido' 89; Instagram 'uniformes taller' 13, '¿cuál regalarías?' 20, 'inicial' 21. Facebook ~0 en todo (máx 20 vistas). Guardados y compartidos en IG = 0 toda la semana; skip rate 28–80 %. Patrón: ganan las historias con emoción y un destinatario claro (POV, 'tu sobrino', 'la tía', 'tu curso') y en TikTok rinden 5–20x más que IG; pierden las piezas de catálogo/producto sin historia y las de 'comenta tu inicial'. Empresas: flojo en IG (13) pero aceptable en TikTok (199). Aplicado al 28/11: 2 POV/emocionales con destinatario en el gancho (papá que 'no quiere nada', '¿desde qué año eres mamá?'), voz en off en las 3, gancho que nombra a quién le habla en 1,5 s; empresas con formato antes/después en vez de catálogo. A/B TikTok: video (10:00 y 19:30) vs fotos (15:00). Las publicaciones del 27/11 aún no aparecen en Metricool.",
  "canva_ia": "sin cupo (generate-image devolvió quota_exceeded en los 4 intentos del 27-11 19:40; no se intentó create-video)",
  "investigacion": "Último día de clases 2026: 4 dic (JEC) y 18 dic (sin JEC) según Mineduc/El Mostrador; 4° medio antes. Reels en alza 17–25 nov (SocialPilot): Christmas Market – Eoneun (instrumental), November – Past Day, Time – Pink Floyd, Last Christmas, Coming Up Roses. TikTok: My Moon My Man (niki), You're Under Arrest (ILLIT), All I Want for Christmas; formatos 'Same spot, years apart' y 'camera shy'. Corporativos: tendencia a la personalización (prensa regional), sin métricas citables de tiendas de Santiago.",
@@ -212,7 +212,8 @@
   {
    "fecha": "2026-11-27T20:06:00-03:00",
    "detalle": "Sara respondió 'No 1' (msg 1a21f356c79ae964): pub 1 rechazada. Pub 2 y 3 programadas en IG/FB/TikTok (URLs raw con commit 2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb). Audio IG: pub2 'Christmas Market' no está en biblioteca → 'Belles – cloud cover' (2º candidato); pub3 'Romantic (Reels Sound - Photo Dump) – Sugartapes'. Videos con voz verificados (-18.5 / -18.4 dB)."
-  }
+  },
+  "27-11 21:05: sin respuestas nuevas; #2 y #3 siguen programadas en Metricool."
  ],
  "correo_programada": {
   "id": "1a21f4266efb3edd",
