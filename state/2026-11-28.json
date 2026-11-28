@@ -1,226 +1,227 @@
 {
- "fecha": "2026-11-28",
- "gmail_threadId": "1a21f2d25906f7dc",
- "correo_aprobacion": "1a21f2d25906f7dc",
- "enviado": "2026-11-27T19:43:08-03:00",
- "modo": "automatico",
- "ultima_revision": "2026-11-28T12:03:00-03:00",
- "aprendizaje": "Semana 20–27/11 (Metricool, 7 días). MEJORES: TikTok 'POV egresados' 986 vistas, 'dibujo del sobrino' 440, 'regalo para la tía/profe' 376, '¿cuál regalarías?' 347, 'amigo secreto' 296; Instagram 'POV sobrino' 83 vistas/61 alcance/6 interacciones, 'POV egresados' 43, 'Familia + apellido' 39, 'Zeus' 38 (28 de alcance). PEORES: TikTok 'inicial con gorro' 38, 'mochilas por alumno' 73, 'Familia + apellido' 89; Instagram 'uniformes taller' 13, '¿cuál regalarías?' 20, 'inicial' 21. Facebook ~0 en todo (máx 20 vistas). Guardados y compartidos en IG = 0 toda la semana; skip rate 28–80 %. Patrón: ganan las historias con emoción y un destinatario claro (POV, 'tu sobrino', 'la tía', 'tu curso') y en TikTok rinden 5–20x más que IG; pierden las piezas de catálogo/producto sin historia y las de 'comenta tu inicial'. Empresas: flojo en IG (13) pero aceptable en TikTok (199). Aplicado al 28/11: 2 POV/emocionales con destinatario en el gancho (papá que 'no quiere nada', '¿desde qué año eres mamá?'), voz en off en las 3, gancho que nombra a quién le habla en 1,5 s; empresas con formato antes/después en vez de catálogo. A/B TikTok: video (10:00 y 19:30) vs fotos (15:00). Las publicaciones del 27/11 aún no aparecen en Metricool.",
- "canva_ia": "sin cupo (generate-image devolvió quota_exceeded en los 4 intentos del 27-11 19:40; no se intentó create-video)",
- "investigacion": "Último día de clases 2026: 4 dic (JEC) y 18 dic (sin JEC) según Mineduc/El Mostrador; 4° medio antes. Reels en alza 17–25 nov (SocialPilot): Christmas Market – Eoneun (instrumental), November – Past Day, Time – Pink Floyd, Last Christmas, Coming Up Roses. TikTok: My Moon My Man (niki), You're Under Arrest (ILLIT), All I Want for Christmas; formatos 'Same spot, years apart' y 'camera shy'. Corporativos: tendencia a la personalización (prensa regional), sin métricas citables de tiendas de Santiago.",
- "publicaciones": [
-  {
-   "numero": 1,
-   "hora": "10:00",
-   "publico": "empresas",
-   "formato": "reel antes/después (maqueta polerón liso → con logo) con voz en off",
-   "tema": "Pymes: ¿tu equipo parte el 2027 sin uniforme? Polerón polo liso → con tu logo + merch UV DTF (tazas, termos, cuadernos) para fin de año",
-   "carpeta": "2026-11-28-1000-pyme-poleron-logo",
-   "spec": "specs/p28_1.json",
-   "voz_en_off": "¿Tienes una pyme y tu equipo no tiene uniforme? Mira: el polerón liso… ¡y listo, con tu logo! Tú eliges el color. También tazas, termos y cuadernos. ¡Cotiza por WhatsApp con Sara Vibes!",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_06.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_06.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/portada.jpg"
-   },
-   "captions": {
-    "instagram": "¿Tu equipo parte el 2027 sin uniforme? 👀\n\nAsí llega el polerón liso… y así sale con el logo de tu pyme 🙌\n\n✅ Polerón polo unisex: rojo, azul rey, negro, azul marino, blanco o gris\n✅ Tu logo con estampado DTF a todo color, en el pecho o la espalda\n✅ También personalizamos tazas, termos y cuadernos con UV DTF: ideal para regalos de fin de año y kits de bienvenida\n✅ Te mostramos la maqueta antes de producir\n\n¿De qué color sería el polerón de tu equipo? Comenta y te mostramos cómo quedaría 👇\n\n(Maqueta referencial con un logo inventado)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#uniformesempresa #pymechile #regaloscorporativos #estampadodtf #santiagochile",
-    "facebook": "¿Tu equipo parte el 2027 sin uniforme? 👀\n\nAsí llega el polerón liso… y así sale con el logo de tu pyme 🙌\n\n✅ Polerón polo unisex: rojo, azul rey, negro, azul marino, blanco o gris\n✅ Tu logo con estampado DTF a todo color, en el pecho o la espalda\n✅ También personalizamos tazas, termos y cuadernos con UV DTF: ideal para regalos de fin de año y kits de bienvenida\n✅ Te mostramos la maqueta antes de producir\n\n¿De qué color sería el polerón de tu equipo? Comenta y te mostramos cómo quedaría 👇\n\n(Maqueta referencial con un logo inventado)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#uniformesempresa #pymechile #regaloscorporativos #estampadodtf #santiagochile",
-    "tiktok": "¿Tu equipo parte el 2027 sin uniforme? 👀\nAsí llega el polerón liso… y así sale con el logo de tu pyme 🙌\n✅ Polerón polo unisex: rojo, azul rey, negro, azul marino, blanco o gris\n✅ Tu logo con estampado DTF a todo color, en el pecho o la espalda\n✅ También personalizamos tazas, termos y cuadernos con UV DTF: ideal para regalos de fin de año y kits de bienvenida\n✅ Te mostramos la maqueta antes de producir\n¿De qué color sería el polerón de tu equipo? Comenta y te mostramos cómo quedaría 👇\n(Maqueta referencial con un logo inventado)\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n#uniformesempresa #pymechile #regaloscorporativos #estampadodtf #santiagochile"
-   },
-   "audio_ig": "Level Up Giulio Cercato",
-   "audio_candidatos": [
-    "Level Up Giulio Cercato",
-    "Happy Days Giulio Cercato",
-    "Hello Sunshine Trout Recording",
-    "Deck The Halls (Jazz) Global Genius",
-    "A Jazzy Little Christmas Daria Novo"
-   ],
-   "audio_respaldo": "upbeat",
-   "audio_motivo": "Instrumental animado de la biblioteca comercial (ya resolvió en la cuenta de empresa) para ir bajo la voz, con tono profesional y positivo de cierre de año.",
-   "con_voz": true,
-   "tiktok_formato": "video",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Maqueta: foto real del catálogo de Sara Vibes (Poleron Polo.jpeg) + logo inventado 'CERRO ALTO' montado digitalmente",
-   "estado": "rechazada",
-   "metricool": [],
-   "rechazo": "Sara: 'No 1' 27-11 19:51"
-  },
-  {
-   "numero": 2,
-   "hora": "15:00",
-   "publico": "personas",
-   "formato": "reel POV con historia (prenda puesta en modelo) con voz en off",
-   "tema": "POV Navidad: tu papá dice que no quiere nada… hasta que ve los nombres de sus hijos en su polera (4 diseños papá/tata)",
-   "carpeta": "2026-11-28-1500-pov-papa-navidad",
-   "spec": "specs/p28_2.json",
-   "voz_en_off": "Tu papá dice que no quiere nada para Navidad, ¿cierto? Pero espera a que vea los nombres de sus hijos en su polera. ¡Va a querer usarla todos los días! Escríbenos al WhatsApp de Sara Vibes.",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_06.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_05.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_06.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1500-pov-papa-navidad/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1500-pov-papa-navidad/portada.jpg"
-   },
-   "captions": {
-    "instagram": "POV: tu papá dice que no quiere nada para Navidad… 🎄\n\n…hasta que ve los nombres de sus hijos en su polera 🥹\n\n1️⃣ Huellitas con el nombre de cada hijo\n2️⃣ \"Este papá increíble pertenece a…\" con sus manitos\n3️⃣ Primero papá, después tata (hijos y nietos)\n4️⃣ O en polerón, para las noches frescas\n\nTú eliges el diseño y los nombres, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n¿Qué nombres irían en la polera de tu papá? Escríbelos acá 👇 y etiqueta a tus hermanos para organizarse 😉\n\n(Imágenes referenciales)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparapapa #polerapersonalizada #saravibes #santiagochile",
-    "facebook": "POV: tu papá dice que no quiere nada para Navidad… 🎄\n\n…hasta que ve los nombres de sus hijos en su polera 🥹\n\n1️⃣ Huellitas con el nombre de cada hijo\n2️⃣ \"Este papá increíble pertenece a…\" con sus manitos\n3️⃣ Primero papá, después tata (hijos y nietos)\n4️⃣ O en polerón, para las noches frescas\n\nTú eliges el diseño y los nombres, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n¿Qué nombres irían en la polera de tu papá? Escríbelos acá 👇 y etiqueta a tus hermanos para organizarse 😉\n\n(Imágenes referenciales)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparapapa #polerapersonalizada #saravibes #santiagochile",
-    "tiktok": "POV: tu papá dice que no quiere nada para Navidad… 🎄\n…hasta que ve los nombres de sus hijos en su polera 🥹\n1️⃣ Huellitas con el nombre de cada hijo\n2️⃣ \"Este papá increíble pertenece a…\" con sus manitos\n3️⃣ Primero papá, después tata (hijos y nietos)\n4️⃣ O en polerón, para las noches frescas\nTú eliges el diseño y los nombres, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n¿Qué nombres irían en la polera de tu papá? Escríbelos acá 👇 y etiqueta a tus hermanos para organizarse 😉\n(Imágenes referenciales)\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n#regalosdenavidad #regaloparapapa #polerapersonalizada #saravibes #santiagochile"
-   },
-   "audio_ig": "Christmas Market Eoneun",
-   "audio_candidatos": [
-    "Christmas Market Eoneun",
-    "Belles cloud cover",
-    "A Jazzy Little Christmas Daria Novo",
-    "Joy To The World (Reels Sound - Photo Dump) Julia Gartha",
-    "Deck The Halls (Jazz) Global Genius"
-   ],
-   "audio_respaldo": "christmas",
-   "audio_motivo": "'Christmas Market' es instrumental cálido y en alza en Reels esta semana (SocialPilot 17–25 nov); si no está en la biblioteca de empresa, 'Belles' o jazz navideño suave bajo la voz.",
-   "con_voz": true,
-   "tiktok_formato": "fotos",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Fotos del Drive (carpeta de diseños Papá: 15.jpeg, 18.jpeg, 22.jpeg y 8.jpeg), mejoradas con IA (ruido/superresolución/nitidez)",
-   "estado": "programada",
-   "metricool": [
+  "fecha": "2026-11-28",
+  "gmail_threadId": "1a21f2d25906f7dc",
+  "correo_aprobacion": "1a21f2d25906f7dc",
+  "enviado": "2026-11-27T19:43:08-03:00",
+  "modo": "automatico",
+  "ultima_revision": "2026-11-28T13:03:00-03:00",
+  "aprendizaje": "Semana 20–27/11 (Metricool, 7 días). MEJORES: TikTok 'POV egresados' 986 vistas, 'dibujo del sobrino' 440, 'regalo para la tía/profe' 376, '¿cuál regalarías?' 347, 'amigo secreto' 296; Instagram 'POV sobrino' 83 vistas/61 alcance/6 interacciones, 'POV egresados' 43, 'Familia + apellido' 39, 'Zeus' 38 (28 de alcance). PEORES: TikTok 'inicial con gorro' 38, 'mochilas por alumno' 73, 'Familia + apellido' 89; Instagram 'uniformes taller' 13, '¿cuál regalarías?' 20, 'inicial' 21. Facebook ~0 en todo (máx 20 vistas). Guardados y compartidos en IG = 0 toda la semana; skip rate 28–80 %. Patrón: ganan las historias con emoción y un destinatario claro (POV, 'tu sobrino', 'la tía', 'tu curso') y en TikTok rinden 5–20x más que IG; pierden las piezas de catálogo/producto sin historia y las de 'comenta tu inicial'. Empresas: flojo en IG (13) pero aceptable en TikTok (199). Aplicado al 28/11: 2 POV/emocionales con destinatario en el gancho (papá que 'no quiere nada', '¿desde qué año eres mamá?'), voz en off en las 3, gancho que nombra a quién le habla en 1,5 s; empresas con formato antes/después en vez de catálogo. A/B TikTok: video (10:00 y 19:30) vs fotos (15:00). Las publicaciones del 27/11 aún no aparecen en Metricool.",
+  "canva_ia": "sin cupo (generate-image devolvió quota_exceeded en los 4 intentos del 27-11 19:40; no se intentó create-video)",
+  "investigacion": "Último día de clases 2026: 4 dic (JEC) y 18 dic (sin JEC) según Mineduc/El Mostrador; 4° medio antes. Reels en alza 17–25 nov (SocialPilot): Christmas Market – Eoneun (instrumental), November – Past Day, Time – Pink Floyd, Last Christmas, Coming Up Roses. TikTok: My Moon My Man (niki), You're Under Arrest (ILLIT), All I Want for Christmas; formatos 'Same spot, years apart' y 'camera shy'. Corporativos: tendencia a la personalización (prensa regional), sin métricas citables de tiendas de Santiago.",
+  "publicaciones": [
     {
-     "red": "instagram",
-     "id": 444965107,
-     "uuid": "-7513544165331088871",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-7513544165331088871"
+      "numero": 1,
+      "hora": "10:00",
+      "publico": "empresas",
+      "formato": "reel antes/después (maqueta polerón liso → con logo) con voz en off",
+      "tema": "Pymes: ¿tu equipo parte el 2027 sin uniforme? Polerón polo liso → con tu logo + merch UV DTF (tazas, termos, cuadernos) para fin de año",
+      "carpeta": "2026-11-28-1000-pyme-poleron-logo",
+      "spec": "specs/p28_1.json",
+      "voz_en_off": "¿Tienes una pyme y tu equipo no tiene uniforme? Mira: el polerón liso… ¡y listo, con tu logo! Tú eliges el color. También tazas, termos y cuadernos. ¡Cotiza por WhatsApp con Sara Vibes!",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/4x5_06.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/9x16_06.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1000-pyme-poleron-logo/portada.jpg"
+      },
+      "captions": {
+        "instagram": "¿Tu equipo parte el 2027 sin uniforme? 👀\n\nAsí llega el polerón liso… y así sale con el logo de tu pyme 🙌\n\n✅ Polerón polo unisex: rojo, azul rey, negro, azul marino, blanco o gris\n✅ Tu logo con estampado DTF a todo color, en el pecho o la espalda\n✅ También personalizamos tazas, termos y cuadernos con UV DTF: ideal para regalos de fin de año y kits de bienvenida\n✅ Te mostramos la maqueta antes de producir\n\n¿De qué color sería el polerón de tu equipo? Comenta y te mostramos cómo quedaría 👇\n\n(Maqueta referencial con un logo inventado)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#uniformesempresa #pymechile #regaloscorporativos #estampadodtf #santiagochile",
+        "facebook": "¿Tu equipo parte el 2027 sin uniforme? 👀\n\nAsí llega el polerón liso… y así sale con el logo de tu pyme 🙌\n\n✅ Polerón polo unisex: rojo, azul rey, negro, azul marino, blanco o gris\n✅ Tu logo con estampado DTF a todo color, en el pecho o la espalda\n✅ También personalizamos tazas, termos y cuadernos con UV DTF: ideal para regalos de fin de año y kits de bienvenida\n✅ Te mostramos la maqueta antes de producir\n\n¿De qué color sería el polerón de tu equipo? Comenta y te mostramos cómo quedaría 👇\n\n(Maqueta referencial con un logo inventado)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#uniformesempresa #pymechile #regaloscorporativos #estampadodtf #santiagochile",
+        "tiktok": "¿Tu equipo parte el 2027 sin uniforme? 👀\nAsí llega el polerón liso… y así sale con el logo de tu pyme 🙌\n✅ Polerón polo unisex: rojo, azul rey, negro, azul marino, blanco o gris\n✅ Tu logo con estampado DTF a todo color, en el pecho o la espalda\n✅ También personalizamos tazas, termos y cuadernos con UV DTF: ideal para regalos de fin de año y kits de bienvenida\n✅ Te mostramos la maqueta antes de producir\n¿De qué color sería el polerón de tu equipo? Comenta y te mostramos cómo quedaría 👇\n(Maqueta referencial con un logo inventado)\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n#uniformesempresa #pymechile #regaloscorporativos #estampadodtf #santiagochile"
+      },
+      "audio_ig": "Level Up Giulio Cercato",
+      "audio_candidatos": [
+        "Level Up Giulio Cercato",
+        "Happy Days Giulio Cercato",
+        "Hello Sunshine Trout Recording",
+        "Deck The Halls (Jazz) Global Genius",
+        "A Jazzy Little Christmas Daria Novo"
+      ],
+      "audio_respaldo": "upbeat",
+      "audio_motivo": "Instrumental animado de la biblioteca comercial (ya resolvió en la cuenta de empresa) para ir bajo la voz, con tono profesional y positivo de cierre de año.",
+      "con_voz": true,
+      "tiktok_formato": "video",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Maqueta: foto real del catálogo de Sara Vibes (Poleron Polo.jpeg) + logo inventado 'CERRO ALTO' montado digitalmente",
+      "estado": "rechazada",
+      "metricool": [],
+      "rechazo": "Sara: 'No 1' 27-11 19:51"
     },
     {
-     "red": "facebook",
-     "id": 444965473,
-     "uuid": "-6866020629747907053",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6866020629747907053"
+      "numero": 2,
+      "hora": "15:00",
+      "publico": "personas",
+      "formato": "reel POV con historia (prenda puesta en modelo) con voz en off",
+      "tema": "POV Navidad: tu papá dice que no quiere nada… hasta que ve los nombres de sus hijos en su polera (4 diseños papá/tata)",
+      "carpeta": "2026-11-28-1500-pov-papa-navidad",
+      "spec": "specs/p28_2.json",
+      "voz_en_off": "Tu papá dice que no quiere nada para Navidad, ¿cierto? Pero espera a que vea los nombres de sus hijos en su polera. ¡Va a querer usarla todos los días! Escríbenos al WhatsApp de Sara Vibes.",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/4x5_06.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_05.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1500-pov-papa-navidad/9x16_06.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1500-pov-papa-navidad/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1500-pov-papa-navidad/portada.jpg"
+      },
+      "captions": {
+        "instagram": "POV: tu papá dice que no quiere nada para Navidad… 🎄\n\n…hasta que ve los nombres de sus hijos en su polera 🥹\n\n1️⃣ Huellitas con el nombre de cada hijo\n2️⃣ \"Este papá increíble pertenece a…\" con sus manitos\n3️⃣ Primero papá, después tata (hijos y nietos)\n4️⃣ O en polerón, para las noches frescas\n\nTú eliges el diseño y los nombres, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n¿Qué nombres irían en la polera de tu papá? Escríbelos acá 👇 y etiqueta a tus hermanos para organizarse 😉\n\n(Imágenes referenciales)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparapapa #polerapersonalizada #saravibes #santiagochile",
+        "facebook": "POV: tu papá dice que no quiere nada para Navidad… 🎄\n\n…hasta que ve los nombres de sus hijos en su polera 🥹\n\n1️⃣ Huellitas con el nombre de cada hijo\n2️⃣ \"Este papá increíble pertenece a…\" con sus manitos\n3️⃣ Primero papá, después tata (hijos y nietos)\n4️⃣ O en polerón, para las noches frescas\n\nTú eliges el diseño y los nombres, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n\n¿Qué nombres irían en la polera de tu papá? Escríbelos acá 👇 y etiqueta a tus hermanos para organizarse 😉\n\n(Imágenes referenciales)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparapapa #polerapersonalizada #saravibes #santiagochile",
+        "tiktok": "POV: tu papá dice que no quiere nada para Navidad… 🎄\n…hasta que ve los nombres de sus hijos en su polera 🥹\n1️⃣ Huellitas con el nombre de cada hijo\n2️⃣ \"Este papá increíble pertenece a…\" con sus manitos\n3️⃣ Primero papá, después tata (hijos y nietos)\n4️⃣ O en polerón, para las noches frescas\nTú eliges el diseño y los nombres, y te mostramos la maqueta antes de estampar. Pide con tiempo para Navidad.\n¿Qué nombres irían en la polera de tu papá? Escríbelos acá 👇 y etiqueta a tus hermanos para organizarse 😉\n(Imágenes referenciales)\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n#regalosdenavidad #regaloparapapa #polerapersonalizada #saravibes #santiagochile"
+      },
+      "audio_ig": "Christmas Market Eoneun",
+      "audio_candidatos": [
+        "Christmas Market Eoneun",
+        "Belles cloud cover",
+        "A Jazzy Little Christmas Daria Novo",
+        "Joy To The World (Reels Sound - Photo Dump) Julia Gartha",
+        "Deck The Halls (Jazz) Global Genius"
+      ],
+      "audio_respaldo": "christmas",
+      "audio_motivo": "'Christmas Market' es instrumental cálido y en alza en Reels esta semana (SocialPilot 17–25 nov); si no está en la biblioteca de empresa, 'Belles' o jazz navideño suave bajo la voz.",
+      "con_voz": true,
+      "tiktok_formato": "fotos",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Fotos del Drive (carpeta de diseños Papá: 15.jpeg, 18.jpeg, 22.jpeg y 8.jpeg), mejoradas con IA (ruido/superresolución/nitidez)",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 444965107,
+          "uuid": "-7513544165331088871",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-7513544165331088871"
+        },
+        {
+          "red": "facebook",
+          "id": 444965473,
+          "uuid": "-6866020629747907053",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-6866020629747907053"
+        },
+        {
+          "red": "tiktok",
+          "id": 444965488,
+          "uuid": "7033058500659072640",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7033058500659072640"
+        }
+      ],
+      "audio_ig_usado": "Belles – cloud cover (1749076469617346)"
     },
     {
-     "red": "tiktok",
-     "id": 444965488,
-     "uuid": "7033058500659072640",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=7033058500659072640"
+      "numero": 3,
+      "hora": "19:30",
+      "publico": "personas",
+      "formato": "reel prueba de prenda con detalle (pecho y manga) + pregunta para comentar, con voz en off",
+      "tema": "Regalo para mamá: '¿Desde qué año eres mamá?' polerón con el año y los nombres de los hijos en la manga",
+      "carpeta": "2026-11-28-1930-mama-desde",
+      "spec": "specs/p28_3.json",
+      "voz_en_off": "¿Desde qué año eres mamá? Imagínalo en un polerón, con los nombres de tus hijos en la manga. ¡Un regalo precioso para Navidad! Comenta tu año y escríbenos al WhatsApp.",
+      "media": {
+        "4x5": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_05.jpg"
+        ],
+        "9x16": [
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_01.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_02.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_03.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_04.jpg",
+          "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_05.jpg"
+        ],
+        "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1930-mama-desde/reel.mp4",
+        "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1930-mama-desde/portada.jpg"
+      },
+      "captions": {
+        "instagram": "¿Desde qué año eres mamá? 💗\n\n\"Mamá desde\" + el año en que todo cambió, y los nombres de sus hijos en la manga. Un polerón que no está en ninguna tienda 🎁\n\n✨ Tú eliges la frase, la letra y el color\n✨ Nombres en la manga, en el pecho o en la espalda\n✨ Te mostramos la maqueta antes de estampar\n\nComenta tu año 👇 o etiqueta a la mamá que se merece este regalo de Navidad. Pide con tiempo.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparamama #poleronpersonalizado #saravibes #santiagochile",
+        "facebook": "¿Desde qué año eres mamá? 💗\n\n\"Mamá desde\" + el año en que todo cambió, y los nombres de sus hijos en la manga. Un polerón que no está en ninguna tienda 🎁\n\n✨ Tú eliges la frase, la letra y el color\n✨ Nombres en la manga, en el pecho o en la espalda\n✨ Te mostramos la maqueta antes de estampar\n\nComenta tu año 👇 o etiqueta a la mamá que se merece este regalo de Navidad. Pide con tiempo.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparamama #poleronpersonalizado #saravibes #santiagochile",
+        "tiktok": "¿Desde qué año eres mamá? 💗\n\"Mamá desde\" + el año en que todo cambió, y los nombres de sus hijos en la manga. Un polerón que no está en ninguna tienda 🎁\n✨ Tú eliges la frase, la letra y el color\n✨ Nombres en la manga, en el pecho o en la espalda\n✨ Te mostramos la maqueta antes de estampar\nComenta tu año 👇 o etiqueta a la mamá que se merece este regalo de Navidad. Pide con tiempo.\n(Imagen referencial)\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n#regalosdenavidad #regaloparamama #poleronpersonalizado #saravibes #santiagochile"
+      },
+      "audio_ig": "Romantic (Reels Sound - Photo Dump) Sugartapes",
+      "audio_candidatos": [
+        "Romantic (Reels Sound - Photo Dump) Sugartapes",
+        "Hello Sunshine Trout Recording",
+        "Belles cloud cover",
+        "Happy Days Giulio Cercato",
+        "Holiday Bells Scott Dugdale"
+      ],
+      "audio_respaldo": "dreamy",
+      "audio_motivo": "Pista suave y romántica de la biblioteca comercial (ya resolvió antes) para un tema emotivo de mamá, sin competir con la voz.",
+      "con_voz": true,
+      "tiktok_formato": "video",
+      "instagram_como_reel": true,
+      "ia": false,
+      "fuente": "Foto del Drive (8.jpeg, polerón 'Mamá desde 2013', parece maqueta con modelo), mejorada con IA",
+      "estado": "programada",
+      "metricool": [
+        {
+          "red": "instagram",
+          "id": 444965552,
+          "uuid": "-5139731993333379452",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-5139731993333379452"
+        },
+        {
+          "red": "facebook",
+          "id": 444965743,
+          "uuid": "-7341572357025215768",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-7341572357025215768"
+        },
+        {
+          "red": "tiktok",
+          "id": 444965759,
+          "uuid": "-223009762031351971",
+          "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-223009762031351971"
+        }
+      ],
+      "audio_ig_usado": "Romantic (Reels Sound - Photo Dump) – Sugartapes (1581803845934560)"
     }
-   ],
-   "audio_ig_usado": "Belles – cloud cover (1749076469617346)"
-  },
-  {
-   "numero": 3,
-   "hora": "19:30",
-   "publico": "personas",
-   "formato": "reel prueba de prenda con detalle (pecho y manga) + pregunta para comentar, con voz en off",
-   "tema": "Regalo para mamá: '¿Desde qué año eres mamá?' polerón con el año y los nombres de los hijos en la manga",
-   "carpeta": "2026-11-28-1930-mama-desde",
-   "spec": "specs/p28_3.json",
-   "voz_en_off": "¿Desde qué año eres mamá? Imagínalo en un polerón, con los nombres de tus hijos en la manga. ¡Un regalo precioso para Navidad! Comenta tu año y escríbenos al WhatsApp.",
-   "media": {
-    "4x5": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/4x5_05.jpg"
-    ],
-    "9x16": [
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_01.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_02.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_03.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_04.jpg",
-     "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/saravibes-media/publicaciones/2026-11-28-1930-mama-desde/9x16_05.jpg"
-    ],
-    "video": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1930-mama-desde/reel.mp4",
-    "portada": "https://raw.githubusercontent.com/laricopola-svg/climatizate-pro-envios/2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb/publicaciones/2026-11-28-1930-mama-desde/portada.jpg"
-   },
-   "captions": {
-    "instagram": "¿Desde qué año eres mamá? 💗\n\n\"Mamá desde\" + el año en que todo cambió, y los nombres de sus hijos en la manga. Un polerón que no está en ninguna tienda 🎁\n\n✨ Tú eliges la frase, la letra y el color\n✨ Nombres en la manga, en el pecho o en la espalda\n✨ Te mostramos la maqueta antes de estampar\n\nComenta tu año 👇 o etiqueta a la mamá que se merece este regalo de Navidad. Pide con tiempo.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparamama #poleronpersonalizado #saravibes #santiagochile",
-    "facebook": "¿Desde qué año eres mamá? 💗\n\n\"Mamá desde\" + el año en que todo cambió, y los nombres de sus hijos en la manga. Un polerón que no está en ninguna tienda 🎁\n\n✨ Tú eliges la frase, la letra y el color\n✨ Nombres en la manga, en el pecho o en la espalda\n✨ Te mostramos la maqueta antes de estampar\n\nComenta tu año 👇 o etiqueta a la mamá que se merece este regalo de Navidad. Pide con tiempo.\n\n(Imagen referencial)\n\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n\n#regalosdenavidad #regaloparamama #poleronpersonalizado #saravibes #santiagochile",
-    "tiktok": "¿Desde qué año eres mamá? 💗\n\"Mamá desde\" + el año en que todo cambió, y los nombres de sus hijos en la manga. Un polerón que no está en ninguna tienda 🎁\n✨ Tú eliges la frase, la letra y el color\n✨ Nombres en la manga, en el pecho o en la espalda\n✨ Te mostramos la maqueta antes de estampar\nComenta tu año 👇 o etiqueta a la mamá que se merece este regalo de Navidad. Pide con tiempo.\n(Imagen referencial)\n📲 WhatsApp +56 9 7462 9490 👉 https://wa.me/56974629490?text=Hola%20Sara%20Vibes%2C%20quiero%20cotizar\n#regalosdenavidad #regaloparamama #poleronpersonalizado #saravibes #santiagochile"
-   },
-   "audio_ig": "Romantic (Reels Sound - Photo Dump) Sugartapes",
-   "audio_candidatos": [
-    "Romantic (Reels Sound - Photo Dump) Sugartapes",
-    "Hello Sunshine Trout Recording",
-    "Belles cloud cover",
-    "Happy Days Giulio Cercato",
-    "Holiday Bells Scott Dugdale"
-   ],
-   "audio_respaldo": "dreamy",
-   "audio_motivo": "Pista suave y romántica de la biblioteca comercial (ya resolvió antes) para un tema emotivo de mamá, sin competir con la voz.",
-   "con_voz": true,
-   "tiktok_formato": "video",
-   "instagram_como_reel": true,
-   "ia": false,
-   "fuente": "Foto del Drive (8.jpeg, polerón 'Mamá desde 2013', parece maqueta con modelo), mejorada con IA",
-   "estado": "programada",
-   "metricool": [
+  ],
+  "respuestas_procesadas": [
+    "1a21f356c79ae964"
+  ],
+  "cambios": [
     {
-     "red": "instagram",
-     "id": 444965552,
-     "uuid": "-5139731993333379452",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-5139731993333379452"
+      "fecha": "2026-11-27T20:06:00-03:00",
+      "detalle": "Sara respondió 'No 1' (msg 1a21f356c79ae964): pub 1 rechazada. Pub 2 y 3 programadas en IG/FB/TikTok (URLs raw con commit 2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb). Audio IG: pub2 'Christmas Market' no está en biblioteca → 'Belles – cloud cover' (2º candidato); pub3 'Romantic (Reels Sound - Photo Dump) – Sugartapes'. Videos con voz verificados (-18.5 / -18.4 dB)."
     },
-    {
-     "red": "facebook",
-     "id": 444965743,
-     "uuid": "-7341572357025215768",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-7341572357025215768"
-    },
-    {
-     "red": "tiktok",
-     "id": 444965759,
-     "uuid": "-223009762031351971",
-     "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=8188736&openWithPostUuid=-223009762031351971"
-    }
-   ],
-   "audio_ig_usado": "Romantic (Reels Sound - Photo Dump) – Sugartapes (1581803845934560)"
+    "27-11 21:05: sin respuestas nuevas; #2 y #3 siguen programadas en Metricool.",
+    "28-11 09:03: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas; #1 rechazada. Sin cambios en Metricool.",
+    "28-11 10:03: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas; #1 rechazada. Sin cambios.",
+    "28-11 11:04: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas (6 posts PENDING en Metricool); #1 rechazada. Sin cambios.",
+    "28-11 12:03: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas; #1 rechazada. Sin cambios.",
+    "28-11 13:03: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas (6 posts PENDING en Metricool); #1 rechazada. Sin cambios."
+  ],
+  "correo_programada": {
+    "id": "1a21f4266efb3edd",
+    "fecha": "2026-11-27T20:07:00-03:00"
   }
- ],
- "respuestas_procesadas": [
-  "1a21f356c79ae964"
- ],
- "cambios": [
-  {
-   "fecha": "2026-11-27T20:06:00-03:00",
-   "detalle": "Sara respondió 'No 1' (msg 1a21f356c79ae964): pub 1 rechazada. Pub 2 y 3 programadas en IG/FB/TikTok (URLs raw con commit 2ff15f0d70efbac3072b9940ebb68ba9e3b99fdb). Audio IG: pub2 'Christmas Market' no está en biblioteca → 'Belles – cloud cover' (2º candidato); pub3 'Romantic (Reels Sound - Photo Dump) – Sugartapes'. Videos con voz verificados (-18.5 / -18.4 dB)."
-  },
-  "27-11 21:05: sin respuestas nuevas; #2 y #3 siguen programadas en Metricool.",
-  "28-11 09:03: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas; #1 rechazada. Sin cambios en Metricool.",
-  "28-11 10:03: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas; #1 rechazada. Sin cambios.",
-  "28-11 11:04: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas (6 posts PENDING en Metricool); #1 rechazada. Sin cambios.",
-  "28-11 12:03: sin respuestas nuevas; #2 (15:00) y #3 (19:30) siguen programadas; #1 rechazada. Sin cambios."
- ],
- "correo_programada": {
-  "id": "1a21f4266efb3edd",
-  "fecha": "2026-11-27T20:07:00-03:00"
- }
 }
