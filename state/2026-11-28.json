@@ -1,0 +1,142 @@
+{
+ "fecha": "2026-11-28",
+ "dia": "sábado (par: Cane Corso 11:00 y 20:30, Bully 15:00)",
+ "threadId": "1a22189b3cf8adf1",
+ "messageId": "1a22189b3cf8adf1",
+ "correo": {
+  "para": "fcosotog7@gmail.com",
+  "asunto": "[TeamFS] Propuesta 2026-11-28 – responde OK para publicar"
+ },
+ "gmail": {
+  "threadId": "1a22189b3cf8adf1",
+  "messageId": "1a22189b3cf8adf1"
+ },
+ "rotacion_formatos": {
+  "11:00": "Reel foto real (ayer carrusel)",
+  "15:00": "carrusel foto real (ayer imagen única IA)",
+  "20:30": "carrusel IA cómic (ayer Reel)"
+ },
+ "tendencias_usadas": [
+  "Calor/verano en Chile: notas de cuidados de mascotas (CNN Chile, T13, Radio Agricultura) -> picaduras chaqueta amarilla/abeja en asados, formato POV 11:00",
+  "Diciembre: visitas, delivery y fuegos artificiales -> fugas por la puerta, 'espera' 15:00",
+  "Formato viral 'red flags' + autoridad compra responsable (registro KCC, padres, 8 semanas) 20:30"
+ ],
+ "coordinacion_plan_semanal": "Plan semanal 24-30 nov: R7 Año Nuevo fuegos y Guardianes IA ya cubiertos; hoy se evitó repetir.",
+ "publicaciones": [
+  {
+   "n": 1,
+   "hora": "11:00",
+   "tema": "POV: tu Cane Corso quiso cazar la chaqueta amarilla del asado - picaduras abeja/avispa: hinchazón leve típica, calma + frío local, aguijón de abeja raspando con tarjeta, prevención comida/basura tapada + Dato cara muy hinchada/ronchas/vómitos/dificultad respirar -> veterinario YA",
+   "raza": "Cane Corso",
+   "formato": "Reel 21 s (IG+FB) + TikTok aparte (autoPublish false)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "Drive TeamFS (copias en repo): 1YvbamAzcosvmVW6ETefdjVlJVN7wRuqm (hook), 1rawRHXbQ85UAvRgxXGv4u3IXKovDzDXA, drive_1j6d8HcrT4kT, 1Tt9u-4u7k, drive_1Xj0q9vSPRD6",
+   "isAiGenerated": false,
+   "audio": "IG: Christmas Medley (Reels Sound - Listicle) – Ecklectic Music, audioId 1563654357995417, audio 100/video 0; FB sin música; TikTok elige sonido en la app",
+   "carpeta": "publicaciones/2026-11-28-1100-picaduras-cane-corso",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-5938192828260153256.mp4"
+   ],
+   "metricool": [
+    {
+     "id": 445284665,
+     "uuid": "-5217770519305632986",
+     "redes": [
+      "instagram",
+      "facebook"
+     ],
+     "draft": true
+    },
+    {
+     "id": 445284799,
+     "uuid": "-6635202389317761207",
+     "redes": [
+      "tiktok"
+     ],
+     "autoPublish": false,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 2,
+   "hora": "15:00",
+   "tema": "Abres la puerta y tu Bully sale como si regalaran asado: «Espera» en la puerta en 4 pasos (sentado+correa, abrir un poco y cerrar si se levanta, sumar de a poco, palabra de liberación) + Dato fugas en diciembre (visitas, delivery, fuegos, placa y chip); CTA ESTATUA o COHETE",
+   "raza": "American Bully",
+   "formato": "carrusel 7 láminas (4 fotos + 3 de diseño, portada de diseño)",
+   "estilo": "foto real",
+   "voz": false,
+   "fuente": "repo banco bully_003, bully_006, bully_045, bully_046",
+   "isAiGenerated": false,
+   "audio": "TikTok autoAddMusic",
+   "carpeta": "publicaciones/2026-11-28-1500-espera-puerta-bully",
+   "metricool": [
+    {
+     "id": 445284806,
+     "uuid": "-9161389517866250710",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  },
+  {
+   "n": 3,
+   "hora": "20:30",
+   "tema": "RED FLAGS: Queen revisa avisos - Kopito encuentra aviso «sin papeles»; Dato pide 3 pruebas (registro KCC padres, conocer a la mamá, entrega 8+ semanas); ¿te apuran? red flag; CTA comenta otra red flag",
+   "raza": "Cane Corso (Queen) + cameo Kopito",
+   "formato": "carrusel 4 láminas (Canva)",
+   "estilo": "IA cómic (reutilizada)",
+   "voz": false,
+   "fuente": "IA Canva reutilizada MAHZwbedLFc (Queen), MAHZqbGXSAY (Kopito). generate-image quota_exceeded 28-nov",
+   "isAiGenerated": true,
+   "audio": "TikTok autoAddMusic",
+   "canva": "https://www.canva.com/d/u4NV7rSYYLqgj9p (diseño DAHcMRXixlI, copia de DAHcAftmPf8)",
+   "carpeta": "(láminas solo en Metricool)",
+   "media_metricool": [
+    "https://static.metricool.com/planner/202611/7551690-file-2299091684154832441.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-8849158488205554983.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-11574981036395327467.jpeg",
+    "https://static.metricool.com/planner/202611/7551690-file-13582669764782630342.jpeg"
+   ],
+   "metricool": [
+    {
+     "id": 445283227,
+     "uuid": "-8171185216578436643",
+     "redes": [
+      "facebook",
+      "instagram",
+      "tiktok"
+     ],
+     "isAiGenerated": true,
+     "draft": true
+    }
+   ],
+   "estado": "borrador"
+  }
+ ],
+ "incidencias": [
+  {
+   "detalle": "add_repo no disponible como herramienta; clone/push funcionaron (repo ya en alcance)."
+  },
+  {
+   "detalle": "Drive TeamFS: sin imágenes/videos nuevos desde 20-nov. Se pidió material al dueño en el correo."
+  },
+  {
+   "detalle": "Canva generate-image: quota_exceeded (28-nov). Pieza IA hecha reutilizando ilustraciones de Queen y Kopito."
+  },
+  {
+   "detalle": "Banco Cane Corso (banco/) sin fotos elegibles (todas usadas 18-20 nov); se usaron fotos del Drive ya descargadas sin uso desde 8-12 nov."
+  },
+  {
+   "detalle": "Sin respuesta OK del dueño a las propuestas de varios días anteriores (borradores acumulados)."
+  }
+ ],
+ "revisiones": []
+}
